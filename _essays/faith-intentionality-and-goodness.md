@@ -2,8 +2,8 @@
 title: Faith, Intentionality, and Goodness
 description: Does doubt increase righteousness?
 ---
-Christians ethics place emphasis on the intent and the situation behind the action.
+Two people do the same good deed---the first unintentionally, the second intentionally.  Which deed is more righteous?
 
-Imagine two people performing a charitable deed.  The first person acts unintentionally, the second acts intentionally.  Which person is better?
+Two people live equally charitable lives---the first is a Christian with a strong faith, the second in the face of uncertainty.  Which person is more righteous?
 
-Now imagine a Christian with rock-solid faith and someone who wants to be good, but does not know what they believe.  Both perform a charitable act.  Which person is better?
+The faithless may be more righteous then the faithful, but are condemned anyway.
