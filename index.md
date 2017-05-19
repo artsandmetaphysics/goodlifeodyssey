@@ -1,10 +1,12 @@
 ---
 layout: basic
 title: Essays
-description: A collection of my essays about epistemology, metaphysics, ethics, and art.
+description: My essays about art, ethics, epistemology, and metaphysics.
 ---
 {{ page.description }}
 
 {% for e in site.essays %}
 - [{{ e.title }}]({{ e.url }})
 {% endfor %}
+
+<a href="mailto:wei.ge.thoughts@gmail.com">Contact Me</a>
