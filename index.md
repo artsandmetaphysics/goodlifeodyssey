@@ -1,7 +1,7 @@
 ---
 layout: basic
 title: Essays
-description: A collection of my essays about epistemology, metaphysics, and ethics.
+description: A collection of my essays about epistemology, metaphysics, ethics, and art.
 ---
 {{ page.description }}
 
