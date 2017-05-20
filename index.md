@@ -5,8 +5,12 @@ description: My essays about art, ethics, epistemology, and metaphysics.
 ---
 {{ page.description }}
 
+<ul class="list-unstyled">
 {% for e in site.essays %}
-- [{{ e.title }}]({{ e.url }})
+  <li><a href="{{ e.url }}">{{ e.title }}</a></li>
 {% endfor %}
+</ul>
 
-<a href="mailto:wei.ge.thoughts@gmail.com">Contact Me</a>
+<footer>
+  <a href="mailto:wei.ge.thoughts@gmail.com">Contact Me</a>
+</footer>
