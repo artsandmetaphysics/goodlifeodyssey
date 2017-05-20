@@ -9,30 +9,30 @@
     <meta name="description" content="{{ page.description }}">
     <style>
       html {
-        line-height: 1.30;
+        line-height: 1.5;
         -ms-text-size-adjust: 100%;
         -webkit-text-size-adjust: 100%;
-        font-size: 20px;
-        color: #333;
+        font-size: 18px;
+        color: #222;
       }
-      @media (max-width: 780px) {
+      @media (max-width: 720px) {
         html {
           font-size: 16px;
         }
       }
-      @media (max-width: 624px) {
+      @media (max-width: 640px) {
         html {
           font-size: 14px;
         }
       }
-      @media (max-width: 546px) {
+      @media (max-width: 560px) {
         html {
           font-size: 12px;
         }
       }
       body {
         margin: 0;
-        font-family: Helvetica, Arial, sans-serif;
+        font-family: Palatino, 'Times New Roman', serif;
         padding: 0.5rem;
         font-size: 1.125rem;
         display: flex;
@@ -40,13 +40,15 @@
       }
       main {
         display: block;
-        max-width: 38rem;
+        max-width: 39rem;
       }
       footer {
+        display: block;
         margin-top: 1.3rem;
+        font-family: 'Helvetica', Arial, sans-serif;
       }
       footer > *:not(:first-child) {
-        margin-left: 0.5rem;
+        margin-left: 1rem;
       }
       h1, h2, h3 {
         font-family: 'Helvetica Neue Condensed Bold', 'Arial Narrow', Arial, sans-serif;
@@ -76,10 +78,18 @@
       strong {
         font-weight: bolder;
       }
-      .list-unstyled {
+      blockquote {
+        margin: 0;
+        padding-left: 1.5rem;
+        border-left: 0.25rem solid #f5f5f5;
+      }
+      .essay-list {
         padding: 0;
         margin: 0;
         list-style: none;
+      }
+      .essay-list > li:not(:first-child) {
+        margin-top: 0.5rem;
       }
     </style>
   </head>

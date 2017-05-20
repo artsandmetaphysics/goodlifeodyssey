@@ -21,3 +21,4 @@ defaults:
       type: essays
     values:
       layout: essay
+      status: complete
