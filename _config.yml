@@ -1,6 +1,6 @@
 title: Art, Ethic, Epistemology, and Metaphysics
 email: wei.ge.thoughts@gmail.com
-description: My essays about art, ethics, epistemology, and metaphysics.
+description: My essays about art, ethics, epistemology, and metaphysics
 baseurl: ""
 url: ""
 
@@ -20,5 +20,5 @@ defaults:
       path: ""
       type: essays
     values:
-      layout: essay
+      layout: basic
       status: complete
