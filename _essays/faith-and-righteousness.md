@@ -1,6 +1,6 @@
 ---
-title: Are the faithless more righteous than the faithful?
-description: Does doubt increase righteousness?
+title: Faith and Righteousness
+description: Are the faithless more righteous than the faithful?
 ---
 Two people do the same good deed---the first unintentionally, the second intentionally.  Which deed is more righteous?
 
