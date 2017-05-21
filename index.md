@@ -8,7 +8,7 @@ description: This website contains my essays about art, ethics, epistemology, an
 <ul class="essay-list">
 {% assign essays = site.essays | sort: 'order' %}
 {% for e in essays %}
-  <li>
+  <li title="{{ e.description | xml_escape }}">
     <a href="{{ e.url }}">{{ e.title }}</a>
     {% if e.status == 'incomplete' %}*{% endif %}
   </li>
