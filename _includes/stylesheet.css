@@ -26,25 +26,6 @@ html {
   }
 }
 
-@media print {
-  html {
-    font-size: 16px;
-    font-family: Palatino, 'Times New Roman', serif;
-  }
-
-  .max-width-container {
-    max-width: 100% !important;
-  }
-
-  header svg, footer svg {
-    display: none;
-  }
-
-  a:after {
-    content: " [" attr(href) "] ";
-  }
-}
-
 body {
   margin: 0;
   padding: 0 1rem 1rem 1rem;
@@ -94,7 +75,6 @@ h2 {
 
 a {
   background-color: transparent;
-  -webkit-text-decoration-skip: objects;
   text-decoration: none;
   color: #2044B9;
 }
@@ -135,4 +115,22 @@ ul, ol {
 
 .essay-list > li:not(:first-child) {
   margin-top: 0.5rem;
+}
+
+@media print {
+  html {
+    font-size: 16px;
+  }
+
+  .max-width-container {
+    max-width: 100%;
+  }
+
+  header svg, footer svg {
+    display: none;
+  }
+
+  a:after {
+    content: " [" attr(href) "] ";
+  }
 }
