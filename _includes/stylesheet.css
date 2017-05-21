@@ -38,7 +38,7 @@ body {
   justify-content: center;
 }
 
-.max-width-container {
+#container {
   max-width: 34rem;
 }
 
@@ -111,13 +111,13 @@ ul, ol {
   padding-left: 2rem;
 }
 
-.essay-list {
+#essays {
   padding: 0;
   margin: 0;
   list-style: none;
 }
 
-.essay-list > li:not(:first-child) {
+#essays > li:not(:first-child) {
   margin-top: 0.5rem;
 }
 
@@ -126,7 +126,7 @@ ul, ol {
     font-size: 16px;
   }
 
-  .max-width-container {
+  #container {
     max-width: 100%;
   }
 

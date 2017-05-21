@@ -5,7 +5,7 @@ description: This website contains my essays about art, ethics, epistemology, an
 ---
 <p>{{ page.description }}  Asterisks indicate essays that are incomplete or unedited.</p>
 
-<ul class="essay-list">
+<ul id="essays">
 {% assign essays = site.essays | sort: 'order' %}
 {% for e in essays %}
   <li title="{{ e.description | xml_escape }}">
