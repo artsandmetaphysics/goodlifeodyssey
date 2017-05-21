@@ -6,7 +6,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }}</title>
-    <meta name="description" content="{{ page.description }}">
+    <meta name="description" content="{{ page.description | xml_escape }}">
+    <meta name="twitter:card" value="summary">
+    <meta property="og:title" content="{{ page.title | xml_escape }}">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="{{ page.url }}">
+    <meta property="og:image" content="/favicon-152.png">
+    <meta property="og:description" content="{{ page.description | xml_escape }}">
     <link rel="apple-touch-icon-precomposed" href="/favicon-152.png">
     <style>
       html {
