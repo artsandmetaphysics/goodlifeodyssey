@@ -75,7 +75,8 @@ I transcribed the conversation between Elisha and his friend Akiba, that occured
 >
 > "It was to be expected," Akiba went on heatedly, "that you would say so.  To speak of faith to the man without faith is like communicating the experience of color to one who is blind."
 >
-> His last words stung Elisha.  Tears started in his eyes.  Abruptly he turned his back on Akiba and looked through dimness into the distance.  He could not believe simply because it was easier or more expedient.  He could not have faith unless first his mind was satisfied.  He had set himself to a task, the discovery of truth by reason, pure and unafraid [pp. 239 - 244].
+> His last words stung Elisha.  Tears started in his eyes.  Abruptly he turned his back on Akiba and looked through dimness into the distance.  He could not believe simply because it was easier or more expedient.  He could not have faith unless first his mind was satisfied.  He had set himself to a task, the discovery of truth by reason, pure and unafraid.
+> <cite>pp. 239 - 244</cite>
 
 When Akiba claims that the "fate of man determines whether he has located it [the center of a circle, representing the axioms of your philosophy]" he is arguing that ethical outcomes can help us know what is true.  I conceive of philosophy as having three primary questions:
 
@@ -138,7 +139,8 @@ Here is the conversation between Demonax and Elisha:
 >
 > "I am." Elisha replied, "I hope to find conviction in some established system.  Otherwise I shall create one for myself, borrowing from the older philosophies whatever is valid, but in any case proceeding like Euclid from unchallengeable axioms to unshakable conclusions, whatever they may be, however hard to accept.  It is presumptuous, I know, for me to think that I will succeed where others have failed.  But there were mathematicians before the author of the *Elements*.  Someone has to try.  Why not I?  Someone will succeed.  Perhaps I."
 >
-> "Presumptuous?" Demonax breathed.  "Aye, as Prometheus was presumptuous.  If only I were not so old, so weighted by futility, so oppressed by the urge to give immediate assistance of those in need, and also of so little faith, I would work with you.  As it is, I commit you to Athene, the goddess of inner light." [pp. 366 - 369]
+> "Presumptuous?" Demonax breathed.  "Aye, as Prometheus was presumptuous.  If only I were not so old, so weighted by futility, so oppressed by the urge to give immediate assistance of those in need, and also of so little faith, I would work with you.  As it is, I commit you to Athene, the goddess of inner light."
+> <cite>pp. 366 - 369</cite>
 
 
 > "... Let us admit," he declaimed, his speech flowing on, his face a mask of assumed interest, "that the senses are not trustworthy since objects appear of different sizes and shapes to different people, and are perceived variously by the same person as he changes his position; since what is brown to one man is red to another, and without hue to the color-blind; since the identical surface will feel coarse or smooth, warm or cold, depending on the sensitivity of the hand that comes into contact with it.  Let us concede even that the whole of our experience is but a phantasm.  A somewhat embarrassing assumption, to be sure, suggesting that neither you nor I may be really here, making you my pleasant dream and me, with my interminable talk, as nightmare to you, from which you cannot awaken too quickly."
@@ -147,7 +149,7 @@ Here is the conversation between Demonax and Elisha:
 >
 > "But does that mean that there is no certainty, that accurate knowledge is and must forever remain unattainable?
 >
-> "Not so.  The skeptic lies, and here and now I throw his falsehood into his leering face.  The truth can be won, provided one knows where to seek it and how to move toward it.  For there is another method, independent of the sense---the technique of the founders of great philosophical systems of all times, the approach outlined in the \emph{Organon} of Aristotle---the deductive process whereby one moves from lucid simple first premises through syllogisms to conclusions, more complicated but equally unequivocal and undeniable.
+> "Not so.  The skeptic lies, and here and now I throw his falsehood into his leering face.  The truth can be won, provided one knows where to seek it and how to move toward it.  For there is another method, independent of the sense---the technique of the founders of great philosophical systems of all times, the approach outlined in the *Organon* of Aristotle---the deductive process whereby one moves from lucid simple first premises through syllogisms to conclusions, more complicated but equally unequivocal and undeniable.
 >
 > "See," he urged, "how generous nature has been with us, equipping our minds from birth with sure truths for which we need not labor and which no sane person ever challenges.  Will the boldest skeptic deny that two and two equal four, no more, no less; that the whole is the sum of its parts; that equals, added to equals, yield equals; that every effect must have a cause; that A cannot be B and its opposite at the same time, that ...?  But why belabor so obvious a point  Each of you can list dozens, hundreds, perhaps thousands of principles of like character.
 >
