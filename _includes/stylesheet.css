@@ -107,6 +107,17 @@ blockquote:before, blockquote:after {
   content: none;
 }
 
+blockquote cite {
+  font-style: normal;
+  text-align: right;
+  display: block;
+  color: #bbb;
+}
+
+cite::before {
+  content: '— ';
+}
+
 ul, ol {
   padding-left: 2rem;
 }
@@ -136,5 +147,9 @@ ul, ol {
 
   a:after {
     content: " [" attr(href) "] ";
+  }
+
+  cite:after {
+    content: " [" attr(title) "] ";
   }
 }
