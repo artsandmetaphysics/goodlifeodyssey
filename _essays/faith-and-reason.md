@@ -38,7 +38,7 @@ Many religions make many metaphysical claims.  If they do, these claims must be 
 The apostle Paul, in his letter to the Romans, writes:
 
 >  For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who by their unrighteousness suppress the truth.  For what can be known about God is plain to them, because God has shown it to them.  For his invisible attributes, namely, his eternal power and divine nature, have been clearly perceived, ever since the creation of the world, in the things that have been made.  So they are without excuse.  For although they knew God, they did not honor him as God or give thanks to him, but they became futile in their thinking, and their foolish hearts were darkened.  Claiming to be wise, they became fools, and exchanged the glory of the immortal God for images resembling mortal man and birds and animals and creeping things.
-> <cite title="English Standard Version">Romans 1:18 - 1:23</cite>
+> <cite title="English Standard Version">Romans 1:18 - 23</cite>
 
 The universe is awesome and beautiful.  For non-believers, surely the existence of the universe is the supreme mystery.  Was it created, or did it always exist?  Does it have any unity or purpose?  If a being created it, why?
 
