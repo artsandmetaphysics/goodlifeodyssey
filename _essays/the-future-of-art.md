@@ -1,6 +1,6 @@
 ---
 title: 'The Future of Art'
-description: 'A critique of "As a Driven Leaf", the story of a 1st century rabbi searching for the truth in a Roman world.'
+description: 'I predict the future of art, and give my reasons for this prediction.'
 status: incomplete
 order: 300
 ---
