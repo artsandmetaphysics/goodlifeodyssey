@@ -5,15 +5,20 @@ status: incomplete
 order: 2
 ---
 
-The word "faith", as commonly used, has religious connotations.  I define and use the word "faith" outside of religious connotations.
+We all have a worldview---a collection of beliefs that guide our actions.  Our worldview may be ill-defined and poorly considered.  It may even be inconsistent!  Still, if we have reasoned about how to act, we have a worldview of some sort.
 
-Many people have an ill-defined and unconsidered worldview, but we have them none-the-less, and our choices imply what they are.  Our worldviews may be inconsistent.
+Upon evaluation, we could divide the set of beliefs that form our worldview into two groups:
 
-Upon evaluation, we can divide our worldview into a set of axioms and a set of beliefs derived from these axioms.  The axioms are by definition unprovable.  I define "faith" as our willingness to act consistently with our axioms, despite them being uncertain.
+1. A set of irreducible, unprovable axioms
+2. A set of beliefs deduced from these axioms
 
-I think we have degrees of faith, depending on how drastically we would alter how we live if we did not hold the belief we have faith in.
+I define "faith" as our willingness to act *and possibly think* consistently with our axioms, despite them being uncertain and unprovable.
 
-We all have "faith" in the constency of the laws of nature, but it is a low degree of faith because even if we believed they may change at any instant, we would not drastically alter how we act.  Perhaps we would live more in the moment, and would save less for retirement.
+The degrees of faith in a particular belief is proportional to how drastically abandoning this belief would alter how we act and think.  To illustrate what I mean by degrees of faith, I will discuss four instances of increasingly high degrees of faith.
+
+Most humans believe that the laws of nature will continue acting as they have in the past, although we can not prove this belief.  Many of us adopt this belief unconsciously.  Thus, my definition of faith applies even to unconsidered beliefs, which does not fit with some religions which consider faith an "act of the will."  I call this implicit faith---faith which is seen only in a person's actions, but not in their thoughts.
+
+A belief in the consistency of nature requires low degree of faith because, even if we believed otherwise, we would not drastically alter thoughts or actions; we may live more in the moment, and we may open-minded towards other beliefs, but we would save less for retirement.
 
 If we believe we may go to hell if we have sex outside of marriage, then we have a degree of faith depending on how much we want to have sex outside of marriage.  If this isn't a temptation for us, then perhaps it requires very little faith.
 
