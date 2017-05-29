@@ -1,111 +1,103 @@
 ---
 title: 'Critique of "As a Driven Leaf"'
-description: 'A critique of "As a Driven Leaf", the story of a 1st century rabbi searching for the truth in a Roman world.'
+description: 'A philosophical critique of "As a Driven Leaf", the story of a 1st century rabbi searching for truth in a Roman world.'
 status: incomplete
 order: 200
 ---
 
-*As a Driven Leaf* is thought-provoking and entertaining.  According to my history book, the setting was accurate---even a couple of the philosophers Elisha met lived at the same time.  The Jewish people have been persecuted terribly for so long.  The Romans were brutal during the Bar Kokhba revolt.
+## Introduction
 
-The personal story of Elisha was sad and captivating, even more so because (according to the book's introduction) it paralleled Milton Steinberg's experiences in New York.
+Milton Steinberg, an American rabbi, wrote *As a Driven Leaf* and published it in 1939.  It is a novel about Elisha ben Ayubah's exploration of faith and reason that ultimately led to his excommunication.   According to the foreword by Chaim Potok, Elisha's struggles probably paralleled Steinberg's, who was considered a heretic by some.
 
-I transcribed the conversation between Elisha and his friend Akiba, that occured just before Elisha fleed to Antioch.  I think it is the most interesting conversation in the book.
+The book is a tragedy within a tragedy---Elisha's story is set in Palestine and Syria during the Jewish-Roman wars, the last of which lead the death of 580,000 Jews.
 
-> "Elisha, what strange things have you been thinking?  I knew that you were disturbed but I never dreamed it had gone so far.  Am I correct in believing..."
+I enjoyed the book thoroughly.  The outer story of the Jews within the Roman Empire is vivid, believable, and I can relate to Elisha and his struggles.
+
+Elisha's intellectual journey has three stages:
+
+1. An unconsidered faith in religion, developed with reason
+2. A complete rejection of faith, and exclusive reliance on reason
+3. A considered faith, developed with reason
+
+Note that how 
+
+In this essay I critique arguments presented in four of Elisha's conversations, each occurring at different points along his journey.  
+
+## Conversation After Rejecting Faith
+
+The first conversation is with Akiba, a close friend of Elisha and a fellow rabbi.
+
+> "Elisha, what strange things have you been thinking?  I knew that you were disturbed but I never dreamed it had gone so far.  Am I correct in believing…"
 >
-> "Yes," came the toneless reply, "everything is gone, not steadily and all the time, but quite generally---everything except for faith in God."
->
-> "Impossible!"
->
-> "So I sometimes think.  But it is so."
->
-> "Then you must make an effort to recapture what you have lost.  I will help you gladly."
->
-> Elisha shook his head obdurately.
->
-> "Then what will you do?" Concern rang clear in Akiba's voice.
->
-> "I am going to start at the beginning, by laying aside all prejudices, all preconceived notions, all my beliefs and affirmations."
+> "Yes," came the toneless reply, "everything is gone, not steadily and all the time, but quite generally---everything except for faith in God … I am going to start at the beginning, by laying aside all prejudices, all preconceived notions, all my beliefs and affirmations."
 >
 > "I am afraid," Akiba faltered, "that I do not understand.  What will be gained if you substitute blanket denial for a wavering faith?"
 >
-> Elisha rose and began to walk up and down the length of the columned porch, as Greek philosophers and rhetoricians had done when, a century before, they had met with royalty in this place.
->
 > "Let me put it this way.  We have both studied Euclid's *Elements of Geometry*.  You must have been impressed by the lucidity of the reasoning and the sureness of its results.  For some time, I have been conscious of the contrast between the method of the Greeks and ours.  Their success, I am convinced, followed from the fact that they started from the foundations.  We, on the contrary, have always tried to bolster our pre-established case."
->
-> He ceased pacing and stood over Akiba.
->
-> "Akiba, we have been friends for many years.  You have been dearer to me than a blood brother.  I would not hurt you or disturb your peace.  But I know you.  You are honest to the very core.  Never have I seen you tolerate a lie or an evasion.  Therefore, you must undertake this effort with me.  Let us start at the beginning together."
->
-> The issue had been stated.  In all the subsequent wrestling of their minds over it, they did not refer even once to the ordeal of that morning [Palestinian Jews who had been involved with the second Jewish-Roman war were tortured to death].  But the memory of it persisted, coloring, flavoring their discussion, investing it with an urgency and import that transcended the decisions of individuals.
->
+
+Euclid's *Elements of Geometry* derives a set of theorems (called Euclidean Geometry) from a set of assumptions, or axioms.  Although Euclid's formulation had several flaws, its method remains the basis of mathematics to this day.
+
+Elisha, like most of us, wants his religious beliefs to be as certain as Euclidean geometry.  This approach ultimately fails because he can't find certain axioms to base his religious beliefs on.  We will discuss this in more detail later.
+
+> "Akiba, we have been friends for many years ... you must undertake this effort with me.  Let us start at the beginning together."
+> 
 > "But I still do not understand," Akiba had protested, "how you can expect me to discard beliefs even tentatively if I am really possessed by them.  Your suggestion is like the procedure of those Greek philosophers who say, 'I do not trust my reason, but I will use it to prove that I have no right to use it.' A man may insist that he lays a doctrine aside, but if it is integral to him, he will carry it with him wherever he goes and will inevitably find it again since it has never left him."
->
-> "But certainly one can put an attitude away."
->
-> "You can only remove from yourself that which is not part of you.  To be altogether honest, Elisha, I think that you might engage in such a project.  I could not."
->
-> "You mean," Elish struck, "that you are afraid to subject to honest examination any proposition which you like to accept?"
->
-> "Let us not abuse each other," Akiba demurred.  "We owe each other no explanations.  Certainly I have not right to ask for any.  You who have few, if any, beliefs left are sufficiently detached from our traditional faith to be able to suspend it.  I am not."
->
-> "Suppose then you tell me," Elisha asked in agitation, "how, knowing as much as I, you can maintain a naïve faith?"
->
+
+Akiba's argument here is invalid.  Our core beliefs can obscure the hidden axioms, or assumptions, in our reasoning, but once identified, we can reason apart from them.  An atheist can realize that the proselytizer may be worried for his soul, and a Muslim can understand why the Qu'ran can not argue for its own validity to a non-believer.
+
+Steinberg may have intended for Akiba to convey that our core beliefs influence which axioms we have faith in.  If this is so, then I agree.  Or perhaps Akiba wants Elisha to recognize that he is putting faith in reason and that we all must put faith in our axioms.  But not axioms are equally "believable."
+
+The believability of axioms is a vague concept.  If we also take "reason" as an axiom, believability is debatable (without reason we are lost).  Still, it is ultimately up to the individual to have faith in what they find most "believable," despite not having mathematical certainty, and to implicitly or explicitly answer the ethical question.
+
 > "The purpose of life," said Akiba softly, "is to live well.  Whatever contributes toward that end is right and true.  My first and last criterion concerning my proposition is: Does it help men live better?  You may remember a lecture in which I asserted 'All is foreseen by God, yet man possesses freedom of will.' "
 >
-> "But Akiba..."
+> "But Akiba…"
 >
-> "Hear me out, Elisha, please.  I am aware of that, judged by the logic of Aristotle, my thesis is a contradiction in terms.  But there is a higher logic, a rationality that springs from the necessities of human nature.  Does not man face life with greater assurance if he believes that a benevolent providence foresees the future?  And yet he must at the same time be confident that his will is free, otherwise moral effort is meaningless altogether.  Doctrines in themselves are not important to b me, but their consequences are.  For example, I urge upon men that they regard themselves as embodiments of the divine essence.  If I convince them, their days endowed with a sense of abiding significance and unturning glory.  Then not all the misfortunes and degradations to which they may be subjected can take from them their feeling of oneness with angels and starts.  And as for our people, persecuted and dispersed, they live under the shadow of death, cherishing a dream that is recurrently shattered by the caprice of tyrants and then dreamed again half in despair.  What can enable such a people to persist except a conviction of a special relationship to God?"
+> "Hear me out, Elisha, please.  I am aware that, judged by the logic of Aristotle, my thesis is a contradiction in terms.  But there is a higher logic, a rationality that springs from the necessities of human nature.  Does not man face life with greater assurance if he believes that a benevolent providence foresees the future?  And yet he must at the same time be confident that his will is free, otherwise moral effort is meaningless altogether.  Doctrines in themselves are not important to me, but their consequences are.  For example, I urge upon men that they regard themselves as embodiments of the divine essence.  If I convince them, their days are endowed with a sense of abiding significance and unturning glory.  Then not all the misfortunes and degradations to which they may be subjected can take from them their feeling of oneness with angels and stars.  And as for our people, persecuted and dispersed, they live under the shadow of death, cherishing a dream that is recurrently shattered by the caprice of tyrants and then dreamed again half in despair.  What can enable such a people to persist except a conviction of a special relationship to God?"
 >
 > "And the objective truth of that conviction?" Elisha broke in impatiently.
 >
-> "A large and terrible question, I grant.  Nevertheless, the first and ultimate consideration, I insist, must be effects.  If any doctrine enlarges life, then it possesses truth in realms beyond Aristotle's logic."
+> "A large and terrible question, I grant.  Nevertheless, the first and ultimate consideration, I insist, must be of effects.  If any doctrine enlarges life, then it possesses truth in realms beyond Aristotle's logic."
 >
-> "Surely now," Elisha retorted, unable to contain himself longer, "all wisdom will die with you.  Why, every fool who cherishes some superstition, every rogue who seeks to persuade someone else of a lie, can justify himself by insisting that so he will live the better.  The murderer can argue that his days will be enriched if the person he hates is put away.  The thief can contend that his existence takes an added significance as he obtains possession of another's property.  Every adulterer pleads that his life is not worth the living unless he wins the body of his paramour."
->
-> "You are deliberately making an absurdity of what I said," Akiba broke in resentfully.
->
-> "Indeed not.  Yours is a good principle to be sure.  Alas, it proves too much.  It justifies everything and its opposite.  What is more, you know as well as I that if there be no God, it is a lie to speak about Him no matter how well such a falsehood functions.  And your readiness to believe, your willingness to accept doctrines on blind faith and then defend them on grounds of expediency..."
+> "… Yours is a good principle to be sure.  Alas, it proves too much.  It justifies everything and its opposite.  What is more, you know as well as I that if there be no God, it is a lie to speak about Him no matter how well such a falsehood functions.  And your readiness to believe, your willingness to accept doctrines on blind faith and then to defend them on grounds of expediency …"
 >
 > "By what right," Akiba protested, "do you presume to call my attitude blind?  Belief need not be unseeing.  Is it a darkening of council to admit that truth is not a matter of the mind alone, but of the heart and experience also?  Since it cannot be obtained by reason unaided, faith is indispensable both as a base on which thought may stand, and as a check-rein when logic goes astray.
->
-> "He who wishes to trace a circle must first select out of all space one point about which to draw it.  The choice of the utility of the circle in practice will determine ultimately the axis about which we move---an axis that must be posited as an act of will.  The fate of man determines whether he has located it properly.  That is all I am saying---that belief is the beginning, that it may be tested by experience, but that it must exist, or nothing can be."
->
-> "Arrant nonsense," Elisha interjected contemptuously.
->
-> "It was to be expected," Akiba went on heatedly, "that you would say so.  To speak of faith to the man without faith is like communicating the experience of color to one who is blind."
->
-> His last words stung Elisha.  Tears started in his eyes.  Abruptly he turned his back on Akiba and looked through dimness into the distance.  He could not believe simply because it was easier or more expedient.  He could not have faith unless first his mind was satisfied.  He had set himself to a task, the discovery of truth by reason, pure and unafraid.
-> <cite>pp. 239 - 244</cite>
 
-When Akiba claims that the "fate of man determines whether he has located it [the center of a circle, representing the axioms of your philosophy]" he is arguing that ethical outcomes can help us know what is true.  I conceive of philosophy as having three primary questions:
+When Akiba claims that "any doctrine enlarges life, then it possesses truth", I think he means that the truth of your axioms is indicated by the ethical outcomes they produce.  This view presupposes the central importance of humans and how they act.  I think this can be a tenable position, but before discussing further, I will define some terms.
+
+I think the three primary questions (and their loosely defined field of philosophy) are:
 
 - Metaphysics --- What is the nature of reality?
 - Epistemology --- How does one know?
 - Ethics --- What should I do?
 
-Most philosophies answer these primary questions recursively.  Metaphysics and epistemology in particular are difficult to separate.  For example, the typical scientist's philosophy has a metaphysical system that informs how our bodies sense and perceive the world, but our senses are the basis for our knowledge (epistemology).
+Most philosophies (or worldviews) answer these questions recursively.  For example, the modern scientific worldview is recursive:  The laws of nature describe how our bodies sense the world and these senses are deemed the basis of all knowledge---including the laws of nature.   Thus our metaphysics informs our epistemology which informs our metaphysics.
 
-Most philosophy's ethics follow from their metaphysics and epistemology.  Akiba is arguing that ethics informs epistemology.  This is an unusual position.
+The recursion between epistemology and metaphysics seems unavoidable.  Ethics, on the other hand, is typically derived from the other two fields.  But it doesn't have to be---Akiba argues that ethics can inform epistemology.  Here is an expanded form of his argument:
 
-Here is an extreme example of ethics affecting metaphysics: how one acts changes the laws of physics.  It could be true!  For example, I could program Altera so that when a Nook acts a certain way, the laws of Alteran physics change.  This radical idea is so far from the scientific that it seems implausible.  "One can only remove from yourself that which is not part of you."  For ethics to affect metaphysics, we must assume that humans (or concious beings generally) are special.  Perhaps we have souls or the creator cares about our matter more than other lumps of matter.  Both of these metaphysical claims are possible.  If we are not special in *some* sense, however, then ethics must be isolated from metaphysics and epistemology.
+1. Humans and how they live are of utmost importance.
+2. The universe should be consistent with this importance.
+3. Judaism makes people live well, so it is more likely true.
 
-I think the thesis of *As a Drive Leaf* is that *ethics should inform our epistemology and our metaphysics*.
+The first two metaphysical claims are then combined with an observation about the world to argue for the truth of Judaism.  Whether this argument is valid depends on one accepting the first two axioms, but once you do, it is consistent.
 
-Besides Akiba's arguments in this first conversation, you can see Milton Steinberg arguing for this thesis throughout the book.  He implies that the Jewish religious tradition's "truth" or "validity" partially originates from the fact that the Jewish people have survided persecution for so many years.
+Akiba's comments about the difficulty of removing oneself from his beliefs are relevant here.  A religious person may not be aware of their axioms when deciding what to believe.  They are apparent once disclosed, but the collective validity of the axioms and anything deduced from them is still unclear.
 
-Elisha's path of philosophical discovery is an argument for this thesis.  After Elisha flees to Antioch, he spends all of his energy working on a philosophical system.  Steinberg does not tell us much about Elisha's system besides the title of the introduction---*Prerequisites for All Metaphysical Systems Derived from the Methods Suggested by Aristotle in his* Organon*, and more particularly from those implied in Euclid's* Elements of Geometry.
+For ethics to affect metaphysics or epistemology, we must assume that humans (or conscious beings generally) are special.  This importance may be justified if one believes we have souls or that the creator is especially interested in the organization of our brain matter.  These metaphysical claims are possible.  If we are not special in *some* sense, however, then ethics must be isolated from metaphysics and epistemology.
 
-After years of study and discussion with other Greek philosophers, Elisha gives up in defeat.  Here is an outline of his philosophical journey:
+I think one of the thesis of *As a Drive Leaf* is that ethics should inform our epistemology and our metaphysics.  Besides Akiba's arguments, Milton Steinberg hints that the Jewish survival through so much terrible persecution over the years contributes to the Jewish religious tradition's validity.
 
-1. Blind belief in Judaism; is taught under Rabbi Joseph, a great pious man, for many years before becoming a Rabbi.
-2. Losses faith; his favorite student's two children die, he begins studying Greek philosophy and in particular Euclid, then sees a servant boy fall from a tree and die.  Flees to Antioch.
-3. Studies Greek philosophy, attempting to build a sound metaphysical foundation on which to build an ethical system.
-4. Losses faith in pure reason to accomplish his original goals.
+Akiba has a few more interesting comments:
 
-The first conversation quoted above takes place right as he is losing his faith.  There are three more interesting conversations that occur after this.  The first is between Elisha and Demonax---a philosopher who has decided to focus more on ethics than metaphysics.  The second is between Elisha and a philosopher who, like Elisha, believes we can develop a firm metaphysical foundation---this conversation is when Elisha looses faith in his metaphysical foundation.  The final conversation is between Elisha and Meir, his favorite student, many years later.
+> "He who wishes to trace a circle must first select out of all space one point about which to draw it. … The utility of the circle in practice will determine ultimately whether the point has been well placed.  So with faith.  It is the axis about which we move---an axis that must be posited as an act of will.  The fate of man determines whether he has located it properly.  That is all I am saying---that belief is the beginning, that it may be tested by experience, but that it must exist, or nothing can be."
 
-Here is the conversation between Demonax and Elisha:
+Akiba is aware of the truth that Elisha has not yet discovered, that some faith is unavoidable.
+
+It is interesting to note that Akiba considers faith "an act of will"---most Christians also believe this.  I think it is only partially true;  if a belief seems highly implausible, will can not produce faith.
+
+## Conversation with Demonax
+
+The second essay is between Elisha and Demonax---a philosopher who has decided to focus more on ethics than metaphysics.  It takes place while Elisha remains confident in the power of reason.
 
 > "Let me explain," Demonax continued.  "To you philosophy is a science.  To me it is an art.  To you it is a method of discovering truth.  To me it is a guide to noble living.  We are too far removed in essential attitudes to be capable of co-operation."
 >
@@ -142,6 +134,10 @@ Here is the conversation between Demonax and Elisha:
 > "Presumptuous?" Demonax breathed.  "Aye, as Prometheus was presumptuous.  If only I were not so old, so weighted by futility, so oppressed by the urge to give immediate assistance of those in need, and also of so little faith, I would work with you.  As it is, I commit you to Athene, the goddess of inner light."
 > <cite>pp. 366 - 369</cite>
 
+
+## Conversation with Charicles
+
+The second is between Elisha and a philosopher who, like Elisha, believes we can develop a firm metaphysical foundation---this conversation is when Elisha looses faith in his metaphysical foundation.
 
 > "... Let us admit," he declaimed, his speech flowing on, his face a mask of assumed interest, "that the senses are not trustworthy since objects appear of different sizes and shapes to different people, and are perceived variously by the same person as he changes his position; since what is brown to one man is red to another, and without hue to the color-blind; since the identical surface will feel coarse or smooth, warm or cold, depending on the sensitivity of the hand that comes into contact with it.  Let us concede even that the whole of our experience is but a phantasm.  A somewhat embarrassing assumption, to be sure, suggesting that neither you nor I may be really here, making you my pleasant dream and me, with my interminable talk, as nightmare to you, from which you cannot awaken too quickly."
 >
@@ -190,3 +186,13 @@ Here is the conversation between Demonax and Elisha:
 > "You have posited the validity of the deductive process.  But what happens when you forma  syllogism.  You take major premise A, minor premise B and deduce conclusion C.  You say when you are though that C follows inevitably from A and B.  But what do you mean by that?  Only that you have a sentiment of congruity, and emotion of fittingness.  Are sentiments the stuff of rational demonstration?
 >
 > "Besides, I have been rereading the skeptical philosophers recently and have been impressed by one of their standard arguments.  Every syllogism, they contend, rests on a first premise.  Either you posit that premise as
+
+Euclidean geometry is useful because it is a good model of physical space.  This utility made Elisha believe that it gives us certain knowledge of reality.  But its certainty is only as good as universe's geometry is not Euclidean.  Thus, the certainty Elisha found in Euclid is isolated from reality because we don't know whether its axioms describe reality.  This is the case for all mathematical knowledge.
+
+Thus, although the logical derivations in Euclid are a valid approach (if you assume the laws of logic are correct), they are only useful if you have sound axioms.  And finding absolutely certain axioms for metaphysical or ethical derivations is not possible.
+
+## Converation After Co
+
+The final conversation is between Elisha and Meir, his favorite student, many years later.
+
+## Conclusion
