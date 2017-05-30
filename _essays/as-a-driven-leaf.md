@@ -15,11 +15,9 @@ I enjoyed the book thoroughly.  The outer story of the Jews within the Roman Emp
 
 Elisha's intellectual journey has three stages:
 
-1. An unconsidered faith in religion, developed with reason
-2. A complete rejection of faith, and exclusive reliance on reason
+1. Implicit faith in religion, developed with reason
+2. A complete rejection of "faith", and exclusive reliance on reason
 3. A considered faith, developed with reason
-
-Note that how 
 
 In this essay I critique arguments presented in four of Elisha's conversations, each occurring at different points along his journey.  
 
@@ -39,7 +37,7 @@ Euclid's *Elements of Geometry* derives a set of theorems (called Euclidean Geom
 
 Elisha, like most of us, wants his religious beliefs to be as certain as Euclidean geometry.  This approach ultimately fails because he can't find certain axioms to base his religious beliefs on.  We will discuss this in more detail later.
 
-> "Akiba, we have been friends for many years ... you must undertake this effort with me.  Let us start at the beginning together."
+> "Akiba, we have been friends for many years … you must undertake this effort with me.  Let us start at the beginning together."
 > 
 > "But I still do not understand," Akiba had protested, "how you can expect me to discard beliefs even tentatively if I am really possessed by them.  Your suggestion is like the procedure of those Greek philosophers who say, 'I do not trust my reason, but I will use it to prove that I have no right to use it.' A man may insist that he lays a doctrine aside, but if it is integral to him, he will carry it with him wherever he goes and will inevitably find it again since it has never left him."
 
@@ -79,9 +77,9 @@ The recursion between epistemology and metaphysics seems unavoidable.  Ethics, o
 2. The universe should be consistent with this importance.
 3. Judaism makes people live well, so it is more likely true.
 
-The first two metaphysical claims are then combined with an observation about the world to argue for the truth of Judaism.  Whether this argument is valid depends on one accepting the first two axioms, but once you do, it is consistent.
+This argument is unconvincing unless you agree with the first two axioms, but it is internally consistent.
 
-Akiba's comments about the difficulty of removing oneself from his beliefs are relevant here.  A religious person may not be aware of their axioms when deciding what to believe.  They are apparent once disclosed, but the collective validity of the axioms and anything deduced from them is still unclear.
+Akiba's comments about the difficulty of removing oneself from his beliefs apply; a religious person may not be aware of their axioms when deciding what to believe.  They are apparent once disclosed, but the collective validity of the axioms and anything deduced from them is still unclear.
 
 For ethics to affect metaphysics or epistemology, we must assume that humans (or conscious beings generally) are special.  This importance may be justified if one believes we have souls or that the creator is especially interested in the organization of our brain matter.  These metaphysical claims are possible.  If we are not special in *some* sense, however, then ethics must be isolated from metaphysics and epistemology.
 
@@ -95,51 +93,35 @@ Akiba is aware of the truth that Elisha has not yet discovered, that some faith 
 
 It is interesting to note that Akiba considers faith "an act of will"---most Christians also believe this.  I think it is only partially true;  if a belief seems highly implausible, will can not produce faith.
 
-## Conversation with Demonax
+## Conversation While Rejecting Faith
 
 The second essay is between Elisha and Demonax---a philosopher who has decided to focus more on ethics than metaphysics.  It takes place while Elisha remains confident in the power of reason.
 
-> "Let me explain," Demonax continued.  "To you philosophy is a science.  To me it is an art.  To you it is a method of discovering truth.  To me it is a guide to noble living.  We are too far removed in essential attitudes to be capable of co-operation."
->
-> "I am afraid I do not understand."
->
-> "No, I suppose my point is quite obscure.  And yet it marks a real difference.  The great thinkers, from Heraclitus on, have approached philosophy as you do.  Plato, Aristotle, Democritus, even Zeno and Epicurus, have all been builders of systems.  But for all their prestige, they are not my teachers.  If I were to list my favorite sages I would say I revere Socrates, admire Diogenes and love Aristippus.  For I am the expositor not of a theory but of a skill.  As a flute teacher imparts his art, first by personal example and then by simple, practical principles, without too much concern over the nature of sound, so I attempt to influence people to live beautifully by striving to live so myself, and by communicating those rules of conduct that have stood the test of time."
+> "Let me explain," Demonax continued.  "To you philosophy is a science.  To me it is an art.  To you it is a method of discovering truth.  To me it is a guide to noble living … I am the expositor not of a theory but of a skill.  As a flute teacher imparts his art, first by personal example and then by simple, practical principles, without too much concern over the nature of sound, so I attempt to influence people to live beautifully by striving to live so myself, and by communicating those rules of conduct that have stood the test of time."
 >
 > "But," Elisha demurred, "no art can be entirely divorced from theory."
 >
 > "Perfectly true," Demonax replied.  "That is why I have some interest in metaphysics, but only in the barest and most essential minimum of it.  It is guidance in their behavior which men need, a vision of immediate, attainable objective to which they can dedicate themselves, not high-flown schemes of reality.  Of the latter a man has enough if he attains to a reasonable belief in God and a fairly consistent picture of the universe and man's role in it."
 >
-> "But even that minimum," Elisha protested, "must be thought through.  You would not say that men should accept belief in God unless first they have reasoned their way to it clearly, consistently and indisputably.  Or that they ought to adopt a code of morality unless they have convinced themselves of it s validity."
+> "But even that minimum," Elisha protested, "must be thought through.  You would not say that men should accept belief in God unless first they have reasoned their way to it clearly, consistently and indisputably.  Or that they ought to adopt a code of morality unless they have convinced themselves of its validity."
 >
-> The sadness in Demonax's eyes became more perceptible.
->
-> "It is almost," he sighed, "as though I am hearing myself speak as I was many, many ears ago.  I, too, once felt as you did.  But I have grown older and, if you will pardon my saying so, wiser.  I have studied all the major metaphysical systems with care and found not s a single issue which they have demonstrated absolutely.  To make matters worse, there is not one conclusion on which they agree.  The schools remind me of nothing so much as the fable in Hebrew literature about a tower which would have been build to heaven were it not that all the artisans were afflicted by a confusion of tongues."
->
-> "But after all," Elisha objected, " there is just as little agreement in the realm of practices principle as in that of theory.  Your own argument can be turned against you.  One might well say: There is no unity of opinion as to ethics, no one has ever attained moral perfection, therefore the quest after the better life ought to be abandoned.  If ever there was an instance of self-contraction..."
->
-> He stopped, realizing that he was overstepping the bounds of good taste.
->
-> "You will pardon me, I hope, for my bluntness.  I did not mean to offend you."
->
-> The sage was unperturbed except that the look of compassion on his face had deepened.
->
-> "You are right," he said.  "I am not altogether logical.  Here I tell you that the quest after metaphysical certainty is not worth while because after several centuries of effort it has not attained its objectives.  And at the very same moment I say that one ought to devote his efforts to teaching people how to behave although there is no agreement as to the better life and, so far as we are aware, no one has ever lived it in its completeness.  But the contradiction is not mine.  It is nature's.  The human scene is not some philosopher's garden, but a confusing, dark struggle.  Through its noise and obscurity men grope, all seeking for serenity, few finding it.  And some of us, though we have not completely demonstrated our principles, believe that we know how they may make themselves both better and happier.  Can we withdraw into books and their abstrusities when men need insight into their souls, balms for their wounds, and healing of their sorrows?  Ah, yes, if you and I were the gods, as Epicurus describes them, we might devote our lives to debating the question whether or not Platonic ideas exist eternally in realms beyond space and time.  But we are flesh and blood.  We dare not, for intellectual luxury, forget our aches or those of our brothers."
->
-> "But if so," Elisha cried out, "it will go on forever.  If they possess no certainty and are never fully convinced of anything men will always take refugee in aphorisms and maxims.  I am not insensitive to human suffering, but the slow cure is sometimes the surer.  Suppose people are lost in some dark threatening forest without food or shelter.  Ought not someone climb a tree to discern the forest as a whole and the paths by which he and his fellows can escape from it?  Or, to change the metaphor, if, as in Plato's dialogue, we are to sit forever looking at shadows, we shall never see the sun.  Now consider Euclid's *Elements of Geometry*.  A mathematician evolves a truth concerning space.  There-after every builder, whether of a ship, a temple, or a bridge, can proceed from it with confidence. So, only if there be first an indisputable interpretation of reality and a moral system drawn from it, will men be able to live, as engineers and architects work, with assurance."
->
-> "And the failure of the schools in the past," Demonax challenged softly, "their inability to agree, you are prepared to make the effort despite that?"
->
-> "I am." Elisha replied, "I hope to find conviction in some established system.  Otherwise I shall create one for myself, borrowing from the older philosophies whatever is valid, but in any case proceeding like Euclid from unchallengeable axioms to unshakable conclusions, whatever they may be, however hard to accept.  It is presumptuous, I know, for me to think that I will succeed where others have failed.  But there were mathematicians before the author of the *Elements*.  Someone has to try.  Why not I?  Someone will succeed.  Perhaps I."
->
-> "Presumptuous?" Demonax breathed.  "Aye, as Prometheus was presumptuous.  If only I were not so old, so weighted by futility, so oppressed by the urge to give immediate assistance of those in need, and also of so little faith, I would work with you.  As it is, I commit you to Athene, the goddess of inner light."
-> <cite>pp. 366 - 369</cite>
+> "… I have studied all the major metaphysical systems with care and found not a single issue which they have demonstrated absolutely.  To make matters worse, there is not one conclusion on which they agree."
 
+Elisha thinks that reason is sufficient, while Demonax has realized what Akiba realized, which is that we can not find a firm foundation for our beliefs.
 
-## Conversation with Charicles
+Demonax's derision towards "high-flown schemes of reality" is likely a reference to Aristotle's *Organon*, which divided reality into ten categories: substance, quantity, quality, relation, place, time, situation, condition, action, and passion.
+
+> "But after all," Elisha objected, "there is just as little agreement in the realm of practical principle [applied ethics] as in that of theory [metaphysics].  Your own argument can be turned against you …"
+>
+> "You are right," he said.  "I am not altogether logical.  Here I tell you that the quest after metaphysical certainty is not worth while because after several centuries of effort it has not attained its objectives.  And at the very same moment I say that one ought to devote his efforts to teaching people how to behave although there is no agreement as to the better life and, so far as we are aware, no one has ever lived it in its completeness.  But the contradiction is not mine.  It is nature's.  The human scene is not some philosopher's garden, but a confusing, dark struggle.  Through its noise and obscurity men grope, all seeking for serenity, few finding it.  And some of us, though we have not completely demonstrated our principles, believe that we know how they may make themselves both better and happier.  Can we withdraw into books and their abstrusities when men need insight into their souls, balms for their wounds, and healing of their sorrows? …"
+>
+> "But if so," Elisha cried out, "it will go on forever.  If they possess no certainty and are never fully convinced of anything men will always take refugee in aphorisms and maxims.  I am not insensitive to human suffering, but the slow cure is sometimes the surer … only if there be first an indisputable interpretation of reality and a moral system drawn from it, will men be able to live, as engineers and architects work, with assurance."
+
+## Conversation While Realizing the Necessity of Faith
 
 The second is between Elisha and a philosopher who, like Elisha, believes we can develop a firm metaphysical foundation---this conversation is when Elisha looses faith in his metaphysical foundation.
 
-> "... Let us admit," he declaimed, his speech flowing on, his face a mask of assumed interest, "that the senses are not trustworthy since objects appear of different sizes and shapes to different people, and are perceived variously by the same person as he changes his position; since what is brown to one man is red to another, and without hue to the color-blind; since the identical surface will feel coarse or smooth, warm or cold, depending on the sensitivity of the hand that comes into contact with it.  Let us concede even that the whole of our experience is but a phantasm.  A somewhat embarrassing assumption, to be sure, suggesting that neither you nor I may be really here, making you my pleasant dream and me, with my interminable talk, as nightmare to you, from which you cannot awaken too quickly."
+> "… Let us admit," he declaimed, his speech flowing on, his face a mask of assumed interest, "that the senses are not trustworthy since objects appear of different sizes and shapes to different people, and are perceived variously by the same person as he changes his position; since what is brown to one man is red to another, and without hue to the color-blind; since the identical surface will feel coarse or smooth, warm or cold, depending on the sensitivity of the hand that comes into contact with it.  Let us concede even that the whole of our experience is but a phantasm.  A somewhat embarrassing assumption, to be sure, suggesting that neither you nor I may be really here, making you my pleasant dream and me, with my interminable talk, as nightmare to you, from which you cannot awaken too quickly."
 >
 > Charicles took a deep breath and waited for the restrained laughter to subside.  As was his practice, he began again before quiet was entirely restored.  His sonorous voice rang out across the waning mirth as though he were too impatient to wait.
 >
@@ -147,7 +129,7 @@ The second is between Elisha and a philosopher who, like Elisha, believes we can
 >
 > "Not so.  The skeptic lies, and here and now I throw his falsehood into his leering face.  The truth can be won, provided one knows where to seek it and how to move toward it.  For there is another method, independent of the sense---the technique of the founders of great philosophical systems of all times, the approach outlined in the *Organon* of Aristotle---the deductive process whereby one moves from lucid simple first premises through syllogisms to conclusions, more complicated but equally unequivocal and undeniable.
 >
-> "See," he urged, "how generous nature has been with us, equipping our minds from birth with sure truths for which we need not labor and which no sane person ever challenges.  Will the boldest skeptic deny that two and two equal four, no more, no less; that the whole is the sum of its parts; that equals, added to equals, yield equals; that every effect must have a cause; that A cannot be B and its opposite at the same time, that ...?  But why belabor so obvious a point  Each of you can list dozens, hundreds, perhaps thousands of principles of like character.
+> "See," he urged, "how generous nature has been with us, equipping our minds from birth with sure truths for which we need not labor and which no sane person ever challenges.  Will the boldest skeptic deny that two and two equal four, no more, no less; that the whole is the sum of its parts; that equals, added to equals, yield equals; that every effect must have a cause; that A cannot be B and its opposite at the same time, that …?  But why belabor so obvious a point  Each of you can list dozens, hundreds, perhaps thousands of principles of like character.
 >
 > "Nature, I have said, has been kindly with us.  A grotesque understatement.  More than generous, she has been munificent.  For, in addition to innate verities of the type I have just described, she has furnished us with the instruments of logic whereby we may through our own efforts derive from her original gift limitless treasures of larger richeness.
 >
@@ -179,7 +161,7 @@ The second is between Elisha and a philosopher who, like Elisha, believes we can
 >
 > "As you spoke," Elisha continued, quite unaware of the interruption, "Detected a gap in your argument---you left unabridged the interval between innate ideas and the syllogism you quoted.  After all it is a far cry from the assertion that if equals are added to equals the results are equals, and the major premise, 'All men are mortal.'  The former is indeed a judgement of pure reason.  The latter, on the other hand, involves the concepts 'men' and 'mortality' and an inference as to their association---all derived from sense and hence subject to all the uncertainties of physical experience.
 >
-> "Now my question is this: how do you make the transition from innate ideas to such generalizations at the universal mortality of humanity?  It is just that that has been holding me up in a piece of work of my own, a book...
+> "Now my question is this: how do you make the transition from innate ideas to such generalizations at the universal mortality of humanity?  It is just that that has been holding me up in a piece of work of my own, a book…
 >
 > "What's more," he pressed on as unexpectedly he envisaged a possibility that had never occurred to him before, "even if I concede that a chain of reasoning can be strung over the abyss, there are still unresolved difficulties that have just suggested themselves to me.
 >
