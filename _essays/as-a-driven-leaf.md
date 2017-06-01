@@ -19,7 +19,7 @@ Elisha's intellectual journey has three stages:
 2. A complete rejection of "faith", and exclusive reliance on reason
 3. A considered faith, developed with reason
 
-In this essay I critique arguments presented in four of Elisha's conversations, each occurring at different points along his journey.  
+In this essay I critique arguments presented in four of Elisha's conversations, each occurring at different points along his journey.
 
 ## Conversation After Rejecting Faith
 
@@ -38,7 +38,7 @@ Euclid's *Elements of Geometry* derives a set of theorems (called Euclidean Geom
 Elisha, like most of us, wants his religious beliefs to be as certain as Euclidean geometry.  This approach ultimately fails because he can't find certain axioms to base his religious beliefs on.  We will discuss this in more detail later.
 
 > "Akiba, we have been friends for many years … you must undertake this effort with me.  Let us start at the beginning together."
-> 
+>
 > "But I still do not understand," Akiba had protested, "how you can expect me to discard beliefs even tentatively if I am really possessed by them.  Your suggestion is like the procedure of those Greek philosophers who say, 'I do not trust my reason, but I will use it to prove that I have no right to use it.' A man may insist that he lays a doctrine aside, but if it is integral to him, he will carry it with him wherever he goes and will inevitably find it again since it has never left him."
 
 Akiba's argument here is invalid.  Our core beliefs can obscure the hidden axioms, or assumptions, in our reasoning, but once identified, we can reason apart from them.  An atheist can realize that the proselytizer may be worried for his soul, and a Muslim can understand why the Qu'ran can not argue for its own validity to a non-believer.
@@ -107,9 +107,9 @@ The second essay is between Elisha and Demonax---a philosopher who has decided t
 >
 > "… I have studied all the major metaphysical systems with care and found not a single issue which they have demonstrated absolutely.  To make matters worse, there is not one conclusion on which they agree."
 
-Elisha thinks that reason is sufficient, while Demonax has realized what Akiba realized, which is that we can not find a firm foundation for our beliefs.
-
 Demonax's derision towards "high-flown schemes of reality" is likely a reference to Aristotle's *Organon*, which divided reality into ten categories: substance, quantity, quality, relation, place, time, situation, condition, action, and passion.
+
+Demonax, like Akiba, does can not think we can find a certain foundation for our ethics.  Unlike Akiba, who puts his faith in Judaism, Demonax thinks ethics only needs "reasonable belief in God and a fairly consistent picture of the universe and man's role in it."  But how do we know man's role within the universe?  Assuming there is a God, does it care how we act?  And even if it does, how should we act?  Perhaps Demonax views ethics as the emperical science of making men happier.
 
 > "But after all," Elisha objected, "there is just as little agreement in the realm of practical principle [applied ethics] as in that of theory [metaphysics].  Your own argument can be turned against you …"
 >
@@ -119,62 +119,28 @@ Demonax's derision towards "high-flown schemes of reality" is likely a reference
 
 ## Conversation While Realizing the Necessity of Faith
 
-The second is between Elisha and a philosopher who, like Elisha, believes we can develop a firm metaphysical foundation---this conversation is when Elisha looses faith in his metaphysical foundation.
+The third conversation is between Elisha and a philosopher who, like Elisha, believes we can develop a firm metaphysical foundation---this conversation is when Elisha looses faith in his metaphysical foundation.
 
-> "… Let us admit," he declaimed, his speech flowing on, his face a mask of assumed interest, "that the senses are not trustworthy since objects appear of different sizes and shapes to different people, and are perceived variously by the same person as he changes his position; since what is brown to one man is red to another, and without hue to the color-blind; since the identical surface will feel coarse or smooth, warm or cold, depending on the sensitivity of the hand that comes into contact with it.  Let us concede even that the whole of our experience is but a phantasm.  A somewhat embarrassing assumption, to be sure, suggesting that neither you nor I may be really here, making you my pleasant dream and me, with my interminable talk, as nightmare to you, from which you cannot awaken too quickly."
+> "See," he urged, "how generous nature has been with us, equipping our minds from birth with sure truths for which we need not labor and which no sane person ever challenges.  Will the boldest skeptic deny that two and two equal four, no more, no less; that the whole is the sum of its parts; that equals, added to equals, yield equals; that every effect must have a cause; that A cannot be B and its opposite at the same time, that …?  But why belabor so obvious a point  Each of you can list dozens, hundreds, perhaps thousands of principles of like character. …"
 >
-> Charicles took a deep breath and waited for the restrained laughter to subside.  As was his practice, he began again before quiet was entirely restored.  His sonorous voice rang out across the waning mirth as though he were too impatient to wait.
+> "As you spoke," Elisha … "I detected a gap in your argument---you left unabridged the interval between innate ideas and the syllogism you quoted.  After all it is a far cry from the assertion that if equals are added to equals the results are equals, and the major premise, 'All men are mortal.'  The former is indeed a judgement of pure reason.  The latter, on the other hand, involves the concepts 'men' and 'mortality' and an inference as to their association---all derived from sense and hence subject to all the uncertainties of physical experience.
 >
-> "But does that mean that there is no certainty, that accurate knowledge is and must forever remain unattainable?
+> "Now my question is this: how do you make the transition from innate ideas to such generalizations at the universal mortality of humanity? …
 >
-> "Not so.  The skeptic lies, and here and now I throw his falsehood into his leering face.  The truth can be won, provided one knows where to seek it and how to move toward it.  For there is another method, independent of the sense---the technique of the founders of great philosophical systems of all times, the approach outlined in the *Organon* of Aristotle---the deductive process whereby one moves from lucid simple first premises through syllogisms to conclusions, more complicated but equally unequivocal and undeniable.
+> "You have posited the validity of the deductive process.  But what happens when you form a syllogism.  You take major premise A, minor premise B and deduce conclusion C.  You say when you are though that C follows inevitably from A and B.  But what do you mean by that?  Only that you have a sentiment of congruity, and emotion of fittingness.  Are sentiments the stuff of rational demonstration?
 >
-> "See," he urged, "how generous nature has been with us, equipping our minds from birth with sure truths for which we need not labor and which no sane person ever challenges.  Will the boldest skeptic deny that two and two equal four, no more, no less; that the whole is the sum of its parts; that equals, added to equals, yield equals; that every effect must have a cause; that A cannot be B and its opposite at the same time, that …?  But why belabor so obvious a point  Each of you can list dozens, hundreds, perhaps thousands of principles of like character.
->
-> "Nature, I have said, has been kindly with us.  A grotesque understatement.  More than generous, she has been munificent.  For, in addition to innate verities of the type I have just described, she has furnished us with the instruments of logic whereby we may through our own efforts derive from her original gift limitless treasures of larger richeness.
->
-> "Can there be any conclusion but one to the sequence:
->
-> > "All men are mortal;
-> >
-> > "Socrates is a man;
-> >
-> > "Therefore Socrates is mortal?
->
-> "Yet, deep within you, there is, I know , an unspoken question.  If their truth may be attained, you ask how comes it that after generations it does not lie full-blown in our hands.  Ah, my friends, let us knot, in our disappointment, exaggerate.  There are realms where certainty is ours already--areas of mathematics, physics, and even of metaphysics where old insistent riddles have been solved for all time.  And as for the remaining areas of human interest, there too, we are not without hope, provided always that we posses a triad of virtues---caution, probity and patience---caution in our selection of first premises, probity in the deductions from the them, and, greatest of the three, patience.  It is for lack of this last that the most colossal blunders have been made in the past.  Too often have men, despising in their wishful impetuosity slow, safe plodding, overleaped all that intervened in a direct flight to their destination---only to find that they had arrived not at truth but illusion.
->
-> "It is, men of Antioch, of the part of wisdom to learn, but not to be discouraged, by experience.  Let us then restrain our eager hearts, discipline our restless minds and we shall together penetrate ever further the frontiers of the doubtful and the unintelligible.
->
-> "Patience, my friends, an someday we, and if not we, our children or our children's children will yet be able to say in response to the choices, intellectual and moral, forced on mankind by an inscrutable destiny, 'At last, I know.  After weary travail, I have come to understand.' "
->
-> The closing words were attended by a birth of applause.  Charicles bowed gracefully and awaited questions.  But no one raised a hand.  After a moment he turned with relief to the bench before which he had spoken and picked up his robe and his long ivory-headed staff.  At the signal, the audience rose, breaking into conversation.
->
-> In a few minutes, the garden emptied.  One man only remained behind, the white-haired man with a ravaged face whom Charicles had observed in the last row.  He worked his way forward, slowly as though lost in thought.
->
-> "My name is Elisha," he said abstractedly when he was face to face with the lecturer, "and may I congratulate you on your presentation, especially since I subscribe to it so completely?  In a sense, you have stated my own case."
->
-> "Thank you," Charicles smiled his appreciation.
->
-> "But," Elisha went on, "I should like to ask you a question."
->
-> "By all means," Charicles murmured, feigning interest.
->
-> "As you spoke," Elisha continued, quite unaware of the interruption, "Detected a gap in your argument---you left unabridged the interval between innate ideas and the syllogism you quoted.  After all it is a far cry from the assertion that if equals are added to equals the results are equals, and the major premise, 'All men are mortal.'  The former is indeed a judgement of pure reason.  The latter, on the other hand, involves the concepts 'men' and 'mortality' and an inference as to their association---all derived from sense and hence subject to all the uncertainties of physical experience.
->
-> "Now my question is this: how do you make the transition from innate ideas to such generalizations at the universal mortality of humanity?  It is just that that has been holding me up in a piece of work of my own, a book…
->
-> "What's more," he pressed on as unexpectedly he envisaged a possibility that had never occurred to him before, "even if I concede that a chain of reasoning can be strung over the abyss, there are still unresolved difficulties that have just suggested themselves to me.
->
-> "You have posited the validity of the deductive process.  But what happens when you forma  syllogism.  You take major premise A, minor premise B and deduce conclusion C.  You say when you are though that C follows inevitably from A and B.  But what do you mean by that?  Only that you have a sentiment of congruity, and emotion of fittingness.  Are sentiments the stuff of rational demonstration?
->
-> "Besides, I have been rereading the skeptical philosophers recently and have been impressed by one of their standard arguments.  Every syllogism, they contend, rests on a first premise.  Either you posit that premise as
+> "Besides, I have been rereading the skeptical philosophers recently and have been impressed by one of their standard arguments.  Every syllogism, they contend, rests on a first premise.  Either you posit that premise as an act of faith, in which case it is patently impossible to speak of its absolute sureness, or else you derive it from another syllogism … Somewhere you must stop and say, 'Here I shall believe without proof.'  Then what becomes of the claim to certainty?"
 
 Euclidean geometry is useful because it is a good model of physical space.  This utility made Elisha believe that it gives us certain knowledge of reality.  But its certainty is only as good as universe's geometry is not Euclidean.  Thus, the certainty Elisha found in Euclid is isolated from reality because we don't know whether its axioms describe reality.  This is the case for all mathematical knowledge.
 
 Thus, although the logical derivations in Euclid are a valid approach (if you assume the laws of logic are correct), they are only useful if you have sound axioms.  And finding absolutely certain axioms for metaphysical or ethical derivations is not possible.
 
-## Converation After Co
+## Conversation After Recognizing the Necessity of Faith
 
 The final conversation is between Elisha and Meir, his favorite student, many years later.
+
+> "… neither reality outside man, nor feeling within him, is altogether logical.  There will then always be in the crucible of thought a residue of the irrational never to be resolved into lucidity … man's mind is too frail, too inadequate an instrument to achieve certainty.
+
+> "For all truth rests ultimately on some act of faith, geometry on axioms, the sciences on the assumptions of the objective existence and orderliness of the world of nature.  In every realm one must lay down postulates or he shall have nothing at all.  So with morality and religion.  Faith and reason are not antagonists.  On the contrary, salvation is through the commingling of the two, the former to establish first premises, the latter to purify them of confusion and to draw the fullness of their implications.  It is not certainty which one acquires so, only plausibility, but that is the best we can hope for."
 
 ## Conclusion
