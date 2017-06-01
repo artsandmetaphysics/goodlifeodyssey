@@ -63,11 +63,11 @@ Jesus's last statement praises belief without direct evidence.  Note that Thomas
 Paul's first letter to the Corinthians also emphasizes faith over reason:
 
 > For Christ did not send me to baptize but to preach the gospel, and not with words of eloquent wisdom, lest the cross of Christ be emptied of its power.
-> 
+>
 > For the word of the cross is folly to those who are perishing, but to us who are being saved it is the power of God.  For it is written, "I will destroy the wisdom of the wise, and the discernment of the discerning I will thwart."  Where is the one who is wise?  Where is the scribe?  Where is the debater of this age?  Has not God made foolish the wisdom of the world?  For since, in the wisdom of God, the world did not know God through wisdom, it pleased God through the folly of what we preach to save those who believe.  For Jews demand signs and Greeks seek wisdom, but we preach Christ crucified, a stumbling block to Jews and folly to Gentiles, but to those who are called, both Jews and Greeks, Christ the power of God and the wisdom of God.  For the foolishness of God is wiser than men, and the weakness of God is stronger than men.
-> 
+>
 > For consider your calling, brothers: not many of you were wise according to worldly standards, not many were powerful, not many were of noble birth.  But God chose what is foolish in the world to shame the wise; God chose what is weak in the world to shame the strong;  God chose what is low and despised in the world, even things that are not, to bring to nothing things that are, so that no human being might boast in the presence of God.  And because of him you are in Christ Jesus, who became to us wisdom from God, righteousness and sanctification and redemption, so that, as it is written, "Let the one who boasts, boast in the Lord."
-> 
+>
 > And I, when I came to you, brothers, did not come proclaiming to you the testimony of God with lofty speech or wisdom.  For I decided to know nothing among you except Jesus Christ and him crucified.  And I was with you in weakness and in fear and much trembling, and my speech and my message were not in plausible words of wisdom, but in demonstration of the Spirit and of power, that your faith might not rest in the wisdom of men but in the power of God.
 > <cite title="English Standard Version">I Corinthians 1:17 - 2:5</cite>
 

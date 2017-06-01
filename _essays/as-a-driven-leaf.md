@@ -9,7 +9,7 @@ order: 200
 
 Milton Steinberg, an American rabbi, wrote *As a Driven Leaf* and published it in 1939.  It is a novel about Elisha ben Ayubah's exploration of faith and reason that ultimately led to his excommunication.   According to the foreword by Chaim Potok, Elisha's struggles probably paralleled Steinberg's, who was considered a heretic by some.
 
-The book is a tragedy within a tragedy---Elisha's story is set in Palestine and Syria during the Jewish-Roman wars, the last of which lead the death of 580,000 Jews.
+The book is a tragedy within a tragedy---Elisha's story is set in Palestine and Syria during the Jewish-Roman wars.
 
 I enjoyed the book thoroughly.  The outer story of the Jews within the Roman Empire is vivid, believable, and I can relate to Elisha and his struggles.
 
@@ -121,19 +121,26 @@ Demonax, like Akiba, does can not think we can find a certain foundation for our
 
 The third conversation is between Elisha and a philosopher who, like Elisha, believes we can develop a firm metaphysical foundation---this conversation is when Elisha looses faith in his metaphysical foundation.
 
-> "See," he urged, "how generous nature has been with us, equipping our minds from birth with sure truths for which we need not labor and which no sane person ever challenges.  Will the boldest skeptic deny that two and two equal four, no more, no less; that the whole is the sum of its parts; that equals, added to equals, yield equals; that every effect must have a cause; that A cannot be B and its opposite at the same time, that …?  But why belabor so obvious a point  Each of you can list dozens, hundreds, perhaps thousands of principles of like character. …"
+> "See," he [the philosopher] urged, "how generous nature has been with us, equipping our minds from birth with sure truths for which we need not labor and which no sane person ever challenges.  Will the boldest skeptic deny that two and two equal four, no more, no less; that the whole is the sum of its parts; that equals, added to equals, yield equals; that every effect must have a cause; that A cannot be B and its opposite at the same time, that …?  But why belabor so obvious a point  Each of you can list dozens, hundreds, perhaps thousands of principles of like character. …"
 >
-> "As you spoke," Elisha … "I detected a gap in your argument---you left unabridged the interval between innate ideas and the syllogism you quoted.  After all it is a far cry from the assertion that if equals are added to equals the results are equals, and the major premise, 'All men are mortal.'  The former is indeed a judgement of pure reason.  The latter, on the other hand, involves the concepts 'men' and 'mortality' and an inference as to their association---all derived from sense and hence subject to all the uncertainties of physical experience.
+> "As you spoke," Elisha [said] … "I detected a gap in your argument---you left unabridged the interval between innate ideas and the syllogism you quoted.  After all it is a far cry from the assertion that if equals are added to equals the results are equals, and the major premise, 'All men are mortal.'  The former is indeed a judgement of pure reason.  The latter, on the other hand, involves the concepts 'men' and 'mortality' and an inference as to their association---all derived from sense and hence subject to all the uncertainties of physical experience.
 >
 > "Now my question is this: how do you make the transition from innate ideas to such generalizations at the universal mortality of humanity? …
+
+Euclidean geometry is useful because it is a good model of physical space.  This utility made Elisha believe that it gives us certain knowledge of reality, but its certainty is only as good as its correspondence with nature.  We have since learned that physical space does not, in general, match Euclidean geometry.  Thus, mathematical certainty is isolated from reality.  I believe this is the point Elisha is making when he says "how you make the transition?"
+
+> Why does arithmetic have such wide application in spite of the abstractness of its concept?
 >
+> The answer is simple.  The concepts and conclusions of arithmetic, which generalize an enormous amount of experience, reflect in abstract form those relationships in the actual world that are met with constantly and everywhere…
+>
+> At the same time every abstract concept, in particular the concept of a number, is limited in its significance as a result of its very abstractedness.  In the first place, when applied to any concrete object it reflects only one aspect of the object and therefor gives only an incomplete picture of it… In the second place, abstract concept cannot be applied everywhere without certain limiting conditions.
+> <cite>A. D. Aleksandrov, et al., *Mathematics: Its Content, Methods, and Meaning*</cite>
+
+Thus, although the logical derivations in Euclid are a valid approach (if you assume the laws of logic are correct), they are only useful if you have sound axioms.  And finding absolutely certain axioms for metaphysical or ethical derivations is not possible.
+
 > "You have posited the validity of the deductive process.  But what happens when you form a syllogism.  You take major premise A, minor premise B and deduce conclusion C.  You say when you are though that C follows inevitably from A and B.  But what do you mean by that?  Only that you have a sentiment of congruity, and emotion of fittingness.  Are sentiments the stuff of rational demonstration?
 >
 > "Besides, I have been rereading the skeptical philosophers recently and have been impressed by one of their standard arguments.  Every syllogism, they contend, rests on a first premise.  Either you posit that premise as an act of faith, in which case it is patently impossible to speak of its absolute sureness, or else you derive it from another syllogism … Somewhere you must stop and say, 'Here I shall believe without proof.'  Then what becomes of the claim to certainty?"
-
-Euclidean geometry is useful because it is a good model of physical space.  This utility made Elisha believe that it gives us certain knowledge of reality.  But its certainty is only as good as universe's geometry is not Euclidean.  Thus, the certainty Elisha found in Euclid is isolated from reality because we don't know whether its axioms describe reality.  This is the case for all mathematical knowledge.
-
-Thus, although the logical derivations in Euclid are a valid approach (if you assume the laws of logic are correct), they are only useful if you have sound axioms.  And finding absolutely certain axioms for metaphysical or ethical derivations is not possible.
 
 ## Conversation After Recognizing the Necessity of Faith
 
