@@ -1,6 +1,6 @@
 ---
 title: 'Altera: Evolving Consciousness'
-description: 'I discuss how Nook\'s could evolve consciousness.'
+description: 'I discuss how Nooks could evolve consciousness.'
 status: incomplete
 order: 503
 ---
