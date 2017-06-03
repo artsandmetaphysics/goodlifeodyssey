@@ -1,5 +1,5 @@
 ---
-title: 'Critique of "As a Driven Leaf"'
+title: 'Philosophical Critique of "As a Driven Leaf"'
 description: 'A philosophical critique of "As a Driven Leaf", the story of a 1st century rabbi searching for truth in a Roman world.'
 status: incomplete
 order: 200
@@ -124,24 +124,23 @@ I occasionally doubt the utility of my continuing philosophical investigations. 
 Like Elisha, I think one answer is that the philosophical investigation is a form of giving back.  This answer requires you to believe that there is more to discover, and that you are well-suited to discover it.
 
 My fear is that I am not able, and that I use the investigations as an excuse to avoid the messy, uncomfortable work of making the world a better place.  Demonax seemed to feel similarly.
-
 ## Conversation While Realizing the Necessity of Faith
 
-The third conversation is between Elisha and a philosopher who, like Elisha, believes we can develop a firm metaphysical foundation---this conversation is when Elisha looses his faith in the possibility of a firm metaphysical foundation.
+The third conversation is between Elisha and a philosopher who, like Elisha, believes we can develop a firm metaphysical foundation---this conversation is when Elisha loses his faith in the possibility of a solid metaphysical foundation.
 
 > "See," he [the philosopher] urged, "how generous nature has been with us, equipping our minds from birth with sure truths for which we need not labor and which no sane person ever challenges.  Will the boldest skeptic deny that two and two equal four, no more, no less; that the whole is the sum of its parts; that equals, added to equals, yield equals; that every effect must have a cause; that A cannot be B and its opposite at the same time, that …?  But why belabor so obvious a point?  Each of you can list dozens, hundreds, perhaps thousands of principles of like character."
 >
 > …
 >
-> "As you spoke," Elisha [said] … "I detected a gap in your argument---you left unabridged the interval between innate ideas and the syllogism you quoted.  After all it is a far cry from the assertion that if equals are added to equals the results are equals, and the major premise, 'All men are mortal.'  The former is indeed a judgement of pure reason.  The latter, on the other hand, involves the concepts 'men' and 'mortality' and an inference as to their association---all derived from sense and hence subject to all the uncertainties of physical experience.
+> "As you spoke," Elisha [said] … "I detected a gap in your argument---you left unabridged the interval between innate ideas and the syllogism you quoted.  After all it is a far cry from the assertion that if equals are added to equals the results are equals, and the major premise, 'All men are mortal.'  The former is indeed a judgment of pure reason.  The latter, on the other hand, involves the concepts 'men' and 'mortality' and an inference as to their association---all derived from sense and hence subject to all the uncertainties of physical experience.
 >
 > "Now my question is this: how do you make the transition from innate ideas to such generalizations as the universal mortality of humanity? …
 
-Elisha has a good question.  How can we transition the innate certainty we have in logic and mathematics to reality?
+Elisha's question is perceptive.  How can we transition the innate certainty we have in logic and mathematics to reality?
 
-Euclidean geometry is useful because it is a good model of physical space.  But, unlike the Greeks, we know that physical space is not perfectly described by Euclidean geometry; it just happens to be quite accurate in Earth's gravitational field.  Thus Euclid's derivations may seem like certain statements about reality, but they are not.  The derivations are isolated from reality, and only correspond with it as much as the axioms used to derive them correspond with reality.
+Euclidean geometry is useful because it is a good model of physical space.  But, unlike the Greeks, we know that Euclidean geometry is an imperfect model of physical space; it is accurate in Earth's gravitational field, but it does not describe space near massive objects.  Thus Euclid's derivations may seem like certain statements about reality, but they are not.  The derivations are, in fact, isolated from reality.  They correspond with it as much as the axioms used to derive them correspond with reality.
 
-This disconnect between mathematics and reality is subtle.  I think many engineers and scientists haven't realized it, given my own experiences, and because the disconnect is highlighted prominently in the introductory chapter of a great math textbook:
+This disconnect between mathematics and reality is subtle.  Many engineers and scientists I have met haven't considered it.  I suspect this is why the disconnect is highlighted prominently in the introductory chapter of an excellent math textbook:
 
 > Why does arithmetic have such wide application in spite of the abstractness of its concept?
 >
@@ -150,29 +149,29 @@ This disconnect between mathematics and reality is subtle.  I think many enginee
 > At the same time every abstract concept, in particular the concept of a number, is limited in its significance as a result of its very abstractedness.  In the first place, when applied to any concrete object it reflects only one aspect of the object and therefor gives only an incomplete picture of it… In the second place, abstract concept cannot be applied everywhere without certain limiting conditions.
 > <cite>A. D. Aleksandrov, et al., *Mathematics: Its Content, Methods, and Meaning*</cite>
 
-Thus, I think the answer to Elisha's question is "you can't make the transition."  Any mathematical model may correspond to reality in every situation we have experienced thus far, but it is always possible we will run into new situations.  Even more problematically, even if a mathematical model perfectly described reality today, reality may change in the future!
+Thus, I think the answer to Elisha's question is "you can't make the transition."  Any mathematical model may correspond to reality in every situation we have experienced thus far, but it is always possible we will observe new situations.  Even more problematically, even if a mathematical model perfectly described reality today, reality may change in the future!
 
 This disconnect between mathematical certainty and reality is the first of two reasons Elisha decides faith is unavoidable.  The following quotes demonstrate his second reason:
 
-> "You have posited the validity of the deductive process.  But what happens when you form a syllogism.  You take major premise A, minor premise B and deduce conclusion C.  You say when you are though that C follows inevitably from A and B.  But what do you mean by that?  Only that you have a sentiment of congruity, and emotion of fittingness.  Are sentiments the stuff of rational demonstration?
+> "You have posited the validity of the deductive process.  But what happens when you form a syllogism.  You take major premise A, minor premise B and deduce conclusion C.  You say when you are though that C follows inevitably from A and B.  But what do you mean by that?  Only that you have a sentiment of congruity, an emotion of fittingness.  Are sentiments the stuff of rational demonstration?
 >
 > "Besides, I have been rereading the skeptical philosophers recently and have been impressed by one of their standard arguments.  Every syllogism, they contend, rests on a first premise.  Either you posit that premise as an act of faith, in which case it is patently impossible to speak of its absolute sureness, or else you derive it from another syllogism … Somewhere you must stop and say, 'Here I shall believe without proof.'  Then what becomes of the claim to certainty?"
 
-Elisha questions how can we have complete faith in the validity of our minds.  If we believe our minds evolved within our physical world, then perhaps the innate logical and mathematical truths "feel" certain to us because we evolved in a universe where they are certain.  Perhaps we can imagine a universe, which had a different type of physical law, where the laws of logic would *not* feel certain?  Evolution optimized our minds to think in our own universe, so our thinking is stuck within it.
+Elisha questions our mind's ability to reason.  If our minds evolved to work well within the physical laws of our world, then perhaps the innate logical and mathematical truths that "feel" certain, do so because we evolved that sense of certainty?  Could we imagine a different universe where the laws of logic would *not* feel certain?
 
 After this conversation, Elisha abandons his strict rejection of faith.
 
 ## Conversation After Recognizing the Necessity of Faith
 
-The final conversation is between Elisha and Meir, his favorite student, years later.
+The final conversation is between Elisha and Meir, his favorite student, years later.  In it Elisha beautifully summarizes his conclusion that we must rely on faith and reason:
 
 > "… neither reality outside man, nor feeling within him, is altogether logical.  There will then always be in the crucible of thought a residue of the irrational never to be resolved into lucidity … man's mind is too frail, too inadequate an instrument to achieve certainty.
 >
-> "For all truth rests ultimately on some act of faith, geometry on axioms, the sciences on the assumptions of the objective existence and orderliness of the world of nature.  In every realm one must lay down postulates or he shall have nothing at all.  So with morality and religion.  Faith and reason are not antagonists.  On the contrary, salvation is through the commingling of the two, the former to establish first premises, the latter to purify them of confusion and to draw the fullness of their implications.  It is not certainty which one acquires so, only plausibility, but that is the best we can hope for."
+> "… For all truth rests ultimately on some act of faith, geometry on axioms, the sciences on the assumptions of the objective existence and orderliness of the world of nature.  In every realm one must lay down postulates or he shall have nothing at all.  So with morality and religion.  Faith and reason are not antagonists.  On the contrary, salvation is through the commingling of the two, the former to establish first premises, the latter to purify them of confusion and to draw the fullness of their implications.  It is not certainty which one acquires so, only plausibility, but that is the best we can hope for."
 >
 > "… In all men there is a relentless drive to know and understand.  My destiny became one episode in an eternal drama.  In generations to come, others will desert the beliefs of their fathers and go seeking what I thought, others will put their trust in the intellect and strive to build philosophies and moralities after the fashion of the geometry book.  If only I could discover some way of bequeathing to them my hard-won conclusion, that the light of man's logic is too frail, unaided, to prevail against the enveloping darkness, that to reason faith is a prerequisite---then my career should not have been unavailing…"
 
-Here Elisha beautifully summarizes his conclusion that we must rely on faith and reason.  Meir loved Elisha:
+Meir loved Elisha:
 
 > "But, Master," Meir pleaded, "back there is all that you have failed to find---a faith---a God..."
 >
@@ -188,6 +187,6 @@ Here Elisha beautifully summarizes his conclusion that we must rely on faith and
 
 ## Conclusion
 
-*As a Driven Leaf* is a wonderful book.  The philosophical discussions were well though out and essential.
+*As a Driven Leaf* is a wonderful book.  The philosophical discussions were well thought out and essential, and the story provides an emotional and intellectual backdrop for these conversations that enhances their meaning.
 
-While reading the book, I left a strong connection with the Steinberg while reading the book, and like Chaim Potok says in the foreword, I would have loved to meet him.
+While reading the book, I felt a strong connection with the Steinberg while reading the book, and as Chaim Potok says in the foreword, I would have loved to meet him.
