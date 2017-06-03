@@ -7,7 +7,7 @@ order: 200
 
 ## Introduction
 
-Milton Steinberg, an American rabbi, wrote *As a Driven Leaf* and published it in 1939.  It is a novel about Elisha ben Ayubah's exploration of faith and reason that ultimately led to his excommunication.   According to the foreword by Chaim Potok, Elisha's struggles probably paralleled Steinberg's, who was considered a heretic by some.
+Milton Steinberg, an American rabbi, wrote *As a Driven Leaf* and published it in 1939.  It is a novel about Elisha ben Ayubah's exploration of faith and reason, which ultimately led to his excommunication.   According to the foreword by Chaim Potok, Elisha's struggles probably paralleled Steinberg's, who was considered a heretic by some.
 
 The book is a tragedy within a tragedy---Elisha's story is set in Palestine and Syria during the Jewish-Roman wars.
 
@@ -93,7 +93,7 @@ Akiba is aware of the truth that Elisha has not yet discovered, that some faith 
 
 It is interesting to note that Akiba considers faith "an act of will"---most Christians also believe this.  I think it is only partially true;  if a belief seems highly implausible, will can not produce faith.
 
-## Conversation While Rejecting Faith
+## Conversation While Exclusively Relying on Reason
 
 The second essay is between Elisha and Demonax---a philosopher who has decided to focus more on ethics than metaphysics.  It takes place while Elisha remains confident in the power of reason.
 
@@ -109,7 +109,7 @@ The second essay is between Elisha and Demonax---a philosopher who has decided t
 
 Demonax's derision towards "high-flown schemes of reality" is likely a reference to Aristotle's *Organon*, which divided reality into ten categories: substance, quantity, quality, relation, place, time, situation, condition, action, and passion.
 
-Demonax, like Akiba, does can not think we can find a certain foundation for our ethics.  Unlike Akiba, who puts his faith in Judaism, Demonax thinks ethics only needs "reasonable belief in God and a fairly consistent picture of the universe and man's role in it."  But how do we know man's role within the universe?  Assuming there is a God, does it care how we act?  And even if it does, how should we act?  Perhaps Demonax views ethics as the emperical science of making men happier.
+Demonax, like Akiba, does can not think we can find a certain foundation for our ethics.  Unlike Akiba, who puts his faith in Judaism, Demonax thinks ethics only needs "reasonable belief in God and a fairly consistent picture of the universe and man's role in it."  But how do we know man's role within the universe?  Assuming there is a God, does it care how we act?  And even if it does, how should we act?  Perhaps Demonax views ethics as the empirical science of making men happier, and as a science, we can observe and refine our approach.
 
 > "But after all," Elisha objected, "there is just as little agreement in the realm of practical principle [applied ethics] as in that of theory [metaphysics].  Your own argument can be turned against you …"
 >
@@ -117,17 +117,31 @@ Demonax, like Akiba, does can not think we can find a certain foundation for our
 >
 > "But if so," Elisha cried out, "it will go on forever.  If they possess no certainty and are never fully convinced of anything men will always take refugee in aphorisms and maxims.  I am not insensitive to human suffering, but the slow cure is sometimes the surer … only if there be first an indisputable interpretation of reality and a moral system drawn from it, will men be able to live, as engineers and architects work, with assurance."
 
+I can imagine this conversation occurring between the mature Milton Steinberg and his younger self.  "Can we withdraw into our books...?"
+
+I occasionally doubt the utility of my continuing philosophical investigations.  Of course some investigation is appropriate, but once you have considered the main arguments why continue?  Shouldn't we focus on our more immediate problems?  I believe that privileged like myself are obligated to give back.
+
+Like Elisha, I think one answer is that the philosophical investigation is a form of giving back.  This answer requires you to believe that there is more to discover, and that you are well-suited to discover it.
+
+My fear is that I am not able, and that I use the investigations as an excuse to avoid the messy, uncomfortable work of making the world a better place.  Demonax seemed to feel similarly.
+
 ## Conversation While Realizing the Necessity of Faith
 
-The third conversation is between Elisha and a philosopher who, like Elisha, believes we can develop a firm metaphysical foundation---this conversation is when Elisha looses faith in his metaphysical foundation.
+The third conversation is between Elisha and a philosopher who, like Elisha, believes we can develop a firm metaphysical foundation---this conversation is when Elisha looses his faith in the possibility of a firm metaphysical foundation.
 
-> "See," he [the philosopher] urged, "how generous nature has been with us, equipping our minds from birth with sure truths for which we need not labor and which no sane person ever challenges.  Will the boldest skeptic deny that two and two equal four, no more, no less; that the whole is the sum of its parts; that equals, added to equals, yield equals; that every effect must have a cause; that A cannot be B and its opposite at the same time, that …?  But why belabor so obvious a point  Each of you can list dozens, hundreds, perhaps thousands of principles of like character. …"
+> "See," he [the philosopher] urged, "how generous nature has been with us, equipping our minds from birth with sure truths for which we need not labor and which no sane person ever challenges.  Will the boldest skeptic deny that two and two equal four, no more, no less; that the whole is the sum of its parts; that equals, added to equals, yield equals; that every effect must have a cause; that A cannot be B and its opposite at the same time, that …?  But why belabor so obvious a point?  Each of you can list dozens, hundreds, perhaps thousands of principles of like character."
+>
+> …
 >
 > "As you spoke," Elisha [said] … "I detected a gap in your argument---you left unabridged the interval between innate ideas and the syllogism you quoted.  After all it is a far cry from the assertion that if equals are added to equals the results are equals, and the major premise, 'All men are mortal.'  The former is indeed a judgement of pure reason.  The latter, on the other hand, involves the concepts 'men' and 'mortality' and an inference as to their association---all derived from sense and hence subject to all the uncertainties of physical experience.
 >
-> "Now my question is this: how do you make the transition from innate ideas to such generalizations at the universal mortality of humanity? …
+> "Now my question is this: how do you make the transition from innate ideas to such generalizations as the universal mortality of humanity? …
 
-Euclidean geometry is useful because it is a good model of physical space.  This utility made Elisha believe that it gives us certain knowledge of reality, but its certainty is only as good as its correspondence with nature.  We have since learned that physical space does not, in general, match Euclidean geometry.  Thus, mathematical certainty is isolated from reality.  I believe this is the point Elisha is making when he says "how you make the transition?"
+Elisha has a good question.  How can we transition the innate certainty we have in logic and mathematics to reality?
+
+Euclidean geometry is useful because it is a good model of physical space.  But, unlike the Greeks, we know that physical space is not perfectly described by Euclidean geometry; it just happens to be quite accurate in Earth's gravitational field.  Thus Euclid's derivations may seem like certain statements about reality, but they are not.  The derivations are isolated from reality, and only correspond with it as much as the axioms used to derive them correspond with reality.
+
+This disconnect between mathematics and reality is subtle.  I think many engineers and scientists haven't realized it, given my own experiences, and because the disconnect is highlighted prominently in the introductory chapter of a great math textbook:
 
 > Why does arithmetic have such wide application in spite of the abstractness of its concept?
 >
@@ -136,18 +150,44 @@ Euclidean geometry is useful because it is a good model of physical space.  This
 > At the same time every abstract concept, in particular the concept of a number, is limited in its significance as a result of its very abstractedness.  In the first place, when applied to any concrete object it reflects only one aspect of the object and therefor gives only an incomplete picture of it… In the second place, abstract concept cannot be applied everywhere without certain limiting conditions.
 > <cite>A. D. Aleksandrov, et al., *Mathematics: Its Content, Methods, and Meaning*</cite>
 
-Thus, although the logical derivations in Euclid are a valid approach (if you assume the laws of logic are correct), they are only useful if you have sound axioms.  And finding absolutely certain axioms for metaphysical or ethical derivations is not possible.
+Thus, I think the answer to Elisha's question is "you can't make the transition."  Any mathematical model may correspond to reality in every situation we have experienced thus far, but it is always possible we will run into new situations.  Even more problematically, even if a mathematical model perfectly described reality today, reality may change in the future!
+
+This disconnect between mathematical certainty and reality is the first of two reasons Elisha decides faith is unavoidable.  The following quotes demonstrate his second reason:
 
 > "You have posited the validity of the deductive process.  But what happens when you form a syllogism.  You take major premise A, minor premise B and deduce conclusion C.  You say when you are though that C follows inevitably from A and B.  But what do you mean by that?  Only that you have a sentiment of congruity, and emotion of fittingness.  Are sentiments the stuff of rational demonstration?
 >
 > "Besides, I have been rereading the skeptical philosophers recently and have been impressed by one of their standard arguments.  Every syllogism, they contend, rests on a first premise.  Either you posit that premise as an act of faith, in which case it is patently impossible to speak of its absolute sureness, or else you derive it from another syllogism … Somewhere you must stop and say, 'Here I shall believe without proof.'  Then what becomes of the claim to certainty?"
 
+Elisha questions how can we have complete faith in the validity of our minds.  If we believe our minds evolved within our physical world, then perhaps the innate logical and mathematical truths "feel" certain to us because we evolved in a universe where they are certain.  Perhaps we can imagine a universe, which had a different type of physical law, where the laws of logic would *not* feel certain?  Evolution optimized our minds to think in our own universe, so our thinking is stuck within it.
+
+After this conversation, Elisha abandons his strict rejection of faith.
+
 ## Conversation After Recognizing the Necessity of Faith
 
-The final conversation is between Elisha and Meir, his favorite student, many years later.
+The final conversation is between Elisha and Meir, his favorite student, years later.
 
 > "… neither reality outside man, nor feeling within him, is altogether logical.  There will then always be in the crucible of thought a residue of the irrational never to be resolved into lucidity … man's mind is too frail, too inadequate an instrument to achieve certainty.
-
+>
 > "For all truth rests ultimately on some act of faith, geometry on axioms, the sciences on the assumptions of the objective existence and orderliness of the world of nature.  In every realm one must lay down postulates or he shall have nothing at all.  So with morality and religion.  Faith and reason are not antagonists.  On the contrary, salvation is through the commingling of the two, the former to establish first premises, the latter to purify them of confusion and to draw the fullness of their implications.  It is not certainty which one acquires so, only plausibility, but that is the best we can hope for."
+>
+> "… In all men there is a relentless drive to know and understand.  My destiny became one episode in an eternal drama.  In generations to come, others will desert the beliefs of their fathers and go seeking what I thought, others will put their trust in the intellect and strive to build philosophies and moralities after the fashion of the geometry book.  If only I could discover some way of bequeathing to them my hard-won conclusion, that the light of man's logic is too frail, unaided, to prevail against the enveloping darkness, that to reason faith is a prerequisite---then my career should not have been unavailing…"
+
+Here Elisha beautifully summarizes his conclusion that we must rely on faith and reason.  Meir loved Elisha:
+
+> "But, Master," Meir pleaded, "back there is all that you have failed to find---a faith---a God..."
+>
+> "Yes," Elisha said reflectively, "---and no.  It is true that I seek, that I have always sought what they have in the city yonder.  That is the fantastic intolerable paradox of my life, that I have gone questing for what I possessed initially---a belief to invest my days with dignity and meaning, a pattern of behavior through which man might most articulately express his devotion to his fellows.  In a sense it has all been a long arduous journey in a circle, whereby I have returned to my point of departure.
+>
+> "And yet I may not enter.   For those who lie there insist, at least in our generation, on the total acceptance without reservation of their revealed religion.  And I cannot surrender the liberty of my mind to any authority.  Free reason, my son, is a heady wine.  It has failed to sustain my heart, but having drunk of it, I can never be content with a less fiery drought."
+>
+> "Then what awaits you, Master?"
+>
+>  Elisha raised his eyes to the distant hills.
+>
+> "Older, sadder, wiser, I go seeking now, through faith and reason compounded, the answer to this baffling pageant which is the world."
 
 ## Conclusion
+
+*As a Driven Leaf* is a wonderful book.  The philosophical discussions were well though out and essential.
+
+While reading the book, I left a strong connection with the Steinberg while reading the book, and like Chaim Potok says in the foreword, I would have loved to meet him.
