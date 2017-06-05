@@ -1,5 +1,5 @@
 ---
-title: 'Philosophical Critique of "As a Driven Leaf"'
+title: 'Critique of "As a Driven Leaf"'
 description: 'A philosophical critique of "As a Driven Leaf", the story of a 1st century rabbi searching for truth in a Roman world.'
 status: incomplete
 order: 200
