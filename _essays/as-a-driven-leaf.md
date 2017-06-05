@@ -189,4 +189,4 @@ Meir loved Elisha:
 
 *As a Driven Leaf* is a wonderful book.  The philosophical discussions were well thought out and essential, and the story provides an emotional and intellectual backdrop for these conversations that enhances their meaning.
 
-While reading the book, I felt a strong connection with the Steinberg while reading the book, and as Chaim Potok says in the foreword, I would have loved to meet him.
+While reading the book, I felt a strong connection with the Steinberg, and as Chaim Potok says in the foreword, I would have loved to meet him.
