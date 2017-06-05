@@ -2,7 +2,7 @@
 title: 'Why Does Hell Exist?'
 description: 'Why would and all-loving God allow a place filled with suffering to exist?'
 status: incomplete
-order: 500
+order: 900
 ---
 Hell, as described by Dante in *The Divine Comedy*, is filled with people being tortured forever by demons.  Why does God allow the demons to torture people forever---is it so that he can be just?
 
