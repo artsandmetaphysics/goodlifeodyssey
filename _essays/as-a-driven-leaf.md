@@ -95,7 +95,7 @@ It is interesting to note that Akiba considers faith "an act of will"---most Chr
 
 ## Conversation While Exclusively Relying on Reason
 
-The second essay is between Elisha and Demonax---a philosopher who has decided to focus more on ethics than metaphysics.  It takes place while Elisha remains confident in the power of reason.
+The second conversation is between Elisha and Demonax---a philosopher who has decided to focus more on ethics than metaphysics.  It takes place while Elisha remains confident in the power of reason.
 
 > "Let me explain," Demonax continued.  "To you philosophy is a science.  To me it is an art.  To you it is a method of discovering truth.  To me it is a guide to noble living … I am the expositor not of a theory but of a skill.  As a flute teacher imparts his art, first by personal example and then by simple, practical principles, without too much concern over the nature of sound, so I attempt to influence people to live beautifully by striving to live so myself, and by communicating those rules of conduct that have stood the test of time."
 >
