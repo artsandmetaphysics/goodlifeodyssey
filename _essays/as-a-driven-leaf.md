@@ -41,11 +41,11 @@ Elisha, like most of us, wants his religious beliefs to be as certain as Euclide
 >
 > "But I still do not understand," Akiba had protested, "how you can expect me to discard beliefs even tentatively if I am really possessed by them.  Your suggestion is like the procedure of those Greek philosophers who say, 'I do not trust my reason, but I will use it to prove that I have no right to use it.' A man may insist that he lays a doctrine aside, but if it is integral to him, he will carry it with him wherever he goes and will inevitably find it again since it has never left him."
 
-Akiba's argument here is invalid.  Our core beliefs can obscure the hidden axioms, or assumptions, in our reasoning, but once identified, we can reason apart from them.  An atheist can realize that the proselytizer may be worried for his soul, and a Muslim can understand why the Qu'ran can not argue for its own validity to a non-believer.
+Akiba's argument here is invalid.  Our core beliefs can obscure implicit axioms in our reasoning, but once these axioms are identified, our reason is no longer bound by them.  An atheist can realize that the proselytizer may be worried for his soul, and a Muslim can understand why the Qu'ran can not argue for its own validity to a non-believer.
 
-Steinberg may have intended for Akiba to convey that our core beliefs influence which axioms we have faith in.  If this is so, then I agree.  Or perhaps Akiba wants Elisha to recognize that he is putting faith in reason and that we all must put faith in our axioms.  But not axioms are equally "believable."
+Steinberg may have intended for Akiba to convey that our core beliefs influence which axioms we have faith in.  If this is so, then I agree.  Or perhaps Akiba wants Elisha to recognize that he is putting faith in reason and that we all must put faith in our axioms.
 
-The believability of axioms is a vague concept.  If we also take "reason" as an axiom, believability is debatable (without reason we are lost).  Still, it is ultimately up to the individual to have faith in what they find most "believable," despite not having mathematical certainty, and to implicitly or explicitly answer the ethical question.
+However, some axioms are more "believable" than others.  If we include "reason" (vaguely defined) among our axioms, we can reason about the believably of our other axioms, but without reason we are lost.  Even with reason, there are few foundational axioms for us to put our faith in, and it is ultimately up to the individual to have faith in what they find most "believable," despite not having certainty.  And with this faith, to implicitly or explicitly answer the ethical question---how should one live?
 
 > "The purpose of life," said Akiba softly, "is to live well.  Whatever contributes toward that end is right and true.  My first and last criterion concerning my proposition is: Does it help men live better?  You may remember a lecture in which I asserted 'All is foreseen by God, yet man possesses freedom of will.' "
 >
@@ -61,7 +61,7 @@ The believability of axioms is a vague concept.  If we also take "reason" as an 
 >
 > "By what right," Akiba protested, "do you presume to call my attitude blind?  Belief need not be unseeing.  Is it a darkening of council to admit that truth is not a matter of the mind alone, but of the heart and experience also?  Since it cannot be obtained by reason unaided, faith is indispensable both as a base on which thought may stand, and as a check-rein when logic goes astray.
 
-When Akiba claims that "any doctrine enlarges life, then it possesses truth", I think he means that the truth of your axioms is indicated by the ethical outcomes they produce.  This view presupposes the central importance of humans and how they act.  I think this can be a tenable position, but before discussing further, I will define some terms.
+When Akiba claims "if any doctrine enlarges life, then it possesses truth," I think he means that the truth of your axioms is indicated by the ethical outcomes they produce.  This view presupposes the central importance of humans and how they act.  This belief is strange, but logically consistent.  Before discussing further, it is useful to define some terms.
 
 I think the three primary questions (and their loosely defined field of philosophy) are:
 
@@ -69,7 +69,7 @@ I think the three primary questions (and their loosely defined field of philosop
 - Epistemology --- How does one know?
 - Ethics --- What should I do?
 
-Most philosophies (or worldviews) answer these questions recursively.  For example, the modern scientific worldview is recursive:  The laws of nature describe how our bodies sense the world and these senses are deemed the basis of all knowledge---including the laws of nature.   Thus our metaphysics informs our epistemology which informs our metaphysics.
+Most philosophies (or worldviews) answer these questions recursively.  For example, the modern scientific worldview claims that the laws of nature describe how our bodies sense the world and these senses are deemed the basis of all knowledge---including the laws of nature.   Thus our metaphysics informs our epistemology which informs our metaphysics.
 
 The recursion between epistemology and metaphysics seems unavoidable.  Ethics, on the other hand, is typically derived from the other two fields.  But it doesn't have to be---Akiba argues that ethics can inform epistemology.  Here is an expanded form of his argument:
 
