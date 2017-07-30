@@ -119,11 +119,12 @@ Demonax, like Akiba, does can not think we can find a certain foundation for our
 
 I can imagine this conversation occurring between the mature Milton Steinberg and his younger self.  "Can we withdraw into our books...?"
 
-I occasionally doubt the utility of my continuing philosophical investigations.  Of course some investigation is appropriate, but once you have considered the main arguments why continue?  Shouldn't we focus on our more immediate problems?  I believe that privileged like myself are obligated to give back.
+I occasionally doubt the utility of philosophical investigations.  Some investigation is appropriate, but once you have considered the main arguments, why continue?  Shouldn't we focus on our more immediate problems?  I believe that privileged like myself are obligated to give back.
 
 Like Elisha, I think one answer is that the philosophical investigation is a form of giving back.  This answer requires you to believe that there is more to discover, and that you are well-suited to discover it.
 
 My fear is that I am not able, and that I use the investigations as an excuse to avoid the messy, uncomfortable work of making the world a better place.  Demonax seemed to feel similarly.
+
 ## Conversation While Realizing the Necessity of Faith
 
 The third conversation is between Elisha and a philosopher who, like Elisha, believes we can develop a firm metaphysical foundation---this conversation is when Elisha loses his faith in the possibility of a solid metaphysical foundation.
