@@ -5,17 +5,21 @@ status: incomplete
 order: 1
 ---
 
-Should we use other's beliefs to justify our own?
+Can we use other's beliefs to justify our own?
 
-Does Einstein's belief that there is no God justify my belief that there is no God?  More generally, does t
+Does Einstein's belief that P justify my belief that P?
+
+Imagine we ask Einstein why he believes that P, and he tells us J.  If we think J is valid, we may justify our belief that P using J too.
+
+Now imagine that J is very complicated.  Perhaps it would require us taking several college courses to understand, or perhaps it is beyond our mental ability, or perhaps we are simply busy.  Could we justify our belief that P using the fact that Einstein beliefs that P, without being aware of J?
 
 We must, because we have limited time and limited intelligence, but when we do, our
 
-But when we do, we 
+But when we do, we
 Sometimes it may be appropriate, however, it is a shortcut that leaves one open to several traps.
 
 When we don't have the time or ability to justify our belief directly, we can.
-I think that sometimes we should, but usually we should not.  Instead, we should consider how others *justify* their beliefs, and 
+I think that sometimes we should, but usually we should not.  Instead, we should consider how others *justify* their beliefs, and
 
 - We often listen to why other people believe what they belief, and if we think their justification is good, we may adopt the belief ourself.  In other words, we may think their justification is valid, so we justify our own belief in the same (or similar thing) in the same manner.
 - A justification is more complicated that the belief itself.  I believe the sun is a fiery ball of hydrogen undergoing nuclear reactions.  My justification for this belief is complicated and probably somewhat recursive.
@@ -36,7 +40,7 @@ I think that sometimes we should, but usually we should not.  Instead, we should
   - C.S. Lewis vs Sigmund Freud
 
 - Definitions
-  - Belief: 
+  - Belief:
   - Justification:
 - e.g. Einstein is an Atheist, and Einstein is really smart, so Atheism is probably correct.
 - Knowledge derived from other people
