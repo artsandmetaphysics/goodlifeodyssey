@@ -1,30 +1,41 @@
 ---
-title: 'When Should We Trust Experts'
+title: "Justification via Other's Beliefs"
 description: >
 status: incomplete
 order: 2.5
 ---
 
-We justify our beliefs using sensory knowledge, reasoning, memories, intuition, emotion, and other means.
+We justify our beliefs using a combination of intuition, emotion, reasoning, sensory perception, and other means.
 
-Should we justify our beliefs using other's beliefs?
+We may also justify our beliefs using other's beliefs.  For example, someone may believe that the sun's light comes from nuclear reactions because their teacher believes it.
 
-Does Einstein's belief that P justify my belief that P?
+Alternatively, one could listen to why their teacher believes the sun's light comes from nuclear reactions, study the requisite math and physics, and judge for themself whether their teacher's justification was valid.
 
-Imagine we ask Einstein why he believes that P, and he tells us J.  If we think J is valid, we may justify our belief that P using J too.  In this case, we are _not_ using Einstein's _belief_ to justify our own, rather we are considering his justification and adopting or rejecting it for ourself.  This distinction is important.
+In the first case, we are justifying our belief using another's belief.  In the second case we are adopting another's justification for ourself without relying on their belief.  This distinction is subtle but important.
 
-But what if we are unable to consider Einstein's justification, J, for ourself?  In this situation, could we justify our belief that P using the fact that Einstein beliefs that P, without being aware of J?
+Frequently, we combine these approaches; for example, we may study enough nuclear physics to feel comfortable accepting our teacher's opinion.  In this case, we are justifying our belief partially on our own knowledge and reasoning, and partly on our teacher's belief.
 
-I believe that, due to time-constraints, sometimes we must rely on other's beliefs to justify our own.
+When we justify our beliefs using other's beliefs, we open ourselves up to two problems:
 
-For example, someone may believe that the sun is a fiery ball of hydrogen undergoing nuclear reactions.  They may justify this belief because their science teacher also believes it, even if they don't understand their teacher's justification.
+1. The other person is deceiving us.
+2. The other person is mistaken.
 
-Whenever we justify our beliefs using other's beliefs, we open ourselves up to two problems:
+Given these problems, when is it appropriate to justify our beliefs using other's beliefs?
 
-1. The other person is mistaken.
-2. The other person is deceiving us.
+Many beliefs can only be justified via other's beliefs.  Beliefs that prophets have had religious revelations fall into this category.  For example, a prophet says that God wants you to stop going on expensive vacations and to donate to the poor.  You can only justify your belief in the prophet by believing what the prophet says; you must believe that they are not deceiving you and they are not mistaken.  Beliefs about historical events can only be justified via other's beliefs because we are not present to see the event ourself.  For example, your Uncle tells you that your great great grandfather had Parkinson's disease; nobody else in the family knows about this and there are no records, and you must make a difficult personal medical decision using this knowledge.  Your belief that you have a family history of Parkinson's is based on your Uncle's belief.
 
-If we take the time to understand the other person's justification, we may rule out the second problem.  We can not rule out the first problem, however, because we may be mistaken ourself.
+When considering such beliefs, we must build a supporting case for our own belief.  We must consider the other person's motives, how many other people also belief the same thing (for example, our belief in the Holocaust is based on the witness of many people).
+
+Other beliefs may be justified by other means, but only at great difficulty.  For example, the experimental evidence for our theory of nuclear reactions in the sun would be difficult for me to reproduce.
+
+Typically we rely on other's beliefs when we do not have the time, interest, or ability to understand their justification ourself.
+
+If we take the time to understand the other person's justification we may avoid the first problem.  But we can not completely avoid the second problem, because we may be mistaken ourself.
+
+
+
+Our beliefs are justified using several different means; i.e. we don't usually justify our beliefs using a single form of justification.
+
 
 Three points:
 
