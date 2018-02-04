@@ -7,9 +7,7 @@ order: 2.5
 
 We justify our beliefs using a combination of intuition, emotion, reasoning, sensory perception, and other means.
 
-We may also justify our beliefs using other's beliefs.  For example, someone may believe that the sun's light comes from nuclear reactions because their teacher believes it.
-
-Alternatively, one could listen to why their teacher believes the sun's light comes from nuclear reactions, study the requisite math and physics, and judge for themself whether their teacher's justification was valid.
+We may also justify our beliefs using other's beliefs.  For example, someone may believe that the sun's light comes from nuclear reactions because their teacher believes it.  Alternatively, one could listen to why their teacher believes the sun's light comes from nuclear reactions, study the requisite math and physics, and judge for themself whether their teacher's justification was valid.
 
 In the first case, we are justifying our belief using another's belief.  In the second case we are adopting another's justification for ourself without relying on their belief.
 
