@@ -7,11 +7,11 @@ order: 200
 
 ## Introduction
 
-Milton Steinberg, an American rabbi, wrote *As a Driven Leaf* and published it in 1939.  It is a novel about Elisha ben Ayubah's exploration of faith and reason, which ultimately led to his excommunication.   According to the foreword by Chaim Potok, Elisha's struggles probably paralleled Steinberg's, who was considered a heretic by some.
+Rabbi Milton Steinberg wrote *As a Driven Leaf* and published it in 1939.  It is a novel about Elisha ben Ayubah's exploration of faith and reason, leading to his excommunication and tragic end as he fails to resolve the questions that haunted him.   According to the foreword by Chaim Potok, Elisha's struggles paralleled Steinberg's, who was considered a heretic by some.
 
 The book is a tragedy within a tragedy---Elisha's story is set in Palestine and Syria during the Jewish-Roman wars.
 
-I enjoyed the book thoroughly.  The outer story of the Jews within the Roman Empire is vivid, believable, and I can relate to Elisha and his struggles.
+I enjoyed the book thoroughly.  The outer story of the Jews within the Roman Empire is vivid, and I can relate to Elisha and his struggles.
 
 Elisha's intellectual journey has three stages:
 
