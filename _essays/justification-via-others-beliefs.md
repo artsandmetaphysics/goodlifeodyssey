@@ -11,7 +11,7 @@ We may also justify our beliefs using other's beliefs.  For example, someone may
 
 Alternatively, one could listen to why their teacher believes the sun's light comes from nuclear reactions, study the requisite math and physics, and judge for themself whether their teacher's justification was valid.
 
-In the first case, we are justifying our belief using another's belief.  In the second case we are adopting another's justification for ourself without relying on their belief.  This distinction is subtle but important.
+In the first case, we are justifying our belief using another's belief.  In the second case we are adopting another's justification for ourself without relying on their belief.
 
 Frequently, we combine these approaches; for example, we may study enough nuclear physics to feel comfortable accepting our teacher's opinion.  In this case, we are justifying our belief partially on our own knowledge and reasoning, and partly on our teacher's belief.
 
@@ -31,22 +31,3 @@ Other beliefs may be justified by other means, but only at great difficulty.  Fo
 Typically we rely on other's beliefs when we do not have the time, interest, or ability to understand their justification ourself.
 
 If we take the time to understand the other person's justification we may avoid the first problem.  But we can not completely avoid the second problem, because we may be mistaken ourself.
-
-
-
-Our beliefs are justified using several different means; i.e. we don't usually justify our beliefs using a single form of justification.
-
-
-Three points:
-
-1. Many other people
-2. A combination (partially considering the other person's justification)
-3. Who is the other person?  Experts and credentials.
-
-And of course, the likelihood of these problems occurring depends on who the other person is.
-
-
-Case Studies:
-
-1. Evolution
-2. Sigmund Freud vs C.S. Lewis
