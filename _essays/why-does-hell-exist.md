@@ -6,4 +6,4 @@ order: 900
 ---
 Hell, as described by Dante in *The Divine Comedy*, is filled with people being tortured forever by demons.  Why does God allow the demons to torture people forever?
 
-Hell, as described by C. S. Lewis in *The Great Divorce*, is filled with people who decided not to be with God.  Why does God allow the non-believers to continue existing?  Why must they exist forever, miserable in their eternal separateness from Him?   After a person chooses Hell, God could erase them from existence.  Why doesn't he?
+Hell, as described by C. S. Lewis in *The Great Divorce*, is filled with people who decided not to be with God.  Why does God allow the non-believers to continue existing, forever miserable in their separateness from Him?   After a person chooses Hell, God could erase them from existence.  Why doesn't he?
