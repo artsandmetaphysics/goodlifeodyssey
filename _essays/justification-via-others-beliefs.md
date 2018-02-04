@@ -1,7 +1,7 @@
 ---
 title: "Justification via Other's Beliefs"
 description: >
-status: incomplete
+status: complete
 order: 2.5
 ---
 
