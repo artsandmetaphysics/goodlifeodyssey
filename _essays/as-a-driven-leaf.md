@@ -41,7 +41,7 @@ Elisha, like most of us, wants his religious beliefs to be as certain as Euclide
 >
 > "But I still do not understand," Akiba had protested, "how you can expect me to discard beliefs even tentatively if I am really possessed by them.  Your suggestion is like the procedure of those Greek philosophers who say, 'I do not trust my reason, but I will use it to prove that I have no right to use it.' A man may insist that he lays a doctrine aside, but if it is integral to him, he will carry it with him wherever he goes and will inevitably find it again since it has never left him."
 
-Akiba's argument here is invalid.  Our core beliefs can obscure implicit axioms in our reasoning, but once these axioms are identified, our reason is no longer bound by them.  An atheist can realize that the proselytizer may be worried for his soul, and a Muslim can understand why the Qu'ran can not argue for its own validity to a non-believer.
+Akiba's argument here is invalid.  I agree that reason can not prove or disprove itself, but this does not imply that we can not set aside our beliefs to analyze them.  Our core beliefs can obscure implicit axioms in our reasoning, but once these axioms are identified, our reason is no longer bound by them.  An atheist can realize that the proselytizer may be worried for his soul, and a Muslim can understand why the Qu'ran can not argue for its own validity to a non-believer.
 
 Steinberg may have intended for Akiba to convey that our core beliefs influence which axioms we have faith in.  If this is so, then I agree.  Or perhaps Akiba wants Elisha to recognize that he is putting faith in reason and that we all must put faith in our axioms.
 
