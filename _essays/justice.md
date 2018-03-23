@@ -1,6 +1,6 @@
 ---
-title: 'Contemplating Justice'
-description: "A variety of thoughts and considerations on justice"
+title: 'Justice'
+description: "A meandering contemplation of justice"
 status: incomplete
 order: 104
 ---
