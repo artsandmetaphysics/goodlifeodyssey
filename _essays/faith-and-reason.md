@@ -4,16 +4,20 @@ description: 'An exploration of the relationship between faith and reason.'
 status: incomplete
 order: 400
 ---
-Why do religious people believe in their religion---Christianity, Islam, Vaishnavism, Shaivism, Buddhism, Shaktism, Smartism, Sikhism, Judiasm, Bahá'í, Jainism, Shinto, Cao Dai, Zoarastrianism, Tenrikyo, Rastafarianism, or any of the many thousands of religions that exist or have existed?  There are likely many reasons.  I want to believe in a religion because it is true.
 
-Most religions make claims about the nature of reality---what I will call metaphysical claims.  Here are a few examples of metaphysical claims:
+## Why Believe
+
+There are many reasons to practice a religion, but most can be reduced to "I think it is true" or "it makes me happier."
+
+I want to practice a religion because it is true.  What do I mean by true?
+
+Most religions make metaphysical claims---claims about the nature of reality.  Here are a few such claims:
 
 - The pharaoh is a god.
 - Trees have spirits.
 - The universe was created.
 - The laws of physics have never changed.
 - Humans have souls.
-- Humans do not have souls.
 - All "living" creatures have souls.
 - The universe will end.
 - Heaven exists.
@@ -23,7 +27,11 @@ Most religions make claims about the nature of reality---what I will call metaph
 
 I want to believe a religion that makes true metaphysical claims.
 
-Some people are religions because it makes them happier.  Buddhists don't necessarily believe any metaphysical claims.  Buddha himself seemed to think that many metaphysical questions were unknowable (although he does implicitly make at least one metaphysical claim---that humans are reincarnated).  Religions like this seem to have somewhat limited utility to me.  I am naturally very happy; many of the teachings of Buddhism I feel are very true and very profound, and I even think having read them has made me happier.
+{% comment %}
+What about religions that don't make any claims.
+
+What about religions that make more claims than another.  One religion claims "A," while another claims "A" and "B."  Which religion should you believe?
+{% endcomment %}
 
 How can we know whether a metaphysical claim is true?  It depends on the claim.  Some claims can be verified using the scientific method, however, the scientific method itself assumes a metaphysical claim---that the laws of physics have never changed.  If the laws of physics do change, then we can not use our scientific knowledge to draw conclusions about the after or before the laws of physics changed.
 
@@ -37,7 +45,7 @@ Many religions make many metaphysical claims.  If they do, these claims must be 
 
 The apostle Paul, in his letter to the Romans, writes:
 
->  For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who by their unrighteousness suppress the truth.  For what can be known about God is plain to them, because God has shown it to them.  For his invisible attributes, namely, his eternal power and divine nature, have been clearly perceived, ever since the creation of the world, in the things that have been made.  So they are without excuse.  For although they knew God, they did not honor him as God or give thanks to him, but they became futile in their thinking, and their foolish hearts were darkened.  Claiming to be wise, they became fools, and exchanged the glory of the immortal God for images resembling mortal man and birds and animals and creeping things.
+> For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who by their unrighteousness suppress the truth.  For what can be known about God is plain to them, because God has shown it to them.  For his invisible attributes, namely, his eternal power and divine nature, have been clearly perceived, ever since the creation of the world, in the things that have been made.  So they are without excuse.  For although they knew God, they did not honor him as God or give thanks to him, but they became futile in their thinking, and their foolish hearts were darkened.  Claiming to be wise, they became fools, and exchanged the glory of the immortal God for images resembling mortal man and birds and animals and creeping things.
 > <cite title="English Standard Version">Romans 1:18 - 23</cite>
 
 The universe is awesome and beautiful.  For non-believers, surely the existence of the universe is the supreme mystery.  Was it created, or did it always exist?  Does it have any unity or purpose?  If a being created it, why?
