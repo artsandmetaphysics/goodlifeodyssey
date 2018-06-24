@@ -15,8 +15,9 @@ Frequently, we combine these approaches; for example, we may study enough nuclea
 
 When we justify our beliefs using other’s beliefs, we open ourselves up to two problems:
 
-The other person is deceiving us.
-The other person is mistaken.
+1. The other person is deceiving us.
+2. The other person is mistaken.
+
 Given these problems, when is it appropriate to justify our beliefs using other’s beliefs?
 
 Many beliefs can only be justified via other’s beliefs. Beliefs that prophets have had religious revelations fall into this category. For example, a prophet says that God wants you to stop going on expensive vacations and to donate to the poor. You can only justify your belief in the prophet by believing what the prophet says; you must believe that they are not deceiving you and they are not mistaken. Beliefs about historical events can only be justified via other’s beliefs because we are not present to see the event ourself. For example, your Uncle tells you that your great great grandfather had Parkinson’s disease; nobody else in the family knows about this, and there are no records, and you must make a difficult personal medical decision using this knowledge. Your belief that you have a family history of Parkinson’s is based on your Uncle’s belief.
