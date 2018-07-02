@@ -88,8 +88,81 @@ down his cheeks the tears were coursing.</blockquote>
 
 In both stories a snake causes a man to lose access to a plant which provides eternal life.  However, there are many differences.  In Genesis, the plant is given to Adam by God; Gilgamesh is told about the plant by the Babylonian Noah and he must find it himself.  In Genesis, the plant is a tree in the garden of Eden; in the *Epic of Gilgamesh,* it is a prickly plant at the bottom of the "Ocean Below."
 
-There are enough similarities between the two stories that I believe one of the following statements must be true
+The similarities between the story of Noah and the Babylonian texts are manifold.  The creation story in Genesis, Job, the Psalms, and Ecclesiastes have traces of concepts from Babylonian texts.
 
-- Genesis was influenced by *The Epic of Gilgamesh*
-- *The Epic of Gilgamesh* was influenced by Genesis
-- Both stories had a common source.
+For example, the Hebrew Bible, like Babylonian mythology, has the idea of the waters above and the waters below.  Here are some quotes from the New Revised Standard Version translation:
+
+> And God said, "Let there be a dome in the midst of the waters, and let it separate the waters from the waters."  So God made the dome and separated the waters that were under the dome from the waters that were above the dome.  And it was so.  God called the dome Sky.  And there was evening and there was morning, the second day. <cite>Genesis 1:6-8</cite>
+
+> In the six hundredth year of Noah's life, in the second month, on the seventeenth day of the month, on that day all the fountains of the great deep burst forth, and the windows of the heavens were opened. <cite>Genesis 7:11</cite>
+
+> And God made a wind blow over the earth, and the waters subsided; the fountains of the deep and the windows of the heavens were closed, the rain from the heavens was restrained, and the waters gradually receded from the earth. <cite>Genesis 8:1-3</cite>
+
+<blockquote class="poetry">Praise him, you highest heavens,
+    and you waters above the heavens!<cite>Psamls 149:4</cite></blockquote>
+
+The most common explanation for the Hebrew's and Babylonian's belief in the waters above is that the sky is blue and water is blue.
+
+In Babylonian mythology, Marduk was the supreme god.  Marduk rose to power by killing Tiamat, who was often represented as a great sea dragon, when all the other Babylonian gods were too afraid to confront it.  It seems that the Hebrew god references fought a similar battle:
+
+<blockquote class="poetry">Can you draw out Leviathan with a fishhook,
+    or press down its tongue with a cord?
+Can you put a rope in its nose,
+    or pierce its jaw with a hook?
+...
+Any hope of capturing it will be disappointed;
+    were not even the gods overwhelmed at the sight of it?<cite>Job 41:1-9</cite></blockquote>
+
+<blockquote class="poetry">You divided the sea by your might;
+    you broke the heads of the dragons in the waters.
+You crushed the heads of Leviathan;
+    you gave him as food for the creatures of the wilderness.<cite>Psalm 74:13-14</cite></blockquote>
+
+Finally, parts of Ecclesiastes are very similar to the *Epic of Gilgamesh*.  Here is a quote, from a tavern-keeper at the edge of the world, advising Gilgamesh:
+
+<blockquote class="poetry">The life that you seek you never will find:
+    When the gods created mankind,
+Death they dispensed to mankind,
+    Life they kept for themselves.
+
+‘But you, Gilgamesh, let your belly be full,
+    Enjoy yourself always by day and by night!
+Make merry each day,
+    Dance and play day and night!
+
+‘Let your clothes be clean,
+    Let your head be washed, may you bathe in water!
+Gaze on the child who holds your hand,
+    Let your wife enjoy your repeated embrace!
+
+‘For such is the destiny of mortal men</blockquote>
+
+And here is a similar saying in Ecclesiastes:
+
+> The living know that they will die, but the dead know nothing; they have no more reward, and even the memory of them is lost.  Their love and their hate and their envy have already perished; never again will they have any share in all that happens under the sun.
+>
+> Go, eat your bread with enjoyment, and drink your wine with a merry heart; for God has long ago approved what you do.  Let your garments always be white; do not let oil be lacking on your head.  Enjoy life with the wife whom you love, all the days of your vain life that are given you under the sun, because that is your portion in life and in your toil at which you toil under the sun.  Whatever your hand finds to do, do with your might; for there is no work or though or knowledge or wisdom in Sheol, to which you are going. <cite>Ecclesiastes 9:5-10</cite>
+
+Finally, the Hebrew and Babylonian flood stories are exceedingly similar.  Instead of providing a long list of quotes, I will instead list the similarities:
+
+- Before the flood, men live many hundreds of years
+- Pre-flood individuals are taken directly to heaven (Enoch in the Hebrew Bible; Emmeduranki and others in the Babylonian tradition)
+- The lifespan of mankind is limited
+- A single man to build a boat with very specific dimensions
+- The flood wipes out all living creatures that are not on the boat
+- The man makes sacrifices which are pleasing to the gods or God
+- Three birds are sent to find land
+- A covenant is made between the man and gods or God.
+
+Thus, one can see that there are many similarities between *The Epic of Gilgamesh* and other Babylonian texts, and the Hebrew Bible.  For any particular similarly one of the following statements must be true
+
+1. It is a coincidence
+2. The Hebrew Bible was influenced by Babylonian texts
+3. Babylonian texts were influenced by the Hebrew Bible
+4. Both texts were influences by an third, older, source.
+
+Some of these similarities may be deemed coincidental, but it seems implausible to believe that all of them are.
+
+Each similarity requires its own analysis.  Sometimes we can rely on the dates of the texts to rule out certain possibilities.  For example, Solomon is thought to have lived between 1000 and 900 BC, and thus Ecclesiastes could not have been written earlier than this.  The similar quote from *The Epic of Gilgamesh* if from a tablet that is from 1800 - 1700 BC.  Thus, explanation (2) is implausible.
+
+Most of the Babylonian clay tablets we have today were copied around the time of Babylonian captivity, and thus a simple archaeological analysis is not possible because we do not know when the age of the original material.
