@@ -6,7 +6,7 @@ order: 1
 
 ## History
 
-The Egyptian priest Manetho grouped the pharaohs into 31 dynasties. Modern Egyptologists tend to count the early, Macedonian, and Ptolemaic pharaohs as three additional dynasties, resulting in a 34 dynasties.  The dynasties are grouped into periods:
+The Egyptian priest Manetho grouped the pharaohs into 31 dynasties. Modern Egyptologists tend to count the early, Macedonian, and Ptolemaic pharaohs as three additional dynasties, for a total of 34 dynasties.  The dynasties are grouped into the following periods (all dates are BCE and approximate):
 
 1. Predynastic (5000 - 3000)
 2. Early Dynastic (3000 - 2625)
