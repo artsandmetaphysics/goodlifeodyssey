@@ -15,10 +15,19 @@ collections:
   essays:
     output: true
     permalink: /:path
+  notes:
+    output: true
+    permalink: /:path
 defaults:
   - scope:
       path: ""
       type: essays
+    values:
+      layout: basic
+      status: complete
+  - scope:
+      path: ""
+      type: notes
     values:
       layout: basic
       status: complete

@@ -126,13 +126,13 @@ ul, ol {
   padding-left: 2rem;
 }
 
-#essays {
+.index {
   padding: 0;
   margin: 0;
   list-style: none;
 }
 
-#essays > li:not(:first-child) {
+.index > li:not(:first-child) {
   margin-top: 0.5rem;
 }
 
