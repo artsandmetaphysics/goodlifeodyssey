@@ -147,22 +147,22 @@ Finally, the Hebrew and Babylonian flood stories are exceedingly similar.  Inste
 
 - Before the flood, men live many hundreds of years
 - Pre-flood individuals are taken directly to heaven (Enoch in the Hebrew Bible; Emmeduranki and others in the Babylonian tradition)
-- The lifespan of mankind is limited
-- A single man to build a boat with very specific dimensions
+- The human lifespan is limited
+- A single man to build a boat with specific dimensions
 - The flood wipes out all living creatures that are not on the boat
 - The man makes sacrifices which are pleasing to the gods or God
 - Three birds are sent to find land
-- A covenant is made between the man and gods or God.
+- A covenant established between the man and gods or God.
 
-Thus, one can see that there are many similarities between *The Epic of Gilgamesh* and other Babylonian texts, and the Hebrew Bible.  For any particular similarly one of the following statements must be true
+Thus, one can see that there are many similarities between the Babylonian texts and the Hebrew Bible.  For any particular similarity one of the following must be true:
 
 1. It is a coincidence
 2. The Hebrew Bible was influenced by Babylonian texts
 3. Babylonian texts were influenced by the Hebrew Bible
-4. Both texts were influences by an third, older, source.
+4. Both texts were influenced by a third, older, source.
 
 Some of these similarities may be deemed coincidental, but it seems implausible to believe that all of them are.
 
-Each similarity requires its own analysis.  Sometimes we can rely on the dates of the texts to rule out certain possibilities.  For example, Solomon is thought to have lived between 1000 and 900 BC, and thus Ecclesiastes could not have been written earlier than this.  The similar quote from *The Epic of Gilgamesh* if from a tablet that is from 1800 - 1700 BC.  Thus, explanation (2) is implausible.
+Each similarity requires separate analysis.  Sometimes we can rely on the dates of the texts to rule out certain possibilities.  For example, Solomon is thought to have lived between 1000 and 900 BC, and thus Ecclesiastes could not have been written earlier than this.  The similar quote from *The Epic of Gilgamesh* if from a tablet that is from 1800 - 1700 BC.  Thus, explanation (3) is implausible.
 
-Most of the Babylonian clay tablets we have today were copied around the time of Babylonian captivity, and thus a simple archaeological analysis is not possible because we do not know when the age of the original material.
+Most of the Babylonian clay tablets we have recovered were copied around the time of Babylonian captivity, and thus a simplistic archaeological analysis is not possible because we do not know when the age of the original material.
