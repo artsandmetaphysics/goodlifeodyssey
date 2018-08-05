@@ -8,20 +8,20 @@ order: 1
 
 The Egyptian priest Manetho grouped the pharaohs into 31 dynasties. Modern Egyptologists tend to count the early, Macedonian, and Ptolemaic pharaohs as three additional dynasties, for a total of 34 dynasties.  The dynasties are grouped into the following periods (all dates are BCE and approximate):
 
-1. Predynastic (5000 - 3000)
-2. Early Dynastic (3000 - 2625)
-3. Old Kingdom (2625 - 2130)
-4. First Intermediate Period (2130 - 1980)
-5. Middle Kingdom (1980 - 1630)
-6. Second Intermediate Period (1630 - 1539)
-7. New Kingdom (1539 - 1075)
-8. Third Intermediate Period (1075 - 656)
-9. Late Period (664 - 332)
-10. Hellenistic Period (332 - 30)
+1. Predynastic (5000 - 3000), Dynasty 0
+2. Early Dynastic (3000 - 2625), Dynasties 1 - 3
+3. Old Kingdom (2625 - 2130), Dynasties 4 - 8
+4. First Intermediate Period (2130 - 1980), Dynasties 9 - 11
+5. Middle Kingdom (1980 - 1630), Dynasties 12 - 14
+6. Second Intermediate Period (1630 - 1539), Dynasties 15 - 17
+7. New Kingdom (1539 - 1075), Dynasties 18 - 20
+8. Third Intermediate Period (1075 - 656), Dynasties 21 - 25
+9. Late Period (664 - 332), Dynasties 26 - 31
+10. Hellenistic Period (332 - 30), Dynasties 32 - 33
 
 ## Wisdom Literature
 
-Here are a few excerpts from the *Teaching of Ptahhotep,* generally believed to have been composed in the first half of the Twelth Dynasty (c. 1850):
+Here are a few excerpts from the Toby Wilkinson translation of the *Teaching of Ptahhotep,* generally believed to have been composed in the first half of the Twelth Dynasty (c. 1850):
 
 <blockquote class="poetry">If you come across a disputatious man in the heat of the moment,
 who has authority over you as a superior,
@@ -44,9 +44,9 @@ who is a poor man, not your equal,
 do not be aggressive to him simply because he is weak.
 Leave him alone and he will confute himself.
 Do not answer him back merely to lighten your heart
-Do not vent our anger against your opponent,
+Do not vent your anger against your opponent,
 for wretched is he who injures a poor man.
-What you will wish will be down anyway:
+What you wish will be done anyway:
 you will beat him through the elders' disapproval.
 
 If you are a man in a position of trust,
