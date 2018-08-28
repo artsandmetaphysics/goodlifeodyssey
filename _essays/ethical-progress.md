@@ -5,7 +5,11 @@ status: incomplete
 order: 3.1
 ---
 
-We can judge individuals and societies.
+To distinguish ethical progress, regress, and mere change, we need a common ethics.
+
+Ethics is situational; to judge the past we need to know and understand it more than we often can.
+
+Ethical progress can occur in both individuals and societies.
 
 It is difficult to discern ethical progress from technological progress.  Ethics is the study of how one should act in a given situation.  Technological progress will alter the type and frequency of situations that individuals and societies face.  For example, medical technology has given rise to many new situations.
 
