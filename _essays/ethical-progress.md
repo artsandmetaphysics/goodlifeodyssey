@@ -5,22 +5,18 @@ status: incomplete
 order: 3.1
 ---
 
-To distinguish ethical progress, regress, and mere change, we need a common ethics.
+Has humanity made ethical progress?
 
-Ethics is situational; to judge the past we need to know and understand it more than we often can.
+A meaningful answer to this question presumes we agree what progress is---that we have shared ethic.
 
-Ethical progress can occur in both individuals and societies.
+It is an important question because its answer should affect how we act moving forward: If we have, then we should find its cause and we should try to continue making progress. If we have not, we should try to identify why not, and should remove these barriers.
 
-It is difficult to discern ethical progress from technological progress.  Ethics is the study of how one should act in a given situation.  Technological progress will alter the type and frequency of situations that individuals and societies face.  For example, medical technology has given rise to many new situations.
+Ethics is situational---to judge the past we need to know and understand the situations that individuals and society faced.  Behaviors which may seem unethical may, upon further understanding of the historical situations they occurred in, be ethical.  For example polygamy may have been a way to protect widows from starvation.  Measuring ethical progress will thus require historical context.  Our understanding of the past is limited by the surviving evidence, so our ability to measure progress will be similarly limited.
 
-Ethical progress is easier to measure in societies than in individuals because individuals face fewer situations.
+Ethical progress can occur in both individuals and societies.  This distinction is key.  It seems unlikely that the average person is innately better than the average person used to be; our biology has not changed substantially.  But the societies we develop in have changed, and our society affects the individual.
 
-Imagine a situation, which we can call S.  There are two choices that an individual in situation S can make, R and W.  Choice R is the right choice.
+Ethical progress is easier to measure in societies than in individuals because individuals face fewer situations.  Imagine a situation, which we can call S.  There are two choices that an individual in situation S can make, R and W.  Choice R is the right choice. Imagine that a person is faced with situation S ten times during their life. Now imagine a society filled with thousands of people, each facing situation S approximately ten times in their lives. The discrete nature of the choices make progress easier to measure, and less susceptible to random variations, when there are more situations being considered.
 
-Imagine that a person is faced with situation S ten times during their life.
+It is difficult to discern ethical progress from technological progress.  Ethics is the study of how one should act in a given situation.  Technological progress will alter the type and frequency of situations that individuals and societies face.  For example, medical technology has given rise to many new situations.  Free sources of energy have diminished the importance of physical strength, perhaps allowing women a more equal role to men.
 
-Now imagine a society filled with thousands of people, each facing situation S approximately ten times in their lives.
-
-The discrete nature of the choices make progress easier to measure, and less susceptible to random variations, when there are more situations being considered.
-
-Progress can be made in a certain type of situation or group of situation.  A society progress and treat their disadvantaged individuals better, while the average person is more selfish in their lives.
+Progress may not be uniform.  A society progress and treat their disadvantaged individuals better, while the average person is more selfish in their lives.
