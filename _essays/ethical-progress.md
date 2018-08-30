@@ -5,11 +5,13 @@ status: incomplete
 order: 3.1
 ---
 
-Has humanity made ethical progress?
+Has humanity made ethical progress?  Are we more moral than the ancients?
 
-A meaningful answer to this question presumes we agree what progress is---that we have shared ethic.
+To answer this question we must agree what progress is.  We must know how one should act, so that we can compare our actions.  If one believes ethics is relative, then progress is impossible.  But if we agree that there is a standard, then we agree that progress is possible, even if we can not always identify it.
 
-It is an important question because its answer should affect how we act moving forward: If we have, then we should find its cause and we should try to continue making progress. If we have not, we should try to identify why not, and should remove these barriers.
+In this essay I will assume that we have a shared sense of right and wrong, a shared sense of how one should act, a shared ethical standard.  However, outside of the concrete examples, most of the discussion will not hinge on agreeing as to what this standard is.
+
+It is an important question because its answer should affect how we act moving forward: If we have, then we should find its cause and we should try to continue making progress. If we have not, we should try to identify why not, and should remove these barriers.  Furthermore, comparisons can lead us to clarifications.
 
 Ethics is situational---to judge the past we need to know and understand the situations that individuals and society faced.  Behaviors which may seem unethical may, upon further understanding of the historical situations they occurred in, be ethical.  For example polygamy may have been a way to protect widows from starvation.  Measuring ethical progress will thus require historical context.  Our understanding of the past is limited by the surviving evidence, so our ability to measure progress will be similarly limited.
 
