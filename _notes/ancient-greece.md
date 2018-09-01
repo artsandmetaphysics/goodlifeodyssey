@@ -12,13 +12,13 @@ Many of these notes were taken from _Ancient Greece_ by Thomas R. Martin.
 - c. 6000 First settlers migrated to Crete
 - c. 2200 Earliest Cretan palaces of Minoan Civilization
 - Constructed large building complexes, referred to as "palaces"
-- Colorful frescoes of dolphins, bulls, ships, women, and griffins
+- Famous palace at Knossos had indoor plumbing, and storage jars which could hold 240,000 gallons of water, olive oil, wine, or other goods.
 - They appear to have had a top-down redistributive economy
 - Were sea-traders; seem to have specialized in luxury goods
+- Colorful frescoes of dolphins, bulls, ships, women, and griffins
 - Minoans are depicted in Egyptian tomb reliefs
 - Archaeological evidence indicates that Minoan civilization existed peaceably for several centuries
 - There are no defensive walls found around the towns or palaces
-- Famous palace at Knossos had indoor plumbing, and storage jars which could hold 240,000 gallons of water, olive oil, wine, or other goods.
 - Prominent snake and bull imagery; bull leaping
 - There is some evidence that they practiced human sacrifice
 - c. 1450 most sites on the island were burned
