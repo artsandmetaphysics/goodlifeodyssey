@@ -6,7 +6,7 @@ order: 1.1
 
 Many of these notes were taken from _Ancient Greece_ by Thomas R. Martin.
 
-# Minoan Civilization
+## Minoan Civilization
 
 - Named after the legendary king Minos
 - c. 6000 First settlers migrated to Crete
