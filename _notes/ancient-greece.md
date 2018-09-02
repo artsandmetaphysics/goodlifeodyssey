@@ -29,12 +29,12 @@ Many of these notes were taken from _Ancient Greece_ by Thomas R. Martin.
 - Named after the city Mycenae
 - c. 1600 - 1450 shaft graves
 - c. 1450 - 1240 Koine Era (Highpoint of their civilization)
-- Strongly influenced by the Minoans, and then eventually they conquers them
+- Strongly influenced by the Minoans, who they eventually conquered
 - Unlike the Minoans, they seem like a warrior culture
-- Spoke Greek, wrote using Linear B
+- Spoke Greek; wrote using Linear B
 - References to Hera, Zeus, Poseidon, Dionysus and other divinities found in Linear B tablets
-- Built walls with large blocks
-- Traded widely
+- Built walls with such large blocks that the Greeks believed Cyclops had built them
+- Traded widely, including with the Egyptians
 - c. 1250 - 1100 Decline
 
 ## Greek Dark Age
