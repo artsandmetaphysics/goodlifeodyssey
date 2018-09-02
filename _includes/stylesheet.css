@@ -65,7 +65,7 @@ footer > svg {
   height: 0.5rem;
 }
 
-h1, h2 {
+h1, h2, h3 {
   font-family: 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -75,6 +75,10 @@ h1 {
 
 h2 {
   font-size: 1.25rem;
+}
+
+h3 {
+  font-size: 1rem;
 }
 
 a {
