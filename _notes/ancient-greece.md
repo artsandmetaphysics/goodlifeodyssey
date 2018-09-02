@@ -6,7 +6,7 @@ order: 1.1
 
 Many of these notes were taken from _Ancient Greece_ by Thomas R. Martin.
 
-## Minoan Civilization
+## Minoans
 
 - Named after the legendary king Minos
 - c. 6000 First settlers migrated to Crete
@@ -23,3 +23,24 @@ Many of these notes were taken from _Ancient Greece_ by Thomas R. Martin.
 - There is some evidence that they practiced human sacrifice
 - c. 1450 most sites on the island were burned
 - c. 1370 The palace at Knossos is destroyed
+
+## Myceneaens
+
+- Named after the city Mycenae
+- c. 1600 - 1450 shaft graves
+- c. 1450 - 1240 Koine Era (Highpoint of their civilization)
+- Strongly influenced by the Minoans, and then eventually they conquers them
+- Unlike the Minoans, they seem like a warrior culture
+- Spoke Greek, wrote using Linear B
+- References to Hera, Zeus, Poseidon, Dionysus and other divinities found in Linear B tablets
+- Built walls with large blocks
+- Traded widely
+- c. 1250 - 1100 Decline
+
+## Greek Dark Age
+
+## Greek Archaic Age
+
+## Greek Classical Age
+
+## Hellenistic Age
