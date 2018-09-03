@@ -58,7 +58,7 @@ Many of these notes were taken from _Ancient Greece_ by Thomas R. Martin.
 - Population growth
 - Rise of the Polis, a political, social, and religious organization of a city and surrounding areas
 - Political systems included monarchies, oligarchies, tyrants, and early forms of democracy
-- c. 750 - 500 Greek's colonize the Mediterranean and Black Seas; "Frogs around a pond"
+- c. 750 - 500 Population growth and Greek colonization of the Mediterranean and Black Sea; "Frogs around a pond" (Plato)
 - c. 600 chattel slavery is the norm
 
 
