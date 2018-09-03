@@ -39,7 +39,24 @@ Many of these notes were taken from _Ancient Greece_ by Thomas R. Martin.
 
 ## Greek Dark Age
 
+- c. 1100 All of the major Myceneaen palaces, except Athens, were destroyed
+- The Greek Dark Age is darker than then Medieval Dark Age
+- Population decline, poverty, greatly decreased trade
+- Quality of pottery and other goods greatly decreased
+- Stopped writing in Linear B; no literary sources
+- Myceneaens culture and religion passed down orally
+- Art has geometric patterns
+- c. 900 - 800 Population growth and adoption of Iron tools and weapons
+- c. 800 Adopt the Phoenician alphabet
+- c. 776 First Olympic games---competition between individual naked athletes
+- c. 750 - 700 Homer and Hesiod write epic poems
+- Later Greeks did not know much about their Mycenaean past
+
 ## Greek Archaic Age
+
+- Population growth
+- Rise of the Polis
+- Colonization
 
 ## Greek Classical Age
 
