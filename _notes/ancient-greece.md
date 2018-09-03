@@ -39,24 +39,28 @@ Many of these notes were taken from _Ancient Greece_ by Thomas R. Martin.
 
 ## Greek Dark Age
 
-- c. 1100 All of the major Myceneaen palaces, except Athens, were destroyed
+- c. 1100 All major Myceneaen palaces except Athens destroyed
 - The Greek Dark Age is darker than then Medieval Dark Age
 - Population decline, poverty, greatly decreased trade
 - Quality of pottery and other goods greatly decreased
 - Stopped writing in Linear B; no literary sources
-- Myceneaens culture and religion passed down orally
+- Myceneaen culture and religion passed down orally
 - Art has geometric patterns
 - c. 900 - 800 Population growth and adoption of Iron tools and weapons
 - c. 800 Adopt the Phoenician alphabet
-- c. 776 First Olympic games---competition between individual naked athletes
+- c. 776 First Olympics---competition between individual naked athletes
 - c. 750 - 700 Homer and Hesiod write epic poems
 - Later Greeks did not know much about their Mycenaean past
 
 ## Greek Archaic Age
 
+- Art-historians thought Greek art from this period was old-fashioned, or archaic, compared to the classical age
 - Population growth
-- Rise of the Polis
-- Colonization
+- Rise of the Polis, a political, social, and religious organization of a city and surrounding areas
+- Political systems included monarchies, oligarchies, tyrants, and early forms of democracy
+- c. 750 - 500 Greek's colonize the Mediterranean and Black Seas; "Frogs around a pond"
+- c. 600 chattel slavery is the norm
+
 
 ## Greek Classical Age
 
