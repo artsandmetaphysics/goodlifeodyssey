@@ -64,4 +64,26 @@ Many of these notes were taken from _Ancient Greece_ by Thomas R. Martin.
 
 ## Greek Classical Age
 
+- 499 - 494 Ionian revolt in Western Anatolia, which is eventually crushed by the Persians
+- 490 Darius sends force to Athens; Athenians win the battle of Marathon
+- 480 Xerxes leads massive Persian force into Greece; battle of Thermopylae (the 300) and navel battle of Salamis
+- 458 Aeschylus writes _The Oresteia_ (_Agamemnon_, _The Libation Bearers_, and _The Eumenides_)
+- c. 440 Herodotus writes _The Histories_
+- 431 - 404 Peloponnesian War, written about by Thucydides
+- 399 Trial and execution of Socrates
+- c. 400 - 380 Plato founds the Academy at Athens
+- 359 Philip II becomes king of Macedonia
+- 336 Philip II murdered, Alexander the Great becomes king
+- 335 Aristotle founds the Lyceum at Athens
+- 334 Alexander begins campaign against Persia
+- 331 Alexander takes Egypt and founds Alexandria
+- 326 Alexander's army mutinies at the Hyphasis River in India, and they head back to Babylon
+- 323 Alexander dies in Babylon
+
 ## Hellenistic Age
+
+- 310 murder of Alexander's son
+- 310 Zeno founds Stoic school in Athens
+- 307 Epicurus founds his school in Athens
+- 306 - 304 Alexander's former commanders split up the empire
+- 304 - 30 Ptolemys in Egypt
