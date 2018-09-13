@@ -6,7 +6,58 @@ order: 3
 
 Hesiod was one of the most famous Greek poets.  He is not as good a writer as Homer. Still, the ancients often grouped him with Homer as one of the main proponents of the early Greek worldview.
 
-He wrote two short epic poems,  _The Theogony_ and _Works and Days_.
+He wrote two short epic poems,  _The Theogony_ and _Works and Days_.  Quotations and line numbers are from the Stanley Lombardo translation.
+
+## The Muses
+
+Hesiod appears to believe that the Muses---the nine daughters of Zeus and Memory---have divinely inspired his poetry.
+
+<blockquote class="poetry">And they taught Hesiod the art of singing verse,
+While he pastured his lambs on holy Helikon's slopes.
+And this was the very first thing they told me,
+The Olympian Muses, daughters of Zeus Aegisholder:
+
+"Hillbillies and bellies, poor excuses for shepards:
+We know how to tell many believable lies,
+But also, when we want to, how to speak the plain truth."
+
+So spoke the daughters of great Zeus, mincing their words.
+And they gave me a staff, a branch of good sappy laurel,
+Plucking it off, spectacular.  And they breathed into me
+A voice divine, so I might celebrate past and future.
+And they told me to hymn the generations of the eternal gods,
+But always to sing of themselves, the Muses, first and last.
+
+...
+
+Farewell Zeus's daughters, and bestow song that beguiles.
+Make known the eerie brood of the eternal Immortals
+Who were born of Earth and starry Sky,
+And of dusky Night, and whom the salt Sea bore.
+Tell how first the gods and earth came into being
+And the rivers and the sea, endless and surging,
+And the stars shining and the wide sky above;
+How they divided wealth and allotted honors,
+And first possessed deep-ridged Olympus.
+
+Tell me these things, Olympian Muses,
+From the beginning, and tell which of them came first.
+<cite>Theogony, 23 - 35, 103 - 115</cite>
+</blockquote>
+
+Hesiod then proceeds to tell the story of how the gods came about, the _Theogony_.
+
+The _Theogony_ tells of great events at the beginning of the world, which Hesiod could not know about except through the Muses.  Is Hesiod simply re-telling the stories that were passed down to him, or is he creating new stories which he beliefs are true?  I think the latter.
+
+<blockquote class="poetry">That's the sum of my experience with pegged & dowelled ships.
+Still, I can teach you the mind of Zeus the Storm King,
+Since the Muses have taught me ineffable song.
+<cite>Works and Days, 731 - 733</cite>
+</blockquote>
+
+It appears that Hesiod is making up stories while simultaneously believing they are true!
+
+Similar processes may explains the origin of many religious ideas.
 
 ## The Gods
 
