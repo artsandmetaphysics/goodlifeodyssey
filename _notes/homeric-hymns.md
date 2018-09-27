@@ -4,9 +4,9 @@ description: "Notes on The Homeric Hymns"
 order: 3.5
 ---
 
-*The Homeric Hymns* are a collection of thirty-three hexameter poems which honor the ancient Greek gods.  Modern scholars believe most of them were written sometime between 700 and 500 BCE, but a few may have been written later.  Traditionally the hymns were believed to have been written by Homer.
+*The Homeric Hymns* are a collection of thirty-three hexameter poems which honor the ancient Greek gods.  Modern scholars believe most of them were written between 700 and 500 BCE.  The hymns were traditionally attributed to Homer.
 
-The Hymns vary in length from three to over five-hundred lines.  Many of them are short, but a few are longer:
+The Hymns vary from three to over five-hundred lines.  Here are the longest and most interesting hymns:
 
 <ol>
   <li value="2">Hymn to Demeter, Persephone and the origin of winter</li>
@@ -48,3 +48,7 @@ The Hymn to Gaia is beautiful:
 > I will sing of well-founded Earth, mother of all, eldest of all beings. She feeds all creatures that are in the world, all that go upon the goodly land, and all that are in the paths of the seas, and all that fly: all these are fed of her store. Through you, O queen, men are blessed in their children and blessed in their harvests, and to you it belongs to give means of life to mortal men and to take it away. Happy is the man whom you delight to honour! He has all things abundantly: his fruitful land is laden with corn, his pastures are covered with cattle, and his house is filled with good things. Such men rule orderly in their cities of fair women: great riches and wealth follow them: their sons exult with ever-fresh delight, and their daughters in flower-laden bands play and skip merrily over the soft flowers of the field. Thus is it with those whom you honour O holy goddess, bountiful spirit.
 >
 > Hail, Mother of the gods, wife of starry Heaven; freely bestow upon me for this my song substance that cheers the heart! And now I will remember you and another song also. <cite>Hymn to Gaia, 30.1--19</cite>
+
+There are a handful of similes, here is one which I particularly enjoyed:
+
+> As a swift thought darts through the heart of a man when thronging cares haunt him, or as bright glances flash from the eye, so glorious Hermes planned both thought and deed at once. <cite>Hymn to Hermes, 4.43-45</cite>
