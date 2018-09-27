@@ -33,9 +33,7 @@ Another theme is the relationship between gods and men:
 
 > Thence, swift as thought, he [Apollo] speeds from earth to Olympus, to the house of Zeus, to join the gathering of the other gods: then straightway the undying gods think only of the lyre and song, and all the Muses together, voice sweetly answering voice, hymn the unending gifts the gods enjoy and the sufferings of men, all that they endure at the hands of the deathless gods, and how they live witless and helpless and cannot find healing for death or defence against old age.  <cite>Hymn to Apollo, 3.186--192</cite>
 
-> Sing, clear-voiced Muses, of Hephaestus famed for inventions. With bright-eyed Athene he taught men glorious gifts throughout the world, — men who before used to dwell in caves in the mountains like wild beasts. But now that they have learned crafts through Hephaestus the famed worker, easily they live a peaceful life in their own houses the whole year round.
->
-> Be gracious, Hephaestus, and grant me success and prosperity! <cite>Hymn to Hephaestus, 20.1--8</cite>
+> Sing, clear-voiced Muses, of Hephaestus famed for inventions. With bright-eyed Athene he taught men glorious gifts throughout the world, — men who before used to dwell in caves in the mountains like wild beasts. But now that they have learned crafts through Hephaestus the famed worker, easily they live a peaceful life in their own houses the whole year round. <cite>Hymn to Hephaestus, 20.1--7</cite>
 
 > And now because of you [Anchilles] I [Aphrodite] shall have great shame among the deathless gods henceforth, continually. For until now they feared my jibes and the wiles by which, or soon or late, I mated all the immortals with mortal women, making them all subject to my will. But now my mouth shall no more have this power among the gods; for very great has been my madness, my miserable and dreadful madness, and I went astray out of my mind who have gotten a child beneath my girdle, mating with a mortal man. <cite>Hymn to Aphrodite, 5.247--250</cite>
 
@@ -49,6 +47,6 @@ The Hymn to Gaia is beautiful:
 >
 > Hail, Mother of the gods, wife of starry Heaven; freely bestow upon me for this my song substance that cheers the heart! And now I will remember you and another song also. <cite>Hymn to Gaia, 30.1--19</cite>
 
-There are a handful of similes, here is one which I particularly enjoyed:
+There are a handful of similes.  Here is one which I particularly enjoyed:
 
 > As a swift thought darts through the heart of a man when thronging cares haunt him, or as bright glances flash from the eye, so glorious Hermes planned both thought and deed at once. <cite>Hymn to Hermes, 4.43-45</cite>
