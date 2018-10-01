@@ -42,8 +42,7 @@ And first possessed deep-ridged Olympus.
 
 Tell me these things, Olympian Muses,
 From the beginning, and tell which of them came first.
-<cite>Theogony, 23 - 35, 103 - 115</cite>
-</blockquote>
+<cite>Theogony, 23 - 35, 103 - 115</cite></blockquote>
 
 Hesiod then proceeds to tell the story of how the gods came about, the _Theogony_.
 
@@ -52,8 +51,7 @@ The _Theogony_ tells of great events at the beginning of the world, which Hesiod
 <blockquote class="poetry">That's the sum of my experience with pegged & dowelled ships.
 Still, I can teach you the mind of Zeus the Storm King,
 Since the Muses have taught me ineffable song.
-<cite>Works and Days, 731 - 733</cite>
-</blockquote>
+<cite>Works and Days, 731 - 733</cite></blockquote>
 
 It appears that Hesiod is making up stories while simultaneously believing they are true!
 
@@ -81,8 +79,7 @@ And put his homestead in order, he tends to compete
 With that neighbor in a race to get rich.
 
 Strife like this does people good.
-<cite>Works and Days, 21–37</cite>
-</blockquote>
+<cite>Works and Days, 21–37</cite></blockquote>
 
 TODO: add other quote about something being a god
 
@@ -111,8 +108,7 @@ Hesiod appears to create gods as he goes, sometimes filling them in as necessary
 <blockquote class="poetry">That's the sum of my experience with pegged & dowelled ships.
 Still, I can teach you the mind of Zeus the Storm King,
 Since the Muses have taught me ineffable song.
-<cite>Works and Days, 731–733</cite>
-</blockquote>
+<cite>Works and Days, 731–733</cite></blockquote>
 
 ## Comparisons with Other Religions
 
