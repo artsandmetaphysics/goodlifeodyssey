@@ -49,7 +49,6 @@ Many of these notes were taken from _Ancient Greece_ by Thomas R. Martin.
 - c. 900 - 800 Population growth and adoption of Iron tools and weapons
 - c. 800 Adopt the Phoenician alphabet
 - c. 776 First Olympics---competition between individual naked athletes
-- c. 750 - 700 Homer and Hesiod write epic poems
 - Later Greeks did not know much about their Mycenaean past
 
 ## Greek Archaic Age
@@ -59,6 +58,7 @@ Many of these notes were taken from _Ancient Greece_ by Thomas R. Martin.
 - Rise of the Polis, a political, social, and religious organization of a city and surrounding areas
 - Political systems included monarchies, oligarchies, tyrants, and early forms of democracy
 - c. 750 - 500 Population growth and Greek colonization of the Mediterranean and Black Sea; "Frogs around a pond" (Plato)
+- c. 750 - 700 Homer and Hesiod write epic poems
 - c. 600 chattel slavery is the norm
 
 
