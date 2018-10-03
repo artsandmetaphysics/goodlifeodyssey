@@ -32,12 +32,6 @@ html {
   }
 }
 
-@media (max-width: 504px) {
-  html {
-    font-size: 12px;
-  }
-}
-
 body {
   margin: 0;
   padding: 0 1rem 1rem 1rem;
@@ -102,7 +96,7 @@ blockquote {
   padding-right: 1.0rem;
 }
 
-@media (max-width: 432px) {
+@media (max-width: 504px) {
   blockquote {
     padding-right: 0;
   }
