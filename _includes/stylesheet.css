@@ -121,10 +121,11 @@ blockquote:before, blockquote:after {
 }
 
 blockquote cite {
-  font-style: normal;
-  text-align: right;
+  font-style: italic;
   display: block;
-  color: #bbb;
+  font-size: 0.8rem;
+  margin-top: 0.2rem;
+  margin-left: 1rem;
 }
 
 cite::before {
