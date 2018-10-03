@@ -11,10 +11,10 @@ statue: 'hidden'
 
 The poem is about 16,000 lines of hexameter verse in the ancient Greek, and is split into 24 books.
 
-1. The Rage of Achilles; Thetis appeals to Zeus
+1. Agamemnon and Achilles Quarrel; Thetis appeals to Zeus
 2. Agamemnon Tests the Troops; The Great Gathering of Armies
 3. Helen Reviews the Champions; Paris and Menelaus Duel
-4. The Truce Erupts in War
+4. Zeus and Hera Bicker; The Truce Erupts in War
 5. Diomedes Fights the Gods
 6. Hector Returns to Troy
 7. Ajax Duels with Hector
@@ -36,9 +36,77 @@ The poem is about 16,000 lines of hexameter verse in the ancient Greek, and is s
 23. Funeral Games for Patroclus
 24. Achilles and Priam
 
+## The Gods
+
+## Rituals
+
+*The Iliad* describes animal sacrifices, libations, prayer, self-defilement after the dead, the interpretation of dreams, seers, and vow-taking.
+
+The most clearly described animal sacrifice occurs near the beginning of the Iliad:
+
+<blockquote class="poetry">At once the men arranged the sacrifice for Apollo,
+making the cattle ring his well-built altar,
+then they rinsed their hands and took up barley.
+Rinsing among them Chryses stretched his arms to the sky
+and prayed in a high resounding voice, "Hear me, Apollo!
+God of the silver bow who strides the walls of Chryse
+and Cilla sacrosanct---lord in power of Tenedos!
+If you honored me last time and heard my prayer
+and rained destruction down on all Achaea's ranks,
+now bring my prayer to pass once more. Now, at last,
+driving this killing plauge from the armies of Achaea!"
+
+His prayer went up and Phoebus Apollo heard him.
+And soon as the men had prayed and flung the barley,
+first they lifted back the heads of the victims,
+slit their throats, skinned them and carved away
+the meat from the thighbones and wrapped them in fat,
+a double fold sliced clean and topped with strips of flesh.
+And the old man burned these over dried split wood
+and over the quarters poured out glistening wine
+while young men at his side held five-pronged forks.
+Once they had burned the bones and tasted the organs
+they cut the rest into pieces, pierced them with spits,
+roasted them to a turn and pulled them off the fire.
+The work done, the feast laid out, they ate well
+and no man's hunger lacked a share of the banquet.
+When they had put aside desire for food and drink,
+the young me brimmed the mixing bowls with wine
+and tipping first drops for the god in every cup
+they poured full rounds for all. And all day long
+they appeased the god with song, raising a ringing hymn
+to the distant archer god who drives away the plague,
+those young Achaean warriors singing out his power,
+and Apollo listened, his great heart warm with joy.<cite>Book 1.435--448, Fagles</cite></blockquote>
+
+The Greeks believed that the gods enjoyed and demanded their sacrifices:
+
+<blockquote class="poetry">I [Zeus] honor sacred Ilium most with my immortal heart:
+Priam and men of Priam who hurls the strong ash spear.
+Never once did my altar lack its share of victims,
+winecups tipped and the deep smoky savor. These,
+these are the gifts we claim---they are our rights."<cite>Book 4.45--47, Fagles</cite></blockquote>
+
+Furethermore, plauges and natural disasters were believed to be caused by gods.  An example of this is seen at the beginning of *The Iliad*:
+
+<blockquote class="poetry">So home we sail ...
+if we can escape our death---if war and plague
+are joining forces now to crush the Argives.
+But wait: let us question a holy man,
+a prophet, even a man skilled with dreams---
+dreams as well can come our way from Zeus---
+come, someone tell us why Apollo rages so,
+whether he blames us for a vow we failed, or sacrifice.
+If only the god would share the smoky savor of lambs
+and full-grown goats, Apollo might be willing, still,
+somehow, to save us from this plague."<cite>Book 1.56--63</cite></blockquote>
+
+Seers and bird signs
+
+Dreams; Zeus' dream for Agammenon in book 2; Hermes waking up Priam in book 24
+
 ## The Heroes
 
-## The Gods
 
 ## The Rage of Achilles
 
