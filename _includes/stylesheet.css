@@ -32,6 +32,12 @@ html {
   }
 }
 
+@media (max-width: 476px) {
+  blockquote {
+    padding-left: 0.5rem;
+  }
+}
+
 body {
   margin: 0;
   padding: 0 1rem 1rem 1rem;
