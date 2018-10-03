@@ -50,6 +50,12 @@ header {
   line-height: 1;
 }
 
+.bar {
+  height: 100%;
+  width: 100%;
+  background-color: #222;
+}
+
 main {
   display: block;
   margin: 0;
@@ -59,17 +65,14 @@ main {
 footer {
   display: block;
   margin-top: 1.0rem;
+  font-size: 0.9rem;
 }
 
-footer > hr {
-  display: none;
+footer > .bar {
+  height: 0.3rem;
 }
 
-footer > svg {
-  height: 0.5rem;
-}
-
-h1, h2, h3 {
+h1, h2 {
   font-family: 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -79,10 +82,6 @@ h1 {
 
 h2 {
   font-size: 1.25rem;
-}
-
-h3 {
-  font-size: 1.125rem;
 }
 
 a {
@@ -155,12 +154,8 @@ ul, ol {
     max-width: 100%;
   }
 
-  header svg, footer svg {
+  header {
     display: none;
-  }
-
-  footer hr {
-    display: block;
   }
 
   a:after {

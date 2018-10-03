@@ -1,6 +1,12 @@
 # Building
 
-Run the make file to compile static assets.
+Run `make` to compile static assets.
+
+Start a test server using `run`.
+
+# Citations
+
+Separate line or verse numbers with a single dash and no spaces.
 
 # References
 

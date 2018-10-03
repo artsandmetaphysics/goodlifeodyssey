@@ -92,11 +92,11 @@ The similarities between the story of Noah and the Babylonian texts are manifold
 
 For example, the Hebrew Bible, like Babylonian mythology, has the idea of the waters above and the waters below.  Here are some quotes from the New Revised Standard Version translation:
 
-> And God said, "Let there be a dome in the midst of the waters, and let it separate the waters from the waters."  So God made the dome and separated the waters that were under the dome from the waters that were above the dome.  And it was so.  God called the dome Sky.  And there was evening and there was morning, the second day. <cite>Genesis 1:6-8</cite>
+> And God said, "Let there be a dome in the midst of the waters, and let it separate the waters from the waters."  So God made the dome and separated the waters that were under the dome from the waters that were above the dome.  And it was so.  God called the dome Sky.  And there was evening and there was morning, the second day. <cite>Genesis 1:6 - 8</cite>
 
 > In the six hundredth year of Noah's life, in the second month, on the seventeenth day of the month, on that day all the fountains of the great deep burst forth, and the windows of the heavens were opened. <cite>Genesis 7:11</cite>
 
-> And God made a wind blow over the earth, and the waters subsided; the fountains of the deep and the windows of the heavens were closed, the rain from the heavens was restrained, and the waters gradually receded from the earth. <cite>Genesis 8:1-3</cite>
+> And God made a wind blow over the earth, and the waters subsided; the fountains of the deep and the windows of the heavens were closed, the rain from the heavens was restrained, and the waters gradually receded from the earth. <cite>Genesis 8:1 - 3</cite>
 
 <blockquote class="poetry">Praise him, you highest heavens,
     and you waters above the heavens!<cite>Psamls 149:4</cite></blockquote>
@@ -111,12 +111,12 @@ Can you put a rope in its nose,
     or pierce its jaw with a hook?
 ...
 Any hope of capturing it will be disappointed;
-    were not even the gods overwhelmed at the sight of it?<cite>Job 41:1-9</cite></blockquote>
+    were not even the gods overwhelmed at the sight of it?<cite>Job 41:1 - 9</cite></blockquote>
 
 <blockquote class="poetry">You divided the sea by your might;
     you broke the heads of the dragons in the waters.
 You crushed the heads of Leviathan;
-    you gave him as food for the creatures of the wilderness.<cite>Psalm 74:13-14</cite></blockquote>
+    you gave him as food for the creatures of the wilderness.<cite>Psalm 74:13 - 14</cite></blockquote>
 
 Finally, parts of Ecclesiastes are very similar to the *Epic of Gilgamesh*.  Here is a quote, from a tavern-keeper at the edge of the world, advising Gilgamesh:
 
@@ -141,7 +141,7 @@ And here is a similar saying in Ecclesiastes:
 
 > The living know that they will die, but the dead know nothing; they have no more reward, and even the memory of them is lost.  Their love and their hate and their envy have already perished; never again will they have any share in all that happens under the sun.
 >
-> Go, eat your bread with enjoyment, and drink your wine with a merry heart; for God has long ago approved what you do.  Let your garments always be white; do not let oil be lacking on your head.  Enjoy life with the wife whom you love, all the days of your vain life that are given you under the sun, because that is your portion in life and in your toil at which you toil under the sun.  Whatever your hand finds to do, do with your might; for there is no work or though or knowledge or wisdom in Sheol, to which you are going. <cite>Ecclesiastes 9:5-10</cite>
+> Go, eat your bread with enjoyment, and drink your wine with a merry heart; for God has long ago approved what you do.  Let your garments always be white; do not let oil be lacking on your head.  Enjoy life with the wife whom you love, all the days of your vain life that are given you under the sun, because that is your portion in life and in your toil at which you toil under the sun.  Whatever your hand finds to do, do with your might; for there is no work or though or knowledge or wisdom in Sheol, to which you are going. <cite>Ecclesiastes 9:5 - 10</cite>
 
 Finally, the Hebrew and Babylonian flood stories are exceedingly similar.  Instead of providing a long list of quotes, I will instead list the similarities:
 

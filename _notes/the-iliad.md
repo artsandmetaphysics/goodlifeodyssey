@@ -77,7 +77,7 @@ they poured full rounds for all. And all day long
 they appeased the god with song, raising a ringing hymn
 to the distant archer god who drives away the plague,
 those young Achaean warriors singing out his power,
-and Apollo listened, his great heart warm with joy.<cite>Book 1.435--448, Fagles</cite></blockquote>
+and Apollo listened, his great heart warm with joy.<cite>Book 1.435 - 448, Fagles</cite></blockquote>
 
 The Greeks believed that the gods enjoyed and demanded their sacrifices:
 
@@ -85,7 +85,7 @@ The Greeks believed that the gods enjoyed and demanded their sacrifices:
 Priam and men of Priam who hurls the strong ash spear.
 Never once did my altar lack its share of victims,
 winecups tipped and the deep smoky savor. These,
-these are the gifts we claim---they are our rights."<cite>Book 4.45--47, Fagles</cite></blockquote>
+these are the gifts we claim---they are our rights."<cite>Book 4.45 - 47, Fagles</cite></blockquote>
 
 Furethermore, plauges and natural disasters were believed to be caused by gods.  An example of this is seen at the beginning of *The Iliad*:
 
@@ -99,7 +99,7 @@ come, someone tell us why Apollo rages so,
 whether he blames us for a vow we failed, or sacrifice.
 If only the god would share the smoky savor of lambs
 and full-grown goats, Apollo might be willing, still,
-somehow, to save us from this plague."<cite>Book 1.56--63</cite></blockquote>
+somehow, to save us from this plague."<cite>Book 1.56 - 63</cite></blockquote>
 
 Seers and bird signs
 
@@ -112,7 +112,7 @@ Dreams; Zeus' dream for Agammenon in book 2; Hermes waking up Priam in book 24
 
 Traditionally, the first word of an epic poem is also its central theme.  Here is the first line of the Iliad:
 
-> The wrath sing, goddess, of Peleus' son, Achilles, that destructive wrath which brought countless woes upon the Achaeans, and sent forth to Hades many valiant souls of heroes, and made them themselves spoil for dogs and every bird; thus the plan of Zeus came to fulfillment, from the time when first they parted in strife Atreus' son, king of men, and brilliant Achilles. <cite>Book 1.1--7, Murray</cite>
+> The wrath sing, goddess, of Peleus' son, Achilles, that destructive wrath which brought countless woes upon the Achaeans, and sent forth to Hades many valiant souls of heroes, and made them themselves spoil for dogs and every bird; thus the plan of Zeus came to fulfillment, from the time when first they parted in strife Atreus' son, king of men, and brilliant Achilles. <cite>Book 1.1 - 7, Murray</cite>
 
 {% comment %}
 <blockquote class="poetry">
@@ -123,16 +123,16 @@ great fighters' souls, but made their bodies carrion,
 feasts for the dogs and birds,
 and the will of Zeus was moving towards its end.
 Begin, Muse, when the two first broke and clashed,
-Agamemnon lord of men and brilliant Achilles.<cite>Book 1.1--8, Fagles</cite></blockquote>
+Agamemnon lord of men and brilliant Achilles.<cite>Book 1.1 - 8, Fagles</cite></blockquote>
 {% endcomment %}
 
 During most of *The Iliad,* Achilles wrath is directed at Agamemnon because he disgraced Achilles in front of all the Greeks by stealing his concubine, Briseis.  It isn't until book 18, when Achilles learns that Patroclus died, that his wrath is then re-directed towards Hector.
 
-> Straightway may I die, seeing I was not to bear aid to my comrade at his slaying. Far, far from his own land hath he fallen, and had need of me to be a warder off of ruin. Now therefore, seeing I return not to my dear native land, neither proved anywise a light of deliverance to Patroclus nor to my other comrades, those many that have been slain by goodly Hector, but abide here by the ships. Profitless burden upon the earth—I that in war am such as is none other of the brazen-coated Achaeans, albeit in council there be others better—so may strife perish from among gods and men, and anger that setteth a man on to grow wroth, how wise soever he be, and that sweeter far than trickling honey waxeth like smoke in the breasts of men; even as but now the king of men, Agamemnon, moved me to wrath. Howbeit these things will we let be as past and done, for all our pain, curbing the heart in our breasts, because we must. But now will I go forth that I may light on the slayer of the man I loved, even on Hector; for my fate, I will accept it whenso Zeus willeth to bring it to pass, and the other immortal gods.<cite>Book 18.98--110, Murray</cite>
+> Straightway may I die, seeing I was not to bear aid to my comrade at his slaying. Far, far from his own land hath he fallen, and had need of me to be a warder off of ruin. Now therefore, seeing I return not to my dear native land, neither proved anywise a light of deliverance to Patroclus nor to my other comrades, those many that have been slain by goodly Hector, but abide here by the ships. Profitless burden upon the earth—I that in war am such as is none other of the brazen-coated Achaeans, albeit in council there be others better—so may strife perish from among gods and men, and anger that setteth a man on to grow wroth, how wise soever he be, and that sweeter far than trickling honey waxeth like smoke in the breasts of men; even as but now the king of men, Agamemnon, moved me to wrath. Howbeit these things will we let be as past and done, for all our pain, curbing the heart in our breasts, because we must. But now will I go forth that I may light on the slayer of the man I loved, even on Hector; for my fate, I will accept it whenso Zeus willeth to bring it to pass, and the other immortal gods.<cite>Book 18.98 - 110, Murray</cite>
 
 And, after Achilles kills Hector, he is still not at peace.  It isn't until King Priam, willed by Zeus, visits Achilles to ransom for Hector's body, that Achilles' wrath seems to subside:
 
-> So spake he, and in Achilles he roused desire to weep for his father; and he took the old man by the hand, and gently put him from him. So the twain bethought them of their dead, and wept; the one for man-slaying Hector wept sore, the while he grovelled at Achilles' feet, but Achilles wept for his own father, and now again for Patroclus; and the sound of their moaning went up through the house. But when goodly Achilles had had his fill of lamenting, and the longing therefor had departed from his heart and limbs, forthwith then he sprang from his seat, and raised the old man by his hand, pitying his hoary head and hoary beard; and he spake and addressed him with winged words: "Ah, unhappy man, full many in good sooth are the evils thou hast endured in thy soul. How hadst thou the heart to come alone to the ships of the Achaeans, to meet the eyes of me that have slain thy sons many and valiant? Of iron verily is thy heart. But come, sit thou upon a seat, and our sorrows will we suffer to lie quiet in our hearts, despite our pain; for no profit cometh of chill lament.<cite>Book 24.507--524, Murray</cite>
+> So spake he, and in Achilles he roused desire to weep for his father; and he took the old man by the hand, and gently put him from him. So the twain bethought them of their dead, and wept; the one for man-slaying Hector wept sore, the while he grovelled at Achilles' feet, but Achilles wept for his own father, and now again for Patroclus; and the sound of their moaning went up through the house. But when goodly Achilles had had his fill of lamenting, and the longing therefor had departed from his heart and limbs, forthwith then he sprang from his seat, and raised the old man by his hand, pitying his hoary head and hoary beard; and he spake and addressed him with winged words: "Ah, unhappy man, full many in good sooth are the evils thou hast endured in thy soul. How hadst thou the heart to come alone to the ships of the Achaeans, to meet the eyes of me that have slain thy sons many and valiant? Of iron verily is thy heart. But come, sit thou upon a seat, and our sorrows will we suffer to lie quiet in our hearts, despite our pain; for no profit cometh of chill lament.<cite>Book 24.507 - 524, Murray</cite>
 
 So, *The Iliad*, can be viewed as a poem about the destructive wrath of Achilles, which is lit in Book 1 and only extinguished towards the end of Book 24.  Some interpret *The Iliad* as a poem about growth and moral progress; Achilles becomes more human.  Others see Achilles rage as appropriate and consistent because he is the son of a goddess; he is a great warrior, and should not allow his honor to be besmirched.
 

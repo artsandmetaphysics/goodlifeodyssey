@@ -11,9 +11,9 @@
     <meta property="og:title" content="{{ page.title | xml_escape | normalize_whitespace }}">
     <meta property="og:type" content="article">
     <meta property="og:url" content="{{ page.url }}">
-    <meta property="og:image" content="/favicon-152.png">
+    <meta property="og:image" content="/favicon.png">
     <meta property="og:description" content="{{ page.description | xml_escape | normalize_whitespace }}">
-    <link rel="apple-touch-icon-precomposed" href="/favicon-152.png">
+    <link rel="apple-touch-icon-precomposed" href="/favicon.png">
     <style>{% include stylesheet.min.css %}</style>
     {% if jekyll.environment == "production" %}
     <script>
@@ -28,23 +28,20 @@
   </head>
   <body>
     <div id="container">
-      <header>{% include squares.svg %}</header>
-
+      <header>
+        <div class="bar"></div>
+      </header>
       <main>
         <h1>{{ page.title | normalize_whitespace }}</h1>
         {{ content }}
       </main>
-
       <footer>
-        {% include squares.svg %}
-        <hr>
-        {% if page.url != '/' %}
+        <div class="bar"></div>
         <p>
+        {% if page.url != '/' %}
           You may enjoy my <a href="{{ site.url }}">other essays and notes</a> on art, history, ethics,
           epistemology, and metaphysics.
-        </p>
         {% endif %}
-        <p>
           Please <a href="mailto:{{ site.email }}">contact me</a> if
           you have questions, notice a factual or grammatical mistake, disagree
           with my logic, or want to suggest a counter-argument.

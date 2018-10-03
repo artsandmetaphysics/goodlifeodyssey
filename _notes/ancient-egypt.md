@@ -108,5 +108,4 @@ He who listens to his heart will regret.
 Punish with authority, teach thoroughly,
 then suppression of wrongdoing remains a good deed.
 Punishment that is not deserved
-turns a complainant into an opponent.
-</blockquote>
+turns a complainant into an opponent.</blockquote>
