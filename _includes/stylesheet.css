@@ -104,7 +104,6 @@ blockquote {
 
 @media (max-width: 432px) {
   blockquote {
-    padding-left: 0;
     padding-right: 0;
   }
 }
