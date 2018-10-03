@@ -15,38 +15,26 @@
     <meta property="og:description" content="{{ page.description | xml_escape | normalize_whitespace }}">
     <link rel="apple-touch-icon-precomposed" href="/favicon.png">
     <style>{% include stylesheet.min.css %}</style>
-    {% if jekyll.environment == "production" %}
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-      ga('create', 'UA-99663750-1', 'auto');
-      ga('send', 'pageview');
-    </script>
-    {% endif %}
   </head>
   <body>
-    <div id="container">
-      <header>
-        <div class="bar"></div>
-      </header>
-      <main>
-        <h1>{{ page.title | normalize_whitespace }}</h1>
-        {{ content }}
-      </main>
-      <footer>
-        <div class="bar"></div>
-        <p>
-        {% if page.url != '/' %}
-          You may enjoy my <a href="{{ site.url }}">other essays and notes</a> on art, history, ethics,
-          epistemology, and metaphysics.
-        {% endif %}
-          Please <a href="mailto:{{ site.email }}">contact me</a> if
-          you have questions, notice a factual or grammatical mistake, disagree
-          with my logic, or want to suggest a counter-argument.
-        </p>
-      </footer>
-    </div>
+    <header>
+      <div class="bar"></div>
+    </header>
+    <main>
+      <h1>{{ page.title | normalize_whitespace }}</h1>
+      {{ content }}
+    </main>
+    <footer>
+      <div class="bar"></div>
+      <p>
+      {% if page.url != '/' %}
+        You may enjoy my <a href="{{ site.url }}">other essays and notes</a> on art, history, ethics,
+        epistemology, and metaphysics.
+      {% endif %}
+        Please <a href="mailto:{{ site.email }}">contact me</a> if
+        you have questions, notice a factual or grammatical mistake, disagree
+        with my logic, or want to suggest a counter-argument.
+      </p>
+    </footer>
   </body>
 </html>
