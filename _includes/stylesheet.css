@@ -111,8 +111,6 @@ blockquote {
 
 blockquote.poetry {
   white-space: pre-wrap;
-  text-indent: 2rem;
-  padding-left: -2rem;
 }
 
 blockquote:before, blockquote:after {
