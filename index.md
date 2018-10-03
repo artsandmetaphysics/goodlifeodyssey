@@ -3,7 +3,7 @@ layout: basic
 title: Arts & Metaphysics
 description: This website contains my essays and notes about art, history, ethics, epistemology, and metaphysics.
 ---
-<p>{{ page.description }}  Asterisks indicate essays that are incomplete or unedited.</p>
+<p>{{ page.description }}</p>
 
 <h2>Essays</h2>
 
@@ -13,7 +13,6 @@ description: This website contains my essays and notes about art, history, ethic
   {% if e.status != 'hidden' %}
   <li title="{{ e.description | xml_escape | normalize_whitespace }}">
     <a href="{{ e.url }}">{{ e.title }}</a>
-    {% if e.status == 'incomplete' %}*{% endif %}
   </li>
   {% endif %}
 {% endfor %}
