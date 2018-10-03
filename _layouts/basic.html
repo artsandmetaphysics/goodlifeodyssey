@@ -18,14 +18,14 @@
   </head>
   <body>
     <header>
-      <div class="bar"></div>
+      <hr>
     </header>
     <main>
       <h1>{{ page.title | normalize_whitespace }}</h1>
       {{ content }}
     </main>
     <footer>
-      <div class="bar"></div>
+      <hr>
       <p>
       {% if page.url != '/' %}
         You may enjoy my <a href="{{ site.url }}">other essays and notes</a> on art, history, ethics,
