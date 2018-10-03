@@ -61,6 +61,10 @@ footer {
   margin-top: 1.0rem;
 }
 
+footer > hr {
+  display: none;
+}
+
 footer > svg {
   height: 0.5rem;
 }
@@ -100,10 +104,11 @@ strong {
 }
 
 blockquote {
+  font-size: 0.9rem;
   quotes: none;
   margin: 0;
-  padding-left: 1rem;
-  border-left: 0.25rem solid #f2f2f2;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
 }
 
 blockquote.poetry {
@@ -151,6 +156,10 @@ ul, ol {
 
   header svg, footer svg {
     display: none;
+  }
+
+  footer hr {
+    display: block;
   }
 
   a:after {
