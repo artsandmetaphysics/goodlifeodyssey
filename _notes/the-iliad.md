@@ -11,13 +11,13 @@ statue: 'hidden'
 
 The poem is about 16,000 lines of hexameter verse in the ancient Greek, and is split into 24 books.
 
-1. Agamemnon and Achilles Quarrel; Thetis appeals to Zeus
-2. Agamemnon Tests the Troops; The Great Gathering of Armies
-3. Helen Reviews the Champions; Paris and Menelaus Duel
-4. Zeus and Hera Bicker; The Truce Erupts in War
-5. Diomedes Fights the Gods
-6. Hector Returns to Troy
-7. Ajax Duels with Hector
+1. Agamemnon and Achilles quarrel; Thetis appeals to Zeus
+2. Agamemnon tests the troops; the great gathering of armies
+3. Helen reviews the champions; Paris and Menelaus duel
+4. Zeus and Hera bicker; the truce erupts in war
+5. Diomedes fights Aphrodite, Apollo, and Ares
+6. Hector returns to Troy
+7. Ajax duels with Hector
 8. The Tide of Battle Turns
 9. The Embassy to Achilles
 10. Marauding Through the Night
@@ -38,16 +38,39 @@ The poem is about 16,000 lines of hexameter verse in the ancient Greek, and is s
 
 ## The Gods
 
+Some gods are described as human-like while others are abstract.  Gods are born, and humans can fight and harm them.
+
+<blockquote class="poetry">He gouged Aphrodite just where the wristbone joins the palms
+and immortal blood came flowing quickly from the goddess,
+the ichor that courses through their veins, the blessed gods---
+they eat no bread, they drink no shining wine, and so
+the gods are bloodless, so we call them deathless.<cite>Book 5.332</cite></blockquote>
+
+It also seems that the gods can be killed:
+
+<blockquote class="poetry">And despite the god's undying lust for battle
+Ares might have wasted away there on the spot
+if the monster's stepmother, beautiful Eriboea
+had not sent for Hermes, and out of the cauldron
+Hermes stole him away---the War-god breathing his last,
+all but broken down by the ruthless iron chains.<cite>Book 5.418</cite></blockquote>
+
 ## Rituals
 
-*The Iliad* describes animal sacrifices, libations, prayer, self-defilement after the dead, the interpretation of dreams, seers, and vow-taking.
+The Greeks believed that the gods enjoyed and demanded animal sacrifices and libations:
+
+<blockquote class="poetry">I [Zeus] honor sacred Ilium most with my immortal heart:
+Priam and men of Priam who hurls the strong ash spear.
+Never once did my altar lack its share of victims,
+winecups tipped and the deep smoky savor. These,
+these are the gifts we claim---they are our rights."<cite>Book 4.45 - 47, Fagles</cite></blockquote>
 
 The most clearly described animal sacrifice occurs near the beginning of the Iliad:
 
 <blockquote class="poetry">At once the men arranged the sacrifice for Apollo,
 making the cattle ring his well-built altar,
 then they rinsed their hands and took up barley.
-Rinsing among them Chryses stretched his arms to the sky
+Rising among them Chryses stretched his arms to the sky
 and prayed in a high resounding voice, "Hear me, Apollo!
 God of the silver bow who strides the walls of Chryse
 and Cilla sacrosanct---lord in power of Tenedos!
@@ -78,14 +101,6 @@ they appeased the god with song, raising a ringing hymn
 to the distant archer god who drives away the plague,
 those young Achaean warriors singing out his power,
 and Apollo listened, his great heart warm with joy.<cite>Book 1.435 - 448, Fagles</cite></blockquote>
-
-The Greeks believed that the gods enjoyed and demanded their sacrifices:
-
-<blockquote class="poetry">I [Zeus] honor sacred Ilium most with my immortal heart:
-Priam and men of Priam who hurls the strong ash spear.
-Never once did my altar lack its share of victims,
-winecups tipped and the deep smoky savor. These,
-these are the gifts we claim---they are our rights."<cite>Book 4.45 - 47, Fagles</cite></blockquote>
 
 Furethermore, plauges and natural disasters were believed to be caused by gods.  An example of this is seen at the beginning of *The Iliad*:
 
