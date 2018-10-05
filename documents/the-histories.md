@@ -30,7 +30,7 @@ Solon's description of the happy life:
 > ...
 > 
 > "I know God is envious of human prosperity and likes to trouble us; and you question me about the lot of man.  Listen then: as the years lengthen out, there is much both to see and to suffer which one would wish otherwise. ... You seem to be very rich, and you rule a numerous people; but the question you asked me I will not answer, until I know that you have died happily.  Great wealth can make a man no happier than moderate means, unless he has the luck to continue in prosperity to the end.  Many very rich men have been unfortunate, and many with moderate competence have had good luck.  The former are better off than the latter in two respects only, whereas the poor but lucky man has the advantage in many ways; for though the rich have the means to satisfy their appetites and to bear calamities, and the poor have not, the poor, if they are lucky, are more likely to keep clear of trouble, and will have besides the blessings of a sound body, health, freedom from trouble, fine children, and good looks."
-> -- 1.30 - 32
+> -- 1.30--32
 
 Emigrating after a famine:
 
@@ -46,7 +46,7 @@ Persian customs:
 > ...
 > 
 > No race is so ready to adopt foreign ways as the Persian; for instance, they wear the Median costume because they think it handsomer than their own, and their soldiers wear the Egyptian corslet.  Pleasures, too, of all sorts they are quick to indulge in when they get to know about them---a notable instance is pederasty, which they learned from the Greeks.  Every man has a number of wives, and a much greater number of concubines.  After prowess in fighting, the chief proof of manliness is to be the father of a large family of boys.  Those who have most sons receive an annual present from the king---on the principle that there is strength in numbers.  The period of a boy's education is between the ages of five and twenty, and they are taught three things only: to ride, to use the bow, and to speak the truth.  Before the age of five a boy lives with the women and never sees his father, the object being to spare the father distress if the child should die in the early stages of its upbringing.  In my view this is a sound practice.  I admire also the custom which forbids even the king himself to put a man to death for a single offense, and any Persian under similar circumstances to punish a servant by an irreparable injury.  Their way is to balance faults against services, and then, if the faults are greater and more numerous, anger may take its course.
-> -- 1.133 - 137
+> -- 1.133--137
 
 Fate of the Lycians of Xanthus:
 
