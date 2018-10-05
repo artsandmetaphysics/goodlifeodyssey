@@ -4,10 +4,15 @@ SHELL := /bin/bash -o pipefail -e
 CSSMIN_BIN := node_modules/clean-css-cli/bin/cleancss
 IMGMIN_BIN := node_modules/imagemin-cli/cli.js imagemin --plugin=pngquant --plugin=svgo
 
-all: _includes/stylesheet.min.css
+documents=$(patsubst documents/%.md,_documents/%.md,$(wildcard documents/*.md))
+
+all: _includes/stylesheet.min.css $(documents)
 
 _includes/stylesheet.min.css: _includes/stylesheet.css
 	$(CSSMIN_BIN) $< -o $@
+
+_documents/%.md: documents/%.md ./scripts/process.py
+	./scripts/process.py $< > $@
 
 .PHONY: clean
 

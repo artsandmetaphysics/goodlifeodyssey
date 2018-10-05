@@ -11,9 +11,7 @@ As a child, I was interested in painting.  There was a time when my parents arra
 
 Outside of my found memories painting as a child, and many visits to art museums, most of what I know about art is from *The Story of Art* by E. H. Gombrich.  The book opens with the following quote:
 
-<blockquote>
-<p>There really is no such thing as Art.  There are only artists.</p>
-</blockquote>
+> There really is no such thing as Art.  There are only artists.
 
 I imagine Gombrich as an old British professor, after years of being asked "What is Art?" and after years of arguments and debates and consternation, giving up.
 
@@ -77,12 +75,12 @@ A painter may not have a purpose besides self-expression, but that doesn't seem 
 
 I think Gombrich would partially agree with me.
 
-<blockquote>
-<p>For most of the paintings and statues which are now lined up along the wall of our museums and galleries were not meant to be displayed as Art.  They were made for a definite occasion and a definite purpose which were in the artist's mind when he set to work.</p>
-<p>Those ideas, on the other hand, that we outsiders usually work about, ideas about beauty and expression, are rarely mentioned by artists.  It was not always like that, but it was for many centuries in the past, and it is so again now.  The reason</p>
-<p>What an artist worries about as he plans his pictures, makes his sketches, or wonders whether he has completed a canvas, is something much more difficult to put into words.  Perhaps he would say he worries about whether</p>
-<p>... finish copying pages 32-33.</p>
-</blockquote>
+> For most of the paintings and statues which are now lined up along the wall of our museums and galleries were not meant to be displayed as Art.  They were made for a definite occasion and a definite purpose which were in the artist's mind when he set to work.
+>
+> Those ideas, on the other hand, that we outsiders usually work about, ideas about beauty and expression, are rarely mentioned by artists.  It was not always like that, but it was for many centuries in the past, and it is so again now.  The reason
+> What an artist worries about as he plans his pictures, makes his sketches, or wonders whether he has completed a canvas, is something much more difficult to put into words.  Perhaps he would say he worries about whether
+>
+> ... finish copying pages 32-33.
 
 The idea of an artist "getting it right" is, essentially, dodging the most difficult part of defining art.
 

@@ -12,16 +12,30 @@ Born in Bradford England in summer 1937.  He is a figurative painter.  He moved 
 
 ## Quotes From 2014 Documentary
 
-> We grow small trying to become great.
+<blockquote>
+<p>We grow small trying to become great.</p>
+</blockquote>
 
-> New ways of seeing mean new ways of feeling.
+<blockquote>
+<p>New ways of seeing mean new ways of feeling.</p>
+</blockquote>
 
-> I do believe painting can change the world.
+<blockquote>
+<p>I do believe painting can change the world.</p>
+</blockquote>
 
-> I think the absence of love is fear.  If one can understand love, one can, to a certain extent, be fearless.
+<blockquote>
+<p>I think the absence of love is fear.  If one can understand love, one can, to a certain extent, be fearless.</p>
+</blockquote>
 
-> The urge to represent is very deep within us.
+<blockquote>
+<p>The urge to represent is very deep within us.</p>
+</blockquote>
 
-> When you stop doing something, it doesn't mean you are rejecting it.  You're saying, I wish to take a look round another corner.
+<blockquote>
+<p>When you stop doing something, it doesn't mean you are rejecting it.  You're saying, I wish to take a look round another corner.</p>
+</blockquote>
 
-> Friends ... that's really the only thread running through my life.
+<blockquote>
+<p>Friends ... that's really the only thread running through my life.</p>
+</blockquote>

@@ -103,7 +103,17 @@ blockquote {
 }
 
 blockquote.poetry {
-  white-space: pre-wrap;
+  margin-left: 2em;
+}
+
+blockquote.poetry > p {
+  text-indent: -2em;
+  padding: 0;
+  margin: 0;
+}
+
+blockquote > p.indent {
+  text-indent: -1em;
 }
 
 blockquote:before, blockquote:after {
@@ -114,7 +124,6 @@ blockquote:before, blockquote:after {
 blockquote cite {
   font-style: italic;
   display: block;
-  margin-top: 0.2rem;
 }
 
 cite::before {
@@ -152,7 +161,9 @@ ul, ol {
     content: " [" attr(href) "] ";
   }
 
-  cite:after {
-    content: " [" attr(title) "] ";
+  blockquote[title]:after {
+    font-style: italic;
+    content: "— " attr(title);
+    margin-top: 0.2rem;
   }
 }
