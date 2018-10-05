@@ -11,8 +11,8 @@ all: _includes/stylesheet.min.css $(documents)
 _includes/stylesheet.min.css: _includes/stylesheet.css
 	$(CSSMIN_BIN) $< -o $@
 
-_documents/%.md: documents/%.md ./scripts/process.py
-	./scripts/process.py $< | sed -e '/^---/!s/---/—/g' -e '/^--/!s/--/–/g' -e 's/>\.\.\./>⋯/g' > $@
+_documents/%.md: documents/%.md ./scripts/process.py ./scripts/typography.sed
+	./scripts/process.py $< | sed -f ./scripts/typography.sed > $@
 
 .PHONY: clean
 
