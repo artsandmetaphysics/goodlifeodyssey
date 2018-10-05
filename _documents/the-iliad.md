@@ -86,6 +86,7 @@ The most clearly described animal sacrifice occurs near the beginning of the Ili
 <p>and rained destruction down on all Achaea's ranks,</p>
 <p>now bring my prayer to pass once more. Now, at last,</p>
 <p>driving this killing plague from the armies of Achaea!"</p>
+<br>
 <p>His prayer went up and Phoebus Apollo heard him.</p>
 <p>And soon as the men had prayed and flung the barley,</p>
 <p>first they lifted back the heads of the victims,</p>
@@ -185,6 +186,7 @@ And, after Achilles kills Hector, he is still not at peace.  It isn't until King
 <p>remember your own father! I deserve more pity ...</p>
 <p>I have endured what no one on earth has ever done before—</p>
 <p>I put to my lips the hands of the man who killed my son."</p>
+<br>
 <p>Those words stirred within Achilles a deep desire</p>
 <p>to grieve for his own father. Taking the old man's hand</p>
 <p>he gently moved him back. And overpowered by memory</p>

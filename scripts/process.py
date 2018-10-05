@@ -37,7 +37,7 @@ def translate_quote(lines, printer):
             printer('<blockquote title="{}">'.format(citation))
         elif last_line[:3] == '== ':
             printer('<blockquote title="{}" class="poetry">'.format(citation))
-            is_poetry = False
+            is_poetry = True
         elif last_line == '==':
             printer('<blockquote class="poetry">')
             is_poetry = True

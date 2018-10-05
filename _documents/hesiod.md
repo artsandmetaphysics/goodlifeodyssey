@@ -18,16 +18,20 @@ Hesiod appears to believe that the Muses—the nine daughters of Zeus and Memory
 <p>While he pastured his lambs on holy Helikon's slopes.</p>
 <p>And this was the very first thing they told me,</p>
 <p>The Olympian Muses, daughters of Zeus Aegisholder:</p>
+<br>
 <p>"Hillbillies and bellies, poor excuses for shepards:</p>
 <p>We know how to tell many believable lies,</p>
 <p>But also, when we want to, how to speak the plain truth."</p>
+<br>
 <p>So spoke the daughters of great Zeus, mincing their words.</p>
 <p>And they gave me a staff, a branch of good sappy laurel,</p>
 <p>Plucking it off, spectacular.  And they breathed into me</p>
 <p>A voice divine, so I might celebrate past and future.</p>
 <p>And they told me to hymn the generations of the eternal gods,</p>
 <p>But always to sing of themselves, the Muses, first and last.</p>
+<br>
 <p>⋯</p>
+<br>
 <p>Farewell Zeus's daughters, and bestow song that beguiles.</p>
 <p>Make known the eerie brood of the eternal Immortals</p>
 <p>Who were born of Earth and starry Sky,</p>
@@ -37,6 +41,7 @@ Hesiod appears to believe that the Muses—the nine daughters of Zeus and Memory
 <p>And the stars shining and the wide sky above;</p>
 <p>How they divided wealth and allotted honors,</p>
 <p>And first possessed deep-ridged Olympus.</p>
+<br>
 <p>Tell me these things, Olympian Muses,</p>
 <p>From the beginning, and tell which of them came first.</p>
 </blockquote>
@@ -66,14 +71,17 @@ Similar processes may explains the origin of many religious ideas.
 <p>One of them favors war and fighting. She's a mean cuss</p>
 <p>And nobody likes her, but everybody honors her,</p>
 <p>This ornery Eris.  They have to: it's the gods' will.</p>
+<br>
 <p>The other was born first though.  Ebony Night</p>
 <p>Bore her, and Kronos' son who sits high in thin air</p>
 <p>Set her in Earth's roots, and she's a lot better for humans.</p>
 <p>Even shiftless folks she gets stirred up to work.</p>
+<br>
 <p>When a person's lazing about and sees his neighbor</p>
 <p>Getting rich, because he hurries to plow and plant</p>
 <p>And put his homestead in order, he tends to compete</p>
 <p>With that neighbor in a race to get rich.</p>
+<br>
 <p>Strife like this does people good.</p>
 </blockquote>
 
