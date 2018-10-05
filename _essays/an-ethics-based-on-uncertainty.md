@@ -1,6 +1,7 @@
 ---
 title: 'An Ethics Based on Uncertainty'
 description: 'My Plan to Develop an Ethics Based on Uncertainty'
+type: essay
 status: incomplete
 order: 600
 ---

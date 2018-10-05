@@ -1,6 +1,7 @@
 ---
 title: Faith and Righteousness
 description: Are the faithless more righteous than the faithful?
+type: essay
 order: 100
 status: incomplete
 ---

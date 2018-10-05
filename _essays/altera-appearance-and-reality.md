@@ -1,6 +1,7 @@
 ---
 title: 'Altera: Appearance and Reality'
 description: 'I investigate how Nooks may perceive and sense their world.'
+type: essay
 status: incomplete
 order: 504
 ---

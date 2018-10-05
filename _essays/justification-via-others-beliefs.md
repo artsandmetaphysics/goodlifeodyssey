@@ -1,6 +1,7 @@
 ---
 title: "Justification via Other's Beliefs"
 description: >
+type: essay
 status: complete
 order: 2.5
 ---

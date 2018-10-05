@@ -1,6 +1,7 @@
 ---
 title: 'Altera: Free Will'
 description: 'Do Nooks have free will?  What does free will mean?'
+type: essay
 status: incomplete
 order: 505
 ---

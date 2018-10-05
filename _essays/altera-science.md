@@ -1,6 +1,7 @@
 ---
 title: 'Altera: Science'
 description: 'Nooks can use the scientific method to understand Altera.  What can they discover, and what difficulties will they have?'
+type: essay
 status: incomplete
 order: 506
 ---
