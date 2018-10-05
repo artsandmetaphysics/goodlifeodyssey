@@ -11,7 +11,7 @@ He wrote two short epic poems,  _The Theogony_ and _Works and Days_.  Quotations
 
 ## The Muses
 
-Hesiod appears to believe that the Muses---the nine daughters of Zeus and Memory---have divinely inspired his poetry.
+Hesiod appears to believe that the Muses—the nine daughters of Zeus and Memory—have divinely inspired his poetry.
 
 <blockquote class="poetry">And they taught Hesiod the art of singing verse,
 While he pastured his lambs on holy Helikon's slopes.
@@ -92,7 +92,7 @@ Three types of gods:
 
 It seemed natural to the Greeks to represent abstract concepts as gods, since they are invisible and immortal.
 
-Strife and Rumour---etymological explanations for gods.
+Strife and Rumour—etymological explanations for gods.
 
 Hesiod uses creation through sex instead of the creation through speech (present in the Hebrew bible and, I think, in Egyptian cosmology).
 

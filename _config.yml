@@ -2,7 +2,7 @@ title: Art, History, Ethics, Epistemology, and Metaphysics
 email: artsandmetaphysics@gmail.com
 description: My essays about art, history, ethics, epistemology, and metaphysics
 baseurl: ""
-url: "https://artsandmetaphysics.com"
+url: "http://artsandmetaphysics.com"
 
 markdown: kramdown
 theme: minima

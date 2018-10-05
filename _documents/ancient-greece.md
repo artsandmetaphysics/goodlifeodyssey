@@ -49,7 +49,7 @@ Many of these notes were taken from _Ancient Greece_ by Thomas R. Martin.
 - Art has geometric patterns
 - c. 900 - 800 Population growth and adoption of Iron tools and weapons
 - c. 800 Adopt the Phoenician alphabet
-- c. 776 First Olympics---competition between individual naked athletes
+- c. 776 First Olympics—competition between individual naked athletes
 - Later Greeks did not know much about their Mycenaean past
 
 ## Greek Archaic Age

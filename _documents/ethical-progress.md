@@ -14,7 +14,7 @@ In this essay I will assume that we have a shared sense of right and wrong, a sh
 
 It is an important question because its answer should affect how we act moving forward: If we have, then we should find its cause and we should try to continue making progress. If we have not, we should try to identify why not, and should remove these barriers.  Furthermore, comparisons can lead us to clarifications.
 
-Ethics is situational---to judge the past we need to know and understand the situations that individuals and society faced.  Behaviors which may seem unethical may, upon further understanding of the historical situations they occurred in, be ethical.  For example polygamy may have been a way to protect widows from starvation.  Measuring ethical progress will thus require historical context.  Our understanding of the past is limited by the surviving evidence, so our ability to measure progress will be similarly limited.
+Ethics is situational—to judge the past we need to know and understand the situations that individuals and society faced.  Behaviors which may seem unethical may, upon further understanding of the historical situations they occurred in, be ethical.  For example polygamy may have been a way to protect widows from starvation.  Measuring ethical progress will thus require historical context.  Our understanding of the past is limited by the surviving evidence, so our ability to measure progress will be similarly limited.
 
 Ethical progress can occur in both individuals and societies.  This distinction is key.  It seems unlikely that the average person is innately better than the average person used to be; our biology has not changed substantially.  But the societies we develop in have changed, and our society affects the individual.
 

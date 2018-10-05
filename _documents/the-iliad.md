@@ -44,7 +44,7 @@ Some gods are described as human-like while others are abstract.  Gods are born,
 <blockquote title="Book 5.332" class="poetry">
 <p>He gouged Aphrodite just where the wristbone joins the palms</p>
 <p>and immortal blood came flowing quickly from the goddess,</p>
-<p>the ichor that courses through their veins, the blessed gods---</p>
+<p>the ichor that courses through their veins, the blessed gods—</p>
 <p>they eat no bread, they drink no shining wine, and so</p>
 <p>the gods are bloodless, so we call them deathless.</p>
 </blockquote>
@@ -56,7 +56,7 @@ It also seems that the gods can be killed:
 <p>Ares might have wasted away there on the spot</p>
 <p>if the monster's stepmother, beautiful Eriboea</p>
 <p>had not sent for Hermes, and out of the cauldron</p>
-<p>Hermes stole him away---the War-god breathing his last,</p>
+<p>Hermes stole him away—the War-god breathing his last,</p>
 <p>all but broken down by the ruthless iron chains.</p>
 </blockquote>
 
@@ -69,7 +69,7 @@ The Greeks believed that the gods enjoyed and demanded animal sacrifices and lib
 <p>Priam and men of Priam who hurls the strong ash spear.</p>
 <p>Never once did my altar lack its share of victims,</p>
 <p>winecups tipped and the deep smoky savor. These,</p>
-<p>these are the gifts we claim---they are our rights."</p>
+<p>these are the gifts we claim—they are our rights."</p>
 </blockquote>
 
 The most clearly described animal sacrifice occurs near the beginning of the Iliad:
@@ -81,7 +81,7 @@ The most clearly described animal sacrifice occurs near the beginning of the Ili
 <p>Rising among them Chryses stretched his arms to the sky</p>
 <p>and prayed in a high resounding voice, "Hear me, Apollo!</p>
 <p>God of the silver bow who strides the walls of Chryse</p>
-<p>and Cilla sacrosanct---lord in power of Tenedos!</p>
+<p>and Cilla sacrosanct—lord in power of Tenedos!</p>
 <p>If you honored me last time and heard my prayer</p>
 <p>and rained destruction down on all Achaea's ranks,</p>
 <p>now bring my prayer to pass once more. Now, at last,</p>
@@ -114,11 +114,11 @@ Furethermore, plauges and natural disasters were believed to be caused by gods. 
 
 <blockquote title="Book 1.56 - 63" class="poetry">
 <p>So home we sail ...</p>
-<p>if we can escape our death---if war and plague</p>
+<p>if we can escape our death—if war and plague</p>
 <p>are joining forces now to crush the Argives.</p>
 <p>But wait: let us question a holy man,</p>
-<p>a prophet, even a man skilled with dreams---</p>
-<p>dreams as well can come our way from Zeus---</p>
+<p>a prophet, even a man skilled with dreams—</p>
+<p>dreams as well can come our way from Zeus—</p>
 <p>come, someone tell us why Apollo rages so,</p>
 <p>whether he blames us for a vow we failed, or sacrifice.</p>
 <p>If only the god would share the smoky savor of lambs</p>
@@ -138,7 +138,7 @@ Dreams; Zeus' dream for Agammenon in book 2; Hermes waking up Priam in book 24
 Traditionally, the first word of an epic poem is also its central theme.  Here is the first line of the Iliad:
 
 <blockquote title="Book 1.1 - 8" class="poetry">
-<p>Rage---Goddess, sing the rage of Peleus' son Achilles,</p>
+<p>Rage—Goddess, sing the rage of Peleus' son Achilles,</p>
 <p>murderous, doomed, that cost the Achaeans countless losses,</p>
 <p>hurling down to the House of Death so many sturdy souls,</p>
 <p>great fighters' souls, but made their bodies carrion,</p>

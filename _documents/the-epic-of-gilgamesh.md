@@ -29,7 +29,7 @@ A game trapper finds Enkidu at a watering hole, and is concerned because he fill
 <p>his heart <em>delighting</em> with the beasts in the water:</p>
 <p class="indent">then Shamhat saw him, the child of nature,</p>
 <p>the savage man from the midst of the wild.</p>
-<p>...</p>
+<p>⋯</p>
 <p>Shamhat unfastened the cloth of her loins,</p>
 <p class="indent">she bared her sex and he took in her charms.</p>
 <p>She did not recoil, she took in his scent:</p>
@@ -113,7 +113,7 @@ In Babylonian mythology, Marduk was the supreme god.  Marduk rose to power by ki
 <p class="indent">or press down its tongue with a cord?</p>
 <p>Can you put a rope in its nose,</p>
 <p class="indent">or pierce its jaw with a hook?</p>
-<p>...</p>
+<p>⋯</p>
 <p>Any hope of capturing it will be disappointed;</p>
 <p class="indent">were not even the gods overwhelmed at the sight of it?</p>
 </blockquote>

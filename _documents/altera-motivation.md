@@ -1,6 +1,6 @@
 ---
 title: 'Altera: Motivation'
-description: 'An introduction to Altera---a 2D world within which we will investigate many philosophical questions.'
+description: 'An introduction to Altera—a 2D world within which we will investigate many philosophical questions.'
 type: essay
 status: incomplete
 order: 500
@@ -16,4 +16,4 @@ Our ability to imagine alternate universes is obstructed because we must describ
 
 Despite these difficulties, I have been able to clarify my thoughts using this approach, and I hope that others find similar success.  At least it may be a clear exposition of many questions previously asked and answered by philosophers.  At most, it may lead to new insights.
 
-This sort of thought experiment has been performed before.  The book *Flat Land*, written by Edwin Abbott Abbott, is the earliest example of which I am aware.  In *Flat Land*, Abbott investigates the limitations of two-dimensional beings understanding a third dimension.  With this regard, the book was successful, however, the extent of his investigation was limited.  There are more questions to explore---especially questions about knowledge, metaphysics, and ethics.
+This sort of thought experiment has been performed before.  The book *Flat Land*, written by Edwin Abbott Abbott, is the earliest example of which I am aware.  In *Flat Land*, Abbott investigates the limitations of two-dimensional beings understanding a third dimension.  With this regard, the book was successful, however, the extent of his investigation was limited.  There are more questions to explore—especially questions about knowledge, metaphysics, and ethics.

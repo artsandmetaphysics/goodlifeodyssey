@@ -12,7 +12,7 @@ There are many reasons to practice a religion, but most can be reduced to "I thi
 
 I want to practice a religion because it is true.  What do I mean by true?
 
-Most religions make metaphysical claims---claims about the nature of reality.  Here are a few such claims:
+Most religions make metaphysical claims—claims about the nature of reality.  Here are a few such claims:
 
 - The pharaoh is a god.
 - Trees have spirits.
@@ -34,11 +34,11 @@ What about religions that don't make any claims.
 What about religions that make more claims than another.  One religion claims "A," while another claims "A" and "B."  Which religion should you believe?
 {% endcomment %}
 
-How can we know whether a metaphysical claim is true?  It depends on the claim.  Some claims can be verified using the scientific method, however, the scientific method itself assumes a metaphysical claim---that the laws of physics have never changed.  If the laws of physics do change, then we can not use our scientific knowledge to draw conclusions about the after or before the laws of physics changed.
+How can we know whether a metaphysical claim is true?  It depends on the claim.  Some claims can be verified using the scientific method, however, the scientific method itself assumes a metaphysical claim—that the laws of physics have never changed.  If the laws of physics do change, then we can not use our scientific knowledge to draw conclusions about the after or before the laws of physics changed.
 
 Even if we assume that the laws of physics have never changed, science still could not answer many metaphysical claims.  Science can not verify or refute the metaphysical claim that, when humans die their soul becomes a ghost that can not interact with world of the living.  Even if this metaphysical claim correctly describes reality, the scientific method could neither confirm or deny its validity.
 
-There are other metaphysical claims that can be confirmed or denied using reason.  If god is all-knowing, he must exist outside of time---if he did not, he would not know the future.
+There are other metaphysical claims that can be confirmed or denied using reason.  If god is all-knowing, he must exist outside of time—if he did not, he would not know the future.
 
 Many religions make many metaphysical claims.  If they do, these claims must be consistent with one another.
 
@@ -54,7 +54,7 @@ The universe is awesome and beautiful.  For non-believers, surely the existence 
 
 I wish that the answers to these questions were apparent.  But they are not to me, and I wonder how they could have been to the people of Paul's time without revelation.  If a god created the universe, then it is apparent from the creation that this god would be very powerful.  But how can the non-believer be expected to know that a god exists and that it created the universe?  I will expound on why I do not believe the existence of God is obvious in a later chapter.
 
-Even if we accept that a god exists---how can we be expected to know its will?  If God is to justly condemn men as being "ungodly" and "unrighteousness" then these same men, devoid of revelation, must be able to deduce his will.  Paul explains how they can later in the same letter:
+Even if we accept that a god exists—how can we be expected to know its will?  If God is to justly condemn men as being "ungodly" and "unrighteousness" then these same men, devoid of revelation, must be able to deduce his will.  Paul explains how they can later in the same letter:
 
 <blockquote title="Romans 2:14 - 16, English Standard Version">
 <p>For when Gentiles [people who are not Jewish], who do not have the law [God's instructions for how humans should act, recorded in the sacred Jewish texts], by nature do what the law requires, they are a law to themselves, even though they do not have the law.  They show that the work of the law is written on their hearts, while their conscience also bears witness, and their conflicting thoughts accuse or even excuse them on that day when, according to my gospel, God judges the secrets of men by Christ Jesus.</p>
