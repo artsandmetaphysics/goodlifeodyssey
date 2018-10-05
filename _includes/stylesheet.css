@@ -90,10 +90,15 @@ strong {
 
 blockquote {
   font-size: 0.9rem;
+  margin-left: 0;
+  margin-right: 0;
   quotes: none;
-  margin: 0;
   padding-left: 1.0rem;
   padding-right: 1.0rem;
+}
+
+blockquote:note(.poetry) {
+  margin: 0;
 }
 
 @media (max-width: 504px) {
