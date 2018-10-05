@@ -121,9 +121,13 @@ blockquote:before, blockquote:after {
   content: none;
 }
 
-blockquote cite {
+blockquote > cite {
   font-style: italic;
   display: block;
+}
+
+blockquote > p + cite {
+  margin-top: -0.5rem;
 }
 
 cite::before {
