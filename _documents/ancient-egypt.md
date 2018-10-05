@@ -1,6 +1,7 @@
 ---
 title: 'Ancient Egypt'
 description: "Notes on Ancient Egypt"
+type: note
 order: 1
 ---
 

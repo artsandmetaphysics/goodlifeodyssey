@@ -2,7 +2,7 @@ title: Art, History, Ethics, Epistemology, and Metaphysics
 email: artsandmetaphysics@gmail.com
 description: My essays about art, history, ethics, epistemology, and metaphysics
 baseurl: ""
-url: "http://artsandmetaphysics.com"
+url: "https://artsandmetaphysics.com"
 
 markdown: kramdown
 theme: minima
@@ -12,22 +12,13 @@ exclude:
   - Gemfile
   - Gemfile.lock
 collections:
-  essays:
-    output: true
-    permalink: /:path
-  notes:
+  documents:
     output: true
     permalink: /:path
 defaults:
   - scope:
       path: ""
-      type: essays
-    values:
-      layout: basic
-      status: complete
-  - scope:
-      path: ""
-      type: notes
+      type: documents
     values:
       layout: basic
       status: complete

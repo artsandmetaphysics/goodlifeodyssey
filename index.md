@@ -5,30 +5,15 @@ description: This website contains my essays and notes about art, history, ethic
 ---
 <p>{{ page.description }}</p>
 
-<h2>Essays</h2>
-
-<ul class="index">
-{% assign essays = site.essays | sort: 'order' %}
-{% for e in essays %}
-  {% if e.status != 'hidden' %}
-  <li title="{{ e.description | xml_escape | normalize_whitespace }}">
-    <a href="{{ e.url }}">{{ e.title }}</a>
-  </li>
-  {% endif %}
+{% assign groups = site.documents | group_by: 'type' | sort: 'name' %}
+{% for group in groups %}
+  <h2>{{ group.name | capitalize }}s</h2>
+  <ul class="index">
+  {% assign documents = group.items | sort: 'order' %}
+  {% for d in documents  %}
+    <li title="{{ d.description | xml_escape | normalize_whitespace }}">
+      <a href="{{ d.url }}">{{ d.title }}</a>
+    </li>
+  {% endfor %}
+  </ul>
 {% endfor %}
-</ul>
-
-<h2>Notes</h2>
-
-<p></p>
-
-<ul class="index">
-{% assign notes = site.notes | sort: 'order' %}
-{% for n in notes %}
-  {% if e.status != 'hidden' %}
-  <li title="{{ n.description | xml_escape | normalize_whitespace }}">
-    <a href="{{ n.url }}">{{ n.title }}</a>
-  </li>
-  {% endif %}
-{% endfor %}
-</ul>

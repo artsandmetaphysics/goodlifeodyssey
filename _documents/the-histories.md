@@ -1,6 +1,7 @@
 ---
 title: "The Histories by Herodotus"
 description: "Notes on The Histories by Herodotus"
+type: note
 order: 3
 ---
 

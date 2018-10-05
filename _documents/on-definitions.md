@@ -1,10 +1,10 @@
 ---
 title: 'On Definitions'
 description: >
-type: essay
     Philosophical discussion benefits from precise and shared
     definitions.  I discuss the two questions we can ask about definitions---are
     they useful, and are they what was meant?
+type: essay
 status: incomplete
 order: 1
 ---
