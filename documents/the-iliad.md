@@ -46,7 +46,7 @@ Some gods are described as human-like while others are abstract.  Gods are born,
 > the ichor that courses through their veins, the blessed gods---
 > they eat no bread, they drink no shining wine, and so
 > the gods are bloodless, so we call them deathless.
-> == Book 5.332
+> == Book 5.332, Fagles
 
 It also seems that the gods can be killed:
 
@@ -56,7 +56,7 @@ It also seems that the gods can be killed:
 > had not sent for Hermes, and out of the cauldron
 > Hermes stole him away---the War-god breathing his last,
 > all but broken down by the ruthless iron chains.
-> == Book 5.418
+> == Book 5.418, Fagles
 
 ## Rituals
 
@@ -67,7 +67,7 @@ The Greeks believed that the gods enjoyed and demanded animal sacrifices and lib
 > Never once did my altar lack its share of victims,
 > winecups tipped and the deep smoky savor. These,
 > these are the gifts we claim---they are our rights."
-> == Book 4.45 - 47
+> == Book 4.45--47, Fagles
 
 The most clearly described animal sacrifice occurs near the beginning of the Iliad:
 
@@ -81,7 +81,7 @@ The most clearly described animal sacrifice occurs near the beginning of the Ili
 > If you honored me last time and heard my prayer
 > and rained destruction down on all Achaea's ranks,
 > now bring my prayer to pass once more. Now, at last,
-> driving this killing plauge from the armies of Achaea!"
+> driving this killing plague from the armies of Achaea!"
 >
 > His prayer went up and Phoebus Apollo heard him.
 > And soon as the men had prayed and flung the barley,
@@ -105,7 +105,7 @@ The most clearly described animal sacrifice occurs near the beginning of the Ili
 > to the distant archer god who drives away the plague,
 > those young Achaean warriors singing out his power,
 > and Apollo listened, his great heart warm with joy.
-> == Book 1.435 - 448
+> == Book 1.435--448, Fagles
 
 Furethermore, plauges and natural disasters were believed to be caused by gods.  An example of this is seen at the beginning of *The Iliad*:
 
@@ -120,7 +120,7 @@ Furethermore, plauges and natural disasters were believed to be caused by gods. 
 > If only the god would share the smoky savor of lambs
 > and full-grown goats, Apollo might be willing, still,
 > somehow, to save us from this plague."
-> == Book 1.56 - 63
+> == Book 1.56--63, Fagles
 
 Seers and bird signs
 
@@ -141,21 +141,63 @@ Traditionally, the first word of an epic poem is also its central theme.  Here i
 > and the will of Zeus was moving towards its end.
 > Begin, Muse, when the two first broke and clashed,
 > Agamemnon lord of men and brilliant Achilles.
-> == Book 1.1 - 8
+> == Book 1.1--8, Fagles
 
 During most of *The Iliad,* Achilles wrath is directed at Agamemnon because he disgraced Achilles in front of all the Greeks by stealing his concubine, Briseis.  It isn't until book 18, when Achilles learns that Patroclus died, that his wrath is then re-directed towards Hector.
 
-> Straightway may I die, seeing I was not to bear aid to my comrade at his slaying. Far, far from his own land hath he fallen, and had need of me to be a warder off of ruin. Now therefore, seeing I return not to my dear native land, neither proved anywise a light of deliverance to Patroclus nor to my other comrades, those many that have been slain by goodly Hector, but abide here by the ships. Profitless burden upon the earth—I that in war am such as is none other of the brazen-coated Achaeans, albeit in council there be others better—so may strife perish from among gods and men, and anger that setteth a man on to grow wroth, how wise soever he be, and that sweeter far than trickling honey waxeth like smoke in the breasts of men; even as but now the king of men, Agamemnon, moved me to wrath. Howbeit these things will we let be as past and done, for all our pain, curbing the heart in our breasts, because we must. But now will I go forth that I may light on the slayer of the man I loved, even on Hector; for my fate, I will accept it whenso Zeus willeth to bring it to pass, and the other immortal gods.
-> -- Book 18.98 - 110, Murray
+> "Then let me die at once"---
+> Achilles burst out, despairing---"since it was not my fat
+> to save my dearest comrade from his death! Look,
+> a world away from his fatherland he's perished,
+> lacking me, my fighting strength, to defend him.
+> But now, since I shall not return to my fatherland ...
+> nor did I bring one ray of hope to my Patroclus,
+> nor to the rest of all my steadfast comrades,
+> countless ranks struck down by mighty Hector---
+> No, no, here I sit by the ships ...
+> a useless, dead weight on the good green earth---
+> I, no man  my equal among the bronze-armed Achaeans,
+> not in battle, only in wars of words that others win.
+> If only strife could die from the lives of gods and men
+> and anger that drives the sanest man to flare in outrage---
+> bitter gall, sweeter than dripping streams of honey,
+> that swarms in people's chests and blinds like smoke---
+> just like the anger Agamemnon king of men
+> has roused within me now ...
+> Enough.
+> Let bygones be bygones. Done is done.
+> Despite my anguish I will beat it down,
+> the fury mounting inside me, down by force.
+> But now I'll go and meet that murderer head-on,
+> that Hector who destroyed the dearest life I know.
+> == Book 18.98--109, Fagles
 
 And, after Achilles kills Hector, he is still not at peace.  It isn't until King Priam, willed by Zeus, visits Achilles to ransom for Hector's body, that Achilles' wrath seems to subside:
 
-> So spake he, and in Achilles he roused desire to weep for his father; and he took the old man by the hand, and gently put him from him. So the twain bethought them of their dead, and wept; the one for man-slaying Hector wept sore, the while he grovelled at Achilles' feet, but Achilles wept for his own father, and now again for Patroclus; and the sound of their moaning went up through the house.
->
-> But when goodly Achilles had had his fill of lamenting, and the longing therefor had departed from his heart and limbs, forthwith then he sprang from his seat, and raised the old man by his hand, pitying his hoary head and hoary beard; and he spake and addressed him with winged words: "Ah, unhappy man, full many in good sooth are the evils thou hast endured in thy soul. How hadst thou the heart to come alone to the ships of the Achaeans, to meet the eyes of me that have slain thy sons many and valiant? Of iron verily is thy heart. But come, sit thou upon a seat, and our sorrows will we suffer to lie quiet in our hearts, despite our pain; for no profit cometh of chill lament.
-> -- Book 24.507 - 524, Murray
+> Revere the gods, Achilles! Pity me in my own right,
+> remember your own father! I deserve more pity ...
+> I have endured what no one on earth has ever done before---
+> I put to my lips the hands of the man who killed my son."
+> 
+> Those words stirred within Achilles a deep desire
+> to grieve for his own father. Taking the old man's hand
+> he gently moved him back. And overpowered by memory
+> both men gave way to grief.  Priam wept freely 
+> for man-killing Hector, throbbing, crouching
+> before Achilles' feet as Achilles wept himself,
+> now for his father, now for Patroclus once again,
+> and their sobbing rose and fell throughout the house.
+> Then, when brilliant Achilles had had his fill of tears
+> and the longing for it had left his mind and body,
+> he rose from his seat, raised the old man by the hand
+> and filled with pity now for his gray head and gray beard,
+> he spoke out winging words, flying straight to the heart:
+> "Poor man, how much you've born---pain to break the spirit!"
+> == Book 24.507--522, Fagles
 
-So, *The Iliad*, can be viewed as a poem about the destructive wrath of Achilles, which is lit in Book 1 and only extinguished towards the end of Book 24.  Some interpret *The Iliad* as a poem about growth and moral progress; Achilles becomes more human.  Others see Achilles rage as appropriate and consistent because he is the son of a goddess; he is a great warrior, and should not allow his honor to be besmirched.
+So, *The Iliad*, is in many ways a poem about the wrath of Achilles, which is lit in Book 1 and only extinguished towards the end of Book 24.
+
+Some interpret *The Iliad* as a poem about growth and moral progress---Achilles' god-like wrath is humanized by Priam.  Others see Achilles' rage and general attitude as being consistent throughout the book.
 
 ## War and Violence
 
@@ -166,5 +208,33 @@ So, *The Iliad*, can be viewed as a poem about the destructive wrath of Achilles
 Armor and treasure; honor
 
 ## Similes
+
+> Like the generations of leaves, the lives of mortal men.
+> Now the wind scatters the old leaves across the earth,
+> now the living timber bursts with the new buds
+> and spring comes round again.  And so with men:
+> as one generation comes to life, another dies away.
+> == Book 6.171--175, Fagles
+
+> Both men bent on combat, on they fought like wind
+> when a god sends down some welcome blast to sailors
+> desperate for it, worked to death at the polished oars,
+> beating the heavy seas, their arms slack with the labor—
+> so welcome that brace of men appeared to the Trojans
+> desperate for their captains.
+> == Book 7.3--7, Fagles
+
+> Quick as a thought goes flashing through a man
+> who's traveled the world---"Ah to be there, or there!"---
+> as his mind swarms with journeys, fresh desires---
+> so quick in her eager flight flew noble Hera now
+> and scaling steep Olympus went amount the gods.
+> == Book 15.76--78, Fagles
+
+> She put fresh strength in his back, spring in his knees
+> and filled his heart with the horsefly's raw daring---
+> brush it away from a man's flesh and back it comes,
+> biting, attacking, crazed for sweet human blood.
+> == Somewhere in Books 15, 16, or 17, Fagles
 
 ## Great Quotes
