@@ -33,12 +33,14 @@ Here are a few excerpts from the Toby Wilkinson translation of the *Teaching of 
 <p>by not opposing him while he is in the heat of the moment.</p>
 <p>He will be called an ignoramus</p>
 <p>while your self-control will equal his wealth.</p>
+<br>
 <p>If you come across a disputatious man</p>
 <p>who is your equal, your match,</p>
 <p>you will make your esteem greater than his by keeping silent.</p>
 <p>While he is saying bad things,</p>
 <p>there will be much discussion by the judges</p>
 <p>and your name will be good in the opinion of the elders.</p>
+<br>
 <p>If you come across a disputatious man</p>
 <p>who is a poor man, not your equal,</p>
 <p>do not be aggressive to him simply because he is weak.</p>
@@ -48,6 +50,7 @@ Here are a few excerpts from the Toby Wilkinson translation of the *Teaching of 
 <p>for wretched is he who injures a poor man.</p>
 <p>What you wish will be done anyway:</p>
 <p>you will beat him through the elders' disapproval.</p>
+<br>
 <p>If you are a man in a position of trust,</p>
 <p>sent by one elder to another,</p>
 <p>stick to the matter for which he sent you;</p>
@@ -58,12 +61,14 @@ Here are a few excerpts from the Toby Wilkinson translation of the *Teaching of 
 <p>but an outburst should not be repeated.</p>
 <p>Do not speak against anyone</p>
 <p>great or small: it is bad for the spirit.</p>
+<br>
 <p>If you are a leader</p>
 <p>whose authority is unhindered,</p>
 <p>you should achieve many things.</p>
 <p>Be mindful of tomorrow:</p>
 <p>a dispute does not come in the midst of praises</p>
 <p>but when the crocodile charges in, hatred arises.</p>
+<br>
 <p>If you are a leader,</p>
 <p>listen quietly to the plea of a petitioner.</p>
 <p>Do not rebuff him from what he planned to say:</p>
@@ -73,6 +78,7 @@ Here are a few excerpts from the Toby Wilkinson translation of the *Teaching of 
 <p>it is said, 'Why does he reject it?'</p>
 <p>Not all that is petitioned for comes about,</p>
 <p>but a good hearing soothes the heart.</p>
+<br>
 <p>If you are a man of virtue</p>
 <p>who sits in his master's hall,</p>
 <p>turn your mind to virtuous things.</p>
@@ -81,6 +87,7 @@ Here are a few excerpts from the Toby Wilkinson translation of the *Teaching of 
 <p>for it is only the skilled who should speak in the council.</p>
 <p>Speaking is more difficult than all other tasks</p>
 <p>he who does it fluently makes it his servant.</p>
+<br>
 <p>If you are powerful, gain respect</p>
 <p>through knowledge and pleasant speech.</p>
 <p>Do not command unless it befits:</p>
@@ -99,6 +106,7 @@ Here are a few excerpts from the Toby Wilkinson translation of the *Teaching of 
 <p>is like someone who steers a matter safely to land,</p>
 <p>and another matter is held fast.</p>
 <p>He who listens to his heart will regret.</p>
+<br>
 <p>Punish with authority, teach thoroughly,</p>
 <p>then suppression of wrongdoing remains a good deed.</p>
 <p>Punishment that is not deserved</p>

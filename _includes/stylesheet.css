@@ -112,6 +112,12 @@ blockquote.poetry > p {
   margin: 0;
 }
 
+blockquote.poetry > br {
+  display: block;
+  content: "";
+  margin-top: 1rem;
+}
+
 blockquote > p.indent {
   text-indent: -1em;
 }

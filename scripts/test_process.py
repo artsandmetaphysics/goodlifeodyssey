@@ -86,3 +86,20 @@ def test_indents():
         '<p class="indent">Two</p>',
         '</blockquote>',
     ])
+
+
+def test_poetry_blank_lines():
+    assert_translate([
+        '> One',
+        '> Two',
+        '>',
+        '> Three',
+        '> ==',
+    ], [
+        '<blockquote class="poetry">',
+        '<p>One</p>',
+        '<p>Two</p>',
+        '<br>',
+        '<p>Three</p>',
+        '</blockquote>',
+    ])
