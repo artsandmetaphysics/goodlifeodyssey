@@ -28,15 +28,15 @@ Many of these notes were taken from _Ancient Greece_ by Thomas R. Martin.
 ## Myceneaens
 
 - Named after the city Mycenae
-- c. 1600 - 1450 shaft graves
-- c. 1450 - 1240 Koine Era (Highpoint of their civilization)
+- c. 1600–1450 shaft graves
+- c. 1450–1240 Koine Era (Highpoint of their civilization)
 - Strongly influenced by the Minoans, who they eventually conquered
 - Unlike the Minoans, they seem like a warrior culture
 - Spoke Greek; wrote using Linear B
 - References to Hera, Zeus, Poseidon, Dionysus and other divinities found in Linear B tablets
 - Built walls with such large blocks that the Greeks believed Cyclops had built them
 - Traded widely, including with the Egyptians
-- c. 1250 - 1100 Decline
+- c. 1250–1100 Decline
 
 ## Greek Dark Age
 
@@ -47,7 +47,7 @@ Many of these notes were taken from _Ancient Greece_ by Thomas R. Martin.
 - Stopped writing in Linear B; no literary sources
 - Myceneaen culture and religion passed down orally
 - Art has geometric patterns
-- c. 900 - 800 Population growth and adoption of Iron tools and weapons
+- c. 900–800 Population growth and adoption of Iron tools and weapons
 - c. 800 Adopt the Phoenician alphabet
 - c. 776 First Olympics—competition between individual naked athletes
 - Later Greeks did not know much about their Mycenaean past
@@ -58,21 +58,21 @@ Many of these notes were taken from _Ancient Greece_ by Thomas R. Martin.
 - Population growth
 - Rise of the Polis, a political, social, and religious organization of a city and surrounding areas
 - Political systems included monarchies, oligarchies, tyrants, and early forms of democracy
-- c. 750 - 500 Population growth and Greek colonization of the Mediterranean and Black Sea; "Frogs around a pond" (Plato)
-- c. 750 - 700 Homer and Hesiod write epic poems
+- c. 750–500 Population growth and Greek colonization of the Mediterranean and Black Sea; "Frogs around a pond" (Plato)
+- c. 750–700 Homer and Hesiod write epic poems
 - c. 600 chattel slavery is the norm
 
 
 ## Greek Classical Age
 
-- 499 - 494 Ionian revolt in Western Anatolia, which is eventually crushed by the Persians
+- 499–494 Ionian revolt in Western Anatolia, which is eventually crushed by the Persians
 - 490 Darius sends force to Athens; Athenians win the battle of Marathon
 - 480 Xerxes leads massive Persian force into Greece; battle of Thermopylae (the 300) and navel battle of Salamis
 - 458 Aeschylus writes _The Oresteia_ (_Agamemnon_, _The Libation Bearers_, and _The Eumenides_)
 - c. 440 Herodotus writes _The Histories_
-- 431 - 404 Peloponnesian War, written about by Thucydides
+- 431–404 Peloponnesian War, written about by Thucydides
 - 399 Trial and execution of Socrates
-- c. 400 - 380 Plato founds the Academy at Athens
+- c. 400–380 Plato founds the Academy at Athens
 - 359 Philip II becomes king of Macedonia
 - 336 Philip II murdered, Alexander the Great becomes king
 - 335 Aristotle founds the Lyceum at Athens
@@ -86,5 +86,5 @@ Many of these notes were taken from _Ancient Greece_ by Thomas R. Martin.
 - 310 murder of Alexander's son
 - 310 Zeno founds Stoic school in Athens
 - 307 Epicurus founds his school in Athens
-- 306 - 304 Alexander's former commanders split up the empire
-- 304 - 30 Ptolemys in Egypt
+- 306–304 Alexander's former commanders split up the empire
+- 304–30 Ptolemys in Egypt

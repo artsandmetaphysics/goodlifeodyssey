@@ -88,7 +88,7 @@ The similarities between the story of Noah and the Babylonian texts are manifold
 
 For example, the Hebrew Bible, like Babylonian mythology, has the idea of the waters above and the waters below:
 
-<blockquote title="Genesis 1:6 - 8, New Revised Standard Version">
+<blockquote title="Genesis 1:6–8, New Revised Standard Version">
 <p>And God said, "Let there be a dome in the midst of the waters, and let it separate the waters from the waters."  So God made the dome and separated the waters that were under the dome from the waters that were above the dome.  And it was so.  God called the dome Sky.  And there was evening and there was morning, the second day.</p>
 </blockquote>
 
@@ -96,7 +96,7 @@ For example, the Hebrew Bible, like Babylonian mythology, has the idea of the wa
 <p>In the six hundredth year of Noah's life, in the second month, on the seventeenth day of the month, on that day all the fountains of the great deep burst forth, and the windows of the heavens were opened.</p>
 </blockquote>
 
-<blockquote title="Genesis 8:1 - 3, New Revised Standard Version">
+<blockquote title="Genesis 8:1–3, New Revised Standard Version">
 <p>And God made a wind blow over the earth, and the waters subsided; the fountains of the deep and the windows of the heavens were closed, the rain from the heavens was restrained, and the waters gradually receded from the earth.</p>
 </blockquote>
 
@@ -108,7 +108,7 @@ The most common explanation for the Hebrew's and Babylonian's belief in the wate
 
 In Babylonian mythology, Marduk was the supreme god.  Marduk rose to power by killing Tiamat, who was often represented as a great sea dragon, when all the other Babylonian gods were too afraid to confront it.  It seems that the Hebrew god references fought a similar battle:
 
-<blockquote title="Job 41:1 - 9, New Revised Standard Version" class="poetry">
+<blockquote title="Job 41:1–9, New Revised Standard Version" class="poetry">
 <p>Can you draw out Leviathan with a fishhook,</p>
 <p class="indent">or press down its tongue with a cord?</p>
 <p>Can you put a rope in its nose,</p>
@@ -118,7 +118,7 @@ In Babylonian mythology, Marduk was the supreme god.  Marduk rose to power by ki
 <p class="indent">were not even the gods overwhelmed at the sight of it?</p>
 </blockquote>
 
-<blockquote title="Psalm 74:13 - 14, New Revised Standard Version" class="poetry">
+<blockquote title="Psalm 74:13–14, New Revised Standard Version" class="poetry">
 <p>You divided the sea by your might;</p>
 <p class="indent">you broke the heads of the dragons in the waters.</p>
 <p>You crushed the heads of Leviathan;</p>
@@ -145,7 +145,7 @@ Finally, parts of Ecclesiastes are very similar to the *Epic of Gilgamesh*.  Her
 
 And here is a similar saying in Ecclesiastes:
 
-<blockquote title="Ecclesiastes 9:5 - 10, New Revised Standard Version">
+<blockquote title="Ecclesiastes 9:5–10, New Revised Standard Version">
 <p>The living know that they will die, but the dead know nothing; they have no more reward, and even the memory of them is lost.  Their love and their hate and their envy have already perished; never again will they have any share in all that happens under the sun.</p>
 <p>Go, eat your bread with enjoyment, and drink your wine with a merry heart; for God has long ago approved what you do.  Let your garments always be white; do not let oil be lacking on your head.  Enjoy life with the wife whom you love, all the days of your vain life that are given you under the sun, because that is your portion in life and in your toil at which you toil under the sun.  Whatever your hand finds to do, do with your might; for there is no work or though or knowledge or wisdom in Sheol, to which you are going.</p>
 </blockquote>
@@ -170,6 +170,6 @@ Thus, one can see that there are many similarities between the Babylonian texts 
 
 Some of these similarities may be deemed coincidental, but it seems implausible to believe that all of them are.
 
-Each similarity requires separate analysis.  Sometimes we can rely on the dates of the texts to rule out certain possibilities.  For example, Solomon is thought to have lived between 1000 and 900 BC, and thus Ecclesiastes could not have been written earlier than this.  The similar quote from *The Epic of Gilgamesh* if from a tablet that is from 1800 - 1700 BC.  Thus, explanation (3) is implausible.
+Each similarity requires separate analysis.  Sometimes we can rely on the dates of the texts to rule out certain possibilities.  For example, Solomon is thought to have lived between 1000 and 900 BC, and thus Ecclesiastes could not have been written earlier than this.  The similar quote from *The Epic of Gilgamesh* if from a tablet that is from 1800–1700 BC.  Thus, explanation (3) is implausible.
 
 Most of the Babylonian clay tablets we have recovered were copied around the time of Babylonian captivity, and thus a simplistic archaeological analysis is not possible because we do not know when the age of the original material.

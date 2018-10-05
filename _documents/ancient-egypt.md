@@ -9,16 +9,16 @@ order: 1
 
 The Egyptian priest Manetho grouped the pharaohs into 31 dynasties. Modern Egyptologists tend to count the early, Macedonian, and Ptolemaic pharaohs as three additional dynasties, for a total of 34 dynasties.  The dynasties are grouped into the following periods (all dates are BCE and approximate):
 
-1. Predynastic (5000 - 3000), Dynasty 0
-2. Early Dynastic (3000 - 2625), Dynasties 1 - 3
-3. Old Kingdom (2625 - 2130), Dynasties 4 - 8
-4. First Intermediate Period (2130 - 1980), Dynasties 9 - 11
-5. Middle Kingdom (1980 - 1630), Dynasties 12 - 14
-6. Second Intermediate Period (1630 - 1539), Dynasties 15 - 17
-7. New Kingdom (1539 - 1075), Dynasties 18 - 20
-8. Third Intermediate Period (1075 - 656), Dynasties 21 - 25
-9. Late Period (664 - 332), Dynasties 26 - 31
-10. Hellenistic Period (332 - 30), Dynasties 32 - 33
+1. Predynastic (5000–3000), Dynasty 0
+2. Early Dynastic (3000–2625), Dynasties 1–3
+3. Old Kingdom (2625–2130), Dynasties 4–8
+4. First Intermediate Period (2130–1980), Dynasties 9–11
+5. Middle Kingdom (1980–1630), Dynasties 12–14
+6. Second Intermediate Period (1630–1539), Dynasties 15–17
+7. New Kingdom (1539–1075), Dynasties 18–20
+8. Third Intermediate Period (1075–656), Dynasties 21–25
+9. Late Period (664–332), Dynasties 26–31
+10. Hellenistic Period (332–30), Dynasties 32–33
 
 ## Wisdom Literature
 

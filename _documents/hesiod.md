@@ -13,45 +13,43 @@ He wrote two short epic poems,  _The Theogony_ and _Works and Days_.  Quotations
 
 Hesiod appears to believe that the Muses—the nine daughters of Zeus and Memory—have divinely inspired his poetry.
 
-<blockquote class="poetry">And they taught Hesiod the art of singing verse,
-While he pastured his lambs on holy Helikon's slopes.
-And this was the very first thing they told me,
-The Olympian Muses, daughters of Zeus Aegisholder:
+<blockquote title="The Theogony, 23–35, 103–115" class="poetry">
+<p>And they taught Hesiod the art of singing verse,</p>
+<p>While he pastured his lambs on holy Helikon's slopes.</p>
+<p>And this was the very first thing they told me,</p>
+<p>The Olympian Muses, daughters of Zeus Aegisholder:</p>
+<p>"Hillbillies and bellies, poor excuses for shepards:</p>
+<p>We know how to tell many believable lies,</p>
+<p>But also, when we want to, how to speak the plain truth."</p>
+<p>So spoke the daughters of great Zeus, mincing their words.</p>
+<p>And they gave me a staff, a branch of good sappy laurel,</p>
+<p>Plucking it off, spectacular.  And they breathed into me</p>
+<p>A voice divine, so I might celebrate past and future.</p>
+<p>And they told me to hymn the generations of the eternal gods,</p>
+<p>But always to sing of themselves, the Muses, first and last.</p>
+<p>⋯</p>
+<p>Farewell Zeus's daughters, and bestow song that beguiles.</p>
+<p>Make known the eerie brood of the eternal Immortals</p>
+<p>Who were born of Earth and starry Sky,</p>
+<p>And of dusky Night, and whom the salt Sea bore.</p>
+<p>Tell how first the gods and earth came into being</p>
+<p>And the rivers and the sea, endless and surging,</p>
+<p>And the stars shining and the wide sky above;</p>
+<p>How they divided wealth and allotted honors,</p>
+<p>And first possessed deep-ridged Olympus.</p>
+<p>Tell me these things, Olympian Muses,</p>
+<p>From the beginning, and tell which of them came first.</p>
+</blockquote>
 
-"Hillbillies and bellies, poor excuses for shepards:
-We know how to tell many believable lies,
-But also, when we want to, how to speak the plain truth."
+Hesiod then proceeds to tell the story of how the gods came about, _The Theogony_.
 
-So spoke the daughters of great Zeus, mincing their words.
-And they gave me a staff, a branch of good sappy laurel,
-Plucking it off, spectacular.  And they breathed into me
-A voice divine, so I might celebrate past and future.
-And they told me to hymn the generations of the eternal gods,
-But always to sing of themselves, the Muses, first and last.
+_The Theogony_ tells of great events at the beginning of the world, which Hesiod could not know about except through the Muses.  Is Hesiod simply re-telling the stories that were passed down to him, or is he creating new stories which he beliefs are true?  I think the latter.
 
-...
-
-Farewell Zeus's daughters, and bestow song that beguiles.
-Make known the eerie brood of the eternal Immortals
-Who were born of Earth and starry Sky,
-And of dusky Night, and whom the salt Sea bore.
-Tell how first the gods and earth came into being
-And the rivers and the sea, endless and surging,
-And the stars shining and the wide sky above;
-How they divided wealth and allotted honors,
-And first possessed deep-ridged Olympus.
-
-Tell me these things, Olympian Muses,
-From the beginning, and tell which of them came first.
-<cite>Theogony, 23 - 35, 103 - 115</cite></blockquote>
-
-Hesiod then proceeds to tell the story of how the gods came about, the _Theogony_.
-
-The _Theogony_ tells of great events at the beginning of the world, which Hesiod could not know about except through the Muses.  Is Hesiod simply re-telling the stories that were passed down to him, or is he creating new stories which he beliefs are true?  I think the latter.
-
-<blockquote class="poetry">That's the sum of my experience with pegged & dowelled ships.
-Still, I can teach you the mind of Zeus the Storm King,
-Since the Muses have taught me ineffable song.<cite>Works and Days, 731 - 733</cite></blockquote>
+<blockquote title="Works and Days, 731–733" class="poetry">
+<p>That's the sum of my experience with pegged & dowelled ships.</p>
+<p>Still, I can teach you the mind of Zeus the Storm King,</p>
+<p>Since the Muses have taught me ineffable song.</p>
+</blockquote>
 
 It appears that Hesiod is making up stories while simultaneously believing they are true!
 
@@ -59,26 +57,25 @@ Similar processes may explains the origin of many religious ideas.
 
 ## The Gods
 
-<blockquote class="poetry">It looks like there's not just one kind of Strife—
-That's Eris—after all, but two on the Earth.
-You'd praise one of them once you got to know her,
-But the other's plain blameworthy.  They've just got
-Completely opposite temperaments.
-One of them favors war and fighting. She's a mean cuss
-And nobody likes her, but everybody honors her,
-This ornery Eris.  They have to: it's the gods' will.
-
-The other was born first though.  Ebony Night
-Bore her, and Kronos' son who sits high in thin air
-Set her in Earth's roots, and she's a lot better for humans.
-Even shiftless folks she gets stirred up to work.
-
-When a person's lazing about and sees his neighbor
-Getting rich, because he hurries to plow and plant
-And put his homestead in order, he tends to compete
-With that neighbor in a race to get rich.
-
-Strife like this does people good.<cite>Works and Days, 21 – 37</cite></blockquote>
+<blockquote title="Works and Days, 21 – 37" class="poetry">
+<p>It looks like there's not just one kind of Strife—</p>
+<p>That's Eris—after all, but two on the Earth.</p>
+<p>You'd praise one of them once you got to know her,</p>
+<p>But the other's plain blameworthy.  They've just got</p>
+<p>Completely opposite temperaments.</p>
+<p>One of them favors war and fighting. She's a mean cuss</p>
+<p>And nobody likes her, but everybody honors her,</p>
+<p>This ornery Eris.  They have to: it's the gods' will.</p>
+<p>The other was born first though.  Ebony Night</p>
+<p>Bore her, and Kronos' son who sits high in thin air</p>
+<p>Set her in Earth's roots, and she's a lot better for humans.</p>
+<p>Even shiftless folks she gets stirred up to work.</p>
+<p>When a person's lazing about and sees his neighbor</p>
+<p>Getting rich, because he hurries to plow and plant</p>
+<p>And put his homestead in order, he tends to compete</p>
+<p>With that neighbor in a race to get rich.</p>
+<p>Strife like this does people good.</p>
+</blockquote>
 
 TODO: add other quote about something being a god
 
@@ -104,9 +101,11 @@ Hekate (Hesiod's apparent favourite next to Zeus); exemplifies how different cul
 
 Hesiod appears to create gods as he goes, sometimes filling them in as necessary.  This is difficult for us to understand, but he believed that the muses were acting through him to fill in the detail.  I.e., he is just a conduit to pass through the thoughts of the muses.
 
-<blockquote class="poetry">That's the sum of my experience with pegged & dowelled ships.
-Still, I can teach you the mind of Zeus the Storm King,
-Since the Muses have taught me ineffable song.<cite>Works and Days, 731 – 733</cite></blockquote>
+<blockquote title="Works and Days, 731 – 733" class="poetry">
+<p>That's the sum of my experience with pegged & dowelled ships.</p>
+<p>Still, I can teach you the mind of Zeus the Storm King,</p>
+<p>Since the Muses have taught me ineffable song.</p>
+</blockquote>
 
 ## Comparisons with Other Religions
 

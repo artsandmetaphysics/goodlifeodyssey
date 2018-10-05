@@ -21,7 +21,7 @@ Right and wrong were distinguished long ago:
 
 Solon's description of the happy life:
 
-<blockquote title="1.30 - 32">
+<blockquote title="1.30–32">
 <p>When Solon had made as thorough an inspection [of the royal treasuries] as opportunity allowed, Croesus said: "Well, my Athenian friend, I have heard a great deal about your knowledge.  I cannot resist my desire to ask you a question: who is the happiest man you have ever seen?"</p>
 <p>The point of the question was that Croesus supposed himself to be the happiest of men.  Solon, however, refused to flatter, and answered in strict accordance with his view of the truth.  "An Athenian," he said, "called Tellus."</p>
 <p>Croesus was taken aback.  "And what," he asked sharply, "is your reason for this choice?"</p>
@@ -38,7 +38,7 @@ Emigrating after a famine:
 
 Persian customs:
 
-<blockquote title="1.133 - 137">
+<blockquote title="1.133–137">
 <p>Of all days in the year a Persian most distinguishes his birthday, and celebrates it with a dinner of special magnificence.  A camel or a donkey baked whole in the oven and served up at table, and the poor some smaller beast.  The main dishes at their meals are few, but they have many sorts of dessert, the various courses being served separately.  It is this custom that has made them say that the Greeks leave the table hungry, because they never have anything worth mentioning after the first course: they think that if the Greeks did, they should go on eating.  They are very fond of wine, and no one is allowed to vomit or urinate in the presence of another person.</p>
 <p>If an important decision is to be made, they discuss the question when they are drunk, and the following day the master of the house where the discussion was held submits their decision for reconsideration when they are sober.  If they still approve it, it is adopted; if not, it is abandoned.</p>
 <p>⋯</p>
