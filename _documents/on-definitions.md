@@ -37,7 +37,7 @@ If definitions are recursive, then how do we know what they mean?  Consider this
 - “B” means the same thing as “C”
 - “C” means the same thing as “A”
 
-Clearly, we don’t know the meaning of “A”, “B”, or “C.”  If our language is also recursive, where does meaning come from in our language?  I think that the meaning of abstract words like consciousness is built up from more concrete words in a huge web of definitions.  At the lowest level, the meaning of words comes directly from association with our sensory inputs and motor outputs.  Thus, meaning bubbles up from the concrete uses at the bottom, to their more abstract uses at the top.
+Clearly, we don’t know the meaning of “A,” “B,” or “C.”  If our language is also recursive, where does meaning come from in our language?  I think that the meaning of abstract words like consciousness is built up from more concrete words in a huge web of definitions.  At the lowest level, the meaning of words comes directly from association with our sensory inputs and motor outputs.  Thus, meaning bubbles up from the concrete uses at the bottom, to their more abstract uses at the top.
 
 Recursive definitions are especially problematic during abstract philosophical discussions.  I have had heated conversations resolve when both sides put aside the debate for a moment to define their words, only then to realize they had been agreeing all along!
 

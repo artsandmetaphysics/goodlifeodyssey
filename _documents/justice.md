@@ -21,6 +21,6 @@ Without attempting to define fairness, we can make some useful observations.  Fi
 1. Our circumstances in the world (being born rich or poor)
 2. Other conscious beings impinging on our well-being
 
-The first form of unfairness is often called “social justice” or “distributive justice”, because it is considered with the distribution of goods within a society.
+The first form of unfairness is often called “social justice” or “distributive justice,” because it is considered with the distribution of goods within a society.
 
 An interesting ethical question is: can the first form of unfairness exist if everyone was perfect?  In other words, should moral wealthy people give their money to the poor so as to flatten out the distribution of goods?

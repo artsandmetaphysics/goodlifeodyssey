@@ -1,6 +1,6 @@
 ---
 title: 'Critique of "As a Driven Leaf"'
-description: 'A philosophical critique of "As a Driven Leaf", the story of a 1st century rabbi searching for truth in a Roman world.'
+description: 'A philosophical critique of "As a Driven Leaf," the story of a 1st century rabbi searching for truth in a Roman world.'
 type: essay
 status: complete
 order: 200
@@ -17,7 +17,7 @@ I enjoyed the book thoroughly.  The outer story of the Jews within the Roman Emp
 Elisha’s intellectual journey has three stages:
 
 1. Implicit faith in religion, developed with reason
-2. A complete rejection of “faith”, and exclusive reliance on reason
+2. A complete rejection of “faith,” and exclusive reliance on reason
 3. A considered faith, developed with reason
 
 In this essay I critique arguments presented in four of Elisha’s conversations, each occurring at different points along his journey.

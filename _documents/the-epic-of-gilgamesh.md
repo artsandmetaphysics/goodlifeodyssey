@@ -73,12 +73,12 @@ There are more differences between the stories than there are similarities.  Eve
 There is, however, a snake in the *Epic of Gilgamesh.* Gilgamesh is returning from a journey with a plant that will make him young again.  This plant is similar to the tree of life in Genesis.  Here is the passage:
 
 <blockquote class=poetry>
-<p>’This plant, Ur-shanabi, is the “Plant of Heartbeat”,</p>
+<p>’This plant, Ur-shanabi, is the “Plant of Heartbeat,”</p>
 <p class=indent>with it a man can regain his vigour.</p>
 <p>To Uruk-the-Sheepfold I will take it,</p>
 <p class=indent>to an ancient I will feed some and put the plant to the test!</p>
 <br>
-<p>’Its name shall be “Old Man Grown Young”,</p>
+<p>’Its name shall be “Old Man Grown Young,”</p>
 <p class=indent>I will eat it myself, and be again as I was in my youth!’</p>
 <p>At twenty leagues they broke bread,</p>
 <p class=indent>at thirty leagues they stopped for the night.</p>
