@@ -34,6 +34,10 @@ The final line of a quote indicates whether it is poetry and may contain a citat
 
 References are in pseudo form of the Oxford Style.  I prune some stuff that isn't necessary (e.g. who cares about the publisher these days, lots of books are self-published).  See [this site](http://guides.library.uwa.edu.au/c.php?g=325241&p=2177430) for examples.
 
+## Titles
+
+Book names which are present in the titles of document are surrounded by quotes, instead of italics.  This is due to how browsers and search engines treat the `<title>` tag and meta data.
+
 ## Open Issues
 
 - Italics inside markdown blockquotes
