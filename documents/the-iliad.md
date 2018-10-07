@@ -1,8 +1,8 @@
 ---
 title: >
-  The Iliad
+  "The Iliad"
 description: >
-  Notes on The Iliad
+  Notes on "The Iliad"
 type: note
 order: 3
 statue: 'hidden'
