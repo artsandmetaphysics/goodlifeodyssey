@@ -11,8 +11,9 @@ description: This website contains my essays and notes about art, history, relig
   <ul class="index">
   {% assign documents = group.items | sort: 'order' %}
   {% for d in documents  %}
-    <li title="{{ d.description | xml_escape | normalize_whitespace }}">
-      <a href="{{ d.url }}">{{ d.title }}</a>
+    <li>
+      <a title="{{ d.description | xml_escape | normalize_whitespace }}"
+         href="{{ d.url }}">{{ d.title }}</a>
     </li>
   {% endfor %}
   </ul>

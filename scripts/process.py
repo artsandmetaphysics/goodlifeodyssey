@@ -29,23 +29,17 @@ def translate_markdown(lines, printer):
 def translate_quote(lines, printer):
     assert len(lines) > 0
     pruned_lines = [strip_quoting(line) for line in lines]
-    is_poetry = False
-    if pruned_lines[-1][:3] in ['-- ', '== '] or pruned_lines[-1] == '==':
-        last_line = pruned_lines.pop()
-        citation = html.escape(last_line[3:].strip())
-        if last_line[:3] == '-- ':
-            printer('<blockquote title="{}">'.format(citation))
-        elif last_line[:3] == '== ':
-            printer('<blockquote class="poetry" title="{}">'.format(citation))
-            is_poetry = True
-        elif last_line == '==':
-            printer('<blockquote class="poetry">')
-            is_poetry = True
+    is_poetry = pruned_lines[-1].startswith('==')
+    if is_poetry:
+        printer('<blockquote class="poetry">')
     else:
         printer('<blockquote>')
+
     for line in pruned_lines:
-        if line.startswith('--- ') or line.startswith('=== '):
-            printer('<cite>' + line[4:] + '</cite>')
+        if line.startswith('-- ') or line.startswith('== '):
+            printer('<cite>' + line[3:] + '</cite>')
+        elif line == '==':
+            continue
         elif line.startswith('  '):
             printer('<p class="indent">' + line[2:] + '</p>')
         elif line != '':

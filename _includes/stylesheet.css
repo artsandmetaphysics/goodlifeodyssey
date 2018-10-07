@@ -1,5 +1,5 @@
 html {
-  line-height: 1.5;
+  line-height: 1.55;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   font-size: 20px;
@@ -97,24 +97,17 @@ blockquote {
   padding-right: 1.0rem;
 }
 
-blockquote:note(.poetry) {
-  margin: 0;
-}
-
 @media (max-width: 504px) {
   blockquote {
     padding-right: 0;
   }
 }
 
-blockquote.poetry {
-  margin-left: 2em;
-}
-
 blockquote.poetry > p {
-  text-indent: -2em;
   padding: 0;
   margin: 0;
+  margin-left: 2em;
+  text-indent: -2em;
 }
 
 blockquote.poetry > br {
@@ -127,18 +120,8 @@ blockquote > p.indent {
   text-indent: -1em;
 }
 
-blockquote:before, blockquote:after {
-  content: '';
-  content: none;
-}
-
-blockquote > cite {
-  font-style: italic;
-  display: block;
-}
-
-blockquote > p + cite {
-  margin-top: -0.5rem;
+blockquote > p:last-of-type {
+  margin-bottom: 0.3rem;
 }
 
 cite::before {
@@ -174,15 +157,5 @@ ul, ol {
 
   a:after {
     content: " [" attr(href) "] ";
-  }
-
-  blockquote[title]:after {
-    font-style: italic;
-    content: "— " attr(title);
-    margin-top: 0.2rem;
-  }
-
-  blockquote[title] > cite {
-    display: none;
   }
 }

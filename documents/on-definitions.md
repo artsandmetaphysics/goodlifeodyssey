@@ -12,8 +12,7 @@ order: 1
 When two people converse, each necessarily assumes the other is using words like themself.  Yet frequently, neither person could define the very same words they are using.
 
 > If you show a picture to a three-year-old and ask if there is a tree in it, you will likely get the correct answer.  If you ask a thirty-year-old what the definition of a tree is, you will likely get an inconclusive answer.  We didn't learn what a tree is by studying the mathematical definition of trees.  We learned it by looking at trees.
-> --- Y. S. Abu-Mostafa, Learning From Data
-> -- p. 1
+> -- Y. S. Abu-Mostafa, Learning From Data, p. 1
 
 It is difficult to define words because they are contextual and recursive.
 

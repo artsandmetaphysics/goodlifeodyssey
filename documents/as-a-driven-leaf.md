@@ -149,7 +149,7 @@ This disconnect between mathematics and reality is subtle.  Many engineers and s
 > The answer is simple.  The concepts and conclusions of arithmetic, which generalize an enormous amount of experience, reflect in abstract form those relationships in the actual world that are met with constantly and everywhere...
 >
 > At the same time every abstract concept, in particular the concept of a number, is limited in its significance as a result of its very abstractedness.  In the first place, when applied to any concrete object it reflects only one aspect of the object and therefor gives only an incomplete picture of it... In the second place, abstract concept cannot be applied everywhere without certain limiting conditions.
-> --- A. D. Aleksandrov, et al., Mathematics: Its Content, Methods, and Meaning
+> -- A. D. Aleksandrov, et al., Mathematics: Its Content, Methods, and Meaning
 
 Thus, I think the answer to Elisha's question is "you can't make the transition."  Any mathematical model may correspond to reality in every situation we have experienced thus far, but it is always possible we will observe new situations.  Even more problematically, even if a mathematical model perfectly described reality today, reality may change in the future!
 

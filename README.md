@@ -3,10 +3,9 @@
 ## Design Goals
 
 - Minimal styling so that myself (and other readers) can focus on the content
-- Make it possible to read the documents:
+- Optimize reading the documents:
   - on a laptop
   - on a phone
-  - in "reader mode"
   - printed copy of the document
 - Allow me to write in a version of markdown that is tailored for my needs
 - Provide detailed citations of quoted material in the most minimally invasive way possible
@@ -25,16 +24,11 @@ Start a test server using `run`.
 
 ## Citations
 
-Invisible citations are only displayed when the user hovers over the quote with their mouse or prints the material.
+The final line of a quote indicates whether it is poetry and may contain a citation:
 
-The final line or two of a quote should contain the citation:
-
-- Poetry with a visible citation: `===`
-- Poetry with a invisible citation: `==`
-- Quote with a invisible citation: `---`
-- Quote with a visible citation: `--`
-
-You can include both a visible and invisible citation, e.g. if you want to include more details in the invisible citation.  If both an invisible and visible citation are present, the printed form of the document will have "Visible, Hidden" as its citation.
+- Quote with citation: `-- This is a non-poetry quote`
+- Poetry with citation: `== This is poetry`
+- Poetry without a citation `==`
 
 ## References
 
@@ -42,9 +36,9 @@ References are in pseudo form of the Oxford Style.  I prune some stuff that isn'
 
 ## Open Issues
 
-- Make blockquotes look good in safari reader mode
 - Mechanism to insert smart quotes, instead of straight ones
-- Deal with visible and invisible citations when you print a document
 - Italics inside markdown blockquotes
-- Simplify blockquote CSS
-- Means to view citations on mobile
+
+## Known Issues
+
+- Quoted poetry has extra new lines in Safari "Reader Mode."

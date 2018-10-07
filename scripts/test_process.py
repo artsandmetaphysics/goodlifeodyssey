@@ -47,17 +47,6 @@ def test_hidden_citation():
         '> One',
         '> -- Hello',
     ], [
-        '<blockquote title="Hello">',
-        '<p>One</p>',
-        '</blockquote>',
-    ])
-
-
-def test_visible_citation():
-    assert_translate([
-        '> One',
-        '> --- Hello',
-    ], [
         '<blockquote>',
         '<p>One</p>',
         '<cite>Hello</cite>',
@@ -101,23 +90,5 @@ def test_poetry_blank_lines():
         '<p>Two</p>',
         '<br>',
         '<p>Three</p>',
-        '</blockquote>',
-    ])
-
-def test_poetry_double_citation():
-    assert_translate([
-        '> One',
-        '> Two',
-        '>',
-        '> Three',
-        '> === Visible',
-        '> == Hidden',
-    ], [
-        '<blockquote class="poetry" title="Hidden">',
-        '<p>One</p>',
-        '<p>Two</p>',
-        '<br>',
-        '<p>Three</p>',
-        '<cite>Visible</cite>',
         '</blockquote>',
     ])
