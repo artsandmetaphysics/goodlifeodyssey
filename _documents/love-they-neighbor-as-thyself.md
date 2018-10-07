@@ -1,7 +1,8 @@
 ---
-title: 'Love They Neighbor as Thyself'
+title: >
+  Love They Neighbor as Thyself
 description: >
-    A brief discussion of the second great commandment of the New Testament.
+  A brief discussion of the second great commandment of the New Testament.
 type: essay
 status: incomplete
 order: 800

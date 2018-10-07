@@ -1,6 +1,8 @@
 ---
-title: "Hesiod"
-description: "Notes on Hesiod's Theogony and Works and Days"
+title: >
+  Hesiod
+description: >
+  Notes on Hesiod's Theogony and Works and Days
 type: note
 order: 3
 ---

@@ -1,6 +1,8 @@
 ---
-title: 'David Hockney'
-description: "Notes David Hockney"
+title: >
+  David Hockney
+description: >
+  Notes David Hockney
 type: note
 order: 2
 tags: artist

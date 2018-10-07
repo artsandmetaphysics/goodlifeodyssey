@@ -1,6 +1,8 @@
 ---
-title: 'Justice'
-description: "A meandering contemplation of justice"
+title: >
+  Justice
+description: >
+  A meandering contemplation of justice
 type: essay
 status: incomplete
 order: 104

@@ -1,6 +1,8 @@
 ---
-title: 'Altera: Evolving Consciousness'
-description: 'I discuss how Nooks could evolve consciousness.'
+title: >
+  Altera: Evolving Consciousness
+description: >
+  I discuss how Nooks could evolve consciousness.
 type: essay
 status: incomplete
 order: 503

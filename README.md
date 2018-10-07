@@ -20,7 +20,7 @@ Start a test server using `run`.
 - `---` is replaced with an "em dash"
 - `--` is replaced with an "en dash"
 - `...` at the start of a line is replaced with "centered triple dots"
-- Straight quotes are replaced with curly quotes everywhere, except in the YAML front matter.
+- Straight quotes are replaced with curly quotes everywhere
 
 ## Citations
 
@@ -37,6 +37,7 @@ References are in pseudo form of the Oxford Style.  I prune some stuff that isn'
 ## Open Issues
 
 - Italics inside markdown blockquotes
+- Make book titles Italic in the description and title of documents
 
 ## Known Issues
 

@@ -1,6 +1,8 @@
 ---
-title: 'The Future of Art'
-description: 'I predict the future of art, and give my reasons for this prediction.'
+title: >
+  The Future of Art
+description: >
+  I predict the future of art, and give my reasons for this prediction.
 type: essay
 status: incomplete
 order: 300

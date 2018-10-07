@@ -1,6 +1,8 @@
 ---
-title: 'Altera: Motivation'
-description: 'An introduction to Altera—a 2D world within which we will investigate many philosophical questions.'
+title: >
+  Altera: Motivation
+description: >
+  An introduction to Altera—a 2D world within which we will investigate many philosophical questions.
 type: essay
 status: incomplete
 order: 500

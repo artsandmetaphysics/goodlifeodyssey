@@ -1,6 +1,8 @@
 ---
-title: 'A Definition of Faith'
-description: Faith in beliefs is indicated by how drastically our actions change as a result of our belief.
+title: >
+  A Definition of Faith
+description: >
+  Faith in beliefs is indicated by how drastically our actions change as a result of our belief.
 type: essay
 status: incomplete
 order: 2

@@ -1,6 +1,8 @@
 ---
-title: 'Fear of Death'
-description: 'Why are we afraid of death?'
+title: >
+  Fear of Death
+description: >
+  Why are we afraid of death?
 type: essay
 status: incomplete
 order: 700

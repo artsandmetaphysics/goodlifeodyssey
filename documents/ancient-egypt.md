@@ -1,6 +1,8 @@
 ---
-title: 'Ancient Egypt'
-description: "Notes on Ancient Egypt"
+title: >
+  Ancient Egypt
+description: >
+  Notes on Ancient Egypt
 type: note
 order: 1
 ---
@@ -32,14 +34,14 @@ Here are a few excerpts from the Toby Wilkinson translation of the *Teaching of 
 > by not opposing him while he is in the heat of the moment.
 > He will be called an ignoramus
 > while your self-control will equal his wealth.
-> 
+>
 > If you come across a disputatious man
 > who is your equal, your match,
 > you will make your esteem greater than his by keeping silent.
 > While he is saying bad things,
 > there will be much discussion by the judges
 > and your name will be good in the opinion of the elders.
-> 
+>
 > If you come across a disputatious man
 > who is a poor man, not your equal,
 > do not be aggressive to him simply because he is weak.
@@ -49,7 +51,7 @@ Here are a few excerpts from the Toby Wilkinson translation of the *Teaching of 
 > for wretched is he who injures a poor man.
 > What you wish will be done anyway:
 > you will beat him through the elders' disapproval.
-> 
+>
 > If you are a man in a position of trust,
 > sent by one elder to another,
 > stick to the matter for which he sent you;
@@ -60,14 +62,14 @@ Here are a few excerpts from the Toby Wilkinson translation of the *Teaching of 
 > but an outburst should not be repeated.
 > Do not speak against anyone
 > great or small: it is bad for the spirit.
-> 
+>
 > If you are a leader
 > whose authority is unhindered,
 > you should achieve many things.
 > Be mindful of tomorrow:
 > a dispute does not come in the midst of praises
 > but when the crocodile charges in, hatred arises.
-> 
+>
 > If you are a leader,
 > listen quietly to the plea of a petitioner.
 > Do not rebuff him from what he planned to say:
@@ -77,7 +79,7 @@ Here are a few excerpts from the Toby Wilkinson translation of the *Teaching of 
 > it is said, 'Why does he reject it?'
 > Not all that is petitioned for comes about,
 > but a good hearing soothes the heart.
-> 
+>
 > If you are a man of virtue
 > who sits in his master's hall,
 > turn your mind to virtuous things.
@@ -86,7 +88,7 @@ Here are a few excerpts from the Toby Wilkinson translation of the *Teaching of 
 > for it is only the skilled who should speak in the council.
 > Speaking is more difficult than all other tasks
 > he who does it fluently makes it his servant.
-> 
+>
 > If you are powerful, gain respect
 > through knowledge and pleasant speech.
 > Do not command unless it befits:
@@ -105,7 +107,7 @@ Here are a few excerpts from the Toby Wilkinson translation of the *Teaching of 
 > is like someone who steers a matter safely to land,
 > and another matter is held fast.
 > He who listens to his heart will regret.
-> 
+>
 > Punish with authority, teach thoroughly,
 > then suppression of wrongdoing remains a good deed.
 > Punishment that is not deserved

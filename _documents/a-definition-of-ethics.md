@@ -1,6 +1,8 @@
 ---
-title: 'A Definition of Ethics'
-description: "Ethics: the study of how concious beings should act."
+title: >
+  A Definition of Ethics
+description: >
+  Ethics: the study of how concious beings should act.
 type: essay
 status: incomplete
 order: 3

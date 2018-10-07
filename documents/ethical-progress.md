@@ -1,6 +1,8 @@
 ---
-title: 'Ethical Progress'
-description: 'Are we more ethical than the ancients?'
+title: >
+  Ethical Progress
+description: >
+  Are we more ethical than the ancients?
 type: essay
 status: incomplete
 order: 3.1

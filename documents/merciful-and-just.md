@@ -1,6 +1,8 @@
 ---
-title: 'Merciful and Just'
-description: An argument for why Christian ethics must exist apart from God.
+title: >
+  Merciful and Just
+description: >
+  An argument for why Christian ethics must exist apart from God.
 type: essay
 status: incomplete
 order: 101

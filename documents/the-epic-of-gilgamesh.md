@@ -1,6 +1,8 @@
 ---
-title: 'The Epic of Gilgamesh'
-description: "A commentary on the Epic of Gilgamesh"
+title: >
+  The Epic of Gilgamesh
+description: >
+  A commentary on the Epic of Gilgamesh
 type: essay
 status: incomplete
 order: 400

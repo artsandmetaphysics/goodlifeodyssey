@@ -1,6 +1,8 @@
 ---
-title: "The Homeric Hymns"
-description: "Notes on The Homeric Hymns"
+title: >
+  The Homeric Hymns
+description: >
+  Notes on The Homeric Hymns
 type: note
 order: 3.5
 ---

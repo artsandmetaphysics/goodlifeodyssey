@@ -1,6 +1,8 @@
 ---
-title: "The Iliad"
-description: "Notes on The Iliad"
+title: >
+  The Iliad
+description: >
+  Notes on The Iliad
 type: note
 order: 3
 statue: 'hidden'

@@ -1,6 +1,8 @@
 ---
-title: 'Ancient Greece'
-description: "Notes on Greece"
+title: >
+  Ancient Greece
+description: >
+  Notes on Greece
 type: note
 order: 1.1
 ---
