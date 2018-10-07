@@ -8,8 +8,6 @@ status: incomplete
 order: 504
 ---
 
-## Appearance and Reality
-
 Is there any knowledge in Altera that is so certain that no reasonable Nook could deny it?
 
 Lets begin with Nook's sense of sight.  They see the weights of the discrete objects surrounding them.  Can they be certain of their sensory knowledge?
