@@ -13,15 +13,15 @@ He wrote two short epic poems,  _The Theogony_ and _Works and Days_.  Quotations
 
 Hesiod appears to believe that the Muses—the nine daughters of Zeus and Memory—have divinely inspired his poetry.
 
-<blockquote class="poetry">
+<blockquote class=poetry>
 <p>And they taught Hesiod the art of singing verse,</p>
-<p>While he pastured his lambs on holy Helikon's slopes.</p>
+<p>While he pastured his lambs on holy Helikon’s slopes.</p>
 <p>And this was the very first thing they told me,</p>
 <p>The Olympian Muses, daughters of Zeus Aegisholder:</p>
 <br>
-<p>"Hillbillies and bellies, poor excuses for shepards:</p>
+<p>”Hillbillies and bellies, poor excuses for shepards:</p>
 <p>We know how to tell many believable lies,</p>
-<p>But also, when we want to, how to speak the plain truth."</p>
+<p>But also, when we want to, how to speak the plain truth.”</p>
 <br>
 <p>So spoke the daughters of great Zeus, mincing their words.</p>
 <p>And they gave me a staff, a branch of good sappy laurel,</p>
@@ -32,7 +32,7 @@ Hesiod appears to believe that the Muses—the nine daughters of Zeus and Memory
 <br>
 <p>⋯</p>
 <br>
-<p>Farewell Zeus's daughters, and bestow song that beguiles.</p>
+<p>Farewell Zeus’s daughters, and bestow song that beguiles.</p>
 <p>Make known the eerie brood of the eternal Immortals</p>
 <p>Who were born of Earth and starry Sky,</p>
 <p>And of dusky Night, and whom the salt Sea bore.</p>
@@ -51,8 +51,8 @@ Hesiod then proceeds to tell the story of how the gods came about, _The Theogony
 
 _The Theogony_ tells of great events at the beginning of the world, which Hesiod could not know about except through the Muses.  Is Hesiod simply re-telling the stories that were passed down to him, or is he creating new stories which he beliefs are true?  I think the latter.
 
-<blockquote class="poetry">
-<p>That's the sum of my experience with pegged & dowelled ships.</p>
+<blockquote class=poetry>
+<p>That’s the sum of my experience with pegged & dowelled ships.</p>
 <p>Still, I can teach you the mind of Zeus the Storm King,</p>
 <p>Since the Muses have taught me ineffable song.</p>
 <cite>Works and Days, 731–733</cite>
@@ -64,22 +64,22 @@ Similar processes may explains the origin of many religious ideas.
 
 ## The Gods
 
-<blockquote class="poetry">
-<p>It looks like there's not just one kind of Strife—</p>
-<p>That's Eris—after all, but two on the Earth.</p>
-<p>You'd praise one of them once you got to know her,</p>
-<p>But the other's plain blameworthy.  They've just got</p>
+<blockquote class=poetry>
+<p>It looks like there’s not just one kind of Strife—</p>
+<p>That’s Eris—after all, but two on the Earth.</p>
+<p>You’d praise one of them once you got to know her,</p>
+<p>But the other’s plain blameworthy.  They’ve just got</p>
 <p>Completely opposite temperaments.</p>
-<p>One of them favors war and fighting. She's a mean cuss</p>
+<p>One of them favors war and fighting. She’s a mean cuss</p>
 <p>And nobody likes her, but everybody honors her,</p>
-<p>This ornery Eris.  They have to: it's the gods' will.</p>
+<p>This ornery Eris.  They have to: it’s the gods’ will.</p>
 <br>
 <p>The other was born first though.  Ebony Night</p>
-<p>Bore her, and Kronos' son who sits high in thin air</p>
-<p>Set her in Earth's roots, and she's a lot better for humans.</p>
+<p>Bore her, and Kronos’ son who sits high in thin air</p>
+<p>Set her in Earth’s roots, and she’s a lot better for humans.</p>
 <p>Even shiftless folks she gets stirred up to work.</p>
 <br>
-<p>When a person's lazing about and sees his neighbor</p>
+<p>When a person’s lazing about and sees his neighbor</p>
 <p>Getting rich, because he hurries to plow and plant</p>
 <p>And put his homestead in order, he tends to compete</p>
 <p>With that neighbor in a race to get rich.</p>
@@ -106,14 +106,14 @@ Hesiod uses creation through sex instead of the creation through speech (present
 
 Genealogy is an organizational scheme.
 
-Hekate (Hesiod's apparent favourite next to Zeus); exemplifies how different cults rise and fade over time.
+Hekate (Hesiod’s apparent favourite next to Zeus); exemplifies how different cults rise and fade over time.
 
 ---
 
 Hesiod appears to create gods as he goes, sometimes filling them in as necessary.  This is difficult for us to understand, but he believed that the muses were acting through him to fill in the detail.  I.e., he is just a conduit to pass through the thoughts of the muses.
 
-<blockquote class="poetry">
-<p>That's the sum of my experience with pegged & dowelled ships.</p>
+<blockquote class=poetry>
+<p>That’s the sum of my experience with pegged & dowelled ships.</p>
 <p>Still, I can teach you the mind of Zeus the Storm King,</p>
 <p>Since the Muses have taught me ineffable song.</p>
 <cite>Works and Days, 731 – 733</cite>
@@ -131,7 +131,7 @@ Pandora and Eve.
 
 Babylonians thought men were created to feed the gods; Greeks, while still giving sacrifies, apparently did not.  Quote about Zeus hiding how to make a living.
 
-Zeus's division of duties and realms vs Marduk's in the Enuma Elish.
+Zeus’s division of duties and realms vs Marduk’s in the Enuma Elish.
 
 ## Ages of Men
 

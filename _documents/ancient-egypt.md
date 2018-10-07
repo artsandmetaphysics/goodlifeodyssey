@@ -24,7 +24,7 @@ The Egyptian priest Manetho grouped the pharaohs into 31 dynasties. Modern Egypt
 
 Here are a few excerpts from the Toby Wilkinson translation of the *Teaching of Ptahhotep,* generally believed to have been composed in the first half of the Twelth Dynasty (c. 1850):
 
-<blockquote class="poetry">
+<blockquote class=poetry>
 <p>If you come across a disputatious man in the heat of the moment,</p>
 <p>who has authority over you as a superior,</p>
 <p>bend your arms in respect and bow.</p>
@@ -49,7 +49,7 @@ Here are a few excerpts from the Toby Wilkinson translation of the *Teaching of 
 <p>Do not vent your anger against your opponent,</p>
 <p>for wretched is he who injures a poor man.</p>
 <p>What you wish will be done anyway:</p>
-<p>you will beat him through the elders' disapproval.</p>
+<p>you will beat him through the elders’ disapproval.</p>
 <br>
 <p>If you are a man in a position of trust,</p>
 <p>sent by one elder to another,</p>
@@ -75,12 +75,12 @@ Here are a few excerpts from the Toby Wilkinson translation of the *Teaching of 
 <p>a victim loves to vent his anger</p>
 <p>more than to achieve what he came for.</p>
 <p>As for someone who rebuffs a petition,</p>
-<p>it is said, 'Why does he reject it?'</p>
+<p>it is said, ‘Why does he reject it?’</p>
 <p>Not all that is petitioned for comes about,</p>
 <p>but a good hearing soothes the heart.</p>
 <br>
 <p>If you are a man of virtue</p>
-<p>who sits in his master's hall,</p>
+<p>who sits in his master’s hall,</p>
 <p>turn your mind to virtuous things.</p>
 <p>Your silence will be more effective than idle chatter.</p>
 <p>Speak only when you have thought of a solution,</p>

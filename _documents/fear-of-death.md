@@ -18,8 +18,8 @@ If it is simply because we enjoy our life now, or could imagine enjoying it if a
 Or do we fear death because we fear judgement?
 
 <blockquote>
-<p>Say "If the last home with God is to be for you alone and no one else, then you should long for death, if your claim is true."  But they will never long for death, because of what they have stored up with their own hands: God is fully aware of the evildoers.  [Prophet], you are sure to find them clinging to life more eagerly than any other people, even the polytheists.  Any of them would wish to be given a life of a thousand years, though even such a long life would not save them from the torment: God sees everything they do.</p>
-<cite>Qu'ran 2:94–96, Trans. by M.A.S. Abdel Haleem</cite>
+<p>Say “If the last home with God is to be for you alone and no one else, then you should long for death, if your claim is true.”  But they will never long for death, because of what they have stored up with their own hands: God is fully aware of the evildoers.  [Prophet], you are sure to find them clinging to life more eagerly than any other people, even the polytheists.  Any of them would wish to be given a life of a thousand years, though even such a long life would not save them from the torment: God sees everything they do.</p>
+<cite>Qu’ran 2:94–96, Trans. by M.A.S. Abdel Haleem</cite>
 </blockquote>
 
 Or do we fear death because we are not intended to die?

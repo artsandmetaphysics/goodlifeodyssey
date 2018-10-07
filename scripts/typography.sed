@@ -4,3 +4,11 @@
 
 # vertically center ellipses on their own line; nice for long quotes
 s/<p>\.\.\.<\/p>/<p>⋯<\/p>/g
+
+# fancy quotes
+1,/^---$/ !{
+    s/(^|[-/(\[{" ])'/\1‘/g
+    s/'/’/g
+    s/(^|[/(\[{‘ ])"/\1“/g
+    s/"/”/g
+}

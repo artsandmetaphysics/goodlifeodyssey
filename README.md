@@ -8,7 +8,6 @@
   - on a phone
   - printed copy of the document
 - Allow me to write in a version of markdown that is tailored for my needs
-- Provide detailed citations of quoted material in the most minimally invasive way possible
 
 ## Building
 
@@ -21,6 +20,7 @@ Start a test server using `run`.
 - `---` is replaced with an "em dash"
 - `--` is replaced with an "en dash"
 - `...` at the start of a line is replaced with "centered triple dots"
+- Straight quotes are replaced with curly quotes everywhere, except in the YAML front matter.
 
 ## Citations
 
@@ -36,7 +36,6 @@ References are in pseudo form of the Oxford Style.  I prune some stuff that isn'
 
 ## Open Issues
 
-- Mechanism to insert smart quotes, instead of straight ones
 - Italics inside markdown blockquotes
 
 ## Known Issues

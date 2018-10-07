@@ -8,4 +8,4 @@ order: 3
 
 Ethics is the study of how conscious beings should act.
 
-Ethics don't apply to rocks, but I believe dogs and monkeys can act ethically and unethically—proportionally to their consciousness.
+Ethics don’t apply to rocks, but I believe dogs and monkeys can act ethically and unethically—proportionally to their consciousness.

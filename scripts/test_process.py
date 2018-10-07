@@ -59,7 +59,7 @@ def test_poetry_empty_citation():
         '> One',
         '> ==',
     ], [
-        '<blockquote class="poetry">',
+        '<blockquote class=poetry>',
         '<p>One</p>',
         '</blockquote>',
     ])
@@ -72,7 +72,7 @@ def test_indents():
     ], [
         '<blockquote>',
         '<p>One</p>',
-        '<p class="indent">Two</p>',
+        '<p class=indent>Two</p>',
         '</blockquote>',
     ])
 
@@ -85,7 +85,7 @@ def test_poetry_blank_lines():
         '> Three',
         '> ==',
     ], [
-        '<blockquote class="poetry">',
+        '<blockquote class=poetry>',
         '<p>One</p>',
         '<p>Two</p>',
         '<br>',

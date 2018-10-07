@@ -12,7 +12,7 @@ Many of these notes were taken from _Ancient Greece_ by Thomas R. Martin.
 - Named after the legendary king Minos
 - c. 6000 First settlers migrated to Crete
 - c. 2200 Earliest Cretan palaces of Minoan Civilization
-- Constructed large building complexes, referred to as "palaces"
+- Constructed large building complexes, referred to as “palaces”
 - Famous palace at Knossos had indoor plumbing, and storage jars which could hold 240,000 gallons of water, olive oil, wine, or other goods.
 - They appear to have had a top-down redistributive economy
 - Were sea-traders; seem to have specialized in luxury goods
@@ -58,7 +58,7 @@ Many of these notes were taken from _Ancient Greece_ by Thomas R. Martin.
 - Population growth
 - Rise of the Polis, a political, social, and religious organization of a city and surrounding areas
 - Political systems included monarchies, oligarchies, tyrants, and early forms of democracy
-- c. 750–500 Population growth and Greek colonization of the Mediterranean and Black Sea; "Frogs around a pond" (Plato)
+- c. 750–500 Population growth and Greek colonization of the Mediterranean and Black Sea; “Frogs around a pond” (Plato)
 - c. 750–700 Homer and Hesiod write epic poems
 - c. 600 chattel slavery is the norm
 
@@ -78,13 +78,13 @@ Many of these notes were taken from _Ancient Greece_ by Thomas R. Martin.
 - 335 Aristotle founds the Lyceum at Athens
 - 334 Alexander begins campaign against Persia
 - 331 Alexander takes Egypt and founds Alexandria
-- 326 Alexander's army mutinies at the Hyphasis River in India, and they head back to Babylon
+- 326 Alexander’s army mutinies at the Hyphasis River in India, and they head back to Babylon
 - 323 Alexander dies in Babylon
 
 ## Hellenistic Age
 
-- 310 murder of Alexander's son
+- 310 murder of Alexander’s son
 - 310 Zeno founds Stoic school in Athens
 - 307 Epicurus founds his school in Athens
-- 306–304 Alexander's former commanders split up the empire
+- 306–304 Alexander’s former commanders split up the empire
 - 304–30 Ptolemys in Egypt

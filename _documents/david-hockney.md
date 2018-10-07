@@ -33,9 +33,9 @@ Born in Bradford England in summer 1937.  He is a figurative painter.  He moved 
 </blockquote>
 
 <blockquote>
-<p>When you stop doing something, it doesn't mean you are rejecting it.  You're saying, I wish to take a look round another corner.</p>
+<p>When you stop doing something, it doesn’t mean you are rejecting it.  You’re saying, I wish to take a look round another corner.</p>
 </blockquote>
 
 <blockquote>
-<p>Friends ... that's really the only thread running through my life.</p>
+<p>Friends ... that’s really the only thread running through my life.</p>
 </blockquote>

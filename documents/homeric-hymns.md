@@ -10,12 +10,12 @@ order: 3.5
 The Hymns vary from three to over five-hundred lines.  Here are the longest and most interesting hymns:
 
 <ol>
-  <li value="2">Hymn to Demeter, Persephone and the origin of winter</li>
-  <li value="3">Hymn to Apollo, how his temples came about</li>
-  <li value="4">Hymn to Hermes, his birth and theft of Apollo's cows</li>
-  <li value="5">Hymn to Aphrodite, affair with mortal Anchises</li>
-  <li value="7">Hymn to Dionysus, pirates and dolphins</li>
-  <li value="19">Hymn to Pan, his domains and dances</li>
+  <li value=2>Hymn to Demeter, Persephone and the origin of winter</li>
+  <li value=3>Hymn to Apollo, how his temples came about</li>
+  <li value=4>Hymn to Hermes, his birth and theft of Apollo's cows</li>
+  <li value=5>Hymn to Aphrodite, affair with mortal Anchises</li>
+  <li value=7>Hymn to Dionysus, pirates and dolphins</li>
+  <li value=19>Hymn to Pan, his domains and dances</li>
 </ol>
 
 The hymns appear to be used as preludes at poetry competitions or ceremonies.
