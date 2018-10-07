@@ -26,7 +26,7 @@ The Egyptian priest Manetho grouped the pharaohs into 31 dynasties. Modern Egypt
 
 Here are a few excerpts from the Toby Wilkinson translation of the *Teaching of Ptahhotep,* generally believed to have been composed in the first half of the Twelth Dynasty (c. 1850):
 
-<blockquote class=poetry>
+<blockquote class="poetry">
 <p>If you come across a disputatious man in the heat of the moment,</p>
 <p>who has authority over you as a superior,</p>
 <p>bend your arms in respect and bow.</p>

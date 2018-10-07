@@ -12,7 +12,7 @@ _includes/stylesheet.min.css: _includes/stylesheet.css
 	$(CSSMIN_BIN) $< -o $@
 
 _documents/%.md: documents/%.md ./scripts/process.py ./scripts/typography.sed
-	./scripts/process.py $< | sed -E -f ./scripts/typography.sed > $@
+	 cat $< | sed -E -f ./scripts/typography.sed | ./scripts/process.py > $@
 
 .PHONY: clean
 

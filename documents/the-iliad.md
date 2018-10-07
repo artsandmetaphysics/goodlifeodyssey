@@ -48,7 +48,7 @@ Some gods are described as human-like while others are abstract.  Gods are born,
 > the ichor that courses through their veins, the blessed gods---
 > they eat no bread, they drink no shining wine, and so
 > the gods are bloodless, so we call them deathless.
-> == Book 5.332, Fagles
+> = Book 5.332, Fagles
 
 It also seems that the gods can be killed:
 
@@ -58,7 +58,7 @@ It also seems that the gods can be killed:
 > had not sent for Hermes, and out of the cauldron
 > Hermes stole him away---the War-god breathing his last,
 > all but broken down by the ruthless iron chains.
-> == Book 5.418, Fagles
+> = Book 5.418, Fagles
 
 ## Rituals
 
@@ -69,7 +69,7 @@ The Greeks believed that the gods enjoyed and demanded animal sacrifices and lib
 > Never once did my altar lack its share of victims,
 > winecups tipped and the deep smoky savor. These,
 > these are the gifts we claim---they are our rights."
-> == Book 4.45--47, Fagles
+> = Book 4.45--47, Fagles
 
 The most clearly described animal sacrifice occurs near the beginning of the Iliad:
 
@@ -107,7 +107,7 @@ The most clearly described animal sacrifice occurs near the beginning of the Ili
 > to the distant archer god who drives away the plague,
 > those young Achaean warriors singing out his power,
 > and Apollo listened, his great heart warm with joy.
-> == Book 1.435--448, Fagles
+> = Book 1.435--448, Fagles
 
 Furethermore, plauges and natural disasters were believed to be caused by gods.  An example of this is seen at the beginning of *The Iliad*:
 
@@ -122,7 +122,7 @@ Furethermore, plauges and natural disasters were believed to be caused by gods. 
 > If only the god would share the smoky savor of lambs
 > and full-grown goats, Apollo might be willing, still,
 > somehow, to save us from this plague."
-> == Book 1.56--63, Fagles
+> = Book 1.56--63, Fagles
 
 Seers and bird signs
 
@@ -143,7 +143,7 @@ Traditionally, the first word of an epic poem is also its central theme.  Here i
 > and the will of Zeus was moving towards its end.
 > Begin, Muse, when the two first broke and clashed,
 > Agamemnon lord of men and brilliant Achilles.
-> == Book 1.1--8, Fagles
+> = Book 1.1--8, Fagles
 
 During most of *The Iliad,* Achilles wrath is directed at Agamemnon because he disgraced Achilles in front of all the Greeks by stealing his concubine, Briseis.  It isn't until book 18, when Achilles learns that Patroclus died, that his wrath is then re-directed towards Hector.
 
@@ -172,7 +172,7 @@ During most of *The Iliad,* Achilles wrath is directed at Agamemnon because he d
 > the fury mounting inside me, down by force.
 > But now I'll go and meet that murderer head-on,
 > that Hector who destroyed the dearest life I know.
-> == Book 18.98--109, Fagles
+> = Book 18.98--109, Fagles
 
 And, after Achilles kills Hector, he is still not at peace.  It isn't until King Priam, willed by Zeus, visits Achilles to ransom for Hector's body, that Achilles' wrath seems to subside:
 
@@ -195,7 +195,7 @@ And, after Achilles kills Hector, he is still not at peace.  It isn't until King
 > and filled with pity now for his gray head and gray beard,
 > he spoke out winging words, flying straight to the heart:
 > "Poor man, how much you've born---pain to break the spirit!"
-> == Book 24.507--522, Fagles
+> = Book 24.507--522, Fagles
 
 So, *The Iliad*, is in many ways a poem about the wrath of Achilles, which is lit in Book 1 and only extinguished towards the end of Book 24.
 
@@ -216,7 +216,7 @@ Armor and treasure; honor
 > now the living timber bursts with the new buds
 > and spring comes round again.  And so with men:
 > as one generation comes to life, another dies away.
-> == Book 6.171--175, Fagles
+> = Book 6.171--175, Fagles
 
 > Both men bent on combat, on they fought like wind
 > when a god sends down some welcome blast to sailors
@@ -224,19 +224,19 @@ Armor and treasure; honor
 > beating the heavy seas, their arms slack with the labor—
 > so welcome that brace of men appeared to the Trojans
 > desperate for their captains.
-> == Book 7.3--7, Fagles
+> = Book 7.3--7, Fagles
 
 > Quick as a thought goes flashing through a man
 > who's traveled the world---"Ah to be there, or there!"---
 > as his mind swarms with journeys, fresh desires---
 > so quick in her eager flight flew noble Hera now
 > and scaling steep Olympus went amount the gods.
-> == Book 15.76--78, Fagles
+> = Book 15.76--78, Fagles
 
 > She put fresh strength in his back, spring in his knees
 > and filled his heart with the horsefly's raw daring---
 > brush it away from a man's flesh and back it comes,
 > biting, attacking, crazed for sweet human blood.
-> == Somewhere in Books 15, 16, or 17, Fagles
+> = Somewhere in Books 15, 16, or 17, Fagles
 
 ## Great Quotes

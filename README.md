@@ -26,9 +26,9 @@ Start a test server using `run`.
 
 The final line of a quote indicates whether it is poetry and may contain a citation:
 
-- Quote with citation: `-- This is a non-poetry quote`
-- Poetry with citation: `== This is poetry`
-- Poetry without a citation `==`
+- Quote with citation: `- This is a non-poetry quote`
+- Poetry with citation: `= This is poetry`
+- Poetry without a citation `=`
 
 ## References
 

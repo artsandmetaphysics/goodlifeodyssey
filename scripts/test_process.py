@@ -45,7 +45,7 @@ def test_two_paragraph_w_newline_quote():
 def test_hidden_citation():
     assert_translate([
         '> One',
-        '> -- Hello',
+        '> - Hello',
     ], [
         '<blockquote>',
         '<p>One</p>',
@@ -57,9 +57,9 @@ def test_hidden_citation():
 def test_poetry_empty_citation():
     assert_translate([
         '> One',
-        '> ==',
+        '> =',
     ], [
-        '<blockquote class=poetry>',
+        '<blockquote class="poetry">',
         '<p>One</p>',
         '</blockquote>',
     ])
@@ -72,7 +72,7 @@ def test_indents():
     ], [
         '<blockquote>',
         '<p>One</p>',
-        '<p class=indent>Two</p>',
+        '<p class="indent">Two</p>',
         '</blockquote>',
     ])
 
@@ -83,9 +83,9 @@ def test_poetry_blank_lines():
         '> Two',
         '>',
         '> Three',
-        '> ==',
+        '> =',
     ], [
-        '<blockquote class=poetry>',
+        '<blockquote class="poetry">',
         '<p>One</p>',
         '<p>Two</p>',
         '<br>',

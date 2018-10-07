@@ -16,7 +16,7 @@ Gilgamesh was a powerful and handsome king, but he oppressed his people.  He for
 >   took a pinch of clay, threw it down in the wild.
 > In the wild she created Enkidu, the hero,
 >   offspring of silence, knit strong by Ninurta.
-> ==
+> =
 
 A game trapper finds Enkidu at a watering hole, and is concerned because he fills in his pits and pulls up his snares.  The trapper's father advises his son to bring Shamhat, a harlot from Uruk, to the watering hole to tempt Enkidu with her charms.  Here is the scene where Shamhat tempts Enkidu, and tells him to leave the wilderness and his animals:
 
@@ -62,7 +62,7 @@ A game trapper finds Enkidu at a watering hole, and is concerned because he fill
 >   Why with the beasts do you wander the wild?
 > Come, I will take you to Uruk-the-Sheepfold,
 >   to the sacred temple, home of Anu and Ishtar
-> ==
+> =
 
 I am quoting from the Andrew George translation; words in italics were difficult to decipher or were filled in from context.
 
@@ -90,7 +90,7 @@ There is, however, a snake in the *Epic of Gilgamesh.* Gilgamesh is returning fr
 > As it turned away it sloughed its skin.
 >   Then Gilgamesh sat down and wept,
 > down his cheeks the tears were coursing.
-> ==
+> =
 
 In both stories a snake causes a man to lose access to a plant which provides eternal life.  However, there are many differences.  In Genesis, the plant is given to Adam by God; Gilgamesh is told about the plant by the Babylonian Noah and he must find it himself.  In Genesis, the plant is a tree in the garden of Eden; in the *Epic of Gilgamesh,* it is a prickly plant at the bottom of the "Ocean Below."
 
@@ -99,16 +99,16 @@ The similarities between the story of Noah and the Babylonian texts are manifold
 For example, the Hebrew Bible, like Babylonian mythology, has the idea of the waters above and the waters below:
 
 > And God said, "Let there be a dome in the midst of the waters, and let it separate the waters from the waters."  So God made the dome and separated the waters that were under the dome from the waters that were above the dome.  And it was so.  God called the dome Sky.  And there was evening and there was morning, the second day.
-> -- Genesis 1:6--8, New Revised Standard Version
+> - Genesis 1:6--8, New Revised Standard Version
 
 > In the six hundredth year of Noah's life, in the second month, on the seventeenth day of the month, on that day all the fountains of the great deep burst forth, and the windows of the heavens were opened.
-> -- Genesis 7:11, New Revised Standard Version
+> - Genesis 7:11, New Revised Standard Version
 
 > And God made a wind blow over the earth, and the waters subsided; the fountains of the deep and the windows of the heavens were closed, the rain from the heavens was restrained, and the waters gradually receded from the earth.
-> -- Genesis 8:1--3, New Revised Standard Version
+> - Genesis 8:1--3, New Revised Standard Version
 
 > Praise him, you highest heavens, and you waters above the heavens!
-> -- Psalms 149:4, New Revised Standard Version
+> - Psalms 149:4, New Revised Standard Version
 
 The most common explanation for the Hebrew's and Babylonian's belief in the waters above is that the sky is blue and water is blue.
 
@@ -121,13 +121,13 @@ In Babylonian mythology, Marduk was the supreme god.  Marduk rose to power by ki
 > ...
 > Any hope of capturing it will be disappointed;
 >   were not even the gods overwhelmed at the sight of it?
-> == Job 41:1--9, New Revised Standard Version
+> = Job 41:1--9, New Revised Standard Version
 
 > You divided the sea by your might;
 >   you broke the heads of the dragons in the waters.
 > You crushed the heads of Leviathan;
 >   you gave him as food for the creatures of the wilderness.
-> == Psalm 74:13--14, New Revised Standard Version
+> = Psalm 74:13--14, New Revised Standard Version
 
 Finally, parts of Ecclesiastes are very similar to the *Epic of Gilgamesh*.  Here is a quote, from a tavern-keeper at the edge of the world, advising Gilgamesh:
 
@@ -147,14 +147,14 @@ Finally, parts of Ecclesiastes are very similar to the *Epic of Gilgamesh*.  Her
 >   Let your wife enjoy your repeated embrace!
 >
 > 'For such is the destiny of mortal men'
-> ==
+> =
 
 And here is a similar saying in Ecclesiastes:
 
 > The living know that they will die, but the dead know nothing; they have no more reward, and even the memory of them is lost.  Their love and their hate and their envy have already perished; never again will they have any share in all that happens under the sun.
 >
 > Go, eat your bread with enjoyment, and drink your wine with a merry heart; for God has long ago approved what you do.  Let your garments always be white; do not let oil be lacking on your head.  Enjoy life with the wife whom you love, all the days of your vain life that are given you under the sun, because that is your portion in life and in your toil at which you toil under the sun.  Whatever your hand finds to do, do with your might; for there is no work or though or knowledge or wisdom in Sheol, to which you are going.
-> -- Ecclesiastes 9:5--10, New Revised Standard Version
+> - Ecclesiastes 9:5--10, New Revised Standard Version
 
 Finally, the Hebrew and Babylonian flood stories are exceedingly similar.  Instead of providing a long list of quotes, I will instead list the similarities:
 

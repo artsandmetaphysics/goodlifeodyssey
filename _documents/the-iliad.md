@@ -43,7 +43,7 @@ The poem is about 16,000 lines of hexameter verse in the ancient Greek, and is s
 
 Some gods are described as human-like while others are abstract.  Gods are born, and humans can fight and harm them.
 
-<blockquote class=poetry>
+<blockquote class="poetry">
 <p>He gouged Aphrodite just where the wristbone joins the palms</p>
 <p>and immortal blood came flowing quickly from the goddess,</p>
 <p>the ichor that courses through their veins, the blessed gods—</p>
@@ -54,7 +54,7 @@ Some gods are described as human-like while others are abstract.  Gods are born,
 
 It also seems that the gods can be killed:
 
-<blockquote class=poetry>
+<blockquote class="poetry">
 <p>And despite the god’s undying lust for battle</p>
 <p>Ares might have wasted away there on the spot</p>
 <p>if the monster’s stepmother, beautiful Eriboea</p>
@@ -68,7 +68,7 @@ It also seems that the gods can be killed:
 
 The Greeks believed that the gods enjoyed and demanded animal sacrifices and libations:
 
-<blockquote class=poetry>
+<blockquote class="poetry">
 <p>I [Zeus] honor sacred Ilium most with my immortal heart:</p>
 <p>Priam and men of Priam who hurls the strong ash spear.</p>
 <p>Never once did my altar lack its share of victims,</p>
@@ -79,7 +79,7 @@ The Greeks believed that the gods enjoyed and demanded animal sacrifices and lib
 
 The most clearly described animal sacrifice occurs near the beginning of the Iliad:
 
-<blockquote class=poetry>
+<blockquote class="poetry">
 <p>At once the men arranged the sacrifice for Apollo,</p>
 <p>making the cattle ring his well-built altar,</p>
 <p>then they rinsed their hands and took up barley.</p>
@@ -119,7 +119,7 @@ The most clearly described animal sacrifice occurs near the beginning of the Ili
 
 Furethermore, plauges and natural disasters were believed to be caused by gods.  An example of this is seen at the beginning of *The Iliad*:
 
-<blockquote class=poetry>
+<blockquote class="poetry">
 <p>So home we sail ...</p>
 <p>if we can escape our death—if war and plague</p>
 <p>are joining forces now to crush the Argives.</p>
@@ -145,7 +145,7 @@ Dreams; Zeus’ dream for Agammenon in book 2; Hermes waking up Priam in book 24
 
 Traditionally, the first word of an epic poem is also its central theme.  Here is the first line of the Iliad:
 
-<blockquote class=poetry>
+<blockquote class="poetry">
 <p>Rage—Goddess, sing the rage of Peleus’ son Achilles,</p>
 <p>murderous, doomed, that cost the Achaeans countless losses,</p>
 <p>hurling down to the House of Death so many sturdy souls,</p>
@@ -159,8 +159,8 @@ Traditionally, the first word of an epic poem is also its central theme.  Here i
 
 During most of *The Iliad,* Achilles wrath is directed at Agamemnon because he disgraced Achilles in front of all the Greeks by stealing his concubine, Briseis.  It isn’t until book 18, when Achilles learns that Patroclus died, that his wrath is then re-directed towards Hector.
 
-<blockquote class=poetry>
-<p>”Then let me die at once”—</p>
+<blockquote class="poetry">
+<p>“Then let me die at once”—</p>
 <p>Achilles burst out, despairing—”since it was not my fat</p>
 <p>to save my dearest comrade from his death! Look,</p>
 <p>a world away from his fatherland he’s perished,</p>
@@ -190,7 +190,7 @@ During most of *The Iliad,* Achilles wrath is directed at Agamemnon because he d
 
 And, after Achilles kills Hector, he is still not at peace.  It isn’t until King Priam, willed by Zeus, visits Achilles to ransom for Hector’s body, that Achilles’ wrath seems to subside:
 
-<blockquote class=poetry>
+<blockquote class="poetry">
 <p>Revere the gods, Achilles! Pity me in my own right,</p>
 <p>remember your own father! I deserve more pity ...</p>
 <p>I have endured what no one on earth has ever done before—</p>
@@ -209,7 +209,7 @@ And, after Achilles kills Hector, he is still not at peace.  It isn’t until Ki
 <p>he rose from his seat, raised the old man by the hand</p>
 <p>and filled with pity now for his gray head and gray beard,</p>
 <p>he spoke out winging words, flying straight to the heart:</p>
-<p>”Poor man, how much you’ve born—pain to break the spirit!”</p>
+<p>“Poor man, how much you’ve born—pain to break the spirit!”</p>
 <cite>Book 24.507–522, Fagles</cite>
 </blockquote>
 
@@ -227,7 +227,7 @@ Armor and treasure; honor
 
 ## Similes
 
-<blockquote class=poetry>
+<blockquote class="poetry">
 <p>Like the generations of leaves, the lives of mortal men.</p>
 <p>Now the wind scatters the old leaves across the earth,</p>
 <p>now the living timber bursts with the new buds</p>
@@ -236,7 +236,7 @@ Armor and treasure; honor
 <cite>Book 6.171–175, Fagles</cite>
 </blockquote>
 
-<blockquote class=poetry>
+<blockquote class="poetry">
 <p>Both men bent on combat, on they fought like wind</p>
 <p>when a god sends down some welcome blast to sailors</p>
 <p>desperate for it, worked to death at the polished oars,</p>
@@ -246,7 +246,7 @@ Armor and treasure; honor
 <cite>Book 7.3–7, Fagles</cite>
 </blockquote>
 
-<blockquote class=poetry>
+<blockquote class="poetry">
 <p>Quick as a thought goes flashing through a man</p>
 <p>who’s traveled the world—”Ah to be there, or there!”—</p>
 <p>as his mind swarms with journeys, fresh desires—</p>
@@ -255,7 +255,7 @@ Armor and treasure; honor
 <cite>Book 15.76–78, Fagles</cite>
 </blockquote>
 
-<blockquote class=poetry>
+<blockquote class="poetry">
 <p>She put fresh strength in his back, spring in his knees</p>
 <p>and filled his heart with the horsefly’s raw daring—</p>
 <p>brush it away from a man’s flesh and back it comes,</p>
