@@ -1,33 +1,47 @@
 html {
+  /*
+   * Set a resonable font-size, such that at 34rem we have ~70 characters on a
+   * line.
+   */
   line-height: 1.55;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
   font-size: 20px;
   font-family: Palatino, 'Times New Roman', serif;
   color: #222;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
-  justify-content: center;
+
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
 }
 
+/*
+ * 576px = (1rem body padding + 34rem main + 1rem body padding)*20px
+ */
 @media (max-width: 720px) {
   html {
     font-size: 18px;
   }
 }
 
+/*
+ * 576px = (1rem body padding + 34rem main + 1rem body padding)*18px
+ */
 @media (max-width: 648px) {
   html {
     font-size: 16px;
   }
 }
 
+/*
+ * 576px = (1rem body padding + 34rem main + 1rem body padding)*16px
+ */
 @media (max-width: 576px) {
   html {
     font-size: 14px;
+
+    /*
+     * Turn off serifs once the font-size gets too small; serifs are nice at
+     * larger font-sizes since they make letters visually stick together into
+     * words.  At smaller font-sizes they can make the text difficult to read.
+     */
     font-family: Helvetica, Aria, sans-serif;
   }
 }
@@ -35,14 +49,30 @@ html {
 body {
   margin: 0;
   padding: 0 1rem 1rem 1rem;
+
+  /*
+   * Nearly all sizes are based on rems so that we can responsively change the
+   * font sizes.
+   */
   font-size: 1rem;
 }
 
 header, main, footer {
   max-width: 34rem;
-  display: block;
+
   margin: 0;
   padding: 0;
+
+  /*
+   * Horizontally center top-level block elements
+   */
+  margin-left: auto;
+  margin-right: auto;
+
+  /*
+   * Necessary for IE11.
+   */
+  display: block;
 }
 
 hr {
@@ -50,12 +80,18 @@ hr {
   margin: 0;
   height: 0.5rem;
   width: 100%;
+
+  /*
+   * We use the background-color so that the big <hr>s in the header and footer
+   * are not printed by default (thus saving people ink).
+   */
   background-color: #222;
 }
 
 footer {
   margin-top: 1.0rem;
   font-size: 0.9rem;
+  font-style: italic;
 }
 
 h1, h2 {
@@ -73,15 +109,10 @@ h2 {
 a {
   background-color: transparent;
   text-decoration: none;
-  color: #2044B9;
 }
 
 a:hover {
   text-decoration: underline;
-}
-
-a:visited {
-  color: #9024B9;
 }
 
 strong {
@@ -103,6 +134,13 @@ blockquote {
   }
 }
 
+/*
+ * Block quotes with poetry have a separate <p> for each line of verse, with a
+ * <br> in between.  We need a separate <p> for each line so that we can
+ * indent long lines that wrap.  We do this by setting the `text-indent` (which
+ * only affects the first line) to -2em, and then adding a 2em margin-left.
+ * The margin-left will shift over all lines but the first.
+ */
 blockquote.poetry > p {
   padding: 0;
   margin: 0;
@@ -110,16 +148,30 @@ blockquote.poetry > p {
   text-indent: -2em;
 }
 
+/*
+ * Since we are using a <p> for each line, we need to remove the typical
+ * padding around the <p>.  In order to properly separate parapgraphs in the
+ * poetry, we insert a line break.  We set the `content` to a blank string, and
+ * set the margin-top, so that we get the proper spacing which is usually in
+ * between <p> tags.
+ */
 blockquote.poetry > br {
   display: block;
   content: "";
   margin-top: 1rem;
 }
 
+/*
+ * The "indent" class is applied to verses which need to be indented.
+ */
 blockquote > p.indent {
   text-indent: -1em;
 }
 
+/*
+ * This style ensures that there is the correct spacing between a <cite> and
+ * the previous <p> tag, both in regular blockquotes and in poetry blockquotes.
+ */
 blockquote > p:last-of-type {
   margin-bottom: 0.3rem;
 }
@@ -132,6 +184,9 @@ ul, ol {
   padding-left: 2rem;
 }
 
+/*
+ * An index list is presented on the home page of the site.
+ */
 .index {
   padding: 0;
   margin: 0;
@@ -151,10 +206,9 @@ ul, ol {
     max-width: 100%;
   }
 
-  hr {
-    display: none;
-  }
-
+  /*
+   * Make sure that URLs are available to people that print the page.
+   */
   a:after {
     content: " [" attr(href) "] ";
   }
