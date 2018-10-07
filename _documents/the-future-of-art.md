@@ -81,7 +81,7 @@ I think Gombrich would partially agree with me.
 <p>For most of the paintings and statues which are now lined up along the wall of our museums and galleries were not meant to be displayed as Art.  They were made for a definite occasion and a definite purpose which were in the artist's mind when he set to work.</p>
 <p>Those ideas, on the other hand, that we outsiders usually work about, ideas about beauty and expression, are rarely mentioned by artists.  It was not always like that, but it was for many centuries in the past, and it is so again now.  The reason</p>
 <p>What an artist worries about as he plans his pictures, makes his sketches, or wonders whether he has completed a canvas, is something much more difficult to put into words.  Perhaps he would say he worries about whether</p>
-<p>⋯ finish copying pages 32-33.</p>
+<p>... finish copying pages 32-33.</p>
 </blockquote>
 
 The idea of an artist "getting it right" is, essentially, dodging the most difficult part of defining art.

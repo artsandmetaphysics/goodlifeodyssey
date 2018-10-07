@@ -36,7 +36,7 @@ def translate_quote(lines, printer):
         if last_line[:3] == '-- ':
             printer('<blockquote title="{}">'.format(citation))
         elif last_line[:3] == '== ':
-            printer('<blockquote title="{}" class="poetry">'.format(citation))
+            printer('<blockquote class="poetry" title="{}">'.format(citation))
             is_poetry = True
         elif last_line == '==':
             printer('<blockquote class="poetry">')
@@ -44,8 +44,8 @@ def translate_quote(lines, printer):
     else:
         printer('<blockquote>')
     for line in pruned_lines:
-        if line.startswith('--- '):
-            printer('<cite>' + line[len('--- '):] + '</cite>')
+        if line.startswith('--- ') or line.startswith('=== '):
+            printer('<cite>' + line[4:] + '</cite>')
         elif line.startswith('  '):
             printer('<p class="indent">' + line[2:] + '</p>')
         elif line != '':

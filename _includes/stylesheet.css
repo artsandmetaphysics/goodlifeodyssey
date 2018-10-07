@@ -181,4 +181,8 @@ ul, ol {
     content: "— " attr(title);
     margin-top: 0.2rem;
   }
+
+  blockquote[title] > cite {
+    display: none;
+  }
 }

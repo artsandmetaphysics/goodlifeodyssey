@@ -103,3 +103,21 @@ def test_poetry_blank_lines():
         '<p>Three</p>',
         '</blockquote>',
     ])
+
+def test_poetry_double_citation():
+    assert_translate([
+        '> One',
+        '> Two',
+        '>',
+        '> Three',
+        '> === Visible',
+        '> == Hidden',
+    ], [
+        '<blockquote class="poetry" title="Hidden">',
+        '<p>One</p>',
+        '<p>Two</p>',
+        '<br>',
+        '<p>Three</p>',
+        '<cite>Visible</cite>',
+        '</blockquote>',
+    ])
