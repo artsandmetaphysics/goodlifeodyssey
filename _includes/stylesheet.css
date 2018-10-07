@@ -143,14 +143,16 @@ blockquote {
  * Block quotes with poetry have a separate <p> for each line of verse, with a
  * <br> in between.  We need a separate <p> for each line so that we can
  * indent long lines that wrap.  We do this by setting the `text-indent` (which
- * only affects the first line) to -2em, and then adding a 2em margin-left.
- * The margin-left will shift over all lines but the first.
+ * only affects the first line) to -2.5em, and then adding a 2.5em margin-left.
+ * The margin-left will shift over all lines but the first.  Note we use 2.5rem
+ * instead of 2rem, so that it is easier to distinguish a wrap-around indent
+ * from a regular indented line (which is indented to 1rem).
  */
 blockquote.poetry > p {
   padding: 0;
   margin: 0;
-  margin-left: 2em;
-  text-indent: -2em;
+  margin-left: 2.5em;
+  text-indent: -2.5em;
 }
 
 /*
@@ -170,7 +172,7 @@ blockquote.poetry > br {
  * The "indent" class is applied to verses which need to be indented.
  */
 blockquote > p.indent {
-  text-indent: -1em;
+  text-indent: -1.5em;
 }
 
 /*
