@@ -62,6 +62,6 @@ But isn’t there a third option?  You could try to be bad!  It is possible that
 
 The simple answer is that I *want* the good ethics to be the right one.  In this case, even if there was a bad God that wanted us to act badly, I would still try to be good to spite them.
 
-What if you knew that a God existed, and you thought he was bad?  Well, perhaps your conception of what is bad is ill-conceived... this is possible even if you don’t whether there is a God...
+What if you knew that a God existed, and you thought he was bad?  Well, perhaps your conception of what is bad is ill-conceived… this is possible even if you don’t whether there is a God…
 
 What if there is no difference between choice (1) and choice (2)?  I.e. the only way you can act is the way you want to act, thus it is meaningless to say that you are going to try to act good even though you don’t want to, since because you did act good it is what you wanted to do.  This is possible, but our metaphysical uncertainty extends to the problem of free will—we don’t have any way of knowing whether choices (1) and (2) are the same or different, thus this is an irrelevant against using uncertainty as a basis for our ethics.

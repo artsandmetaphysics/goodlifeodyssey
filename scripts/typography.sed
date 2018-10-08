@@ -7,6 +7,9 @@
 # vertically center ellipses on their own line; nice for long quotes
 s/^> \.\.\.$/> ⋯/g
 
+# ellipses
+s/\.\.\./…/g
+
 # fancy quotes
 s/(^|[-/(\[{" ])'/\1‘/g
 s/'/’/g

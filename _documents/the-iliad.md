@@ -120,7 +120,7 @@ The most clearly described animal sacrifice occurs near the beginning of the Ili
 Furethermore, plauges and natural disasters were believed to be caused by gods.  An example of this is seen at the beginning of *The Iliad*:
 
 <blockquote class="poetry">
-<p>So home we sail ...</p>
+<p>So home we sail …</p>
 <p>if we can escape our death—if war and plague</p>
 <p>are joining forces now to crush the Argives.</p>
 <p>But wait: let us question a holy man,</p>
@@ -165,11 +165,11 @@ During most of *The Iliad,* Achilles wrath is directed at Agamemnon because he d
 <p>to save my dearest comrade from his death! Look,</p>
 <p>a world away from his fatherland he’s perished,</p>
 <p>lacking me, my fighting strength, to defend him.</p>
-<p>But now, since I shall not return to my fatherland ...</p>
+<p>But now, since I shall not return to my fatherland …</p>
 <p>nor did I bring one ray of hope to my Patroclus,</p>
 <p>nor to the rest of all my steadfast comrades,</p>
 <p>countless ranks struck down by mighty Hector—</p>
-<p>No, no, here I sit by the ships ...</p>
+<p>No, no, here I sit by the ships …</p>
 <p>a useless, dead weight on the good green earth—</p>
 <p>I, no man  my equal among the bronze-armed Achaeans,</p>
 <p>not in battle, only in wars of words that others win.</p>
@@ -178,7 +178,7 @@ During most of *The Iliad,* Achilles wrath is directed at Agamemnon because he d
 <p>bitter gall, sweeter than dripping streams of honey,</p>
 <p>that swarms in people’s chests and blinds like smoke—</p>
 <p>just like the anger Agamemnon king of men</p>
-<p>has roused within me now ...</p>
+<p>has roused within me now …</p>
 <p>Enough.</p>
 <p>Let bygones be bygones. Done is done.</p>
 <p>Despite my anguish I will beat it down,</p>
@@ -192,7 +192,7 @@ And, after Achilles kills Hector, he is still not at peace.  It isn’t until Ki
 
 <blockquote class="poetry">
 <p>Revere the gods, Achilles! Pity me in my own right,</p>
-<p>remember your own father! I deserve more pity ...</p>
+<p>remember your own father! I deserve more pity …</p>
 <p>I have endured what no one on earth has ever done before—</p>
 <p>I put to my lips the hands of the man who killed my son.”</p>
 <br>

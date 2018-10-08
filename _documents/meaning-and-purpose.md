@@ -24,5 +24,5 @@ Meaning is not synonymous with impact.  Meaning derives from our memories, and t
 - Purpose is proportional to providing meaning to others; does this even make sense?
 - Is meaning morally neutral?
 - Is the thing that no one remembers meaningless?
-- The immortal gods keep meaning through their memories...
+- The immortal gods keep meaning through their memories…
 {% endcomment %}
