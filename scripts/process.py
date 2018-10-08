@@ -37,7 +37,7 @@ def translate_quote(lines, printer):
 
     for line in pruned_lines:
         if line.startswith('- ') or line.startswith('= '):
-            printer('<cite>' + line[2:] + '</cite>')
+            printer('<cite>— ' + line[2:] + '</cite>')
         elif line == '=':
             continue
         elif line.startswith('  '):

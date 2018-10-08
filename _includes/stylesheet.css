@@ -174,10 +174,6 @@ blockquote > p:last-of-type {
   margin-bottom: 0.3rem;
 }
 
-cite::before {
-  content: '— ';
-}
-
 ul, ol {
   padding-left: 2rem;
 }

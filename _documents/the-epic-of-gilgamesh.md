@@ -103,22 +103,22 @@ For example, the Hebrew Bible, like Babylonian mythology, has the idea of the wa
 
 <blockquote>
 <p>And God said, “Let there be a dome in the midst of the waters, and let it separate the waters from the waters.”  So God made the dome and separated the waters that were under the dome from the waters that were above the dome.  And it was so.  God called the dome Sky.  And there was evening and there was morning, the second day.</p>
-<cite>Genesis 1:6–8, New Revised Standard Version</cite>
+<cite>— Genesis 1:6–8, New Revised Standard Version</cite>
 </blockquote>
 
 <blockquote>
 <p>In the six hundredth year of Noah’s life, in the second month, on the seventeenth day of the month, on that day all the fountains of the great deep burst forth, and the windows of the heavens were opened.</p>
-<cite>Genesis 7:11, New Revised Standard Version</cite>
+<cite>— Genesis 7:11, New Revised Standard Version</cite>
 </blockquote>
 
 <blockquote>
 <p>And God made a wind blow over the earth, and the waters subsided; the fountains of the deep and the windows of the heavens were closed, the rain from the heavens was restrained, and the waters gradually receded from the earth.</p>
-<cite>Genesis 8:1–3, New Revised Standard Version</cite>
+<cite>— Genesis 8:1–3, New Revised Standard Version</cite>
 </blockquote>
 
 <blockquote>
 <p>Praise him, you highest heavens, and you waters above the heavens!</p>
-<cite>Psalms 149:4, New Revised Standard Version</cite>
+<cite>— Psalms 149:4, New Revised Standard Version</cite>
 </blockquote>
 
 The most common explanation for the Hebrew’s and Babylonian’s belief in the waters above is that the sky is blue and water is blue.
@@ -133,7 +133,7 @@ In Babylonian mythology, Marduk was the supreme god.  Marduk rose to power by ki
 <p>⋯</p>
 <p>Any hope of capturing it will be disappointed;</p>
 <p class="indent">were not even the gods overwhelmed at the sight of it?</p>
-<cite>Job 41:1–9, New Revised Standard Version</cite>
+<cite>— Job 41:1–9, New Revised Standard Version</cite>
 </blockquote>
 
 <blockquote class="poetry">
@@ -141,7 +141,7 @@ In Babylonian mythology, Marduk was the supreme god.  Marduk rose to power by ki
 <p class="indent">you broke the heads of the dragons in the waters.</p>
 <p>You crushed the heads of Leviathan;</p>
 <p class="indent">you gave him as food for the creatures of the wilderness.</p>
-<cite>Psalm 74:13–14, New Revised Standard Version</cite>
+<cite>— Psalm 74:13–14, New Revised Standard Version</cite>
 </blockquote>
 
 Finally, parts of Ecclesiastes are very similar to the *Epic of Gilgamesh*.  Here is a quote, from a tavern-keeper at the edge of the world, advising Gilgamesh:
@@ -170,7 +170,7 @@ And here is a similar saying in Ecclesiastes:
 <blockquote>
 <p>The living know that they will die, but the dead know nothing; they have no more reward, and even the memory of them is lost.  Their love and their hate and their envy have already perished; never again will they have any share in all that happens under the sun.</p>
 <p>Go, eat your bread with enjoyment, and drink your wine with a merry heart; for God has long ago approved what you do.  Let your garments always be white; do not let oil be lacking on your head.  Enjoy life with the wife whom you love, all the days of your vain life that are given you under the sun, because that is your portion in life and in your toil at which you toil under the sun.  Whatever your hand finds to do, do with your might; for there is no work or though or knowledge or wisdom in Sheol, to which you are going.</p>
-<cite>Ecclesiastes 9:5–10, New Revised Standard Version</cite>
+<cite>— Ecclesiastes 9:5–10, New Revised Standard Version</cite>
 </blockquote>
 
 Finally, the Hebrew and Babylonian flood stories are exceedingly similar.  Instead of providing a long list of quotes, I will instead list the similarities:

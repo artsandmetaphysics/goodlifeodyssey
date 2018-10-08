@@ -49,7 +49,7 @@ Some gods are described as human-like while others are abstract.  Gods are born,
 <p>the ichor that courses through their veins, the blessed gods—</p>
 <p>they eat no bread, they drink no shining wine, and so</p>
 <p>the gods are bloodless, so we call them deathless.</p>
-<cite>Book 5.332, Fagles</cite>
+<cite>— Book 5.332, Fagles</cite>
 </blockquote>
 
 It also seems that the gods can be killed:
@@ -61,7 +61,7 @@ It also seems that the gods can be killed:
 <p>had not sent for Hermes, and out of the cauldron</p>
 <p>Hermes stole him away—the War-god breathing his last,</p>
 <p>all but broken down by the ruthless iron chains.</p>
-<cite>Book 5.418, Fagles</cite>
+<cite>— Book 5.418, Fagles</cite>
 </blockquote>
 
 ## Rituals
@@ -74,7 +74,7 @@ The Greeks believed that the gods enjoyed and demanded animal sacrifices and lib
 <p>Never once did my altar lack its share of victims,</p>
 <p>winecups tipped and the deep smoky savor. These,</p>
 <p>these are the gifts we claim—they are our rights.”</p>
-<cite>Book 4.45–47, Fagles</cite>
+<cite>— Book 4.45–47, Fagles</cite>
 </blockquote>
 
 The most clearly described animal sacrifice occurs near the beginning of the Iliad:
@@ -114,7 +114,7 @@ The most clearly described animal sacrifice occurs near the beginning of the Ili
 <p>to the distant archer god who drives away the plague,</p>
 <p>those young Achaean warriors singing out his power,</p>
 <p>and Apollo listened, his great heart warm with joy.</p>
-<cite>Book 1.435–448, Fagles</cite>
+<cite>— Book 1.435–448, Fagles</cite>
 </blockquote>
 
 Furethermore, plauges and natural disasters were believed to be caused by gods.  An example of this is seen at the beginning of *The Iliad*:
@@ -131,7 +131,7 @@ Furethermore, plauges and natural disasters were believed to be caused by gods. 
 <p>If only the god would share the smoky savor of lambs</p>
 <p>and full-grown goats, Apollo might be willing, still,</p>
 <p>somehow, to save us from this plague.”</p>
-<cite>Book 1.56–63, Fagles</cite>
+<cite>— Book 1.56–63, Fagles</cite>
 </blockquote>
 
 Seers and bird signs
@@ -154,7 +154,7 @@ Traditionally, the first word of an epic poem is also its central theme.  Here i
 <p>and the will of Zeus was moving towards its end.</p>
 <p>Begin, Muse, when the two first broke and clashed,</p>
 <p>Agamemnon lord of men and brilliant Achilles.</p>
-<cite>Book 1.1–8, Fagles</cite>
+<cite>— Book 1.1–8, Fagles</cite>
 </blockquote>
 
 During most of *The Iliad,* Achilles wrath is directed at Agamemnon because he disgraced Achilles in front of all the Greeks by stealing his concubine, Briseis.  It isn’t until book 18, when Achilles learns that Patroclus died, that his wrath is then re-directed towards Hector.
@@ -185,7 +185,7 @@ During most of *The Iliad,* Achilles wrath is directed at Agamemnon because he d
 <p>the fury mounting inside me, down by force.</p>
 <p>But now I’ll go and meet that murderer head-on,</p>
 <p>that Hector who destroyed the dearest life I know.</p>
-<cite>Book 18.98–109, Fagles</cite>
+<cite>— Book 18.98–109, Fagles</cite>
 </blockquote>
 
 And, after Achilles kills Hector, he is still not at peace.  It isn’t until King Priam, willed by Zeus, visits Achilles to ransom for Hector’s body, that Achilles’ wrath seems to subside:
@@ -210,7 +210,7 @@ And, after Achilles kills Hector, he is still not at peace.  It isn’t until Ki
 <p>and filled with pity now for his gray head and gray beard,</p>
 <p>he spoke out winging words, flying straight to the heart:</p>
 <p>“Poor man, how much you’ve born—pain to break the spirit!”</p>
-<cite>Book 24.507–522, Fagles</cite>
+<cite>— Book 24.507–522, Fagles</cite>
 </blockquote>
 
 So, *The Iliad*, is in many ways a poem about the wrath of Achilles, which is lit in Book 1 and only extinguished towards the end of Book 24.
@@ -233,7 +233,7 @@ Armor and treasure; honor
 <p>now the living timber bursts with the new buds</p>
 <p>and spring comes round again.  And so with men:</p>
 <p>as one generation comes to life, another dies away.</p>
-<cite>Book 6.171–175, Fagles</cite>
+<cite>— Book 6.171–175, Fagles</cite>
 </blockquote>
 
 <blockquote class="poetry">
@@ -243,7 +243,7 @@ Armor and treasure; honor
 <p>beating the heavy seas, their arms slack with the labor—</p>
 <p>so welcome that brace of men appeared to the Trojans</p>
 <p>desperate for their captains.</p>
-<cite>Book 7.3–7, Fagles</cite>
+<cite>— Book 7.3–7, Fagles</cite>
 </blockquote>
 
 <blockquote class="poetry">
@@ -252,7 +252,7 @@ Armor and treasure; honor
 <p>as his mind swarms with journeys, fresh desires—</p>
 <p>so quick in her eager flight flew noble Hera now</p>
 <p>and scaling steep Olympus went amount the gods.</p>
-<cite>Book 15.76–78, Fagles</cite>
+<cite>— Book 15.76–78, Fagles</cite>
 </blockquote>
 
 <blockquote class="poetry">
@@ -260,7 +260,7 @@ Armor and treasure; honor
 <p>and filled his heart with the horsefly’s raw daring—</p>
 <p>brush it away from a man’s flesh and back it comes,</p>
 <p>biting, attacking, crazed for sweet human blood.</p>
-<cite>Somewhere in Books 15, 16, or 17, Fagles</cite>
+<cite>— Somewhere in Books 15, 16, or 17, Fagles</cite>
 </blockquote>
 
 ## Great Quotes

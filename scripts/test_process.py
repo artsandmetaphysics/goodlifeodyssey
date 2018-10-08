@@ -49,7 +49,7 @@ def test_hidden_citation():
     ], [
         '<blockquote>',
         '<p>One</p>',
-        '<cite>Hello</cite>',
+        '<cite>— Hello</cite>',
         '</blockquote>',
     ])
 
