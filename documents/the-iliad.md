@@ -10,7 +10,7 @@ statue: 'hidden'
 
 ## Background
 
-*The Iliad* is the greatest Greek epic poem.  The ancients believed that it was composed by the blind poet Homer around 850 BCE.  Modern scholars debate when it was composed and by whom.
+*The Iliad* is the greatest Greek epic poem.  The ancients believed that it was composed by the blind poet Homer.  Modern scholars debate when it was composed and by whom, but most agree it was written around 700 BCE.
 
 The poem is about 16,000 lines of hexameter verse in the ancient Greek, and is split into 24 books.
 
@@ -19,11 +19,11 @@ The poem is about 16,000 lines of hexameter verse in the ancient Greek, and is s
 3. Helen reviews the champions; Paris and Menelaus duel
 4. Zeus and Hera bicker; the truce erupts in war
 5. Diomedes fights Aphrodite, Apollo, and Ares
-6. Hector returns to Troy
-7. Ajax duels with Hector
-8. The Tide of Battle Turns
-9. The Embassy to Achilles
-10. Marauding Through the Night
+6. Hector returns to Troy; Diomedes and Glaucus become friends
+7. Ajax and Hector to a draw; the Acheaens build a wall
+8. Zeus turns the tide; the Trojans camp outside their walls
+9. The Embassy to Achilles fails
+10. Odyssius and Ajax maraud through the Night
 11. Agamemnon's Day of Glory
 12. The Trojans Storm the Rampart
 13. Battling for the Ships
@@ -41,14 +41,23 @@ The poem is about 16,000 lines of hexameter verse in the ancient Greek, and is s
 
 ## The Gods
 
-Some gods are described as human-like while others are abstract.  Gods are born, and humans can fight and harm them.
+Some gods are described as human-like while others are abstract.  Gods are born, and humans can fight and harm them, as Diomedes does in Book 5:
 
 > He gouged Aphrodite just where the wristbone joins the palms
 > and immortal blood came flowing quickly from the goddess,
 > the ichor that courses through their veins, the blessed gods---
 > they eat no bread, they drink no shining wine, and so
-> the gods are bloodless, so we call them deathless.
-> = Book 5.332, Fagles
+> the gods are bloodless, so we call them deathless. (5.338--42)
+> =
+
+Note that the Greeks associate eating our food with mortality.  This is seen in a number of other verses as well:
+
+> "No, my friend,
+> I have no desire to fight the blithe immortals.
+> But if you're a man who eats the crops of the earth,
+> a mortal born for death---here, come closer,
+> the sooner you will meet your day to die!" (6.141--4)
+> =
 
 It also seems that the gods can be killed:
 
@@ -57,19 +66,29 @@ It also seems that the gods can be killed:
 > if the monster's stepmother, beautiful Eriboea
 > had not sent for Hermes, and out of the cauldron
 > Hermes stole him away---the War-god breathing his last,
-> all but broken down by the ruthless iron chains.
-> = Book 5.418, Fagles
+> all but broken down by the ruthless iron chains. (5.387--91)
+> =
 
-## Rituals
+## Rituals and Customs
 
 The Greeks believed that the gods enjoyed and demanded animal sacrifices and libations:
 
-> I [Zeus] honor sacred Ilium most with my immortal heart:
+> "I [Zeus] honor sacred Ilium most with my immortal heart:
 > Priam and men of Priam who hurls the strong ash spear.
 > Never once did my altar lack its share of victims,
 > winecups tipped and the deep smoky savor. These,
-> these are the gifts we claim---they are our rights."
-> = Book 4.45--47, Fagles
+> these are the gifts we claim---they are our rights." (4.46--9)
+> =
+
+And there were some expectations that the gods would respect their sacrifices.  For example after Zeus turns the tide of battle in Book 8, Agamemnon begins a prayer with this:
+
+> "Father Zeus, when did you ever strike a mighty king
+> with such mad blindness---then tear away his glory?  Not once,
+> I swear, did I pass some handsome shrine of yours,
+> sailing my oar-swept ship on our fatal voyage here,
+> but on each I burned the fat and thighs of oxen,
+> longing to raze Troy's sturdy walls to the roots." (8.234--41)
+> =
 
 The most clearly described animal sacrifice occurs near the beginning of the Iliad:
 
@@ -106,12 +125,12 @@ The most clearly described animal sacrifice occurs near the beginning of the Ili
 > they appeased the god with song, raising a ringing hymn
 > to the distant archer god who drives away the plague,
 > those young Achaean warriors singing out his power,
-> and Apollo listened, his great heart warm with joy.
-> = Book 1.435--448, Fagles
+> and Apollo listened, his great heart warm with joy. (1.447--75)
+> =
 
-Furethermore, plauges and natural disasters were believed to be caused by gods.  An example of this is seen at the beginning of *The Iliad*:
+Plagues and natural disasters were believed to be caused by gods.  An example of this is seen at the beginning of *The Iliad*:
 
-> So home we sail ...
+> "So home we sail ...
 > if we can escape our death---if war and plague
 > are joining forces now to crush the Argives.
 > But wait: let us question a holy man,
@@ -121,15 +140,16 @@ Furethermore, plauges and natural disasters were believed to be caused by gods. 
 > whether he blames us for a vow we failed, or sacrifice.
 > If only the god would share the smoky savor of lambs
 > and full-grown goats, Apollo might be willing, still,
-> somehow, to save us from this plague."
-> = Book 1.56--63, Fagles
+> somehow, to save us from this plague." (1.58-67)
+> =
 
 Seers and bird signs
 
 Dreams; Zeus' dream for Agammenon in book 2; Hermes waking up Priam in book 24
 
-## The Heroes
+Bonds of friendship from eating together
 
+Oaths
 
 ## The Rage of Achilles
 
@@ -142,8 +162,8 @@ Traditionally, the first word of an epic poem is also its central theme.  Here i
 > feasts for the dogs and birds,
 > and the will of Zeus was moving towards its end.
 > Begin, Muse, when the two first broke and clashed,
-> Agamemnon lord of men and brilliant Achilles.
-> = Book 1.1--8, Fagles
+> Agamemnon lord of men and brilliant Achilles. (1.1--8)
+> =
 
 During most of *The Iliad,* Achilles wrath is directed at Agamemnon because he disgraced Achilles in front of all the Greeks by stealing his concubine, Briseis.  It isn't until book 18, when Achilles learns that Patroclus died, that his wrath is then re-directed towards Hector.
 
@@ -171,8 +191,8 @@ During most of *The Iliad,* Achilles wrath is directed at Agamemnon because he d
 > Despite my anguish I will beat it down,
 > the fury mounting inside me, down by force.
 > But now I'll go and meet that murderer head-on,
-> that Hector who destroyed the dearest life I know.
-> = Book 18.98--109, Fagles
+> that Hector who destroyed the dearest life I know. (18.96--115)
+> =
 
 And, after Achilles kills Hector, he is still not at peace.  It isn't until King Priam, willed by Zeus, visits Achilles to ransom for Hector's body, that Achilles' wrath seems to subside:
 
@@ -180,11 +200,11 @@ And, after Achilles kills Hector, he is still not at peace.  It isn't until King
 > remember your own father! I deserve more pity ...
 > I have endured what no one on earth has ever done before---
 > I put to my lips the hands of the man who killed my son."
-> 
+>
 > Those words stirred within Achilles a deep desire
 > to grieve for his own father. Taking the old man's hand
 > he gently moved him back. And overpowered by memory
-> both men gave way to grief.  Priam wept freely 
+> both men gave way to grief.  Priam wept freely
 > for man-killing Hector, throbbing, crouching
 > before Achilles' feet as Achilles wept himself,
 > now for his father, now for Patroclus once again,
@@ -194,8 +214,8 @@ And, after Achilles kills Hector, he is still not at peace.  It isn't until King
 > he rose from his seat, raised the old man by the hand
 > and filled with pity now for his gray head and gray beard,
 > he spoke out winging words, flying straight to the heart:
-> "Poor man, how much you've born---pain to break the spirit!"
-> = Book 24.507--522, Fagles
+> "Poor man, how much you've born---pain to break the spirit!" (24.503--18)
+> =
 
 So, *The Iliad*, is in many ways a poem about the wrath of Achilles, which is lit in Book 1 and only extinguished towards the end of Book 24.
 
@@ -211,32 +231,45 @@ Armor and treasure; honor
 
 ## Similes
 
+Here are my favourite similes:
+
 > Like the generations of leaves, the lives of mortal men.
 > Now the wind scatters the old leaves across the earth,
 > now the living timber bursts with the new buds
 > and spring comes round again.  And so with men:
-> as one generation comes to life, another dies away.
-> = Book 6.171--175, Fagles
+> as one generation comes to life, another dies away. (6.146--9)
+> =
 
 > Both men bent on combat, on they fought like wind
 > when a god sends down some welcome blast to sailors
 > desperate for it, worked to death at the polished oars,
 > beating the heavy seas, their arms slack with the labor—
 > so welcome that brace of men appeared to the Trojans
-> desperate for their captains.
-> = Book 7.3--7, Fagles
+> desperate for their captains. (7.3--7)
+> =
+
+> As a garden poppy, burst into red bloom, bends,
+> drooping its head to one side, weighed down
+> by its full seeds and a sudden spring shower,
+> so Gorgythion's head fell limp over one shoulder,
+> weighed down by his helmet. (8.306-9)
+> =
 
 > Quick as a thought goes flashing through a man
 > who's traveled the world---"Ah to be there, or there!"---
 > as his mind swarms with journeys, fresh desires---
 > so quick in her eager flight flew noble Hera now
-> and scaling steep Olympus went amount the gods.
-> = Book 15.76--78, Fagles
+> and scaling steep Olympus went amount the gods. (15.79--83)
+> =
 
 > She put fresh strength in his back, spring in his knees
 > and filled his heart with the horsefly's raw daring---
 > brush it away from a man's flesh and back it comes,
-> biting, attacking, crazed for sweet human blood.
-> = Somewhere in Books 15, 16, or 17, Fagles
+> biting, attacking, crazed for sweet human blood. (17.570--3)
+> =
 
-## Great Quotes
+## Other Quotes
+
+- Zeus' preeminence (8.1, 8.211)
+
+All quotations are taken from Robert Fagle's 1990 translation of *The Iliad* and lines numbers are approximate.

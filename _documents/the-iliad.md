@@ -10,7 +10,7 @@ statue: ‘hidden’
 
 ## Background
 
-*The Iliad* is the greatest Greek epic poem.  The ancients believed that it was composed by the blind poet Homer around 850 BCE.  Modern scholars debate when it was composed and by whom.
+*The Iliad* is the greatest Greek epic poem.  The ancients believed that it was composed by the blind poet Homer.  Modern scholars debate when it was composed and by whom, but most agree it was written around 700 BCE.
 
 The poem is about 16,000 lines of hexameter verse in the ancient Greek, and is split into 24 books.
 
@@ -19,11 +19,11 @@ The poem is about 16,000 lines of hexameter verse in the ancient Greek, and is s
 3. Helen reviews the champions; Paris and Menelaus duel
 4. Zeus and Hera bicker; the truce erupts in war
 5. Diomedes fights Aphrodite, Apollo, and Ares
-6. Hector returns to Troy
-7. Ajax duels with Hector
-8. The Tide of Battle Turns
-9. The Embassy to Achilles
-10. Marauding Through the Night
+6. Hector returns to Troy; Diomedes and Glaucus become friends
+7. Ajax and Hector to a draw; the Acheaens build a wall
+8. Zeus turns the tide; the Trojans camp outside their walls
+9. The Embassy to Achilles fails
+10. Odyssius and Ajax maraud through the Night
 11. Agamemnon’s Day of Glory
 12. The Trojans Storm the Rampart
 13. Battling for the Ships
@@ -41,15 +41,24 @@ The poem is about 16,000 lines of hexameter verse in the ancient Greek, and is s
 
 ## The Gods
 
-Some gods are described as human-like while others are abstract.  Gods are born, and humans can fight and harm them.
+Some gods are described as human-like while others are abstract.  Gods are born, and humans can fight and harm them, as Diomedes does in Book 5:
 
 <blockquote class="poetry">
 <p>He gouged Aphrodite just where the wristbone joins the palms</p>
 <p>and immortal blood came flowing quickly from the goddess,</p>
 <p>the ichor that courses through their veins, the blessed gods—</p>
 <p>they eat no bread, they drink no shining wine, and so</p>
-<p>the gods are bloodless, so we call them deathless.</p>
-<cite>— Book 5.332, Fagles</cite>
+<p>the gods are bloodless, so we call them deathless. (5.338–42)</p>
+</blockquote>
+
+Note that the Greeks associate eating our food with mortality.  This is seen in a number of other verses as well:
+
+<blockquote class="poetry">
+<p>“No, my friend,</p>
+<p>I have no desire to fight the blithe immortals.</p>
+<p>But if you’re a man who eats the crops of the earth,</p>
+<p>a mortal born for death—here, come closer,</p>
+<p>the sooner you will meet your day to die!” (6.141–4)</p>
 </blockquote>
 
 It also seems that the gods can be killed:
@@ -60,21 +69,30 @@ It also seems that the gods can be killed:
 <p>if the monster’s stepmother, beautiful Eriboea</p>
 <p>had not sent for Hermes, and out of the cauldron</p>
 <p>Hermes stole him away—the War-god breathing his last,</p>
-<p>all but broken down by the ruthless iron chains.</p>
-<cite>— Book 5.418, Fagles</cite>
+<p>all but broken down by the ruthless iron chains. (5.387–91)</p>
 </blockquote>
 
-## Rituals
+## Rituals and Customs
 
 The Greeks believed that the gods enjoyed and demanded animal sacrifices and libations:
 
 <blockquote class="poetry">
-<p>I [Zeus] honor sacred Ilium most with my immortal heart:</p>
+<p>“I [Zeus] honor sacred Ilium most with my immortal heart:</p>
 <p>Priam and men of Priam who hurls the strong ash spear.</p>
 <p>Never once did my altar lack its share of victims,</p>
 <p>winecups tipped and the deep smoky savor. These,</p>
-<p>these are the gifts we claim—they are our rights.”</p>
-<cite>— Book 4.45–47, Fagles</cite>
+<p>these are the gifts we claim—they are our rights.” (4.46–9)</p>
+</blockquote>
+
+And there were some expectations that the gods would respect their sacrifices.  For example after Zeus turns the tide of battle in Book 8, Agamemnon begins a prayer with this:
+
+<blockquote class="poetry">
+<p>“Father Zeus, when did you ever strike a mighty king</p>
+<p>with such mad blindness—then tear away his glory?  Not once,</p>
+<p>I swear, did I pass some handsome shrine of yours,</p>
+<p>sailing my oar-swept ship on our fatal voyage here,</p>
+<p>but on each I burned the fat and thighs of oxen,</p>
+<p>longing to raze Troy’s sturdy walls to the roots.” (8.234–41)</p>
 </blockquote>
 
 The most clearly described animal sacrifice occurs near the beginning of the Iliad:
@@ -113,14 +131,13 @@ The most clearly described animal sacrifice occurs near the beginning of the Ili
 <p>they appeased the god with song, raising a ringing hymn</p>
 <p>to the distant archer god who drives away the plague,</p>
 <p>those young Achaean warriors singing out his power,</p>
-<p>and Apollo listened, his great heart warm with joy.</p>
-<cite>— Book 1.435–448, Fagles</cite>
+<p>and Apollo listened, his great heart warm with joy. (1.447–75)</p>
 </blockquote>
 
-Furethermore, plauges and natural disasters were believed to be caused by gods.  An example of this is seen at the beginning of *The Iliad*:
+Plagues and natural disasters were believed to be caused by gods.  An example of this is seen at the beginning of *The Iliad*:
 
 <blockquote class="poetry">
-<p>So home we sail …</p>
+<p>“So home we sail …</p>
 <p>if we can escape our death—if war and plague</p>
 <p>are joining forces now to crush the Argives.</p>
 <p>But wait: let us question a holy man,</p>
@@ -130,16 +147,16 @@ Furethermore, plauges and natural disasters were believed to be caused by gods. 
 <p>whether he blames us for a vow we failed, or sacrifice.</p>
 <p>If only the god would share the smoky savor of lambs</p>
 <p>and full-grown goats, Apollo might be willing, still,</p>
-<p>somehow, to save us from this plague.”</p>
-<cite>— Book 1.56–63, Fagles</cite>
+<p>somehow, to save us from this plague.” (1.58-67)</p>
 </blockquote>
 
 Seers and bird signs
 
 Dreams; Zeus’ dream for Agammenon in book 2; Hermes waking up Priam in book 24
 
-## The Heroes
+Bonds of friendship from eating together
 
+Oaths
 
 ## The Rage of Achilles
 
@@ -153,8 +170,7 @@ Traditionally, the first word of an epic poem is also its central theme.  Here i
 <p>feasts for the dogs and birds,</p>
 <p>and the will of Zeus was moving towards its end.</p>
 <p>Begin, Muse, when the two first broke and clashed,</p>
-<p>Agamemnon lord of men and brilliant Achilles.</p>
-<cite>— Book 1.1–8, Fagles</cite>
+<p>Agamemnon lord of men and brilliant Achilles. (1.1–8)</p>
 </blockquote>
 
 During most of *The Iliad,* Achilles wrath is directed at Agamemnon because he disgraced Achilles in front of all the Greeks by stealing his concubine, Briseis.  It isn’t until book 18, when Achilles learns that Patroclus died, that his wrath is then re-directed towards Hector.
@@ -184,8 +200,7 @@ During most of *The Iliad,* Achilles wrath is directed at Agamemnon because he d
 <p>Despite my anguish I will beat it down,</p>
 <p>the fury mounting inside me, down by force.</p>
 <p>But now I’ll go and meet that murderer head-on,</p>
-<p>that Hector who destroyed the dearest life I know.</p>
-<cite>— Book 18.98–109, Fagles</cite>
+<p>that Hector who destroyed the dearest life I know. (18.96–115)</p>
 </blockquote>
 
 And, after Achilles kills Hector, he is still not at peace.  It isn’t until King Priam, willed by Zeus, visits Achilles to ransom for Hector’s body, that Achilles’ wrath seems to subside:
@@ -209,8 +224,7 @@ And, after Achilles kills Hector, he is still not at peace.  It isn’t until Ki
 <p>he rose from his seat, raised the old man by the hand</p>
 <p>and filled with pity now for his gray head and gray beard,</p>
 <p>he spoke out winging words, flying straight to the heart:</p>
-<p>“Poor man, how much you’ve born—pain to break the spirit!”</p>
-<cite>— Book 24.507–522, Fagles</cite>
+<p>“Poor man, how much you’ve born—pain to break the spirit!” (24.503–18)</p>
 </blockquote>
 
 So, *The Iliad*, is in many ways a poem about the wrath of Achilles, which is lit in Book 1 and only extinguished towards the end of Book 24.
@@ -227,13 +241,14 @@ Armor and treasure; honor
 
 ## Similes
 
+Here are my favourite similes:
+
 <blockquote class="poetry">
 <p>Like the generations of leaves, the lives of mortal men.</p>
 <p>Now the wind scatters the old leaves across the earth,</p>
 <p>now the living timber bursts with the new buds</p>
 <p>and spring comes round again.  And so with men:</p>
-<p>as one generation comes to life, another dies away.</p>
-<cite>— Book 6.171–175, Fagles</cite>
+<p>as one generation comes to life, another dies away. (6.146–9)</p>
 </blockquote>
 
 <blockquote class="poetry">
@@ -242,8 +257,15 @@ Armor and treasure; honor
 <p>desperate for it, worked to death at the polished oars,</p>
 <p>beating the heavy seas, their arms slack with the labor—</p>
 <p>so welcome that brace of men appeared to the Trojans</p>
-<p>desperate for their captains.</p>
-<cite>— Book 7.3–7, Fagles</cite>
+<p>desperate for their captains. (7.3–7)</p>
+</blockquote>
+
+<blockquote class="poetry">
+<p>As a garden poppy, burst into red bloom, bends,</p>
+<p>drooping its head to one side, weighed down</p>
+<p>by its full seeds and a sudden spring shower,</p>
+<p>so Gorgythion’s head fell limp over one shoulder,</p>
+<p>weighed down by his helmet. (8.306-9)</p>
 </blockquote>
 
 <blockquote class="poetry">
@@ -251,16 +273,18 @@ Armor and treasure; honor
 <p>who’s traveled the world—”Ah to be there, or there!”—</p>
 <p>as his mind swarms with journeys, fresh desires—</p>
 <p>so quick in her eager flight flew noble Hera now</p>
-<p>and scaling steep Olympus went amount the gods.</p>
-<cite>— Book 15.76–78, Fagles</cite>
+<p>and scaling steep Olympus went amount the gods. (15.79–83)</p>
 </blockquote>
 
 <blockquote class="poetry">
 <p>She put fresh strength in his back, spring in his knees</p>
 <p>and filled his heart with the horsefly’s raw daring—</p>
 <p>brush it away from a man’s flesh and back it comes,</p>
-<p>biting, attacking, crazed for sweet human blood.</p>
-<cite>— Somewhere in Books 15, 16, or 17, Fagles</cite>
+<p>biting, attacking, crazed for sweet human blood. (17.570–3)</p>
 </blockquote>
 
-## Great Quotes
+## Other Quotes
+
+- Zeus’ preeminence (8.1, 8.211)
+
+All quotations are taken from Robert Fagle’s 1990 translation of *The Iliad* and lines numbers are approximate.
