@@ -22,10 +22,10 @@ The poem is about 16,000 lines of hexameter verse in the ancient Greek, and is s
 6. Hector returns to Troy; Diomedes and Glaucus become friends
 7. Ajax and Hector to a draw; the Acheaens build a wall
 8. Zeus turns the tide; the Trojans camp outside their walls
-9. The Embassy to Achilles fails
-10. Odyssius and Ajax maraud through the Night
-11. Agamemnon’s Day of Glory
-12. The Trojans Storm the Rampart
+9. Agamemnon despairs; the embassy to Achilles fails
+10. Odysseus and Ajax maraud through the Night
+11. Agamemnon and others are injured; Nestor’s plea to Patroclus
+12. The Trojans storm the rampart
 13. Battling for the Ships
 14. Hera Outflanks Zeus
 15. The Achaean Armies at Bay
@@ -71,6 +71,16 @@ It also seems that the gods can be killed:
 <p>Hermes stole him away—the War-god breathing his last,</p>
 <p>all but broken down by the ruthless iron chains. (5.387–91)</p>
 </blockquote>
+
+In *The Iliad,* the gods are involved with most important events and decisions. They drive the men to battle, plant ideas and dreams, guide or deflect arrows and spears, and control natural forces.  Yet, despite being pervasive, Homer keeps the Greek gods largely hidden; occasionally a hero recognizes and converse with them, but only to one person at a time.
+
+Homer’s portrayal of the gods reflects the fact that the gods don’t exist—the Greeks imagined them.  Since the Greeks never saw the gods present themselves, Homer’s listeners would be skeptical if he portrayed them otherwise than he did.
+
+This line of thinking also explains why the Greek gods were, and must be, so fickle.  On the one hand the Greeks believed their sacrifices and prayers swayed the gods to act with good will towards them, but despite our human propensity to find patterns where there are none, the Greeks couldn’t deny that their sacrifices were often in vain.  Thus, Homer weaves a two-layered story of gods vying with one another and against fate while the humans below despair and wonder at the gods, in the same way the Greeks must have despaired at the random chance they believed to be a god.
+
+Those who believe in a single just god must explain why evil exists.
+
+The Greeks needed to explain why they must offer sacrifices although the sacrifices often did not work.
 
 ## Rituals and Customs
 
@@ -269,6 +279,20 @@ Here are my favourite similes:
 </blockquote>
 
 <blockquote class="poetry">
+<p>Think how a lion, mauling the soft weak young</p>
+<p>of a running deer, clamped in his massive jaws,</p>
+<p>cracks their backbones with a snap—he’s stormed in,</p>
+<p>invading the lair to tear their tender hearts out</p>
+<p>and the mother doe, even if she’s close by,</p>
+<p>what can she do to save her fawns? She’s helpless—</p>
+<p>terrible trembling racks her body too—and suddenly</p>
+<p>off she bounds through the glades and the thick woods,</p>
+<p>drenched in sweat, leaping clear of the big cat’s pounce.</p>
+<p>So not a single Trojan could save those two from death,</p>
+<p>they fled themselves before the Argive charge. (11.113–22)</p>
+</blockquote>
+
+<blockquote class="poetry">
 <p>Quick as a thought goes flashing through a man</p>
 <p>who’s traveled the world—”Ah to be there, or there!”—</p>
 <p>as his mind swarms with journeys, fresh desires—</p>
@@ -286,5 +310,6 @@ Here are my favourite similes:
 ## Other Quotes
 
 - Zeus’ preeminence (8.1, 8.211)
+- Strange Food (11.637)
 
 All quotations are taken from Robert Fagle’s 1990 translation of *The Iliad* and lines numbers are approximate.

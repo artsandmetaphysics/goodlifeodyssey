@@ -22,7 +22,7 @@ The poem is about 16,000 lines of hexameter verse in the ancient Greek, and is s
 6. Hector returns to Troy; Diomedes and Glaucus become friends
 7. Ajax and Hector to a draw; the Acheaens build a wall
 8. Zeus turns the tide; the Trojans camp outside their walls
-9. Agamemnon despairs; The Embassy to Achilles fails
+9. Agamemnon despairs; the embassy to Achilles fails
 10. Odysseus and Ajax maraud through the Night
 11. Agamemnon and others are injured; Nestor's plea to Patroclus
 12. The Trojans storm the rampart
@@ -74,6 +74,10 @@ In *The Iliad,* the gods are involved with most important events and decisions. 
 Homer's portrayal of the gods reflects the fact that the gods don't exist---the Greeks imagined them.  Since the Greeks never saw the gods present themselves, Homer's listeners would be skeptical if he portrayed them otherwise than he did.
 
 This line of thinking also explains why the Greek gods were, and must be, so fickle.  On the one hand the Greeks believed their sacrifices and prayers swayed the gods to act with good will towards them, but despite our human propensity to find patterns where there are none, the Greeks couldn't deny that their sacrifices were often in vain.  Thus, Homer weaves a two-layered story of gods vying with one another and against fate while the humans below despair and wonder at the gods, in the same way the Greeks must have despaired at the random chance they believed to be a god.
+
+Those who believe in a single just god must explain why evil exists.
+
+The Greeks needed to explain why they must offer sacrifices although the sacrifices often did not work.
 
 ## Rituals and Customs
 
