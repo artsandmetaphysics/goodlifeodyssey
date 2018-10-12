@@ -72,15 +72,13 @@ It also seems that the gods can be killed:
 <p>all but broken down by the ruthless iron chains. (5.387–91)</p>
 </blockquote>
 
-In *The Iliad,* the gods are involved with most important events and decisions. They drive the men to battle, plant ideas and dreams, guide or deflect arrows and spears, and control natural forces.  Yet, despite being pervasive, Homer keeps the Greek gods largely hidden; occasionally a hero recognizes and converse with them, but only to one person at a time.
+In *The Iliad,* the gods are involved with most important events and decisions. They drive the men to battle, plant ideas and dreams, guide or deflect arrows and spears, and control natural forces.  Yet, despite being pervasive, Homer keeps the Greek gods largely hidden within natural forces or doppelgängers.  Occasionally an individual hero recognizes and converses with them, but they never appear to many humans at once.
 
-Homer’s portrayal of the gods reflects the fact that the gods don’t exist—the Greeks imagined them.  Since the Greeks never saw the gods present themselves, Homer’s listeners would be skeptical if he portrayed them otherwise than he did.
+Homer’s portrayal of the gods reflects the fact that the gods don’t exist—the Greeks imagined them.  Since the Greeks never saw the gods present themselves outside of dreams or visions, Homer’s listeners would be skeptical if he portrayed them otherwise.
 
-This line of thinking also explains why the Greek gods were, and must be, so fickle.  On the one hand the Greeks believed their sacrifices and prayers swayed the gods to act with good will towards them, but despite our human propensity to find patterns where there are none, the Greeks couldn’t deny that their sacrifices were often in vain.  Thus, Homer weaves a two-layered story of gods vying with one another and against fate while the humans below despair and wonder at the gods, in the same way the Greeks must have despaired at the random chance they believed to be a god.
+This line of thinking also explains why the Greek gods were, and must be, so fickle.  The Greeks believed their sacrifices and prayers swayed the gods to act with good will towards them, but they also recognized that their sacrifices were frequently ignored.  Thus, Homer weaves a two-layered story of gods vying with one another and against fate while the humans below despair and wonder at the gods—in the same way the Greeks must have despaired at the random chance they believed to be a god.
 
-Those who believe in a single just god must explain why evil exists.
-
-The Greeks needed to explain why they must offer sacrifices although the sacrifices often did not work.
+The Greeks not only needed to explain the need for sacrifices, but also why they did not work.  Those who believe in a single just god are in a similar situation—they need to explain how their god is just but evil exists.
 
 ## Rituals and Customs
 
