@@ -33,6 +33,7 @@ The opening summarizes the theme of the epic, the man of twists and turns:
 > and the Sungod wiped from sight the day of their return.
 > Launch out on his story Muse, daughter of Zeus,
 > start from where you will---sing for our time too. (1.1--10)
+> =
 
 It is interesting that the poet tells the muse to "start from where you will."
 
@@ -48,6 +49,7 @@ Early in book 1, the gods are in full assembly---curiously similar to the assemb
 > above and beyond *his* share he stole Atrides' wife,
 > he murdered the warlord coming home from Troy
 > though he knew it meant his own total ruin. (1.31--37)
+> =
 
 From the start of the *Odyssey,* the gods seem more concerned with morals and justice than they did in the *Iliad.*
 
@@ -63,6 +65,7 @@ Shortly after Zeus' comment, Athena responds:
 > have you no care for *him* in your lofty heart?
 > Did he never win your favor with sacrifices
 > burned besides the ships on the broad plain of Troy?" (1.46--63)
+> =
 
 Zeus replies that, no, he is happy with Odysseus, but that Poseidon is the one to blame.
 
@@ -84,6 +87,7 @@ The assembly in book 2 provides some insight into justice in ancient Greece.  Te
 > mortified in the face of neighbors living round about!
 > Fear the gods' wrath---before they wheel in outrage
 > and make these crimes recoil on your heads. (2.57-67)
+> =
 
 And when the towns people refuse to do anything, Telemachus escalates to the third authority---the gods:
 
@@ -93,6 +97,7 @@ And when the towns people refuse to do anything, Telemachus escalates to the thi
 > But I'll cry out to the everlasting gods in hopes
 > that Zeus will pay you back with a vengeance---all of you
 > destroyed my house while I go scot-free myself!" (2.141--5)
+> =
 
 It seems that fear of the gods was the main source of justice in Greek society.  Since there were no contracts or court system to build trust between individuals, people relied on oaths---and the fear of the gods if one broke their oath---to build trust.  Similarly, if one could not find justice through strength of your fellow men, you could threaten the wrongdoers with a curse.  If they feared the gods, they make respond.
 
@@ -105,6 +110,7 @@ In such a society an atheist or godless person could not be trusted.  Right afte
 > I'm a better hand than you at reading portents.
 > Flocks of birds go fluttering under the sun's rays,
 > not all are fraught with meaning." (2.177--83)
+> =
 
 ## Women
 
@@ -118,6 +124,7 @@ The Greeks did not treat women well.
 > I hold the reins of power in this house."  Astonished,
 > she withdrew to her own room.  She took to heart
 > the clear good sense in what her son had sad. (1.355--62)
+> =
 
 ## The Interactions of Gods and Humans
 

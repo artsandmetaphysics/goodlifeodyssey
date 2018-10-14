@@ -21,7 +21,7 @@ The poem is about 12,000 lines of hexameter verse in the ancient Greek, and is s
 
 The opening summarizes the theme of the epic, the man of twists and turns:
 
-<blockquote>
+<blockquote class="poetry">
 <p>Sing to me of the man, Muse, the man of twists and turns</p>
 <p>driven time and again off course, once he had plundered</p>
 <p>the hallowed heights of Troy.</p>
@@ -42,7 +42,7 @@ It is interesting that the poet tells the muse to “start from where you will.�
 
 Early in book 1, the gods are in full assembly—curiously similar to the assemblies the Greeks held—and Zeus makes an interesting statement:
 
-<blockquote>
+<blockquote class="poetry">
 <p>“Ah how shameless—the way these mortals blame the gods.</p>
 <p>From us alone, they say, come all their miseries, yes,</p>
 <p>but they themselves, with their own reckless ways,</p>
@@ -59,7 +59,7 @@ Zeus’ implication that men should have a “proper share” of pains is intere
 
 Shortly after Zeus’ comment, Athena responds:
 
-<blockquote>
+<blockquote class="poetry">
 <p>“Let them all die so, all who do such things.</p>
 <p>But my heart breaks for Odysseus …</p>
 <p>he, straining for no more than a glimpse</p>
@@ -80,7 +80,7 @@ The Greeks’ explanation for the existence of pain and suffering appears to be 
 
 The assembly in book 2 provides some insight into justice in ancient Greece.  Telemachus appears to escalate through three authorities.  First, is his own strength, second is the people of Ithaca:
 
-<blockquote>
+<blockquote class="poetry">
 <p>Now we have no man like Odysseus in command</p>
 <p>to drive this curse from the house.  We ourselves?</p>
 <p>We’re hardly the ones to fight them off.  All we’d do</p>
@@ -95,7 +95,7 @@ The assembly in book 2 provides some insight into justice in ancient Greece.  Te
 
 And when the towns people refuse to do anything, Telemachus escalates to the third authority—the gods:
 
-<blockquote>
+<blockquote class="poetry">
 <p>“But if you decide the fare is better, richer here,</p>
 <p>destroying one man’s goods and going scot-free,</p>
 <p>all right then, carve away!</p>
@@ -108,7 +108,7 @@ It seems that fear of the gods was the main source of justice in Greek society. 
 
 In such a society an atheist or godless person could not be trusted.  Right after Telemachus threatens the suitors with a curse, Zeus sends a sign down in the form of two eagles.  One of the old townsmen, who excelled in reading omens and bird signs, said that the eagles were a sign from Zeus that the suitors would get what is coming to them.  And the suitors respond:
 
-<blockquote>
+<blockquote class="poetry">
 <p>“Stop, old man!”</p>
 <p>Eurymachus, Polybus’ son, rose up to take him on.</p>
 <p>“Go home and babble your omens to your children—</p>
@@ -122,7 +122,7 @@ In such a society an atheist or godless person could not be trusted.  Right afte
 
 The Greeks did not treat women well.
 
-<blockquote>
+<blockquote class="poetry">
 <p>“So, mother,</p>
 <p>got back to your quarters. Tend to your own tasks,</p>
 <p>the distaff and the loom, and keep the women</p>
