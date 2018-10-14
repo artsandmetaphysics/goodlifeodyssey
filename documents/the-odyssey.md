@@ -1,11 +1,11 @@
 ---
 title: >
-  "The Odyssey"
+  The "Odyssey"
 description: >
-  Notes on "The Odyssey"
+  Notes on the "Odyssey"
 type: note
+status: incomplete
 order: 3.01
-statue: 'hidden'
 ---
 
 ## Background
@@ -14,9 +14,138 @@ The ancients believed that the *Odyssey* was composed by the blind poet Homer.  
 
 The poem is about 12,000 lines of hexameter verse in the ancient Greek, and is split into 24 books.
 
-1. 
-2. 
+1. The gods pity Odysseus; Athena inspires Telemachus
+2. Telemachus calls the assembly, then sets sail
 
-## The Gods
+## Opening
 
-All quotations are taken from Robert Fagle's 1996 translation of the *Odyssey* and lines numbers are approximate.
+The opening summarizes the theme of the epic, the man of twists and turns:
+
+> Sing to me of the man, Muse, the man of twists and turns
+> driven time and again off course, once he had plundered
+> the hallowed heights of Troy.
+> Many cities of men he saw and learned their minds,
+> many pains he suffered, heartsick on the open sea,
+> fighting to save his life and bring his comrades home.
+> But he could not save them from disaster, hard as he strove---
+> the recklessness of their own ways destroyed them all,
+> the blind fools, they devoured the cattle of the Sun
+> and the Sungod wiped from sight the day of their return.
+> Launch out on his story Muse, daughter of Zeus,
+> start from where you will---sing for our time too. (1.1--10)
+
+It is interesting that the poet tells the muse to "start from where you will."
+
+## Justice, Morality, and the Gods
+
+Early in book 1, the gods are in full assembly---curiously similar to the assemblies the Greeks held---and Zeus makes an interesting statement:
+
+> "Ah how shameless---the way these mortals blame the gods.
+> From us alone, they say, come all their miseries, yes,
+> but they themselves, with their own reckless ways,
+> compound their pains beyond their proper share.
+> Look at Aegisthus now ...
+> above and beyond *his* share he stole Atrides' wife,
+> he murdered the warlord coming home from Troy
+> though he knew it meant his own total ruin. (1.31--37)
+
+From the start of the *Odyssey,* the gods seem more concerned with morals and justice than they did in the *Iliad.*
+
+Zeus' implication that men should have a "proper share" of pains is interesting.  In the Abrahamic religions, pain and suffering are the result of the fall of man.  After the fall, there doesn't seem to be an expectation that these pains are distributed evenly.  In the Greek religion, they had the myth of Pandora's box, which is in someways similar to the story of Adam and Even, but even after the fall it appears there is a sense that pains should be spread evenly.
+
+Shortly after Zeus' comment, Athena responds:
+
+> "Let them all die so, all who do such things.
+> But my heart breaks for Odysseus ...
+> he, straining for no more than a glimpse
+> of hearth-smoke drifting up from his own land,
+> Odysseus longs to die ... Olympian Zeus,
+> have you no care for *him* in your lofty heart?
+> Did he never win your favor with sacrifices
+> burned besides the ships on the broad plain of Troy?" (1.46--63)
+
+Zeus replies that, no, he is happy with Odysseus, but that Poseidon is the one to blame.
+
+The Greeks' explanation for the existence of pain and suffering appears to be three fold:
+
+- We all should have a "fair share"
+- Some we bring on ourselves through unjust acts
+- Some is due to other gods
+
+The assembly in book 2 provides some insight into justice in ancient Greece.  Telemachus appears to escalate through three authorities.  First, is his own strength, second is the people of Ithaca:
+
+> Now we have no man like Odysseus in command
+> to drive this curse from the house.  We ourselves?
+> We're hardly the ones to fight them off.  All we'd do 
+> is parade our wretched weakness.  A boy inept at battle.
+> Oh I'd swing to attach if I had the power in me.
+> By god, it's intolerable, what they do---disgrace,
+> my house a shambles!  You should be ashamed yourselves,
+> mortified in the face of neighbors living round about!
+> Fear the gods' wrath---before they wheel in outrage
+> and make these crimes recoil on your heads. (2.57-67)
+
+And when the towns people refuse to do anything, Telemachus escalates to the third authority---the gods:
+
+> "But if you decide the fare is better, richer here,
+> destroying one man's goods and going scot-free,
+> all right then, carve away!
+> But I'll cry out to the everlasting gods in hopes
+> that Zeus will pay you back with a vengeance---all of you
+> destroyed my house while I go scot-free myself!" (2.141--5)
+
+It seems that fear of the gods was the main source of justice in Greek society.  Since there were no contracts or court system to build trust between individuals, people relied on oaths---and the fear of the gods if one broke their oath---to build trust.  Similarly, if one could not find justice through strength of your fellow men, you could threaten the wrongdoers with a curse.  If they feared the gods, they make respond.
+
+In such a society an atheist or godless person could not be trusted.  Right after Telemachus threatens the suitors with a curse, Zeus sends a sign down in the form of two eagles.  One of the old townsmen, who excelled in reading omens and bird signs, said that the eagles were a sign from Zeus that the suitors would get what is coming to them.  And the suitors respond:
+
+> "Stop, old man!"
+> Eurymachus, Polybus' son, rose up to take him on.
+> "Go home and babble your omens to your children---
+> save *them* from some catastrophe coming soon.
+> I'm a better hand than you at reading portents.
+> Flocks of birds go fluttering under the sun's rays,
+> not all are fraught with meaning." (2.177--83)
+
+## Women
+
+The Greeks did not treat women well.
+
+> "So, mother,
+> got back to your quarters. Tend to your own tasks,
+> the distaff and the loom, and keep the women
+> working hard as well.  As for giving orders,
+> men will see to that, but I most of all:
+> I hold the reins of power in this house."  Astonished,
+> she withdrew to her own room.  She took to heart
+> the clear good sense in what her son had sad. (1.355--62)
+
+## The Interactions of Gods and Humans
+
+As doppelgängers:
+
+- Athena as Mentes (1.104)
+- Athena as Mentor (2.267)
+- Athena as Telemachus (2.383)
+- Athena as Mentor again (2.401)
+
+Through signs:
+
+- Zeus sends an eagle to the assembly (2.146)
+
+Through natural forces:
+
+- Athena provides wind (2.419)
+
+Through human physiology:
+
+- Athena gives Telemachus courage (1.320)
+- Athena seals Penelope's eyes (1.364)
+- Athena makes Telemachus spendid (2.12)
+
+Also, here is how the Greeks in the story believed the gods interacted with them:
+
+- Aegyptius believed Zeus could speed the summoner to a happy end (2.32)
+- Antinous believed Athena gave Penelope gifts (2.115)
+- Telemachus believed Zeus would send a rumor (2.216)
+
+*All quotations are taken from Robert Fagle's 1996 excellent translation of the *Odyssey* and lines numbers are approximate.*

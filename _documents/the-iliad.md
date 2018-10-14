@@ -1,16 +1,16 @@
 ---
 title: >
-  “The Iliad”
+  The “Iliad”
 description: >
-  Notes on “The Iliad”
+  Notes on the “Iliad”
 type: note
+status: incomplete
 order: 3
-statue: ‘hidden’
 ---
 
 ## Background
 
-*The Iliad* is the greatest Greek epic poem.  The ancients believed that it was composed by the blind poet Homer.  Modern scholars debate when it was composed and by whom, but most agree it was written around 700 BCE.
+The *Iliad* is the greatest Greek epic poem.  The ancients believed that it was composed by the blind poet Homer.  Modern scholars debate when it was composed and by whom, but most agree it was written around 700 BCE.
 
 The poem is about 16,000 lines of hexameter verse in the ancient Greek, and is split into 24 books.
 
@@ -72,7 +72,7 @@ It also seems that the gods can be killed:
 <p>all but broken down by the ruthless iron chains. (5.387–91)</p>
 </blockquote>
 
-In *The Iliad,* the gods are involved with most important events and decisions. They drive the men to battle, plant ideas and dreams, guide or deflect arrows and spears, and control natural forces.  Yet, despite being pervasive, Homer keeps the Greek gods largely hidden within natural forces or doppelgängers.  Occasionally an individual hero recognizes and converses with them, but they never appear to many humans at once.
+In the *Iliad,* the gods are involved with most important events and decisions. They drive the men to battle, plant ideas and dreams, guide or deflect arrows and spears, and control natural forces.  Yet, despite being pervasive, Homer keeps the Greek gods largely hidden within natural forces or doppelgängers.  Occasionally an individual hero recognizes and converses with them, but they never appear to many humans at once.
 
 Homer’s portrayal of the gods reflects the fact that the gods don’t exist—the Greeks imagined them.  Since the Greeks never saw the gods present themselves outside of dreams or visions, Homer’s listeners would be skeptical if he portrayed them otherwise.
 
@@ -103,7 +103,7 @@ And there were some expectations that the gods would respect their sacrifices.  
 <p>longing to raze Troy’s sturdy walls to the roots.” (8.234–41)</p>
 </blockquote>
 
-The most clearly described animal sacrifice occurs near the beginning of the Iliad:
+The most clearly described animal sacrifice occurs near the beginning of the *Iliad*:
 
 <blockquote class="poetry">
 <p>At once the men arranged the sacrifice for Apollo,</p>
@@ -142,7 +142,7 @@ The most clearly described animal sacrifice occurs near the beginning of the Ili
 <p>and Apollo listened, his great heart warm with joy. (1.447–75)</p>
 </blockquote>
 
-Plagues and natural disasters were believed to be caused by gods.  An example of this is seen at the beginning of *The Iliad*:
+Plagues and natural disasters were believed to be caused by gods.  An example of this is seen at the beginning of the *Iliad*:
 
 <blockquote class="poetry">
 <p>“So home we sail …</p>
@@ -168,7 +168,7 @@ Oaths
 
 ## The Rage of Achilles
 
-Traditionally, the first word of an epic poem is also its central theme.  Here is the first line of the Iliad:
+Traditionally, the first word of an epic poem is also its central theme.  Here is the first line of the *Iliad*:
 
 <blockquote class="poetry">
 <p>Rage—Goddess, sing the rage of Peleus’ son Achilles,</p>
@@ -181,7 +181,7 @@ Traditionally, the first word of an epic poem is also its central theme.  Here i
 <p>Agamemnon lord of men and brilliant Achilles. (1.1–8)</p>
 </blockquote>
 
-During most of *The Iliad,* Achilles wrath is directed at Agamemnon because he disgraced Achilles in front of all the Greeks by stealing his concubine, Briseis.  It isn’t until book 18, when Achilles learns that Patroclus died, that his wrath is then re-directed towards Hector.
+During most of the *Iliad,* Achilles wrath is directed at Agamemnon because he disgraced Achilles in front of all the Greeks by stealing his concubine, Briseis.  It isn’t until book 18, when Achilles learns that Patroclus died, that his wrath is then re-directed towards Hector.
 
 <blockquote class="poetry">
 <p>“Then let me die at once”—</p>
@@ -235,13 +235,13 @@ And, after Achilles kills Hector, he is still not at peace.  It isn’t until Ki
 <p>“Poor man, how much you’ve born—pain to break the spirit!” (24.503–18)</p>
 </blockquote>
 
-So, *The Iliad*, is in many ways a poem about the wrath of Achilles, which is lit in Book 1 and only extinguished towards the end of Book 24.
+So, the *Iliad*, is in many ways a poem about the wrath of Achilles, which is lit in Book 1 and only extinguished towards the end of Book 24.
 
-Some interpret *The Iliad* as a poem about growth and moral progress—Achilles’ god-like wrath is humanized by Priam.  Others see Achilles’ rage and general attitude as being consistent throughout the book.
+Some interpret the *Iliad* as a poem about growth and moral progress—Achilles’ god-like wrath is humanized by Priam.  Others see Achilles’ rage and general attitude as being consistent throughout the book.
 
 ## War and Violence
 
-*The Iliad*
+The *Iliad*
 
 ## Various Thoughts
 
@@ -310,4 +310,4 @@ Here are my favourite similes:
 - Zeus’ preeminence (8.1, 8.211)
 - Strange Food (11.637)
 
-All quotations are taken from Robert Fagle’s 1990 translation of *The Iliad* and lines numbers are approximate.
+*All quotations are taken from Robert Fagle’s 1990 translation of the *Iliad* and lines numbers are approximate.*

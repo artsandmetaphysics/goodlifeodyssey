@@ -4,8 +4,8 @@ title: >
 description: >
   Notes on the "Iliad"
 type: note
+status: incomplete
 order: 3
-statue: 'hidden'
 ---
 
 ## Background
@@ -294,4 +294,4 @@ Here are my favourite similes:
 - Zeus' preeminence (8.1, 8.211)
 - Strange Food (11.637)
 
-All quotations are taken from Robert Fagle's 1990 translation of the *Iliad* and lines numbers are approximate.
+*All quotations are taken from Robert Fagle's 1990 translation of the *Iliad* and lines numbers are approximate.*
