@@ -48,7 +48,7 @@ Early in book 1, the gods are in full assembly—curiously similar to the assemb
 <p>but they themselves, with their own reckless ways,</p>
 <p>compound their pains beyond their proper share.</p>
 <p>Look at Aegisthus now …</p>
-<p>above and beyond *his* share he stole Atrides’ wife,</p>
+<p>above and beyond <em>his</em> share he stole Atrides’ wife,</p>
 <p>he murdered the warlord coming home from Troy</p>
 <p>though he knew it meant his own total ruin. (1.31–37)</p>
 </blockquote>
@@ -65,7 +65,7 @@ Shortly after Zeus’ comment, Athena responds:
 <p>he, straining for no more than a glimpse</p>
 <p>of hearth-smoke drifting up from his own land,</p>
 <p>Odysseus longs to die … Olympian Zeus,</p>
-<p>have you no care for *him* in your lofty heart?</p>
+<p>have you no care for <em>him</em> in your lofty heart?</p>
 <p>Did he never win your favor with sacrifices</p>
 <p>burned besides the ships on the broad plain of Troy?” (1.46–63)</p>
 </blockquote>
@@ -112,7 +112,7 @@ In such a society an atheist or godless person could not be trusted.  Right afte
 <p>“Stop, old man!”</p>
 <p>Eurymachus, Polybus’ son, rose up to take him on.</p>
 <p>“Go home and babble your omens to your children—</p>
-<p>save *them* from some catastrophe coming soon.</p>
+<p>save <em>them</em> from some catastrophe coming soon.</p>
 <p>I’m a better hand than you at reading portents.</p>
 <p>Flocks of birds go fluttering under the sun’s rays,</p>
 <p>not all are fraught with meaning.” (2.177–83)</p>
@@ -162,4 +162,4 @@ Also, here is how the Greeks in the story believed the gods interacted with them
 - Antinous believed Athena gave Penelope gifts (2.115)
 - Telemachus believed Zeus would send a rumor (2.216)
 
-*All quotations are taken from Robert Fagle’s 1996 excellent translation of the *Odyssey* and lines numbers are approximate.*
+*All quotations are taken from Robert Fagle’s 1996 excellent translation of the* Odyssey *and lines numbers are approximate.*

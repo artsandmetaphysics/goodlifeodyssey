@@ -202,8 +202,7 @@ During most of the *Iliad,* Achilles wrath is directed at Agamemnon because he d
 <p>bitter gall, sweeter than dripping streams of honey,</p>
 <p>that swarms in people’s chests and blinds like smoke—</p>
 <p>just like the anger Agamemnon king of men</p>
-<p>has roused within me now …</p>
-<p>Enough.</p>
+<p>has roused within me now … Enough.</p>
 <p>Let bygones be bygones. Done is done.</p>
 <p>Despite my anguish I will beat it down,</p>
 <p>the fury mounting inside me, down by force.</p>
@@ -310,4 +309,4 @@ Here are my favourite similes:
 - Zeus’ preeminence (8.1, 8.211)
 - Strange Food (11.637)
 
-*All quotations are taken from Robert Fagle’s 1990 translation of the *Iliad* and lines numbers are approximate.*
+*All quotations are taken from Robert Fagle’s 1990 translation of the* Iliad *and lines numbers are approximate.*
