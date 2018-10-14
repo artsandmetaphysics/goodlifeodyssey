@@ -94,7 +94,7 @@ And when the towns people refuse to do anything, Telemachus escalates to the thi
 > all right then, carve away!
 > But I'll cry out to the everlasting gods in hopes
 > that Zeus will pay you back with a vengeance---all of you
-> destroyed my house while I go scot-free myself!" (2.141--5)
+> destroyed in my house while I go scot-free myself!" (2.141--5)
 > =
 
 It seems that fear of the gods was the main source of justice in Greek society.  Since there were no contracts or court system to build trust between individuals, people relied on oaths---and the fear of the gods if one broke their oath---to build trust.  Similarly, if one could not find justice through strength of your fellow men, you could threaten the wrongdoers with a curse.  If they feared the gods, they make respond.
