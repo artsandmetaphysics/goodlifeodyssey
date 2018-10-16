@@ -104,7 +104,7 @@ And when the towns people refuse to do anything, Telemachus escalates to the thi
 <p>destroyed in my house while I go scot-free myself!” (2.141–5)</p>
 </blockquote>
 
-It seems that fear of the gods was the main source of justice in Greek society.  Since there were no contracts or court system to build trust between individuals, people relied on oaths—and the fear of the gods if one broke their oath—to build trust.  Similarly, if one could not find justice through strength of your fellow men, you could threaten the wrongdoers with a curse.  If they feared the gods, they make respond.
+It seems that fear of the gods was the main source of justice in Greek society.  Since there were no contracts or court system to build trust between individuals, people relied on oaths—and the fear of the gods if one broke their oath—to build trust.  Similarly, if one could not find justice through strength of your fellow men, you could threaten the wrongdoers with a curse.  If they feared the gods, they may respond.
 
 In such a society an atheist or godless person could not be trusted.  Right after Telemachus threatens the suitors with a curse, Zeus sends a sign down in the form of two eagles.  One of the old townsmen, who excelled in reading omens and bird signs, said that the eagles were a sign from Zeus that the suitors would get what is coming to them.  And the suitors respond:
 
