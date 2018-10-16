@@ -1,0 +1,4 @@
+---
+---
+{{ site.url }}{% for d in site.documents %}
+{{ site.url }}{{ d.url }}{% endfor %}

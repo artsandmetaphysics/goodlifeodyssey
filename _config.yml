@@ -11,6 +11,8 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+include:
+  - sitemap.txt
 collections:
   documents:
     output: true
