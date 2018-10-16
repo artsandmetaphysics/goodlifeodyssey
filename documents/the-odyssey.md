@@ -77,7 +77,7 @@ The Greeks' explanation for the existence of pain and suffering appears to be th
 
 The assembly in book 2 provides some insight into justice in ancient Greece.  Telemachus appears to escalate through three authorities.  First, is his own strength, second is the people of Ithaca:
 
-> Now we have no man like Odysseus in command
+> "Now we have no man like Odysseus in command
 > to drive this curse from the house.  We ourselves?
 > We're hardly the ones to fight them off.  All we'd do 
 > is parade our wretched weakness.  A boy inept at battle.
@@ -86,7 +86,7 @@ The assembly in book 2 provides some insight into justice in ancient Greece.  Te
 > my house a shambles!  You should be ashamed yourselves,
 > mortified in the face of neighbors living round about!
 > Fear the gods' wrath---before they wheel in outrage
-> and make these crimes recoil on your heads. (2.57-67)
+> and make these crimes recoil on your heads." (2.57-67)
 > =
 
 And when the towns people refuse to do anything, Telemachus escalates to the third authority---the gods:
