@@ -2,7 +2,7 @@ title: Art, History, Religion, and Philosophy
 email: artsandmetaphysics@gmail.com
 description: My essays and notes about art, history, religion, and philosophy.
 baseurl: ""
-url: "http://artsandmetaphysics.com"
+url: "https://artsandmetaphysics.com"
 
 markdown: kramdown
 theme: minima
@@ -22,3 +22,5 @@ defaults:
     values:
       layout: basic
       status: complete
+plugins:
+  - jekyll-sitemap
