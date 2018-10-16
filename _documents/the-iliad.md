@@ -12,6 +12,8 @@ order: 3
 
 The *Iliad* is the greatest Greek epic poem.  The ancients believed that it was composed by the blind poet Homer.  Modern scholars debate when it was composed and by whom, but most agree it was written around 700 BCE.
 
+## Structure and Outline
+
 The poem is about 16,000 lines of hexameter verse in the ancient Greek, and is split into 24 books.
 
 1. Agamemnon and Achilles quarrel; Thetis appeals to Zeus
@@ -28,7 +30,7 @@ The poem is about 16,000 lines of hexameter verse in the ancient Greek, and is s
 12. The Trojans storm the rampart
 13. Battling for the Ships
 14. Hera Outflanks Zeus
-15. The Achaean Armies at Bay
+15. Zeus dismisses Poseidon; Apollo revives Hector and charges the ships
 16. Patroclus Fights and Dies
 17. Menelaus’ Finest Hour
 18. The Shield of Achilles
@@ -80,7 +82,7 @@ This line of thinking also explains why the Greek gods were, and must be, so fic
 
 The Greeks not only needed to explain the need for sacrifices, but also why they did not work.  Those who believe in a single just god are in a similar situation—they need to explain how their god is just but evil exists.
 
-## Rituals and Customs
+## Sacrifices
 
 The Greeks believed that the gods enjoyed and demanded animal sacrifices and libations:
 
@@ -158,14 +160,6 @@ Plagues and natural disasters were believed to be caused by gods.  An example of
 <p>somehow, to save us from this plague.” (1.58-67)</p>
 </blockquote>
 
-Seers and bird signs
-
-Dreams; Zeus’ dream for Agammenon in book 2; Hermes waking up Priam in book 24
-
-Bonds of friendship from eating together
-
-Oaths
-
 ## The Rage of Achilles
 
 Traditionally, the first word of an epic poem is also its central theme.  Here is the first line of the *Iliad*:
@@ -240,7 +234,28 @@ Some interpret the *Iliad* as a poem about growth and moral progress—Achilles�
 
 ## War and Violence
 
-The *Iliad*
+War and violence permeate the *Iliad.*  One of the first things a modern reader notices in the *Iliad* is that Homer provides the names of even nearly every character that dies:
+
+<blockquote class="poetry">
+<p>Who was the first he slaughtered, who the last,</p>
+<p>Hector the son of Priam, now Zeus gave him glory?</p>
+<p>Asaeus first, Autonous next and then Opites,</p>
+<p>Dolops, Clytius’ son, and Opheltius, Agelaus,</p>
+<p>Aesymnus and Orus, Hipponous staunch in combat.</p>
+<p>These were the Argive captains Hector killed (11.299–304)</p>
+</blockquote>
+
+None of the Argive captains were mentioned before or afterwards.  It feels like Homer is giving them dignity and immortality to each man who died.  There are 255 named deaths in the *Iliad.*  Many die terribly:
+
+<blockquote class="poetry">
+<p>Idomeneus skewered Erymas straight through the mouth,</p>
+<p>the merciless brazen spearpoint raking through,</p>
+<p>up under the brain to split his glistening skull—</p>
+<p>teeth shattered out, both eyes brimmed to the lids</p>
+<p>with a gush of blood and both nostrils spurting,</p>
+<p>mouth gaping, blowing convulsive sprays of blood</p>
+<p>and death’s dark cloud closed around his corpse. (16.345–50)</p>
+</blockquote>
 
 ## Various Thoughts
 
@@ -298,15 +313,60 @@ Here are my favourite similes:
 </blockquote>
 
 <blockquote class="poetry">
+<p>As a stallion full-fed at the manager, stalled too long,</p>
+<p>breaking free of his tether gallops down the plain,</p>
+<p>out for his favorite plunge in a river’s cool currents,</p>
+<p>thundering in his pride—his head flung back, his mane</p>
+<p>streaming over his shoulders, sure and sleek in his glory,</p>
+<p>knees racing him on to the fields and stallion-haunts he loves—</p>
+<p>so Hector hurtled on, his legs driving, his knees pumping,</p>
+<p>spurring his reinsmen once he heard the god’s command. (15.262–8)</p>
+</blockquote>
+
+<blockquote class="poetry">
 <p>She put fresh strength in his back, spring in his knees</p>
 <p>and filled his heart with the horsefly’s raw daring—</p>
 <p>brush it away from a man’s flesh and back it comes,</p>
 <p>biting, attacking, crazed for sweet human blood. (17.570–3)</p>
 </blockquote>
 
-## Other Quotes
+## Other Interesting Quotes
 
-- Zeus’ preeminence (8.1, 8.211)
-- Strange Food (11.637)
+The description of Nestor’s cup, and strange food:
 
-*All quotations are taken from Robert Fagle’s 1990 translation of the* Iliad *and lines numbers are approximate.*
+<blockquote class="poetry">
+<p>First Hecamede pushed a table up toward them,</p>
+<p>handsome, sanded smooth, with blue enamel legs,</p>
+<p>and on it she set a basket, braided in bronze</p>
+<p>with onions in it, a relish for the drink,</p>
+<p>and pale gold honey along with barley meal,</p>
+<p>the grain’s blessed yield.  And there in the midst</p>
+<p>the grand, glowing cup the old king brought from home,</p>
+<p>studded with golden nails, fitted with handles,</p>
+<p>four all told and two doves perched on each,</p>
+<p>heads bending to drink and made of solid gold</p>
+<p>and twin supports ran down to form the base.</p>
+<p>An average man would strain to lift it off the table</p>
+<p>when it was full, but Nestor, old as he was,</p>
+<p>could hoist it up with ease.</p>
+<p>In this cup the woman skilled as a goddess</p>
+<p>mixed them a strong drink with Pramnian wine,</p>
+<p>over it shredded goat cheese with bronze grater</p>
+<p>and scattered barley into it, glistening pure white,</p>
+<p>then invited them to drink when she had mulled it all. (11.626–41)</p>
+</blockquote>
+
+The Olympian trinity:
+
+<blockquote class="poetry">
+<p>“Three brothers we are, sprung from Cronus,</p>
+<p>all of us brought to birth by Rhea—Zeus and I,</p>
+<p>Hades the third, lord of the dead beneath the earth.</p>
+<p>The world was split three ways.  Each received his realm.</p>
+<p>When we shook the lots I drew the sea, my foaming eternal home,</p>
+<p>and Hades drew the land of the dead engulfed in haze and night</p>
+<p>and Zeus drew the heavens, the clouds and the high clear sky,</p>
+<p>but the earth and Olympus heights are common to us all.” (15.187–94)</p>
+</blockquote>
+
+*All quotations are taken from Robert Fagle’s 1990 translation of the* Iliad. *Line numbers are approximate.*

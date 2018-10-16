@@ -8,11 +8,13 @@ status: incomplete
 order: 3.01
 ---
 
-## Background and Outline
+## Background
 
 The ancients believed that the *Odyssey* was composed by the blind poet Homer.  Modern scholars debate when it was composed and by whom, but most agree it was written between 725 BCE and 675 BCE.  It has almost always been held that that the *Odyssey* was written after the *Iliad,* because it refers to material in the *Iliad* frequently, while avoiding any direct duplication.  Also, the character of Nestor, Menelaus, Helen, and Odysseus are very consistent.
 
-The opening summarizes the theme of the epic:
+## Structure and Outline
+
+The poem is about 12,000 lines of hexameter verse in the ancient Greek, and is split into 24 books.  The opening summarizes the theme of the epic:
 
 <blockquote class="poetry">
 <p>Sing to me of the man, Muse, the man of twists and turns</p>
@@ -31,7 +33,7 @@ The opening summarizes the theme of the epic:
 
 It is interesting that the poet tells the muse to “start from where you will.”
 
-The poem is about 12,000 lines of hexameter verse in the ancient Greek, and is split into 24 books.  Here is an outline:
+Here is an outline:
 
 1. The gods pity Odysseus; Athena inspires Telemachus
 2. Telemachus calls the assembly, then sets sail
@@ -160,4 +162,4 @@ Also, here is how the Greeks in the story believed the gods interacted with them
 - Antinous believed Athena gave Penelope gifts (2.115)
 - Telemachus believed Zeus would send a rumor (2.216)
 
-*All quotations are taken from Robert Fagle’s 1996 excellent translation of the* Odyssey *and lines numbers are approximate.*
+*All quotations are taken from Robert Fagle’s 1996 excellent translation of the* Odyssey. *Line numbers are approximate.*

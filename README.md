@@ -41,7 +41,6 @@ Book names which are present in the titles of document are surrounded by quotes,
 ## Open Issues
 
 - Italics inside markdown blockquotes
-- Make book titles Italic in the description and title of documents
 
 ## Known Issues
 

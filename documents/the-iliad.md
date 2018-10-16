@@ -12,6 +12,8 @@ order: 3
 
 The *Iliad* is the greatest Greek epic poem.  The ancients believed that it was composed by the blind poet Homer.  Modern scholars debate when it was composed and by whom, but most agree it was written around 700 BCE.
 
+## Structure and Outline
+
 The poem is about 16,000 lines of hexameter verse in the ancient Greek, and is split into 24 books.
 
 1. Agamemnon and Achilles quarrel; Thetis appeals to Zeus
@@ -28,7 +30,7 @@ The poem is about 16,000 lines of hexameter verse in the ancient Greek, and is s
 12. The Trojans storm the rampart
 13. Battling for the Ships
 14. Hera Outflanks Zeus
-15. The Achaean Armies at Bay
+15. Zeus dismisses Poseidon; Apollo revives Hector and charges the ships
 16. Patroclus Fights and Dies
 17. Menelaus' Finest Hour
 18. The Shield of Achilles
@@ -77,7 +79,7 @@ This line of thinking also explains why the Greek gods were, and must be, so fic
 
 The Greeks not only needed to explain the need for sacrifices, but also why they did not work.  Those who believe in a single just god are in a similar situation---they need to explain how their god is just but evil exists.
 
-## Rituals and Customs
+## Sacrifices
 
 The Greeks believed that the gods enjoyed and demanded animal sacrifices and libations:
 
@@ -151,14 +153,6 @@ Plagues and natural disasters were believed to be caused by gods.  An example of
 > somehow, to save us from this plague." (1.58-67)
 > =
 
-Seers and bird signs
-
-Dreams; Zeus' dream for Agammenon in book 2; Hermes waking up Priam in book 24
-
-Bonds of friendship from eating together
-
-Oaths
-
 ## The Rage of Achilles
 
 Traditionally, the first word of an epic poem is also its central theme.  Here is the first line of the *Iliad*:
@@ -230,7 +224,26 @@ Some interpret the *Iliad* as a poem about growth and moral progress---Achilles'
 
 ## War and Violence
 
-The *Iliad*
+War and violence permeate the *Iliad.*  One of the first things a modern reader notices in the *Iliad* is that Homer provides the names of even nearly every character that dies:
+
+> Who was the first he slaughtered, who the last,
+> Hector the son of Priam, now Zeus gave him glory?
+> Asaeus first, Autonous next and then Opites,
+> Dolops, Clytius' son, and Opheltius, Agelaus,
+> Aesymnus and Orus, Hipponous staunch in combat.
+> These were the Argive captains Hector killed (11.299--304)
+> =
+
+None of the Argive captains were mentioned before or afterwards.  It feels like Homer is giving them dignity and immortality to each man who died.  There are 255 named deaths in the *Iliad.*  Many die terribly:
+
+> Idomeneus skewered Erymas straight through the mouth,
+> the merciless brazen spearpoint raking through,
+> up under the brain to split his glistening skull---
+> teeth shattered out, both eyes brimmed to the lids
+> with a gush of blood and both nostrils spurting,
+> mouth gaping, blowing convulsive sprays of blood
+> and death's dark cloud closed around his corpse. (16.345--50)
+> =
 
 ## Various Thoughts
 
@@ -282,15 +295,57 @@ Here are my favourite similes:
 > and scaling steep Olympus went amount the gods. (15.79--83)
 > =
 
+> As a stallion full-fed at the manager, stalled too long,
+> breaking free of his tether gallops down the plain,
+> out for his favorite plunge in a river’s cool currents,
+> thundering in his pride---his head flung back, his mane
+> streaming over his shoulders, sure and sleek in his glory,
+> knees racing him on to the fields and stallion-haunts he loves—
+> so Hector hurtled on, his legs driving, his knees pumping,
+> spurring his reinsmen once he heard the god's command. (15.262--8)
+> =
+
 > She put fresh strength in his back, spring in his knees
 > and filled his heart with the horsefly's raw daring---
 > brush it away from a man's flesh and back it comes,
 > biting, attacking, crazed for sweet human blood. (17.570--3)
 > =
 
-## Other Quotes
+## Other Interesting Quotes
 
-- Zeus' preeminence (8.1, 8.211)
-- Strange Food (11.637)
+The description of Nestor's cup, and strange food:
 
-*All quotations are taken from Robert Fagle's 1990 translation of the* Iliad *and lines numbers are approximate.*
+> First Hecamede pushed a table up toward them,
+> handsome, sanded smooth, with blue enamel legs,
+> and on it she set a basket, braided in bronze
+> with onions in it, a relish for the drink,
+> and pale gold honey along with barley meal,
+> the grain's blessed yield.  And there in the midst
+> the grand, glowing cup the old king brought from home,
+> studded with golden nails, fitted with handles,
+> four all told and two doves perched on each,
+> heads bending to drink and made of solid gold
+> and twin supports ran down to form the base.
+> An average man would strain to lift it off the table
+> when it was full, but Nestor, old as he was,
+> could hoist it up with ease.
+> In this cup the woman skilled as a goddess
+> mixed them a strong drink with Pramnian wine,
+> over it shredded goat cheese with bronze grater
+> and scattered barley into it, glistening pure white,
+> then invited them to drink when she had mulled it all. (11.626--41)
+> =
+
+The Olympian trinity:
+
+> "Three brothers we are, sprung from Cronus,
+> all of us brought to birth by Rhea---Zeus and I,
+> Hades the third, lord of the dead beneath the earth.
+> The world was split three ways.  Each received his realm.
+> When we shook the lots I drew the sea, my foaming eternal home,
+> and Hades drew the land of the dead engulfed in haze and night
+> and Zeus drew the heavens, the clouds and the high clear sky,
+> but the earth and Olympus heights are common to us all." (15.187--94)
+> =
+
+*All quotations are taken from Robert Fagle's 1990 translation of the* Iliad. *Line numbers are approximate.*
