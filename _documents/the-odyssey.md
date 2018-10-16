@@ -85,7 +85,7 @@ The assembly in book 2 provides some insight into justice in ancient Greece.  Te
 <p>to drive this curse from the house.  We ourselves?</p>
 <p>We’re hardly the ones to fight them off.  All we’d do</p>
 <p>is parade our wretched weakness.  A boy inept at battle.</p>
-<p>Oh I’d swing to attach if I had the power in me.</p>
+<p>Oh I’d swing to attack if I had the power in me.</p>
 <p>By god, it’s intolerable, what they do—disgrace,</p>
 <p>my house a shambles!  You should be ashamed yourselves,</p>
 <p>mortified in the face of neighbors living round about!</p>
