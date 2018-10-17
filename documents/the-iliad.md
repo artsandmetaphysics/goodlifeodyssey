@@ -292,7 +292,7 @@ Here are my favourite similes:
 > who's traveled the world---"Ah to be there, or there!"---
 > as his mind swarms with journeys, fresh desires---
 > so quick in her eager flight flew noble Hera now
-> and scaling steep Olympus went amount the gods. (15.79--83)
+> and scaling steep Olympus went among the gods. (15.79--83)
 > =
 
 > As a stallion full-fed at the manager, stalled too long,

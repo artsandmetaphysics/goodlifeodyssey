@@ -309,7 +309,7 @@ Here are my favourite similes:
 <p>who’s traveled the world—”Ah to be there, or there!”—</p>
 <p>as his mind swarms with journeys, fresh desires—</p>
 <p>so quick in her eager flight flew noble Hera now</p>
-<p>and scaling steep Olympus went amount the gods. (15.79–83)</p>
+<p>and scaling steep Olympus went among the gods. (15.79–83)</p>
 </blockquote>
 
 <blockquote class="poetry">
