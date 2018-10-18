@@ -22,12 +22,12 @@ The poem is about 16,000 lines of hexameter verse in the ancient Greek, and is s
 4. Zeus and Hera bicker; the truce erupts in war
 5. Diomedes fights Aphrodite, Apollo, and Ares
 6. Hector returns to Troy; Diomedes and Glaucus become friends
-7. Ajax and Hector to a draw; the Acheaens build a wall
+7. Ajax duels Hector to a draw; the Acheaens build a wall
 8. Zeus turns the tide; the Trojans camp outside their walls
 9. Agamemnon despairs; the embassy to Achilles fails
 10. Odysseus and Ajax maraud through the Night
 11. Agamemnon and others are injured; Nestor’s plea to Patroclus
-12. The Trojans storm the rampart
+12. Five Trojan battalions storm the wall; Hector breaks through
 13. Battling for the Ships
 14. Hera Outflanks Zeus
 15. Zeus dismisses Poseidon; Apollo revives Hector and charges the ships
@@ -305,6 +305,23 @@ Here are my favourite similes:
 </blockquote>
 
 <blockquote class="poetry">
+<p>Thick-and-fast as the snows that fall on a winter dawn</p>
+<p>when Zeus who rules the world brings on a blizzard,</p>
+<p>displaying to all mankind his weaponry of war…</p>
+<p>and he puts the winds to sleep, drifting on and on</p>
+<p>until he has shrouded over the mountains’ looming peaks</p>
+<p>and the headlands jutting sharp, the lowlands deep in grass</p>
+<p>and the rich plowed work of farming men, and the drifts fall</p>
+<p>on the gray salt surf and the harbors and down along the beaches</p>
+<p>and only breakers beating against the drifts can hold them off</p>
+<p>but all else on the earth they cover over, snows from the sky</p>
+<p>when Zeus comes storming down—now so thick-and-fast</p>
+<p>they volleyed rocks from both sides, some at the Trojans,</p>
+<p>some from Trojans against the Argives, salvos landing,</p>
+<p>the whole long rampart thundering under blows. (12.278–89)</p>
+</blockquote>
+
+<blockquote class="poetry">
 <p>Quick as a thought goes flashing through a man</p>
 <p>who’s traveled the world—”Ah to be there, or there!”—</p>
 <p>as his mind swarms with journeys, fresh desires—</p>
@@ -313,7 +330,7 @@ Here are my favourite similes:
 </blockquote>
 
 <blockquote class="poetry">
-<p>As a stallion full-fed at the manager, stalled too long,</p>
+<p>As a stallion full-fed at the manger, stalled too long,</p>
 <p>breaking free of his tether gallops down the plain,</p>
 <p>out for his favorite plunge in a river’s cool currents,</p>
 <p>thundering in his pride—his head flung back, his mane</p>

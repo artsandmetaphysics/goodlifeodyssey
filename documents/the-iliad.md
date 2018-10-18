@@ -22,12 +22,12 @@ The poem is about 16,000 lines of hexameter verse in the ancient Greek, and is s
 4. Zeus and Hera bicker; the truce erupts in war
 5. Diomedes fights Aphrodite, Apollo, and Ares
 6. Hector returns to Troy; Diomedes and Glaucus become friends
-7. Ajax and Hector to a draw; the Acheaens build a wall
+7. Ajax duels Hector to a draw; the Acheaens build a wall
 8. Zeus turns the tide; the Trojans camp outside their walls
 9. Agamemnon despairs; the embassy to Achilles fails
 10. Odysseus and Ajax maraud through the Night
 11. Agamemnon and others are injured; Nestor's plea to Patroclus
-12. The Trojans storm the rampart
+12. Five Trojan battalions storm the wall; Hector breaks through
 13. Battling for the Ships
 14. Hera Outflanks Zeus
 15. Zeus dismisses Poseidon; Apollo revives Hector and charges the ships
@@ -288,6 +288,22 @@ Here are my favourite similes:
 > they fled themselves before the Argive charge. (11.113--22)
 > =
 
+> Thick-and-fast as the snows that fall on a winter dawn
+> when Zeus who rules the world brings on a blizzard,
+> displaying to all mankind his weaponry of war...
+> and he puts the winds to sleep, drifting on and on
+> until he has shrouded over the mountains' looming peaks
+> and the headlands jutting sharp, the lowlands deep in grass
+> and the rich plowed work of farming men, and the drifts fall
+> on the gray salt surf and the harbors and down along the beaches
+> and only breakers beating against the drifts can hold them off
+> but all else on the earth they cover over, snows from the sky
+> when Zeus comes storming down---now so thick-and-fast
+> they volleyed rocks from both sides, some at the Trojans,
+> some from Trojans against the Argives, salvos landing,
+> the whole long rampart thundering under blows. (12.278--89)
+> =
+
 > Quick as a thought goes flashing through a man
 > who's traveled the world---"Ah to be there, or there!"---
 > as his mind swarms with journeys, fresh desires---
@@ -295,7 +311,7 @@ Here are my favourite similes:
 > and scaling steep Olympus went among the gods. (15.79--83)
 > =
 
-> As a stallion full-fed at the manager, stalled too long,
+> As a stallion full-fed at the manger, stalled too long,
 > breaking free of his tether gallops down the plain,
 > out for his favorite plunge in a river’s cool currents,
 > thundering in his pride---his head flung back, his mane
