@@ -16,6 +16,8 @@ My great grandfathers met my great grandmothers, and begot those that begot thos
 
 Meaning is not synonymous with impact.  Meaning derives from our memories, and the impact of these memories.
 
+Meaning is recursively derived from less meaningful things.  E.g., the meaning in my relationship with my wife is built up from the meaning of many, relatively less meaningful, days spent together.
+
 {% comment %}
 - Some events, people, objects are more meaningful than others.
 - This meaning is relative.
