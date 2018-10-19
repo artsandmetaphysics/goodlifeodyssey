@@ -22,12 +22,12 @@ A game trapper finds Enkidu at a watering hole, and is concerned because he fill
 
 > One day and a second they waited by the water-hole,
 >   then the herd came down to drink the water.
-> The game arrived, their hearts <em>delighted in</em> water,
+> The game arrived, their hearts *delighted in* water,
 >   and Enkidu also, born in the uplands.
 >
 > With the gazelles he grazed on grasses,
->   <em>joining the throng</em> with the game at the water-hole,
-> his heart <em>delighting</em> with the beasts in the water:
+>   *joining the throng* with the game at the water-hole,
+> his heart *delighting* with the beasts in the water:
 >   then Shamhat saw him, the child of nature,
 > the savage man from the midst of the wild.
 >
@@ -51,12 +51,12 @@ A game trapper finds Enkidu at a watering hole, and is concerned because he fill
 > Enkidu had defiled his body so pure,
 >   his legs stood still, though his herd was in motion.
 > Enkidu was weakened, could not run as before,
->   but now he had <em>reason</em>, and wide understanding.
+>   but now he had *reason*, and wide understanding.
 >
 > He came back and sat at the feet of the harlot,
 >   watching the harlot, observing her features.
 > Then to the harlot's words he listened intently,
->   <em>as Shamhat</em> talked to him, to Enkidu:
+>   *as Shamhat* talked to him, to Enkidu:
 >
 > 'You are handsome, Enkidu, you are just like a god!
 >   Why with the beasts do you wander the wild?
@@ -85,7 +85,7 @@ There is, however, a snake in the *Epic of Gilgamesh.* Gilgamesh is returning fr
 > Gilgamesh found a pool whose water was cool,
 >   down he went into it, to bathe in the water.
 > Of the plant's fragrance a snake caught scent,
->   came up <em>in silence</em>, and bore the plant off.
+>   came up *in silence*, and bore the plant off.
 >
 > As it turned away it sloughed its skin.
 >   Then Gilgamesh sat down and wept,

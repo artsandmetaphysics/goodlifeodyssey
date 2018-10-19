@@ -1,5 +1,7 @@
 from process import translate_markdown
 
+import pytest
+
 
 def assert_translate(input, expected_output):
     actual_output = []
@@ -90,5 +92,26 @@ def test_poetry_blank_lines():
         '<p>Two</p>',
         '<br>',
         '<p>Three</p>',
+        '</blockquote>',
+    ])
+
+
+def test_italics_in_quote():
+    assert_translate([
+        '> One *then* two',
+    ], [
+        '<blockquote>',
+        '<p>One <em>then</em> two</p>',
+        '</blockquote>',
+    ])
+
+
+@pytest.mark.xfail
+def test_italics_in_quote_w_asterisk():
+    assert_translate([
+        '> One *then\* two*',
+    ], [
+        '<blockquote>',
+        '<p>One <em>then* two</em></p>',
         '</blockquote>',
     ])

@@ -46,7 +46,7 @@ Early in book 1, the gods are in full assembly---curiously similar to the assemb
 > but they themselves, with their own reckless ways,
 > compound their pains beyond their proper share.
 > Look at Aegisthus now ...
-> above and beyond <em>his</em> share he stole Atrides' wife,
+> above and beyond *his* share he stole Atrides' wife,
 > he murdered the warlord coming home from Troy
 > though he knew it meant his own total ruin. (1.31--37)
 > =
@@ -62,7 +62,7 @@ Shortly after Zeus' comment, Athena responds:
 > he, straining for no more than a glimpse
 > of hearth-smoke drifting up from his own land,
 > Odysseus longs to die ... Olympian Zeus,
-> have you no care for <em>him</em> in your lofty heart?
+> have you no care for *him* in your lofty heart?
 > Did he never win your favor with sacrifices
 > burned besides the ships on the broad plain of Troy?" (1.46--63)
 > =
@@ -106,7 +106,7 @@ In such a society an atheist or godless person could not be trusted.  Right afte
 > "Stop, old man!"
 > Eurymachus, Polybus' son, rose up to take him on.
 > "Go home and babble your omens to your children---
-> save <em>them</em> from some catastrophe coming soon.
+> save *them* from some catastrophe coming soon.
 > I'm a better hand than you at reading portents.
 > Flocks of birds go fluttering under the sun's rays,
 > not all are fraught with meaning." (2.177--83)

@@ -34,7 +34,7 @@ The first conversation is with Akiba, a close friend of Elisha and a fellow rabb
 >
 > "I am afraid," Akiba faltered, "that I do not understand.  What will be gained if you substitute blanket denial for a wavering faith?"
 >
-> "Let me put it this way.  We have both studied Euclid's <em>Elements of Geometry</em>.  You must have been impressed by the lucidity of the reasoning and the sureness of its results.  For some time, I have been conscious of the contrast between the method of the Greeks and ours.  Their success, I am convinced, followed from the fact that they started from the foundations.  We, on the contrary, have always tried to bolster our pre-established case."
+> "Let me put it this way.  We have both studied Euclid's *Elements of Geometry*.  You must have been impressed by the lucidity of the reasoning and the sureness of its results.  For some time, I have been conscious of the contrast between the method of the Greeks and ours.  Their success, I am convinced, followed from the fact that they started from the foundations.  We, on the contrary, have always tried to bolster our pre-established case."
 
 Euclid's *Elements of Geometry* derives a set of theorems (called Euclidean Geometry) from a set of assumptions, or axioms.  Although Euclid's formulation had several flaws, its method remains the basis of mathematics to this day.
 

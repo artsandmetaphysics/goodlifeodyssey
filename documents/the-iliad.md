@@ -255,7 +255,7 @@ Everyone in the *Iliad* is obsessed with armor and weapons.  Armor provided prot
 > If it's spears you want, you'll find not one but twenty,
 > all propped on my shelter's shining inner wall:
 > Trojan weapons, stripped from the men I kill.
-> It's not <em>my</em> way, I'd say, to fight at a distance,
+> It's not *my* way, I'd say, to fight at a distance,
 > out of enemy range.
 > So I take my plunder---spears, bossed shields,
 > helmets and breastplates, gleaming, polished bright." (13.259--65)

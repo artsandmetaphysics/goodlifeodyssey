@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import sys
+import re
 import html
 
 
@@ -37,13 +38,13 @@ def translate_quote(lines, printer):
 
     for line in pruned_lines:
         if line.startswith('- ') or line.startswith('= '):
-            printer('<cite>— ' + line[2:] + '</cite>')
+            printer('<cite>— ' + process_line(line[2:]) + '</cite>')
         elif line == '=':
             continue
         elif line.startswith('  '):
-            printer('<p class="indent">' + line[2:] + '</p>')
+            printer('<p class="indent">' + process_line(line[2:]) + '</p>')
         elif line != '':
-            printer('<p>' + line + '</p>')
+            printer('<p>' + process_line(line) + '</p>')
         elif line == '' and is_poetry:
             printer('<br>')
     printer('</blockquote>')
@@ -56,6 +57,10 @@ def strip_quoting(line):
         return line[1:]
     else:
         raise ValueError()
+
+
+def process_line(line):
+    return re.sub(r'\*([^*]*)\*', r'<em>\1</em>', line)
 
 
 if __name__ == "__main__":
