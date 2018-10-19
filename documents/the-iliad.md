@@ -83,7 +83,7 @@ The Greeks not only needed to explain the need for sacrifices, but also why they
 
 ## Sacrifices
 
-The Greeks believed that the gods enjoyed and demanded animal sacrifices and libations:
+The Greeks believed their gods enjoyed and demanded sacrifices:
 
 > "I [Zeus] honor sacred Ilium most with my immortal heart:
 > Priam and men of Priam who hurls the strong ash spear.
@@ -120,7 +120,7 @@ The most clearly described animal sacrifice occurs near the beginning of the *Il
 > And soon as the men had prayed and flung the barley,
 > first they lifted back the heads of the victims,
 > slit their throats, skinned them and carved away
-> the meat from the thighbones and wrapped them in fat,
+> the meat from the thighbones and wrapped them in fate,
 > a double fold sliced clean and topped with strips of flesh.
 > And the old man burned these over dried split wood
 > and over the quarters poured out glistening wine
