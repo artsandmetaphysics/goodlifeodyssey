@@ -28,8 +28,8 @@ The poem is about 16,000 lines of hexameter verse in the ancient Greek, and is s
 10. Odysseus and Ajax maraud through the Night
 11. Agamemnon and others are injured; Nestor’s plea to Patroclus
 12. Five Trojan battalions storm the wall; Hector breaks through
-13. Battling for the Ships
-14. Hera Outflanks Zeus
+13. Poseidon and the Aeantes’ defend the ships
+14. Hera distracts Zeus; Ajax injures Hector
 15. Zeus dismisses Poseidon; Apollo revives Hector and charges the ships
 16. Patroclus Fights and Dies
 17. Menelaus’ Finest Hour
@@ -63,7 +63,7 @@ Note that the Greeks associate eating our food with mortality.  This is seen in 
 <p>the sooner you will meet your day to die!” (6.141–4)</p>
 </blockquote>
 
-It also seems that the gods can be killed:
+There are passages that imply gods can be killed:
 
 <blockquote class="poetry">
 <p>And despite the god’s undying lust for battle</p>
@@ -73,6 +73,8 @@ It also seems that the gods can be killed:
 <p>Hermes stole him away—the War-god breathing his last,</p>
 <p>all but broken down by the ruthless iron chains. (5.387–91)</p>
 </blockquote>
+
+But as as I know the gods were always thought to be deathless, so I am probably misreading these passages.  What does it mean to be deathless though? Humans that die go to Hades, gods are trapped in Tartarus.
 
 In the *Iliad,* the gods are involved with most important events and decisions. They drive the men to battle, plant ideas and dreams, guide or deflect arrows and spears, and control natural forces.  Yet, despite being pervasive, Homer keeps the Greek gods largely hidden within natural forces or doppelgängers.  Occasionally an individual hero recognizes and converses with them, but they never appear to many humans at once.
 
@@ -257,9 +259,20 @@ None of the Argive captains were mentioned before or afterwards.  It feels like 
 <p>and death’s dark cloud closed around his corpse. (16.345–50)</p>
 </blockquote>
 
-## Various Thoughts
+## Armor and Weapons
 
-Armor and treasure; honor
+Everyone in the *Iliad* is obsessed with armor and weapons.  Armor provided protection and was valuable.  It also proved your bravery in battle:
+
+<blockquote class="poetry">
+<p>But the Cretan captain Idomeneus countered, “Spears?</p>
+<p>If it’s spears you want, you’ll find not one but twenty,</p>
+<p>all propped on my shelter’s shining inner wall:</p>
+<p>Trojan weapons, stripped from the men I kill.</p>
+<p>It’s not <em>my</em> way, I’d say, to fight at a distance,</p>
+<p>out of enemy range.</p>
+<p>So I take my plunder—spears, bossed shields,</p>
+<p>helmets and breastplates, gleaming, polished bright.” (13.259–65)</p>
+</blockquote>
 
 ## Similes
 
