@@ -30,3 +30,20 @@ Other beliefs, while possibly to justify on our own, would require an infeasible
 Many beliefs can be justified on our own, but we do not have the interest, time, or ability to do so.  For example, I believe that Australia exists although I have never visited.
 
 Of course, some beliefs are more important than others.  It would be wise to allocate our limited resources into justifying our most important beliefs on our own as much as possible.  And, if we must resort to justification via other’s beliefs, we should take the time to understand the other person’s justification, and consider if they have ulterior motives.  This way we may avoid the first problem, but we can not completely avoid the second problem, because we may be mistaken ourself.
+
+{% comment %}
+What should one do when “all of the experts agree that” proposition XYZ is true?  Should you believe proposition XYZ?
+
+Here are some worthwhile questions to ask:
+
+- How do you define “the experts”, and why?
+- Do you only include people who have studied a particular topic?
+- Do you include people who lived in the past?
+- What are some ways that the experts could all be incorrect?
+  - There is new information that is not yet widely known.
+  - There are strong political reasons for the experts to all agree.
+- What do all of the non-experts believe?
+- Is there a way to divide people into many groups, where each group tends to believe differently?  If so, what causes each group to believe what they believe?
+
+All of “the experts” agreeing that proposition XYZ is true does not cause it to be true (unless the proposition has to do with the experts’ beliefs—which is a pedantic side case).  Still, usually when the experts believe something, it is true.  Thus, if you disagree with the experts, it is prudent to have a good reason for disagreeing.
+{% endcomment %}
