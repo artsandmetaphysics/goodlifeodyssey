@@ -29,7 +29,7 @@ The poem is about 16,000 lines of hexameter verse in the ancient Greek, and is s
 11. Agamemnon and others are injured; Nestor's plea to Patroclus
 12. Five Trojan battalions storm the wall; Hector breaks through
 13. Poseidon and the Aeantes' defend the ships
-14. Hera distracts Zeus; Ajax injures Hector
+14. Hera distracts Zeus; Poseidon rallies; Ajax injures Hector
 15. Zeus dismisses Poseidon; Apollo revives Hector and charges the ships
 16. Patroclus Fights and Dies
 17. Menelaus' Finest Hour
@@ -71,7 +71,7 @@ There are passages that imply gods can be killed:
 > all but broken down by the ruthless iron chains. (5.387--91)
 > =
 
-But as as I know the gods were always thought to be deathless, so I am probably misreading these passages.  What does it mean to be deathless though? Humans that die go to Hades, gods are trapped in Tartarus.
+But as far as I know the gods were always thought to be deathless, so I am probably misreading these passages.  What does it mean to be deathless though? Humans that die go to Hades, gods are trapped in Tartarus.
 
 In the *Iliad,* the gods are involved with most important events and decisions. They drive the men to battle, plant ideas and dreams, guide or deflect arrows and spears, and control natural forces.  Yet, despite being pervasive, Homer keeps the Greek gods largely hidden within natural forces or doppelgängers.  Occasionally an individual hero recognizes and converses with them, but they never appear to many humans at once.
 
