@@ -32,7 +32,7 @@ The poem is about 16,000 lines of hexameter verse in the ancient Greek, and is s
 14. Hera distracts Zeus; Poseidon rallies; Ajax injures Hector
 15. Poseidon is dismissed; Apollo revives Hector and charges the ships
 16. The Myrmidons push back; Sarpedon dies; Patroclus dies
-17. Menelaus’ Finest Hour
+17. Menelaus’ leads the fight for Patroclus’ body
 18. The Shield of Achilles
 19. The Champion Arms for Battle
 20. Olympian Gods in Arms
@@ -274,6 +274,14 @@ None of the Argive captains were mentioned before or afterwards.  It feels like 
 <p>and death’s dark cloud closed around his corpse. (16.345–50)</p>
 </blockquote>
 
+The frequency of deaths creates a dizzying sense of violence and terror.  Often, Homer will provide some background about the man who is about to die.  He also references the family who is left behind:
+
+<blockquote class="poetry">
+<p>Never would he repay his loving parents now</p>
+<p>for the gift of rearing—his life cut short so soon,</p>
+<p>brought down by the spear of lionhearted Ajax. (17.302–3)</p>
+</blockquote>
+
 ## Armor and Weapons
 
 Everyone in the *Iliad* is obsessed with armor and weapons.  Armor provided protection and was valuable.  It also proved your bravery in battle:
@@ -289,9 +297,41 @@ Everyone in the *Iliad* is obsessed with armor and weapons.  Armor provided prot
 <p>helmets and breastplates, gleaming, polished bright.” (13.259–65)</p>
 </blockquote>
 
+When Patroclus leads the Myrmidons into battle, Achilles says a prayer to Zeus that asking for his safety, and his armor back:
+
+<blockquote class="poetry">
+<p>“But once he repels the roaring onslaught from the ships</p>
+<p>let him come back to me and our fast fleet—unharmed—</p>
+<p>with all my armor round him, all our comrades</p>
+<p>fighting round my friend!” (16.246–8)</p>
+</blockquote>
+
+And not too long after, Patroclus kills Sarpedon.  And Sarpedon’s last words, shouted out to his comrade Glaucus, are:
+
+<blockquote class="poetry">
+<p>“You’ll hang your head in shame—every day of your life—</p>
+<p>if the Argives strip my armor here at the anchored ships</p>
+<p>where I have gone down fighting.  Hold on, full force—</p>
+<p>spur all our men to battle!” Death cut him short. (16.498–500)</p>
+</blockquote>
+
+Even Ares strips his fallen enemies’ armor:
+
+<blockquote class="poetry">
+<p>The god was just stripping giant Periphas bare—</p>
+<p>the Aeotolians’ best fighter, Ochesius’ noble son—</p>
+<p>the blood-smeared Ares was tearing off his gear … (5.842–4)</p>
+</blockquote>
+
+## The Elite
+
+The *Iliad* is almost exclusively focused on the heroes and commanders of the two armies.  The “rank and file” are almost completely ignored.
+
 ## Similes
 
-Here are my favourite similes:
+Homer uses short and extended similes throughout the *Iliad.*  Here are my favorite similes.
+
+When Diomedes asks Glaucus about his heritage, he begins his response with this beautiful simile:
 
 <blockquote class="poetry">
 <p>Like the generations of leaves, the lives of mortal men.</p>
@@ -300,6 +340,8 @@ Here are my favourite similes:
 <p>and spring comes round again.  And so with men:</p>
 <p>as one generation comes to life, another dies away. (6.146–9)</p>
 </blockquote>
+
+Hector returns to Troy to ask his mother to sacrifice to Athena and calm raging Diomedes.  Homer describes his, and Paris’, return to the fight as follows:
 
 <blockquote class="poetry">
 <p>Both men bent on combat, on they fought like wind</p>
@@ -310,6 +352,8 @@ Here are my favourite similes:
 <p>desperate for their captains. (7.3–7)</p>
 </blockquote>
 
+There are many similes describing death.  Here is a particularly powerful one:
+
 <blockquote class="poetry">
 <p>As a garden poppy, burst into red bloom, bends,</p>
 <p>drooping its head to one side, weighed down</p>
@@ -317,6 +361,8 @@ Here are my favourite similes:
 <p>so Gorgythion’s head fell limp over one shoulder,</p>
 <p>weighed down by his helmet. (8.306-9)</p>
 </blockquote>
+
+There are also many similes comparing fighting in battle to hunting animals.  I believe this is the most powerful such simile:
 
 <blockquote class="poetry">
 <p>Think how a lion, mauling the soft weak young</p>
@@ -331,6 +377,8 @@ Here are my favourite similes:
 <p>So not a single Trojan could save those two from death,</p>
 <p>they fled themselves before the Argive charge. (11.113–22)</p>
 </blockquote>
+
+Many similes liken war scenes to peacetime scenes:
 
 <blockquote class="poetry">
 <p>Thick-and-fast as the snows that fall on a winter dawn</p>
@@ -349,13 +397,7 @@ Here are my favourite similes:
 <p>the whole long rampart thundering under blows. (12.278–89)</p>
 </blockquote>
 
-<blockquote class="poetry">
-<p>Quick as a thought goes flashing through a man</p>
-<p>who’s traveled the world—”Ah to be there, or there!”—</p>
-<p>as his mind swarms with journeys, fresh desires—</p>
-<p>so quick in her eager flight flew noble Hera now</p>
-<p>and scaling steep Olympus went among the gods. (15.79–83)</p>
-</blockquote>
+This simile describes a beautiful scene:
 
 <blockquote class="poetry">
 <p>As a stallion full-fed at the manger, stalled too long,</p>
@@ -367,6 +409,18 @@ Here are my favourite similes:
 <p>so Hector hurtled on, his legs driving, his knees pumping,</p>
 <p>spurring his reinsmen once he heard the god’s command. (15.262–8)</p>
 </blockquote>
+
+I like this simile, because it makes me think of my wife—she likes to imagine we are in Paris or Rome or some romantic city.
+
+<blockquote class="poetry">
+<p>Quick as a thought goes flashing through a man</p>
+<p>who’s traveled the world—”Ah to be there, or there!”—</p>
+<p>as his mind swarms with journeys, fresh desires—</p>
+<p>so quick in her eager flight flew noble Hera now</p>
+<p>and scaling steep Olympus went among the gods. (15.79–83)</p>
+</blockquote>
+
+Many of Homer’s similes make surprising, but compelling comparisons, such as this simile to a horsefly—I had never thought of a horsefly as daring:
 
 <blockquote class="poetry">
 <p>She put fresh strength in his back, spring in his knees</p>
@@ -412,6 +466,13 @@ The Olympian trinity:
 <p>and Hades drew the land of the dead engulfed in haze and night</p>
 <p>and Zeus drew the heavens, the clouds and the high clear sky,</p>
 <p>but the earth and Olympus heights are common to us all.” (15.187–94)</p>
+</blockquote>
+
+Zeus’ comment about mankind, during the fight over Patroclus’ body:
+
+<blockquote class="poetry">
+<p>“There is nothing alive more agonizing than man</p>
+<p>of all that breathe and crawl across the earth. (17.447–8)</p>
 </blockquote>
 
 *All quotations are taken from Robert Fagle’s 1990 translation of the* Iliad. *Line numbers are approximate.*
