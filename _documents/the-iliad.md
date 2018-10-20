@@ -30,8 +30,8 @@ The poem is about 16,000 lines of hexameter verse in the ancient Greek, and is s
 12. Five Trojan battalions storm the wall; Hector breaks through
 13. Poseidon and the Aeantes’ defend the ships
 14. Hera distracts Zeus; Poseidon rallies; Ajax injures Hector
-15. Zeus dismisses Poseidon; Apollo revives Hector and charges the ships
-16. Patroclus Fights and Dies
+15. Poseidon is dismissed; Apollo revives Hector and charges the ships
+16. The Myrmidons push back; Sarpedon dies; Patroclus dies
 17. Menelaus’ Finest Hour
 18. The Shield of Achilles
 19. The Champion Arms for Battle
@@ -74,11 +74,26 @@ There are passages that imply gods can be killed:
 <p>all but broken down by the ruthless iron chains. (5.387–91)</p>
 </blockquote>
 
-But as far as I know the gods were always thought to be deathless, so I am probably misreading these passages.  What does it mean to be deathless though? Humans that die go to Hades, gods are trapped in Tartarus.
+But I think the gods were always thought to be deathless.  What does it mean to be deathless?  Humans that die go to Hades, gods are trapped in Tartarus.
 
-In the *Iliad,* the gods are involved with most important events and decisions. They drive the men to battle, plant ideas and dreams, guide or deflect arrows and spears, and control natural forces.  Yet, despite being pervasive, Homer keeps the Greek gods largely hidden within natural forces or doppelgängers.  Occasionally an individual hero recognizes and converses with them, but they never appear to many humans at once.
+In the *Iliad,* the gods are involved with most important events and decisions. They drive the men to battle, plant ideas and dreams, guide or deflect arrows and spears, and control natural forces.  Yet, despite being pervasive, Homer keeps the Greek gods largely hidden within natural forces or doppelgängers.  Occasionally an individual hero recognizes and converses with them.  There are a couple times when the gods appears to many humans.  For example, when Apollo leads the charge against the Greeks:
 
-Homer’s portrayal of the gods reflects the fact that the gods don’t exist—the Greeks imagined them.  Since the Greeks never saw the gods present themselves outside of dreams or visions, Homer’s listeners would be skeptical if he portrayed them otherwise.
+<blockquote class="poetry">
+<p>And Apollo far in the lead, the god’s feet kicking</p>
+<p>the banks of the deep trench down with a god’s ease,</p>
+<p>tumbled earth in the pit between, bridging it with a dike</p>
+<p>immense and wide and long as a hurtling spear will fly</p>
+<p>when a man makes practice casts to test his strength.</p>
+<p>Holding formation now the Trojans rolled across it,</p>
+<p>Apollo heading them, gripping the awesome storm-shield</p>
+<p>and he tore that Argive rampart down with the same ease</p>
+<p>some boy at the seashore knocks sand castles down—</p>
+<p>he no sooner builds his playthings up, child’s play,</p>
+<p>than he wrecks them all with hands and kicking feet,</p>
+<p>just for the sport of it. (15.355–64)</p>
+</blockquote>
+
+Homer’s portrayal of the gods reflects the fact that the gods don’t exist—the Greeks imagined them.  Since the Greeks never saw the gods outside of dreams or visions, Homer’s listeners would find it unconvincing if he portrayed the gods more visibly.
 
 This line of thinking also explains why the Greek gods were, and must be, so fickle.  The Greeks believed their sacrifices and prayers swayed the gods to act with good will towards them, but they also recognized that their sacrifices were frequently ignored.  Thus, Homer weaves a two-layered story of gods vying with one another and against fate while the humans below despair and wonder at the gods—in the same way the Greeks must have despaired at the random chance they believed to be a god.
 
