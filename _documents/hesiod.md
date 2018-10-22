@@ -7,13 +7,13 @@ type: note
 order: 3
 ---
 
-Hesiod was one of the most famous Greek poets.  He is not as good a writer as Homer. Still, the ancients often grouped him with Homer as one of the main proponents of the early Greek worldview.
+Hesiod was one of the most famous Greek poets.  He is not as good a writer as Homer, but the ancients often grouped him with Homer.
 
-He wrote two short epic poems,  _The Theogony_ and _Works and Days_.  Quotations and line numbers are from the Stanley Lombardo translation.
+He wrote two short epic poems,  *The Theogony* and *Works and Days*.
 
 ## The Muses
 
-Hesiod appears to believe that the Muses—the nine daughters of Zeus and Memory—have divinely inspired his poetry.
+Hesiod appears to believe that the Muses—the nine daughters of Zeus and Memory—divinely inspired his poetry:
 
 <blockquote class="poetry">
 <p>And they taught Hesiod the art of singing verse,</p>
@@ -45,11 +45,10 @@ Hesiod appears to believe that the Muses—the nine daughters of Zeus and Memory
 <p>And first possessed deep-ridged Olympus.</p>
 <br>
 <p>Tell me these things, Olympian Muses,</p>
-<p>From the beginning, and tell which of them came first.</p>
-<cite>— The Theogony, 23–35, 103–115</cite>
+<p>From the beginning, and tell which of them came first. (Th. 23–35, 103–25)</p>
 </blockquote>
 
-Hesiod then proceeds to tell the story of how the gods came about, _The Theogony_.
+Hesiod then proceeds to tell the story of how the gods came about, *The Theogony*.
 
 _The Theogony_ tells of great events at the beginning of the world, which Hesiod could not know about except through the Muses.  Is Hesiod simply re-telling the stories that were passed down to him, or is he creating new stories which he beliefs are true?  I think the latter.
 
@@ -140,3 +139,5 @@ Zeus’s division of duties and realms vs Marduk’s in the Enuma Elish.
 Possible insertion of the age of Heroes.
 
 Men have gotten weaker (anti-progress).
+
+*Quotations and line numbers are from the Stanley Lombardo translation.*

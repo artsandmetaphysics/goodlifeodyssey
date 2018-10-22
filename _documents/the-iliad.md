@@ -10,7 +10,7 @@ order: 3
 
 ## Background
 
-The *Iliad* is the greatest Greek epic poem.  The ancients believed that it was composed by the blind poet Homer.  Modern scholars debate when it was composed and by whom, but most agree it was written around 700 BCE.
+The *Iliad* is the greatest Greek epic poem. The ancients believed that it was composed by the blind poet Homer.Modern scholars debate when it was composed and by whom, but most agree it was written around 700 BCE.
 
 ## Structure and Outline
 
@@ -33,17 +33,17 @@ The poem is about 16,000 lines of hexameter verse in the ancient Greek, and is s
 15. Poseidon is dismissed; Apollo revives Hector and charges the ships
 16. The Myrmidons push back; Sarpedon dies; Patroclus dies
 17. Menelaus’ leads the fight for Patroclus’ body
-18. The Shield of Achilles
-19. The Champion Arms for Battle
-20. Olympian Gods in Arms
-21. Achilles Fights the River
-22. The Death of Hector
-23. Funeral Games for Patroclus
-24. Achilles and Priam
+18. Thetis and Achilles mourn; Hephaestus forges new armor
+19. Agamemnon and Achilles make amends; Achilles mourns and arms
+20. The Olympian gods arm; Achilles fights Aeneas and Hector
+21. Achilles fights the river; the gods fight each other
+22. Priam laments; Achilles and Athena kill Hector
+23. Patroclus’ burial and funeral games
+24. The gods help Priam retrieve Hector’s body; Hector is buried
 
 ## The Gods
 
-Some gods are described as human-like while others are abstract.  Gods are born, and humans can fight and harm them, as Diomedes does in Book 5:
+Some gods are described as human-like while others are abstract. Gods are born, and humans can fight and harm them, as Diomedes does:
 
 <blockquote class="poetry">
 <p>He gouged Aphrodite just where the wristbone joins the palms</p>
@@ -53,7 +53,7 @@ Some gods are described as human-like while others are abstract.  Gods are born,
 <p>the gods are bloodless, so we call them deathless. (5.338–42)</p>
 </blockquote>
 
-Note that the Greeks associate eating our food with mortality.  This is seen in a number of other verses as well:
+The Greeks associate eating our food with mortality. This is seen in a number of other verses as well:
 
 <blockquote class="poetry">
 <p>“No, my friend,</p>
@@ -74,9 +74,9 @@ There are passages that imply gods can be killed:
 <p>all but broken down by the ruthless iron chains. (5.387–91)</p>
 </blockquote>
 
-But I think the gods were always thought to be deathless.  What does it mean to be deathless?  Humans that die go to Hades, gods are trapped in Tartarus.
+But I think the gods were always thought to be deathless. What does it mean to be deathless? Humans that die go to Hades, gods are trapped in Tartarus… the two outcomes seem similar.
 
-In the *Iliad,* the gods are involved with most important events and decisions. They drive the men to battle, plant ideas and dreams, guide or deflect arrows and spears, and control natural forces.  Yet, despite being pervasive, Homer keeps the Greek gods largely hidden within natural forces or doppelgängers.  Occasionally an individual hero recognizes and converses with them.  There are a couple times when the gods appears to many humans.  For example, when Apollo leads the charge against the Greeks:
+In the *Iliad,* the gods are involved with most important events and decisions. They drive the men to battle, plant ideas and dreams, guide or deflect arrows and spears, and control natural forces. Yet, despite being pervasive, Homer keeps the Greek gods largely hidden within natural forces or doppelgängers. Occasionally an individual hero recognizes and converses with them. There are a couple times when the gods appears to many humans. For example, when Apollo leads the charge against the Greeks:
 
 <blockquote class="poetry">
 <p>And Apollo far in the lead, the god’s feet kicking</p>
@@ -93,11 +93,11 @@ In the *Iliad,* the gods are involved with most important events and decisions. 
 <p>just for the sport of it. (15.355–64)</p>
 </blockquote>
 
-Homer’s portrayal of the gods reflects the fact that the gods don’t exist—the Greeks imagined them.  Since the Greeks never saw the gods outside of dreams or visions, Homer’s listeners would find it unconvincing if he portrayed the gods more visibly.
+Homer’s portrayal of the gods reflects the fact that the gods don’t exist—the Greeks imagined them. Since the Greeks never saw the gods outside of dreams or visions, Homer’s listeners would find it unconvincing if he portrayed the gods more visibly.
 
-This line of thinking also explains why the Greek gods were, and must be, so fickle.  The Greeks believed their sacrifices and prayers swayed the gods to act with good will towards them, but they also recognized that their sacrifices were frequently ignored.  Thus, Homer weaves a two-layered story of gods vying with one another and against fate while the humans below despair and wonder at the gods—in the same way the Greeks must have despaired at the random chance they believed to be a god.
+This line of thinking also explains why the Greek gods were, and must be, so fickle. The Greeks believed their sacrifices and prayers swayed the gods to act with good will towards them, but they also recognized that their sacrifices were frequently ignored. Thus, Homer weaves a two-layered story of gods vying with one another and against fate while the humans below despair and wonder at the gods—in the same way the Greeks must have despaired at the random chance they believed to be a god.
 
-The Greeks not only needed to explain the need for sacrifices, but also why they did not work.  Those who believe in a single just god are in a similar situation—they need to explain how their god is just but evil exists.
+The Greeks not only needed to explain the need for sacrifices, but also why they did not work. Those who believe in a single just god are in a similar situation—they need to explain how their god is just but evil exists.
 
 ## Sacrifices
 
@@ -111,11 +111,11 @@ The Greeks believed their gods enjoyed and demanded sacrifices:
 <p>these are the gifts we claim—they are our rights.” (4.46–9)</p>
 </blockquote>
 
-And there were some expectations that the gods would respect their sacrifices.  For example after Zeus turns the tide of battle in Book 8, Agamemnon begins a prayer with this:
+And there were some expectations that the gods would respect their sacrifices. For example after Zeus turns the tide of battle in Book 8, Agamemnon begins a prayer with this:
 
 <blockquote class="poetry">
 <p>“Father Zeus, when did you ever strike a mighty king</p>
-<p>with such mad blindness—then tear away his glory?  Not once,</p>
+<p>with such mad blindness—then tear away his glory? Not once,</p>
 <p>I swear, did I pass some handsome shrine of yours,</p>
 <p>sailing my oar-swept ship on our fatal voyage here,</p>
 <p>but on each I burned the fat and thighs of oxen,</p>
@@ -161,7 +161,7 @@ The most clearly described animal sacrifice occurs near the beginning of the *Il
 <p>and Apollo listened, his great heart warm with joy. (1.447–75)</p>
 </blockquote>
 
-Plagues and natural disasters were believed to be caused by gods.  An example of this is seen at the beginning of the *Iliad*:
+Plagues and natural disasters were believed to be caused by gods. An example of this is seen at the beginning of the *Iliad*:
 
 <blockquote class="poetry">
 <p>“So home we sail …</p>
@@ -179,7 +179,7 @@ Plagues and natural disasters were believed to be caused by gods.  An example of
 
 ## The Rage of Achilles
 
-Traditionally, the first word of an epic poem is also its central theme.  Here is the first line of the *Iliad*:
+Traditionally, the first word of an epic poem is also its central theme. Here is the first line of the *Iliad*:
 
 <blockquote class="poetry">
 <p>Rage—Goddess, sing the rage of Peleus’ son Achilles,</p>
@@ -192,11 +192,11 @@ Traditionally, the first word of an epic poem is also its central theme.  Here i
 <p>Agamemnon lord of men and brilliant Achilles. (1.1–8)</p>
 </blockquote>
 
-During most of the *Iliad,* Achilles wrath is directed at Agamemnon because he disgraced Achilles in front of all the Greeks by stealing his concubine, Briseis.  It isn’t until book 18, when Achilles learns that Patroclus died, that his wrath is then re-directed towards Hector.
+During most of the *Iliad,* Achilles wrath is directed at Agamemnon because he disgraced Achilles in front of all the Greeks by stealing his concubine, Briseis. It isn’t until book 18, when Achilles learns that Patroclus died, that his wrath is then re-directed towards Hector.
 
 <blockquote class="poetry">
 <p>“Then let me die at once”—</p>
-<p>Achilles burst out, despairing—”since it was not my fat</p>
+<p>Achilles burst out, despairing—”since it was not my fate</p>
 <p>to save my dearest comrade from his death! Look,</p>
 <p>a world away from his fatherland he’s perished,</p>
 <p>lacking me, my fighting strength, to defend him.</p>
@@ -206,7 +206,7 @@ During most of the *Iliad,* Achilles wrath is directed at Agamemnon because he d
 <p>countless ranks struck down by mighty Hector—</p>
 <p>No, no, here I sit by the ships …</p>
 <p>a useless, dead weight on the good green earth—</p>
-<p>I, no man  my equal among the bronze-armed Achaeans,</p>
+<p>I, no man my equal among the bronze-armed Achaeans,</p>
 <p>not in battle, only in wars of words that others win.</p>
 <p>If only strife could die from the lives of gods and men</p>
 <p>and anger that drives the sanest man to flare in outrage—</p>
@@ -218,13 +218,13 @@ During most of the *Iliad,* Achilles wrath is directed at Agamemnon because he d
 <p>Despite my anguish I will beat it down,</p>
 <p>the fury mounting inside me, down by force.</p>
 <p>But now I’ll go and meet that murderer head-on,</p>
-<p>that Hector who destroyed the dearest life I know. (18.96–115)</p>
+<p>that Hector who destroyed the dearest life I know.” (18.96–115)</p>
 </blockquote>
 
-And, after Achilles kills Hector, he is still not at peace.  It isn’t until King Priam, willed by Zeus, visits Achilles to ransom for Hector’s body, that Achilles’ wrath seems to subside:
+And, after Achilles kills Hector, he is still not at peace. It isn’t until King Priam, willed by Zeus, visits Achilles to ransom for Hector’s body, that Achilles’ wrath seems to subside:
 
 <blockquote class="poetry">
-<p>Revere the gods, Achilles! Pity me in my own right,</p>
+<p>“Revere the gods, Achilles! Pity me in my own right,</p>
 <p>remember your own father! I deserve more pity …</p>
 <p>I have endured what no one on earth has ever done before—</p>
 <p>I put to my lips the hands of the man who killed my son.”</p>
@@ -232,7 +232,7 @@ And, after Achilles kills Hector, he is still not at peace.  It isn’t until Ki
 <p>Those words stirred within Achilles a deep desire</p>
 <p>to grieve for his own father. Taking the old man’s hand</p>
 <p>he gently moved him back. And overpowered by memory</p>
-<p>both men gave way to grief.  Priam wept freely</p>
+<p>both men gave way to grief. Priam wept freely</p>
 <p>for man-killing Hector, throbbing, crouching</p>
 <p>before Achilles’ feet as Achilles wept himself,</p>
 <p>now for his father, now for Patroclus once again,</p>
@@ -247,11 +247,11 @@ And, after Achilles kills Hector, he is still not at peace.  It isn’t until Ki
 
 So, the *Iliad*, is in many ways a poem about the wrath of Achilles, which is lit in Book 1 and only extinguished towards the end of Book 24.
 
-Some interpret the *Iliad* as a poem about growth and moral progress—Achilles’ god-like wrath is humanized by Priam.  Others see Achilles’ rage and general attitude as being consistent throughout the book.
+Some interpret the *Iliad* as a poem about growth and moral progress—Achilles’ god-like wrath is humanized by Priam. Others see Achilles’ rage and general attitude as being consistent throughout the book.
 
 ## War and Violence
 
-War and violence permeate the *Iliad.*  One of the first things a modern reader notices in the *Iliad* is that Homer provides the names of even nearly every character that dies:
+War and violence permeate the *Iliad.* One of the first things a modern reader notices in the *Iliad* is that Homer provides the names of even nearly every character that dies:
 
 <blockquote class="poetry">
 <p>Who was the first he slaughtered, who the last,</p>
@@ -262,7 +262,7 @@ War and violence permeate the *Iliad.*  One of the first things a modern reader 
 <p>These were the Argive captains Hector killed (11.299–304)</p>
 </blockquote>
 
-None of the Argive captains were mentioned before or afterwards.  It feels like Homer is giving them dignity and immortality to each man who died.  There are 255 named deaths in the *Iliad.*  Many die terribly:
+None of the Argive captains were mentioned before or afterwards. It feels like Homer is giving them dignity and immortality to each man who died. There are 255 named deaths in the *Iliad.* Many die terribly:
 
 <blockquote class="poetry">
 <p>Idomeneus skewered Erymas straight through the mouth,</p>
@@ -274,7 +274,7 @@ None of the Argive captains were mentioned before or afterwards.  It feels like 
 <p>and death’s dark cloud closed around his corpse. (16.345–50)</p>
 </blockquote>
 
-The frequency of deaths creates a dizzying sense of violence and terror.  Often, Homer will provide some background about the man who is about to die.  He also references the family who is left behind:
+The frequency of deaths creates a dizzying sense of violence and terror. Often, Homer will provide some background about the man who is about to die. He also references the family who is left behind:
 
 <blockquote class="poetry">
 <p>Never would he repay his loving parents now</p>
@@ -282,9 +282,33 @@ The frequency of deaths creates a dizzying sense of violence and terror.  Often,
 <p>brought down by the spear of lionhearted Ajax. (17.302–3)</p>
 </blockquote>
 
+Priam’s lament, as he watches Achilles sprint towards Hector down below the gates, is especially stirring:
+
+<blockquote class="poetry">
+<p>Back, come back! Inside the walls, my boy!</p>
+<p>Rescue the men of Troy and the Trojan women—</p>
+<p>don’t hand the great glory to Peleus’ son,</p>
+<p>bereft of your own sweet life yourself. Pity me too!—</p>
+<p>still in my senses, true, but a harrowed, broken man</p>
+<p>marked out by doom—past the threshold of old age…</p>
+<p>and Father Zeus will waste me with a hideous fate,</p>
+<p>and after I’ve lived to look on so much horror!</p>
+<p>My sons laid low, my daughters dragged away</p>
+<p>and the treasure-chambers looted, helpless babies</p>
+<p>hurled to the earth in the red barbarity of war…</p>
+<p>my sons’ wives hauled off by the Argives’ bloody hands!</p>
+<p>And I, I last of all—the dogs before my doors</p>
+<p>will eat me raw, once some enemy brings me down</p>
+<p>with his sharp bronze sword or spits me with a spear,</p>
+<p>wrenching the life out of my body, yes, the very dogs</p>
+<p>I bred in my own halls to share my table, guard my gates—</p>
+<p>mad, rabid at heart they’ll lap their master’s blood</p>
+<p>and loll before my doors. (22.56–71)</p>
+</blockquote>
+
 ## Armor and Weapons
 
-Everyone in the *Iliad* is obsessed with armor and weapons.  Armor provided protection and was valuable.  It also proved your bravery in battle:
+Everyone in the *Iliad* is obsessed with armor and weapons. Armor provided protection and was valuable. It also proved your bravery in battle:
 
 <blockquote class="poetry">
 <p>But the Cretan captain Idomeneus countered, “Spears?</p>
@@ -306,12 +330,12 @@ When Patroclus leads the Myrmidons into battle, Achilles says a prayer to Zeus t
 <p>fighting round my friend!” (16.246–8)</p>
 </blockquote>
 
-And not too long after, Patroclus kills Sarpedon.  And Sarpedon’s last words, shouted out to his comrade Glaucus, are:
+And not too long after, Patroclus kills Sarpedon. And Sarpedon’s last words, shouted out to his comrade Glaucus, are:
 
 <blockquote class="poetry">
 <p>“You’ll hang your head in shame—every day of your life—</p>
 <p>if the Argives strip my armor here at the anchored ships</p>
-<p>where I have gone down fighting.  Hold on, full force—</p>
+<p>where I have gone down fighting. Hold on, full force—</p>
 <p>spur all our men to battle!” Death cut him short. (16.498–500)</p>
 </blockquote>
 
@@ -325,11 +349,11 @@ Even Ares strips his fallen enemies’ armor:
 
 ## The Elite
 
-The *Iliad* is almost exclusively focused on the heroes and commanders of the two armies.  The “rank and file” are almost completely ignored.
+The *Iliad* is almost exclusively focused on the heroes and commanders of the two armies. The “rank and file” are almost completely ignored.
 
 ## Similes
 
-Homer uses short and extended similes throughout the *Iliad.*  Here are my favorite similes.
+Homer uses short and extended similes throughout the *Iliad.* Here are my favorite similes.
 
 When Diomedes asks Glaucus about his heritage, he begins his response with this beautiful simile:
 
@@ -337,11 +361,11 @@ When Diomedes asks Glaucus about his heritage, he begins his response with this 
 <p>Like the generations of leaves, the lives of mortal men.</p>
 <p>Now the wind scatters the old leaves across the earth,</p>
 <p>now the living timber bursts with the new buds</p>
-<p>and spring comes round again.  And so with men:</p>
+<p>and spring comes round again. And so with men:</p>
 <p>as one generation comes to life, another dies away. (6.146–9)</p>
 </blockquote>
 
-Hector returns to Troy to ask his mother to sacrifice to Athena and calm raging Diomedes.  Homer describes his, and Paris’, return to the fight as follows:
+Hector returns to Troy to ask his mother to sacrifice to Athena and calm raging Diomedes. Homer describes his, and Paris’, return to the fight as follows:
 
 <blockquote class="poetry">
 <p>Both men bent on combat, on they fought like wind</p>
@@ -352,7 +376,7 @@ Hector returns to Troy to ask his mother to sacrifice to Athena and calm raging 
 <p>desperate for their captains. (7.3–7)</p>
 </blockquote>
 
-There are many similes describing death.  Here is a particularly powerful one:
+There are many similes describing death. Here is a particularly powerful one:
 
 <blockquote class="poetry">
 <p>As a garden poppy, burst into red bloom, bends,</p>
@@ -362,7 +386,7 @@ There are many similes describing death.  Here is a particularly powerful one:
 <p>weighed down by his helmet. (8.306-9)</p>
 </blockquote>
 
-There are also many similes comparing fighting in battle to hunting animals.  I believe this is the most powerful such simile:
+There are also many similes comparing fighting in battle to hunting animals. I believe this is the most powerful such simile:
 
 <blockquote class="poetry">
 <p>Think how a lion, mauling the soft weak young</p>
@@ -439,7 +463,7 @@ The description of Nestor’s cup, and strange food:
 <p>and on it she set a basket, braided in bronze</p>
 <p>with onions in it, a relish for the drink,</p>
 <p>and pale gold honey along with barley meal,</p>
-<p>the grain’s blessed yield.  And there in the midst</p>
+<p>the grain’s blessed yield. And there in the midst</p>
 <p>the grand, glowing cup the old king brought from home,</p>
 <p>studded with golden nails, fitted with handles,</p>
 <p>four all told and two doves perched on each,</p>
@@ -461,7 +485,7 @@ The Olympian trinity:
 <p>“Three brothers we are, sprung from Cronus,</p>
 <p>all of us brought to birth by Rhea—Zeus and I,</p>
 <p>Hades the third, lord of the dead beneath the earth.</p>
-<p>The world was split three ways.  Each received his realm.</p>
+<p>The world was split three ways. Each received his realm.</p>
 <p>When we shook the lots I drew the sea, my foaming eternal home,</p>
 <p>and Hades drew the land of the dead engulfed in haze and night</p>
 <p>and Zeus drew the heavens, the clouds and the high clear sky,</p>
@@ -473,6 +497,34 @@ Zeus’ comment about mankind, during the fight over Patroclus’ body:
 <blockquote class="poetry">
 <p>“There is nothing alive more agonizing than man</p>
 <p>of all that breathe and crawl across the earth. (17.447–8)</p>
+</blockquote>
+
+Achilles’ hours prophesies to his death:
+
+<blockquote class="poetry">
+<p>And Roan Beauty the horse with flashing hoofs</p>
+<p>spoke up from under the yoke, bowing his head low</p>
+<p>so his full mane came streaming down the yoke-pads</p>
+<p>down along the yoke to sweep the ground…</p>
+<p>The white-armed goddess Hera gave him voice:</p>
+<p>“Yes! we will save your life—this time too—</p>
+<p>master, mighty Achilles! But the day of death</p>
+<p>already hovers near, and we are not to blame</p>
+<p>but a great god <em>is</em> and the strong force of fate.” (19.404-10)</p>
+</blockquote>
+
+When Zeus lets the gods back into the fray during the final battle, the world is shaken to its core:
+
+<blockquote class="poetry">
+<p>The whole world quaked, the slopes of Ida with all her springs</p>
+<p>and all her peaks and the walls of Troy and all Achaea’s ships.</p>
+<p>And terror-struck in the underworld, Hades lord of the dead</p>
+<p>cringed and sprang from his throne and screamed shrill,</p>
+<p>fearing the god who rocks the ground above his realm,</p>
+<p>giant Poseidon, would burst the earth wide open now</p>
+<p>and lay bare to mortal men and immortal gods at last</p>
+<p>the houses of the dead—the dank, moldering horrors</p>
+<p>that fill the deathless gods themselves with loathing. (20.60-7)</p>
 </blockquote>
 
 *All quotations are taken from Robert Fagle’s 1990 translation of the* Iliad. *Line numbers are approximate.*
