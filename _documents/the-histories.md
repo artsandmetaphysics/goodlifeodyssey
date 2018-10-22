@@ -4,7 +4,7 @@ title: >
 description: >
   Notes on “The Histories” by Herodotus
 type: note
-order: 3
+order: 5
 ---
 
 ## Quotes From Book I

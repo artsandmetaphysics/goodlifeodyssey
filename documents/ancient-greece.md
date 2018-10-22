@@ -4,7 +4,7 @@ title: >
 description: >
   Notes on Greece
 type: note
-order: 1.1
+order: 1.5
 ---
 
 Many of these notes were taken from _Ancient Greece_ by Thomas R. Martin.

@@ -3,9 +3,8 @@ title: >
   David Hockney
 description: >
   Notes David Hockney
-type: note
+type: essay
 order: 2
-tags: artist
 ---
 
 ## Life

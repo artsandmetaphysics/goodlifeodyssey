@@ -4,7 +4,7 @@ title: >
 description: >
   Notes on Hesiod’s “Theogony” and “Works and Days”
 type: note
-order: 3
+order: 3.4
 ---
 
 Hesiod was one of the most famous Greek poets.  He is not as good a writer as Homer, but the ancients often grouped him with Homer.

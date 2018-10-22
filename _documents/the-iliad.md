@@ -5,19 +5,19 @@ description: >
   Notes on the “Iliad”
 type: note
 status: incomplete
-order: 3
+order: 2
 ---
 
 ## Background
 
-The *Iliad* is the greatest Greek epic poem. The ancients believed that it was composed by the blind poet Homer.Modern scholars debate when it was composed and by whom, but most agree it was written around 700 BCE.
+The *Iliad* is the greatest Greek epic poem. The ancients believed that it was composed by the blind poet Homer. Modern scholars debate when it was composed and by whom, but most agree it was written around 700 BCE.
 
 ## Structure and Outline
 
 The poem is about 16,000 lines of hexameter verse in the ancient Greek, and is split into 24 books.
 
 1. Agamemnon and Achilles quarrel; Thetis appeals to Zeus
-2. Agamemnon tests the troops; the great gathering of armies
+2. Agamemnon tests the troops; the armies gather and are listed
 3. Helen reviews the champions; Paris and Menelaus duel
 4. Zeus and Hera bicker; the truce erupts in war
 5. Diomedes fights Aphrodite, Apollo, and Ares
@@ -32,10 +32,10 @@ The poem is about 16,000 lines of hexameter verse in the ancient Greek, and is s
 14. Hera distracts Zeus; Poseidon rallies; Ajax injures Hector
 15. Poseidon is dismissed; Apollo revives Hector and charges the ships
 16. The Myrmidons push back; Sarpedon dies; Patroclus dies
-17. Menelaus’ leads the fight for Patroclus’ body
+17. Menelaus leads the fight for Patroclus’ body
 18. Thetis and Achilles mourn; Hephaestus forges new armor
-19. Agamemnon and Achilles make amends; Achilles mourns and arms
-20. The Olympian gods arm; Achilles fights Aeneas and Hector
+19. Agamemnon and Achilles make amends, mourn, and arm
+20. The Olympian gods arm; Achilles fights Aeneas then Hector
 21. Achilles fights the river; the gods fight each other
 22. Priam laments; Achilles and Athena kill Hector
 23. Patroclus’ burial and funeral games
