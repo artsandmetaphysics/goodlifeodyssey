@@ -42,7 +42,6 @@ Book names which are present in the titles of document are surrounded by quotes,
 
 - Test RSS feed
 - Improved formatting for parenthetical citations after block quotes
-- Add a "last updated on" field
 - Make the sitemap more sophisticated
 
 ## Known Issues
