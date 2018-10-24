@@ -3,7 +3,7 @@ title: >
   "The Master and Margarita"
 description: >
   Notes on the Russian classic "The Master and Margarita."
-type: notes
+type: note
 status: incomplete
 order: 10
 ---
