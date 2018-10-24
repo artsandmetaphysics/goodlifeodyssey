@@ -35,7 +35,9 @@ It is interesting that the poet tells the muse to "start from where you will."
 Here is an outline:
 
 1. The gods pity Odysseus; Athena inspires Telemachus
-2. Telemachus calls the assembly, then sets sail
+2. The assembly at Ithaca; Telemachus secretly sets sail
+3. Nestor recalls his return; sacrifice to Athena; departure for Lacedaemon
+4. Menelaus recalls his return; the suitors plot their ambush
 
 ## Justice, Morality, and the Gods
 
@@ -112,6 +114,37 @@ In such a society an atheist or godless person could not be trusted.  Right afte
 > not all are fraught with meaning." (2.177--83)
 > =
 
+## The Gods
+
+Athena rebukes Telemachus for doubting the power of the gods to return his father:
+
+> "Hope, hope as I will,
+> that day will never dawn...
+> not even if the gods should will it so." "Telemachus!"
+> Pallas Athena broke in sharply, her eyes afire---
+> "What's this nonsense slipping through your teeth?
+> It's light work for a willing god to save a mortal
+> even half the world away. Myself, I'd rather
+> sail through years of trouble and labor home
+> and see that blessed day, than hurry home
+> to die at my own hearth like Agamemnon,
+> killed by Aegisthus' cunning---by his own wife.
+> But the great leveler, Death: not even the gods
+> can defend a man, not even one they love, that day
+> when fate takes hold and lays him out at last." (3.228--39)
+> =
+
+Athena reveals herself to many people at once:
+
+> With that the bright-eyed goddess winged away
+> in an eagle's form and flight.
+> Amazement fell on all the Achaeans there.
+> The old king, astonished by what he'd seen,
+> grasped Telemachus' hand and cried out to the prince,
+> "Dear boy---never fear you'll be a coward or defenseless,
+> not if at your young age the gods will guard you so." (3.372--7)
+> =
+
 ## Women
 
 The Greeks did not treat women well.
@@ -147,12 +180,27 @@ Through human physiology:
 
 - Athena gives Telemachus courage (1.320)
 - Athena seals Penelope's eyes (1.364)
-- Athena makes Telemachus spendid (2.12)
+- Athena makes Telemachus splendid (2.12)
 
 Also, here is how the Greeks in the story believed the gods interacted with them:
 
 - Aegyptius believed Zeus could speed the summoner to a happy end (2.32)
 - Antinous believed Athena gave Penelope gifts (2.115)
 - Telemachus believed Zeus would send a rumor (2.216)
+
+## Other Interesting Quotes
+
+Helen uses a strange drug while feasting with Menelaus, Telemachus, and Pisastratus:
+
+> The Zeus's daughter Helen thought of something else.
+> Into the mixing-bowl from which they drank their wine
+> she slipped a drug, heart's-ease, dissolving anger,
+> magic to make us all forget our pains...
+> No one who drank it deeply, mulled in wine,
+> could let a tear roll down his cheeks that day,
+> not even if his mother should die, his father die,
+> not even if right before his eyes some enemy brought down
+> a brother or darling son with a sharp bronze blade. (4.218--25)
+> =
 
 *All quotations are taken from Robert Fagle's 1996 excellent translation of the* Odyssey. *Line numbers are approximate.*
