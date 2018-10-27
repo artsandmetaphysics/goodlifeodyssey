@@ -137,3 +137,36 @@ def test_italics_in_quote_w_asterisk():
         '<p>One <em>then* two</em></p>',
         '</blockquote>',
     ])
+
+
+def test_inline_citation():
+    assert_translate([
+        '> Test',
+        '> - (p. 2)',
+    ], [
+        '<blockquote>',
+        '<p>Test <cite>(p. 2)</cite></p>',
+        '</blockquote>',
+    ])
+
+
+def test_inline_citation_poetry():
+    assert_translate([
+        '> Test',
+        '> ~ (p. 2)',
+    ], [
+        '<blockquote class="poetry">',
+        '<p>Test <cite>(p. 2)</cite></p>',
+        '</blockquote>',
+    ])
+
+
+def test_inline_citation_prose():
+    assert_translate([
+        '> Test',
+        '> = (p. 2)',
+    ], [
+        '<blockquote class="prose">',
+        '<p>Test <cite>(p. 2)</cite></p>',
+        '</blockquote>',
+    ])

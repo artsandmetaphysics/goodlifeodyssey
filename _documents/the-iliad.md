@@ -50,7 +50,7 @@ Some gods are described as human-like while others are abstract. Gods are born, 
 <p>and immortal blood came flowing quickly from the goddess,</p>
 <p>the ichor that courses through their veins, the blessed gods—</p>
 <p>they eat no bread, they drink no shining wine, and so</p>
-<p>the gods are bloodless, so we call them deathless. (5.338–42)</p>
+<p>the gods are bloodless, so we call them deathless. <cite>(5.338–42)</cite></p>
 </blockquote>
 
 The Greeks associate eating our food with mortality. This is seen in a number of other verses as well:
@@ -60,7 +60,7 @@ The Greeks associate eating our food with mortality. This is seen in a number of
 <p>I have no desire to fight the blithe immortals.</p>
 <p>But if you’re a man who eats the crops of the earth,</p>
 <p>a mortal born for death—here, come closer,</p>
-<p>the sooner you will meet your day to die!” (6.141–4)</p>
+<p>the sooner you will meet your day to die!” <cite>(6.141–4)</cite></p>
 </blockquote>
 
 There are passages that imply gods can be killed:
@@ -71,7 +71,7 @@ There are passages that imply gods can be killed:
 <p>if the monster’s stepmother, beautiful Eriboea</p>
 <p>had not sent for Hermes, and out of the cauldron</p>
 <p>Hermes stole him away—the War-god breathing his last,</p>
-<p>all but broken down by the ruthless iron chains. (5.387–91)</p>
+<p>all but broken down by the ruthless iron chains. <cite>(5.387–91)</cite></p>
 </blockquote>
 
 But I think the gods were always thought to be deathless. What does it mean to be deathless? Humans that die go to Hades, gods are trapped in Tartarus… the two outcomes seem similar.
@@ -90,7 +90,7 @@ In the *Iliad,* the gods are involved with most important events and decisions. 
 <p>some boy at the seashore knocks sand castles down—</p>
 <p>he no sooner builds his playthings up, child’s play,</p>
 <p>than he wrecks them all with hands and kicking feet,</p>
-<p>just for the sport of it. (15.355–64)</p>
+<p>just for the sport of it. <cite>(15.355–64)</cite></p>
 </blockquote>
 
 Homer’s portrayal of the gods reflects the fact that the gods don’t exist—the Greeks imagined them. Since the Greeks never saw the gods outside of dreams or visions, Homer’s listeners would find it unconvincing if he portrayed the gods more visibly.
@@ -108,7 +108,7 @@ The Greeks believed their gods enjoyed and demanded sacrifices:
 <p>Priam and men of Priam who hurls the strong ash spear.</p>
 <p>Never once did my altar lack its share of victims,</p>
 <p>winecups tipped and the deep smoky savor. These,</p>
-<p>these are the gifts we claim—they are our rights.” (4.46–9)</p>
+<p>these are the gifts we claim—they are our rights.” <cite>(4.46–9)</cite></p>
 </blockquote>
 
 And there were some expectations that the gods would respect their sacrifices. For example after Zeus turns the tide of battle in Book 8, Agamemnon begins a prayer with this:
@@ -119,7 +119,7 @@ And there were some expectations that the gods would respect their sacrifices. F
 <p>I swear, did I pass some handsome shrine of yours,</p>
 <p>sailing my oar-swept ship on our fatal voyage here,</p>
 <p>but on each I burned the fat and thighs of oxen,</p>
-<p>longing to raze Troy’s sturdy walls to the roots.” (8.234–41)</p>
+<p>longing to raze Troy’s sturdy walls to the roots.” <cite>(8.234–41)</cite></p>
 </blockquote>
 
 The most clearly described animal sacrifice occurs near the beginning of the *Iliad*:
@@ -158,7 +158,7 @@ The most clearly described animal sacrifice occurs near the beginning of the *Il
 <p>they appeased the god with song, raising a ringing hymn</p>
 <p>to the distant archer god who drives away the plague,</p>
 <p>those young Achaean warriors singing out his power,</p>
-<p>and Apollo listened, his great heart warm with joy. (1.447–75)</p>
+<p>and Apollo listened, his great heart warm with joy. <cite>(1.447–75)</cite></p>
 </blockquote>
 
 Plagues and natural disasters were believed to be caused by gods. An example of this is seen at the beginning of the *Iliad*:
@@ -174,7 +174,7 @@ Plagues and natural disasters were believed to be caused by gods. An example of 
 <p>whether he blames us for a vow we failed, or sacrifice.</p>
 <p>If only the god would share the smoky savor of lambs</p>
 <p>and full-grown goats, Apollo might be willing, still,</p>
-<p>somehow, to save us from this plague.” (1.58-67)</p>
+<p>somehow, to save us from this plague.” <cite>(1.58-67)</cite></p>
 </blockquote>
 
 ## The Rage of Achilles
@@ -189,7 +189,7 @@ Traditionally, the first word of an epic poem is also its central theme. Here is
 <p>feasts for the dogs and birds,</p>
 <p>and the will of Zeus was moving towards its end.</p>
 <p>Begin, Muse, when the two first broke and clashed,</p>
-<p>Agamemnon lord of men and brilliant Achilles. (1.1–8)</p>
+<p>Agamemnon lord of men and brilliant Achilles. <cite>(1.1–8)</cite></p>
 </blockquote>
 
 During most of the *Iliad,* Achilles wrath is directed at Agamemnon because he disgraced Achilles in front of all the Greeks by stealing his concubine, Briseis. It isn’t until book 18, when Achilles learns that Patroclus died, that his wrath is then re-directed towards Hector.
@@ -218,7 +218,7 @@ During most of the *Iliad,* Achilles wrath is directed at Agamemnon because he d
 <p>Despite my anguish I will beat it down,</p>
 <p>the fury mounting inside me, down by force.</p>
 <p>But now I’ll go and meet that murderer head-on,</p>
-<p>that Hector who destroyed the dearest life I know.” (18.96–115)</p>
+<p>that Hector who destroyed the dearest life I know.” <cite>(18.96–115)</cite></p>
 </blockquote>
 
 And, after Achilles kills Hector, he is still not at peace. It isn’t until King Priam, willed by Zeus, visits Achilles to ransom for Hector’s body, that Achilles’ wrath seems to subside:
@@ -242,7 +242,7 @@ And, after Achilles kills Hector, he is still not at peace. It isn’t until Kin
 <p>he rose from his seat, raised the old man by the hand</p>
 <p>and filled with pity now for his gray head and gray beard,</p>
 <p>he spoke out winging words, flying straight to the heart:</p>
-<p>“Poor man, how much you’ve born—pain to break the spirit!” (24.503–18)</p>
+<p>“Poor man, how much you’ve born—pain to break the spirit!” <cite>(24.503–18)</cite></p>
 </blockquote>
 
 So, the *Iliad*, is in many ways a poem about the wrath of Achilles, which is lit in Book 1 and only extinguished towards the end of Book 24.
@@ -259,7 +259,7 @@ War and violence permeate the *Iliad.* One of the first things a modern reader n
 <p>Asaeus first, Autonous next and then Opites,</p>
 <p>Dolops, Clytius’ son, and Opheltius, Agelaus,</p>
 <p>Aesymnus and Orus, Hipponous staunch in combat.</p>
-<p>These were the Argive captains Hector killed (11.299–304)</p>
+<p>These were the Argive captains Hector killed <cite>(11.299–304)</cite></p>
 </blockquote>
 
 None of the Argive captains were mentioned before or afterwards. It feels like Homer is giving them dignity and immortality to each man who died. There are 255 named deaths in the *Iliad.* Many die terribly:
@@ -271,7 +271,7 @@ None of the Argive captains were mentioned before or afterwards. It feels like H
 <p>teeth shattered out, both eyes brimmed to the lids</p>
 <p>with a gush of blood and both nostrils spurting,</p>
 <p>mouth gaping, blowing convulsive sprays of blood</p>
-<p>and death’s dark cloud closed around his corpse. (16.345–50)</p>
+<p>and death’s dark cloud closed around his corpse. <cite>(16.345–50)</cite></p>
 </blockquote>
 
 The frequency of deaths creates a dizzying sense of violence and terror. Often, Homer will provide some background about the man who is about to die. He also references the family who is left behind:
@@ -279,7 +279,7 @@ The frequency of deaths creates a dizzying sense of violence and terror. Often, 
 <blockquote class="poetry">
 <p>Never would he repay his loving parents now</p>
 <p>for the gift of rearing—his life cut short so soon,</p>
-<p>brought down by the spear of lionhearted Ajax. (17.302–3)</p>
+<p>brought down by the spear of lionhearted Ajax. <cite>(17.302–3)</cite></p>
 </blockquote>
 
 Priam’s lament, as he watches Achilles sprint towards Hector down below the gates, is especially stirring:
@@ -303,7 +303,7 @@ Priam’s lament, as he watches Achilles sprint towards Hector down below the ga
 <p>wrenching the life out of my body, yes, the very dogs</p>
 <p>I bred in my own halls to share my table, guard my gates—</p>
 <p>mad, rabid at heart they’ll lap their master’s blood</p>
-<p>and loll before my doors. (22.56–71)</p>
+<p>and loll before my doors. <cite>(22.56–71)</cite></p>
 </blockquote>
 
 ## Armor and Weapons
@@ -318,7 +318,7 @@ Everyone in the *Iliad* is obsessed with armor and weapons. Armor provided prote
 <p>It’s not <em>my</em> way, I’d say, to fight at a distance,</p>
 <p>out of enemy range.</p>
 <p>So I take my plunder—spears, bossed shields,</p>
-<p>helmets and breastplates, gleaming, polished bright.” (13.259–65)</p>
+<p>helmets and breastplates, gleaming, polished bright.” <cite>(13.259–65)</cite></p>
 </blockquote>
 
 When Patroclus leads the Myrmidons into battle, Achilles says a prayer to Zeus that asking for his safety, and his armor back:
@@ -327,7 +327,7 @@ When Patroclus leads the Myrmidons into battle, Achilles says a prayer to Zeus t
 <p>“But once he repels the roaring onslaught from the ships</p>
 <p>let him come back to me and our fast fleet—unharmed—</p>
 <p>with all my armor round him, all our comrades</p>
-<p>fighting round my friend!” (16.246–8)</p>
+<p>fighting round my friend!” <cite>(16.246–8)</cite></p>
 </blockquote>
 
 And not too long after, Patroclus kills Sarpedon. And Sarpedon’s last words, shouted out to his comrade Glaucus, are:
@@ -336,7 +336,7 @@ And not too long after, Patroclus kills Sarpedon. And Sarpedon’s last words, s
 <p>“You’ll hang your head in shame—every day of your life—</p>
 <p>if the Argives strip my armor here at the anchored ships</p>
 <p>where I have gone down fighting. Hold on, full force—</p>
-<p>spur all our men to battle!” Death cut him short. (16.498–500)</p>
+<p>spur all our men to battle!” Death cut him short. <cite>(16.498–500)</cite></p>
 </blockquote>
 
 Even Ares strips his fallen enemies’ armor:
@@ -344,7 +344,7 @@ Even Ares strips his fallen enemies’ armor:
 <blockquote class="poetry">
 <p>The god was just stripping giant Periphas bare—</p>
 <p>the Aeotolians’ best fighter, Ochesius’ noble son—</p>
-<p>the blood-smeared Ares was tearing off his gear … (5.842–4)</p>
+<p>the blood-smeared Ares was tearing off his gear … <cite>(5.842–4)</cite></p>
 </blockquote>
 
 ## The Elite
@@ -362,7 +362,7 @@ When Diomedes asks Glaucus about his heritage, he begins his response with this 
 <p>Now the wind scatters the old leaves across the earth,</p>
 <p>now the living timber bursts with the new buds</p>
 <p>and spring comes round again. And so with men:</p>
-<p>as one generation comes to life, another dies away. (6.146–9)</p>
+<p>as one generation comes to life, another dies away. <cite>(6.146–9)</cite></p>
 </blockquote>
 
 Hector returns to Troy to ask his mother to sacrifice to Athena and calm raging Diomedes. Homer describes his, and Paris’, return to the fight as follows:
@@ -373,7 +373,7 @@ Hector returns to Troy to ask his mother to sacrifice to Athena and calm raging 
 <p>desperate for it, worked to death at the polished oars,</p>
 <p>beating the heavy seas, their arms slack with the labor—</p>
 <p>so welcome that brace of men appeared to the Trojans</p>
-<p>desperate for their captains. (7.3–7)</p>
+<p>desperate for their captains. <cite>(7.3–7)</cite></p>
 </blockquote>
 
 There are many similes describing death. Here is a particularly powerful one:
@@ -383,7 +383,7 @@ There are many similes describing death. Here is a particularly powerful one:
 <p>drooping its head to one side, weighed down</p>
 <p>by its full seeds and a sudden spring shower,</p>
 <p>so Gorgythion’s head fell limp over one shoulder,</p>
-<p>weighed down by his helmet. (8.306-9)</p>
+<p>weighed down by his helmet. <cite>(8.306-9)</cite></p>
 </blockquote>
 
 There are also many similes comparing fighting in battle to hunting animals. I believe this is the most powerful such simile:
@@ -399,7 +399,7 @@ There are also many similes comparing fighting in battle to hunting animals. I b
 <p>off she bounds through the glades and the thick woods,</p>
 <p>drenched in sweat, leaping clear of the big cat’s pounce.</p>
 <p>So not a single Trojan could save those two from death,</p>
-<p>they fled themselves before the Argive charge. (11.113–22)</p>
+<p>they fled themselves before the Argive charge. <cite>(11.113–22)</cite></p>
 </blockquote>
 
 Many similes liken war scenes to peacetime scenes:
@@ -418,7 +418,7 @@ Many similes liken war scenes to peacetime scenes:
 <p>when Zeus comes storming down—now so thick-and-fast</p>
 <p>they volleyed rocks from both sides, some at the Trojans,</p>
 <p>some from Trojans against the Argives, salvos landing,</p>
-<p>the whole long rampart thundering under blows. (12.278–89)</p>
+<p>the whole long rampart thundering under blows. <cite>(12.278–89)</cite></p>
 </blockquote>
 
 This simile describes a beautiful scene:
@@ -431,7 +431,7 @@ This simile describes a beautiful scene:
 <p>streaming over his shoulders, sure and sleek in his glory,</p>
 <p>knees racing him on to the fields and stallion-haunts he loves—</p>
 <p>so Hector hurtled on, his legs driving, his knees pumping,</p>
-<p>spurring his reinsmen once he heard the god’s command. (15.262–8)</p>
+<p>spurring his reinsmen once he heard the god’s command. <cite>(15.262–8)</cite></p>
 </blockquote>
 
 I like this simile, because it makes me think of my wife—she likes to imagine we are in Paris or Rome or some romantic city.
@@ -441,7 +441,7 @@ I like this simile, because it makes me think of my wife—she likes to imagine 
 <p>who’s traveled the world—”Ah to be there, or there!”—</p>
 <p>as his mind swarms with journeys, fresh desires—</p>
 <p>so quick in her eager flight flew noble Hera now</p>
-<p>and scaling steep Olympus went among the gods. (15.79–83)</p>
+<p>and scaling steep Olympus went among the gods. <cite>(15.79–83)</cite></p>
 </blockquote>
 
 Many of Homer’s similes make surprising, but compelling comparisons, such as this simile to a horsefly—I had never thought of a horsefly as daring:
@@ -450,7 +450,7 @@ Many of Homer’s similes make surprising, but compelling comparisons, such as t
 <p>She put fresh strength in his back, spring in his knees</p>
 <p>and filled his heart with the horsefly’s raw daring—</p>
 <p>brush it away from a man’s flesh and back it comes,</p>
-<p>biting, attacking, crazed for sweet human blood. (17.570–3)</p>
+<p>biting, attacking, crazed for sweet human blood. <cite>(17.570–3)</cite></p>
 </blockquote>
 
 ## Other Interesting Quotes
@@ -476,7 +476,7 @@ The description of Nestor’s cup, and strange food:
 <p>mixed them a strong drink with Pramnian wine,</p>
 <p>over it shredded goat cheese with bronze grater</p>
 <p>and scattered barley into it, glistening pure white,</p>
-<p>then invited them to drink when she had mulled it all. (11.626–41)</p>
+<p>then invited them to drink when she had mulled it all. <cite>(11.626–41)</cite></p>
 </blockquote>
 
 The Olympian trinity:
@@ -489,14 +489,14 @@ The Olympian trinity:
 <p>When we shook the lots I drew the sea, my foaming eternal home,</p>
 <p>and Hades drew the land of the dead engulfed in haze and night</p>
 <p>and Zeus drew the heavens, the clouds and the high clear sky,</p>
-<p>but the earth and Olympus heights are common to us all.” (15.187–94)</p>
+<p>but the earth and Olympus heights are common to us all.” <cite>(15.187–94)</cite></p>
 </blockquote>
 
 Zeus’ comment about mankind, during the fight over Patroclus’ body:
 
 <blockquote class="poetry">
 <p>“There is nothing alive more agonizing than man</p>
-<p>of all that breathe and crawl across the earth. (17.447–8)</p>
+<p>of all that breathe and crawl across the earth. <cite>(17.447–8)</cite></p>
 </blockquote>
 
 Achilles’ hours prophesies to his death:
@@ -510,7 +510,7 @@ Achilles’ hours prophesies to his death:
 <p>“Yes! we will save your life—this time too—</p>
 <p>master, mighty Achilles! But the day of death</p>
 <p>already hovers near, and we are not to blame</p>
-<p>but a great god <em>is</em> and the strong force of fate.” (19.404-10)</p>
+<p>but a great god <em>is</em> and the strong force of fate.” <cite>(19.404-10)</cite></p>
 </blockquote>
 
 When Zeus lets the gods back into the fray during the final battle, the world is shaken to its core:
@@ -524,7 +524,7 @@ When Zeus lets the gods back into the fray during the final battle, the world is
 <p>giant Poseidon, would burst the earth wide open now</p>
 <p>and lay bare to mortal men and immortal gods at last</p>
 <p>the houses of the dead—the dank, moldering horrors</p>
-<p>that fill the deathless gods themselves with loathing. (20.60-7)</p>
+<p>that fill the deathless gods themselves with loathing. <cite>(20.60-7)</cite></p>
 </blockquote>
 
 *All quotations are taken from Robert Fagle’s 1990 translation of the* Iliad. *Line numbers are approximate.*

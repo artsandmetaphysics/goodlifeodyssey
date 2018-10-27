@@ -28,7 +28,7 @@ The poem is about 12,000 lines of hexameter verse in the ancient Greek, and is s
 <p>the blind fools, they devoured the cattle of the Sun</p>
 <p>and the Sungod wiped from sight the day of their return.</p>
 <p>Launch out on his story Muse, daughter of Zeus,</p>
-<p>start from where you will—sing for our time too. (1.1–10)</p>
+<p>start from where you will—sing for our time too. <cite>(1.1–10)</cite></p>
 </blockquote>
 
 It is interesting that the poet tells the muse to “start from where you will.”
@@ -52,7 +52,7 @@ Early in book 1, the gods are in full assembly—curiously similar to the assemb
 <p>Look at Aegisthus now …</p>
 <p>above and beyond <em>his</em> share he stole Atrides’ wife,</p>
 <p>he murdered the warlord coming home from Troy</p>
-<p>though he knew it meant his own total ruin. (1.31–37)</p>
+<p>though he knew it meant his own total ruin. <cite>(1.31–37)</cite></p>
 </blockquote>
 
 From the start of the *Odyssey,* the gods seem more concerned with morals and justice than they did in the *Iliad.*
@@ -69,7 +69,7 @@ Shortly after Zeus’ comment, Athena responds:
 <p>Odysseus longs to die … Olympian Zeus,</p>
 <p>have you no care for <em>him</em> in your lofty heart?</p>
 <p>Did he never win your favor with sacrifices</p>
-<p>burned besides the ships on the broad plain of Troy?” (1.46–63)</p>
+<p>burned besides the ships on the broad plain of Troy?” <cite>(1.46–63)</cite></p>
 </blockquote>
 
 Zeus replies that, no, he is happy with Odysseus, but that Poseidon is the one to blame.
@@ -92,7 +92,7 @@ The assembly in book 2 provides some insight into justice in ancient Greece.  Te
 <p>my house a shambles!  You should be ashamed yourselves,</p>
 <p>mortified in the face of neighbors living round about!</p>
 <p>Fear the gods’ wrath—before they wheel in outrage</p>
-<p>and make these crimes recoil on your heads.” (2.57-67)</p>
+<p>and make these crimes recoil on your heads.” <cite>(2.57-67)</cite></p>
 </blockquote>
 
 And when the towns people refuse to do anything, Telemachus escalates to the third authority—the gods:
@@ -103,7 +103,7 @@ And when the towns people refuse to do anything, Telemachus escalates to the thi
 <p>all right then, carve away!</p>
 <p>But I’ll cry out to the everlasting gods in hopes</p>
 <p>that Zeus will pay you back with a vengeance—all of you</p>
-<p>destroyed in my house while I go scot-free myself!” (2.141–5)</p>
+<p>destroyed in my house while I go scot-free myself!” <cite>(2.141–5)</cite></p>
 </blockquote>
 
 It seems that fear of the gods was the main source of justice in Greek society.  Since there were no contracts or court system to build trust between individuals, people relied on oaths—and the fear of the gods if one broke their oath—to build trust.  Similarly, if one could not find justice through strength of your fellow men, you could threaten the wrongdoers with a curse.  If they feared the gods, they may respond.
@@ -117,7 +117,7 @@ In such a society an atheist or godless person could not be trusted.  Right afte
 <p>save <em>them</em> from some catastrophe coming soon.</p>
 <p>I’m a better hand than you at reading portents.</p>
 <p>Flocks of birds go fluttering under the sun’s rays,</p>
-<p>not all are fraught with meaning.” (2.177–83)</p>
+<p>not all are fraught with meaning.” <cite>(2.177–83)</cite></p>
 </blockquote>
 
 ## The Gods
@@ -138,7 +138,7 @@ Athena rebukes Telemachus for doubting the power of the gods to return his fathe
 <p>killed by Aegisthus’ cunning—by his own wife.</p>
 <p>But the great leveler, Death: not even the gods</p>
 <p>can defend a man, not even one they love, that day</p>
-<p>when fate takes hold and lays him out at last.” (3.228–39)</p>
+<p>when fate takes hold and lays him out at last.” <cite>(3.228–39)</cite></p>
 </blockquote>
 
 Athena reveals herself to many people at once:
@@ -150,7 +150,7 @@ Athena reveals herself to many people at once:
 <p>The old king, astonished by what he’d seen,</p>
 <p>grasped Telemachus’ hand and cried out to the prince,</p>
 <p>“Dear boy—never fear you’ll be a coward or defenseless,</p>
-<p>not if at your young age the gods will guard you so.” (3.372–7)</p>
+<p>not if at your young age the gods will guard you so.” <cite>(3.372–7)</cite></p>
 </blockquote>
 
 ## Women
@@ -165,7 +165,7 @@ The Greeks did not treat women well.
 <p>men will see to that, but I most of all:</p>
 <p>I hold the reins of power in this house.”  Astonished,</p>
 <p>she withdrew to her own room.  She took to heart</p>
-<p>the clear good sense in what her son had sad. (1.355–62)</p>
+<p>the clear good sense in what her son had sad. <cite>(1.355–62)</cite></p>
 </blockquote>
 
 ## The Interactions of Gods and Humans
@@ -210,7 +210,7 @@ Helen uses a strange drug while feasting with Menelaus, Telemachus, and Pisastra
 <p>could let a tear roll down his cheeks that day,</p>
 <p>not even if his mother should die, his father die,</p>
 <p>not even if right before his eyes some enemy brought down</p>
-<p>a brother or darling son with a sharp bronze blade. (4.218–25)</p>
+<p>a brother or darling son with a sharp bronze blade. <cite>(4.218–25)</cite></p>
 </blockquote>
 
 *All quotations are taken from Robert Fagle’s 1996 excellent translation of the* Odyssey. *Line numbers are approximate.*

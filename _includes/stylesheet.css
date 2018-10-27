@@ -135,6 +135,13 @@ blockquote > p.indent {
 }
 
 /*
+ * Ensure that inline citations don't word-wrap.
+ */
+p > cite {
+  white-space: nowrap;
+}
+
+/*
  * This style ensures that there is the correct spacing between a <cite> and
  * the previous <p> tag, both in regular blockquotes and in poetry blockquotes.
  */
@@ -232,6 +239,6 @@ ul, ol {
   blockquote {
     padding-right: 0;
     padding-left: 0;
-    color: #888;
+    color: #555;
   }
 }

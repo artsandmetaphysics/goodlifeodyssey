@@ -40,19 +40,19 @@ Our two writers drink a soda:
 <p>“Then what is there?” asked Berlioz.</p>
 <p>“Apricot soda, only warm,” said the woman.</p>
 <p>“Well, let’s have it, let’s have it! …”</p>
-<p>The soda produced an abundance of yellow foam, and the air began to smell of a barber-shop. Having finished drinking, the writers immediately started to hiccup, paid, and sat down on a bench face to the pond and back to Bronnaya. (p.&nbsp;3)</p>
+<p>The soda produced an abundance of yellow foam, and the air began to smell of a barber-shop. Having finished drinking, the writers immediately started to hiccup, paid, and sat down on a bench face to the pond and back to Bronnaya. <cite>(p. 3)</cite></p>
 </blockquote>
 
 The foreigner describes the process of getting lung-cancer:
 
 <blockquote class="prose">
-<p>“You are no longer interested in anyone’s fate but your own. Your family starts lying to you. Feeling that something is wrong, you rush to learned doctors, then to quacks, and sometimes to fortune-tellers as well. Like the first, so the second and third are completely senseless, as you understand. And it all ends tragically: a man who still recently thought he was governing something, suddenly winds up lying motionless in a wooden box, and the people around him, seeing that the man lying there is no longer good for anything, burn him in an oven.” (p.&nbsp;10)</p>
+<p>“You are no longer interested in anyone’s fate but your own. Your family starts lying to you. Feeling that something is wrong, you rush to learned doctors, then to quacks, and sometimes to fortune-tellers as well. Like the first, so the second and third are completely senseless, as you understand. And it all ends tragically: a man who still recently thought he was governing something, suddenly winds up lying motionless in a wooden box, and the people around him, seeing that the man lying there is no longer good for anything, burn him in an oven.” <cite>(p. 10)</cite></p>
 </blockquote>
 
 Yeshua, explaining to Pontius Pilate that he did not incite the Jews to destroy the temple:
 
 <blockquote class="prose">
-<p>“These good people … haven’t any learning and have confused everything I told them.  Generally, I’m beginning to be afraid that this confusion may go on for a very long time.  And all because he writes down the things I say incorrectly.” (p.&nbsp;19)</p>
+<p>“These good people … haven’t any learning and have confused everything I told them.  Generally, I’m beginning to be afraid that this confusion may go on for a very long time.  And all because he writes down the things I say incorrectly.” <cite>(p. 19)</cite></p>
 </blockquote>
 
 Bulgakov’s interpolation of John 18:38, when Pilate asks Jesus “What is Truth?”:
@@ -61,7 +61,7 @@ Bulgakov’s interpolation of John 18:38, when Pilate asks Jesus “What is Trut
 <p>“And why did you stir up the people in the bazaar, you vagrant, talking about the truth, of which you have no notion? What is truth?”</p>
 <p>And here the procurator thought: “Oh, my gods! I’m asking him about something unnecessary at a trial … my reason no longer serves me …” And again he pictured a cup of dark liquid. “Poison, bring me poison…”</p>
 <p>And again he heard the voice:</p>
-<p>“The truth is, first of all, that your head aches, and aches so badly that you’re having faint-hearted thoughts of death. You’re not only unable to speak to me, but it is even hard for you to look at me.  And I am now your unwilling torturer, which upsets me.  You can’t even think about anything and only dream that your dog should come, apparently the one being you are attached to. But your suffering will soon be over, your headache will go away.” (p.&nbsp;21)</p>
+<p>“The truth is, first of all, that your head aches, and aches so badly that you’re having faint-hearted thoughts of death. You’re not only unable to speak to me, but it is even hard for you to look at me.  And I am now your unwilling torturer, which upsets me.  You can’t even think about anything and only dream that your dog should come, apparently the one being you are attached to. But your suffering will soon be over, your headache will go away.” <cite>(p. 21)</cite></p>
 </blockquote>
 
 *All quotes are from the 1997 translation by Richard Pevear and Larissa Volokhonsky.*

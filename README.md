@@ -32,6 +32,8 @@ The final line of a quote indicates whether it is poetry and may contain a citat
 - Prose with citation: `= This is poetry`
 - Prose without a citation `=`
 
+Inline citations must start with an open parenthesis.
+
 ## References
 
 References are in pseudo form of the Oxford Style.  I prune some stuff that isn't necessary (e.g. who cares about the publisher these days, lots of books are self-published).  See [this site](http://guides.library.uwa.edu.au/c.php?g=325241&p=2177430) for examples.
@@ -43,7 +45,6 @@ Book names which are present in the titles of document are surrounded by quotes,
 ## Open Issues
 
 - Test RSS feed
-- Improved formatting for parenthetical citations after block quotes
 - Make the sitemap more sophisticated
 
 ## Known Issues
