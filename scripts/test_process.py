@@ -59,9 +59,20 @@ def test_hidden_citation():
 def test_poetry_empty_citation():
     assert_translate([
         '> One',
-        '> =',
+        '> ~',
     ], [
         '<blockquote class="poetry">',
+        '<p>One</p>',
+        '</blockquote>',
+    ])
+
+
+def test_prose_empty_citation():
+    assert_translate([
+        '> One',
+        '> =',
+    ], [
+        '<blockquote class="prose">',
         '<p>One</p>',
         '</blockquote>',
     ])
@@ -85,7 +96,7 @@ def test_poetry_blank_lines():
         '> Two',
         '>',
         '> Three',
-        '> =',
+        '> ~',
     ], [
         '<blockquote class="poetry">',
         '<p>One</p>',
@@ -106,10 +117,21 @@ def test_italics_in_quote():
     ])
 
 
+def test_italics_in_prose_quote():
+    assert_translate([
+        '> One *then* two',
+        '> =',
+    ], [
+        '<blockquote class="prose">',
+        '<p>One <em>then</em> two</p>',
+        '</blockquote>',
+    ])
+
+
 @pytest.mark.xfail
 def test_italics_in_quote_w_asterisk():
     assert_translate([
-        '> One *then\* two*',
+        r'> One *then\* two*',
     ], [
         '<blockquote>',
         '<p>One <em>then* two</em></p>',

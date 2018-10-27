@@ -132,6 +132,14 @@ blockquote > p.indent {
   text-indent: -1.5em;
 }
 
+.prose > p {
+  margin: 0;
+}
+
+.prose > p:not(:first-child) {
+  text-indent: 1em;
+}
+
 /*
  * This style ensures that there is the correct spacing between a <cite> and
  * the previous <p> tag, both in regular blockquotes and in poetry blockquotes.

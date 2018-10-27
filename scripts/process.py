@@ -30,16 +30,19 @@ def translate_markdown(lines, printer):
 def translate_quote(lines, printer):
     assert len(lines) > 0
     pruned_lines = [strip_quoting(line) for line in lines]
-    is_poetry = pruned_lines[-1].startswith('=')
+    is_poetry = pruned_lines[-1].startswith('~')
+    is_prose = pruned_lines[-1].startswith('=')
     if is_poetry:
         printer('<blockquote class="poetry">')
+    elif is_prose:
+        printer('<blockquote class="prose">')
     else:
         printer('<blockquote>')
 
     for line in pruned_lines:
-        if line.startswith('- ') or line.startswith('= '):
+        if line.startswith('- ') or line.startswith('= ') or line.startswith('~ '):
             printer('<cite>— ' + process_line(line[2:]) + '</cite>')
-        elif line == '=':
+        elif line == '=' or line == '~':
             continue
         elif line.startswith('  '):
             printer('<p class="indent">' + process_line(line[2:]) + '</p>')

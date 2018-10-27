@@ -112,4 +112,4 @@ Here are a few excerpts from the Toby Wilkinson translation of the *Teaching of 
 > then suppression of wrongdoing remains a good deed.
 > Punishment that is not deserved
 > turns a complainant into an opponent.
-> =
+> ~

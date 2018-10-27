@@ -45,7 +45,7 @@ Hesiod appears to believe that the Muses---the nine daughters of Zeus and Memory
 >
 > Tell me these things, Olympian Muses,
 > From the beginning, and tell which of them came first. (Th. 23--35, 103--25)
-> =
+> ~
 
 Hesiod then proceeds to tell the story of how the gods came about, *The Theogony*.
 
@@ -54,7 +54,7 @@ _The Theogony_ tells of great events at the beginning of the world, which Hesiod
 > That's the sum of my experience with pegged & dowelled ships.
 > Still, I can teach you the mind of Zeus the Storm King,
 > Since the Muses have taught me ineffable song.
-> = Works and Days, 731--733
+> ~ Works and Days, 731--733
 
 It appears that Hesiod is making up stories while simultaneously believing they are true!
 
@@ -82,7 +82,7 @@ Similar processes may explains the origin of many religious ideas.
 > With that neighbor in a race to get rich.
 >
 > Strife like this does people good.
-> = Works and Days, 21 – 37
+> ~ Works and Days, 21 – 37
 
 TODO: add other quote about something being a god
 
@@ -111,7 +111,7 @@ Hesiod appears to create gods as he goes, sometimes filling them in as necessary
 > That's the sum of my experience with pegged & dowelled ships.
 > Still, I can teach you the mind of Zeus the Storm King,
 > Since the Muses have taught me ineffable song.
-> = Works and Days, 731 – 733
+> ~ Works and Days, 731 – 733
 
 ## Comparisons with Other Religions
 
