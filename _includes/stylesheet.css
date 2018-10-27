@@ -91,12 +91,6 @@ blockquote {
   padding-right: 1.0rem;
 }
 
-@media (max-width: 504px) {
-  blockquote {
-    padding-right: 0;
-  }
-}
-
 /*
  * Block quotes with poetry have a separate <p> for each line of verse, with a
  * <br> in between.  We need a separate <p> for each line so that we can
@@ -214,17 +208,30 @@ ul, ol {
      */
     font-family: Helvetica, Aria, sans-serif;
   }
-
-  body {
-    padding: 0 0.5rem 0.5rem 0.5rem;
-  }
 }
 
 /*
- * 576px = (0.5rem body padding + 34rem main + 0.5rem body padding)*14px
+ * 504px = (1rem body padding + 34rem main + 1rem body padding)*14px
  */
 @media (max-width: 490px) {
   html {
     font-size: 13px;
+  }
+}
+
+/*
+ * 468px = (1rem body padding + 34rem main + 1rem body padding)*13px
+ */
+@media (max-width: 468px) {
+
+  /*
+   * At very small screen sizes, remove unnecessary padding in block quotes
+   * and instead make the color a bit dimmer to set them off from the main
+   * text.
+   */
+  blockquote {
+    padding-right: 0;
+    padding-left: 0;
+    color: #888;
   }
 }
