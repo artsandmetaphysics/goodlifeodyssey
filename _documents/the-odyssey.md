@@ -39,6 +39,8 @@ Here is an outline:
 2. The assembly at Ithaca; Telemachus secretly sets sail
 3. Nestor recalls his return; sacrifice to Athena; departure for Lacedaemon
 4. Menelaus recalls his return; the suitors plot their ambush
+5. Hermes visits Calypso; Odysseus builds a raft, sails, then swims to Phaeacia
+6. Athena guides the princess to bring aid to Odysseus
 
 ## Justice, Morality, and the Gods
 
@@ -211,6 +213,17 @@ Helen uses a strange drug while feasting with Menelaus, Telemachus, and Pisastra
 <p>not even if his mother should die, his father die,</p>
 <p>not even if right before his eyes some enemy brought down</p>
 <p>a brother or darling son with a sharp bronze blade. <cite>(4.218–25)</cite></p>
+</blockquote>
+
+In Odysseus’ speech to the princess Nausicaa, he describes the ideal marriage:
+
+<blockquote class="poetry">
+<p>“And may the good gods give you all your heart desires:</p>
+<p>husband, and house, and lasting harmony too.</p>
+<p>No finer, greater gift in the world than that…</p>
+<p>when man and woman possess their home, two minds,</p>
+<p>two hearts that work as one. Despair to their enemies,</p>
+<p>a joy to all their friends.  Their own best claim to glory.” <cite>(6.180–4)</cite></p>
 </blockquote>
 
 *All quotations are taken from Robert Fagle’s 1996 excellent translation of the* Odyssey. *Line numbers are approximate.*
