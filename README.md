@@ -29,7 +29,7 @@ The final line of a quote indicates whether it is poetry and may contain a citat
 - Quote with citation: `- This is a non-poetry quote`
 - Poetry with citation: `~ This is poetry`
 - Poetry without a citation `~`
-- Prose with citation: `= This is poetry`
+- Prose with citation: `= This is prose`
 - Prose without a citation `=`
 
 Inline citations must start with an open parenthesis.
