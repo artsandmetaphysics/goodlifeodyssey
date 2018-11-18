@@ -17,6 +17,8 @@ order: 10
 1. Berlioz and Homeless discuss Jesus' existence with a stranger
 2. The stranger recalls Jesus' trial before Pontius Pilate
 3. Berlioz slips and is decapitated by a tram car
+4. Homeless chases then searches for the stranger; he losses is cloths
+5. 
 
 ## Characters
 
@@ -24,9 +26,39 @@ order: 10
 
 **Ivan Nikolaevich Ponyrev** is a young, broad-shouldered poet who writes under the pseudonym Homeless.
 
+**The Choirmaster** is Wooland's henchman; seven feet tall and unbelievably thin, he has a jeering face.
+
 **Wooland** is the devil. His left teeth have platinum crowns, his right have gold, his right eye is black, his left green, he has dark hair and appears to be a little over 40.
 
 **Yeshua Ha-Nozri**, Wooland's depiction of Jesus.  Yeshua is Aramaic for "Lord of Salvation" and Ha-Nozri means "of Nazareth."
+
+The twelve Massolit members waiting for Berlioz at Griboedov's:
+
+**Beskudnikov** the belletrist is a quiet, decently dressed man with attentive and at the same time elusive eyes.
+
+**Dvubratsky** is a poet.
+
+**Nastasya Lukinishna Nepremenova** the writer of sea battle stories is the orphan of a merchant.  She is very fat and writes under the pen-name Bos'n George.
+
+**Zagrivov** is the author of popular sketches.
+
+**Ieronym Poprikhin** is a novelist.
+
+**Abobkov** is a critic.
+
+**Glukharev**  is a scenarist.
+
+**Deniskin** we know very little about.
+
+**Quant** we know very little about.
+
+**Tamara Polumesyats** is a poetess.
+
+**Zhukopov** is a novelist.
+
+**Drugunksy** we know little about.
+
+**Cherdakchi** we know little about.
 
 ## Quotes
 
