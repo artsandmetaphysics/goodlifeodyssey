@@ -40,6 +40,10 @@ Here is an outline:
 4. Menelaus recalls his return; the suitors plot their ambush
 5. Hermes visits Calypso; Odysseus builds a raft, sails, then swims to Phaeacia
 6. Athena guides the princess to bring aid to Odysseus
+7. King Alcinous promises to bring Odysseus home
+8. Athletic games; song of Ares and Aphrodite; songs of Troy
+9. Encounter in Cyclops' cave; Odysseus is cursed
+10. The winds take Odysseus home and away again; Laestrygonians destroy most of the fleet; a year with Circe
 
 ## Justice, Morality, and the Gods
 
@@ -161,34 +165,22 @@ The Greeks did not treat women well.
 > the clear good sense in what her son had sad.
 > ~ (1.355--62)
 
-## The Interactions of Gods and Humans
+## The Muses
 
-As doppelgängers:
+Homer, like Hesiod, implies that the Muse provides divine inspiration to bards.
 
-- Athena as Mentes (1.104)
-- Athena as Mentor (2.267)
-- Athena as Telemachus (2.383)
-- Athena as Mentor again (2.401)
-
-Through signs:
-
-- Zeus sends an eagle to the assembly (2.146)
-
-Through natural forces:
-
-- Athena provides wind (2.419)
-
-Through human physiology:
-
-- Athena gives Telemachus courage (1.320)
-- Athena seals Penelope's eyes (1.364)
-- Athena makes Telemachus splendid (2.12)
-
-Also, here is how the Greeks in the story believed the gods interacted with them:
-
-- Aegyptius believed Zeus could speed the summoner to a happy end (2.32)
-- Antinous believed Athena gave Penelope gifts (2.115)
-- Telemachus believed Zeus would send a rumor (2.216)
+> "I respect you, Demodocus, more than any man alive---
+> surely the Muse has taught you, Zeus's daugther,
+> or god Apollo himself.  How true to life,
+> all too true ... you sing the Achaeans' fate,
+> all they did and suffered, all they soldiered through,
+> as if you were there yourself or heard from one who was."
+> ...
+> Stirred now by the Muse, the bard launched out
+> in a fine blaze of song, starting at just the point
+> where the main Achaean force, setting their camps afire,
+> hard boarded the oarswept ships and sailed for home ...
+> ~ (8.486--501)
 
 ## Other Interesting Quotes
 
@@ -214,5 +206,31 @@ In Odysseus' speech to the princess Nausicaa, he describes the ideal marriage:
 > two hearts that work as one. Despair to their enemies,
 > a joy to all their friends.  Their own best claim to glory."
 > ~ (6.180--4)
+
+Odysseus' description of hunger:
+
+> "But despite my misery, let me finish dinner.
+> The belly's a shameless dog, there's nothing worse.
+> Always insisting, pressing, it never lets us forget---
+> destroyed as I am, my heart racked with sadness,
+> sick with anguish, still it keeps demanding,
+> 'Eat, drink!' It blots out all the memory
+> of my pain, commanding, 'Fill me up!'"
+> ~ (7.214-20)
+
+Odysseus is cursed by the Cyclops---causing his journey home to be so long:
+
+> "Hear me---
+> Poseidon, god of the sea-blue mane who rocks the earth!
+> If I really am your son and you claim to be my father---
+> come, grant that Odysseus, raider of cities,
+> Laertes' son who makes his home in Ithaca,
+> never reaches home.  Or if he's fated to see
+> his people once again and reach his well-built house
+> and his own native country, let him come home late
+> and come a broken man---all shipmates lost,
+> alone in a stranger's ship---
+> and let him find a world of pain at home!"
+> ~ (9.527--35)
 
 *All quotations are taken from Robert Fagle's 1996 excellent translation of the* Odyssey. *Line numbers are approximate.*
