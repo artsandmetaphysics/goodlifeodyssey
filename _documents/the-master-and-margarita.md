@@ -17,6 +17,12 @@ order: 10
 1. Berlioz and Homeless discuss Jesus’ existence with a stranger
 2. The stranger recalls Jesus’ trial before Pontius Pilate
 3. Berlioz slips and is decapitated by a tram car
+4. Homeless chases then searches for the stranger; he losses is cloths
+5. Massolit members wait for Berlioz; Homeless barges in and is arrested
+6. Enraged Homeless is sedated at the clinic, and sent to the country
+7. Styopa wakes hungover, and Wooland takes his theater and apartment
+8. Homeless wakes at the country hospital, and is convinced to stay
+9. Bosoy is vanished by Wooland, after checking Berlioz’s apartment
 
 ## Characters
 
@@ -24,9 +30,23 @@ order: 10
 
 **Ivan Nikolaevich Ponyrev** is a young, broad-shouldered poet who writes under the pseudonym Homeless.
 
+**Koroviev**, or the choirmaster, is Wooland’s henchman; seven feet tall and unbelievably thin, he has a jeering face.
+
 **Wooland** is the devil. His left teeth have platinum crowns, his right have gold, his right eye is black, his left green, he has dark hair and appears to be a little over 40.
 
 **Yeshua Ha-Nozri**, Wooland’s depiction of Jesus.  Yeshua is Aramaic for “Lord of Salvation” and Ha-Nozri means “of Nazareth.”
+
+**The Giant Cat** is Wooland’s companion.
+
+**Riukhin** is Homeless’s friend and a phony poet, who tries to help him at the clinic but is rejected.
+
+**Stepan Bogdanovich Likhodeev**, or Styopa for short, is the director of the Variety Theatre, and Berlioz’s roommate.
+
+**The Redhead** is a wooland companion; he is short but extraordinarily broad-shouldered; he wears a bowler hat, has flaming red hair, a fang, and is quite ugly.
+
+**Doctor Stravinksy** is the friendly psychiatrist at the country hospital.
+
+**Nikanor Ivanovich Bosoy** is the chairman of the tenants’ association where Berlioz and Styopa lived.
 
 ## Quotes
 
@@ -62,6 +82,26 @@ Bulgakov’s interpolation of John 18:38, when Pilate asks Jesus “What is Trut
 <p>And here the procurator thought: “Oh, my gods! I’m asking him about something unnecessary at a trial … my reason no longer serves me …” And again he pictured a cup of dark liquid. “Poison, bring me poison…”</p>
 <p>And again he heard the voice:</p>
 <p>“The truth is, first of all, that your head aches, and aches so badly that you’re having faint-hearted thoughts of death. You’re not only unable to speak to me, but it is even hard for you to look at me.  And I am now your unwilling torturer, which upsets me.  You can’t even think about anything and only dream that your dog should come, apparently the one being you are attached to. But your suffering will soon be over, your headache will go away.” <cite>(p. 21)</cite></p>
+</blockquote>
+
+Bulgakov’s disdain for the mystics:
+
+<blockquote class="prose">
+<p>But no, no! The seductive mystics are lying, there are no Caribbean Seas in the world, no desperate freebooters sail them, no corvette chases after them, no cannon smoke drifts across the waves.  There is nothing, and there was nothing! There is that sickly linden over there, there is the cast-iron fence, and the boulevard beyond it … And the ice is melting in the bowl, and at the next table you see someone’s bloodshot, bovine eyes, and you’re afraid, afraid … Oh, gods, my gods, poison, bring me poison! … <cite>(p. 58)</cite></p>
+</blockquote>
+
+Bulgakov’s describes how Berlioz’s death is received:
+
+<blockquote class="prose">
+<p>Yes, he’s dead, dead … But, we, we’re alive!</p>
+<p>Yes, a wave of grief billowed up, held out for a while, but then began to subside, and somebody went back to his table and—sneakily at first, then openly—drank a little vodka and ate a bite. And, really, can one let chicken cutlets de volaille perish? How can we help Mikhail Alexandrovich? By going hungry? But, after all, we’re alive! <cite>(p. 59)</cite></p>
+</blockquote>
+
+The various schemes to get Berlioz’s living space:
+
+<blockquote class="prose">
+<p>The news of Berlioz’s death spread through the whole house with a sort of supernatural speed, and as of seven o’clock Thursday morning, Bosoy began to receive telephone calls and then personal visits with declarations containing claims to the deceased’s living space.  In the period of two hours, Nikanor Ivanovich received thirty-two such declarations.</p>
+<p>They contained pleas, threats, libels, denunciations, promises to do renovations at their expense, references to unbearable over-crowding and the impossibility of living in the same apartment with bandits. Among others there were a description, staggering in its artistic power, of the theft from the apartment no. 31 of some meat dumplings, tucked directly into the pocket of a suit jacket, two vows to end life by suicide and one confession of secret pregnancy. <cite>(p. 92)</cite></p>
 </blockquote>
 
 *All quotes are from the 1997 translation by Richard Pevear and Larissa Volokhonsky.*
