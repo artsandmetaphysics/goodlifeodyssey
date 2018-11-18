@@ -21,22 +21,28 @@ The poetic aspect comes to the fore when we start talking about the world.  It c
 2. All good ways of talking must be consistent with one another and with the world.
 3. Our purposes in the moment determine the best way of talking.
 
-Carrol's discussion of determinism provides an example of how poetic naturalism works:
+Carrol's discussion of determinism provides an example of how poetic naturalism combines deep ontological truths about underlying reality with the practical and useful ways that we speak day-to-day:
 
-> Perhaps Laplace's greatest contribution to our understanding of mechanics was not a technical or mathematical advance, but a philosophical one.  He realized that there was a simple answer to the question "What determines what will happen next?" And the answer is "The state of the universe right now."
+> Perhaps Laplace's greatest contribution to our understanding of mechanics was not a technical or mathematical advance, but a philosophical one.  He realized that there was a simple answer to the question "What determines what will happen next?" And the answer is "The state of the universe right now." ...
 >
-> We know that the quantum state of a system, left alone, evolves in a perfectly deterministic fashion, free even of the rare but annoying examples of non-determinism that we can find in classical mechanics.  But when we *observe* a system, it seems to behave randomly, rather than deterministically.
+> We know that the quantum state of a system, left alone, evolves in a perfectly deterministic fashion, free even of the rare but annoying examples of non-determinism that we can find in classical mechanics.  But when we *observe* a system, it seems to behave randomly, rather than deterministically. ...
 >
 > The momentary or Laplacian nature of physical evolution doesn't have much relevance for the choices we face in our everyday lives.  For poetic naturalism, the situation is clear.  There is one way of talking about the universe that describes it as elementary particles or quantum states, in which Laplace holds sway and what happens next depends only on the state of the system right now.  There is also another way of talking about it, where we zoom out a bit and introduce categories like "people" and "choices."  Unlike our best theory of planets or pendulums, our best theories of human behavior are not deterministic.  We don't know any way to predict what a person will do based on what we can readily observe about their current state.  Whether we think of human behavior as determined depends on what we know.
 > = (chpt. 4)
 
-Carroll's discussion of determinism is oversimplified.  The concept of the "system" and the "surroundings" are useful for modeling reality and writing equations for small parts of it, but they are just words we use in our models.  Thus, what does it mean to say the system is deterministic except when you observe it?  We want to know whether the entire universe is deterministic or not.  If there are parts of the universe that are not deterministic, even only occasionally when we "observer" them, then then entire universe is not deterministic.  Determinism is an all-or-nothing phenomena.
+Carroll's presentation of determinism is deceptively oversimplified.  I believe his claim that the world is deterministic is only true within one of several interpretations of quantum mechanics.  There is no scientific consensus as to whether the universe is deterministic or not.  A great deal of debate still surrounds the so-called "collapse of the wave function" and the "measurement problem."
+
+The Copenhagen interpretation of quantum mechanics says that physical systems do not generally have definite properties prior to being "measured," and only the act of measuring them causes them to taken on certain states.  The Copenhagen interpretation has several problems.
+
+The concept of the "system" and the "surroundings" are useful for modeling reality and writing equations for small parts of it, but they are not fundamental to our ontology.  Thus, what does it mean to say the system is deterministic except when you observe it?  We want to know whether the entire universe is deterministic or not.  If there are parts of the universe that are not deterministic, even only occasionally when we "observer" them, then then entire universe is not deterministic.  Determinism is an all-or-nothing phenomena.
 
 Could we consider the entire universe as "the system," such that there is no outside observer who could introduce randomness by "collapsing the wave function"?  If this is possible then why does the act of dividing the universe into system and surroundings introduce randomness?  It would appear that it can not.
 
-It seems that there is growing consensus that the "collapse of the wave function" and its associated randomness are simply useful ways of speaking about the connection between a complex environment and the simple experiments that we can perform.  If I understand correctly, this approach is called "quantum decoherence."
+One alternative to the Copenhagen interpretation is put forward by proponents of quantum decoherence.  In this way of thinking, the "collapse of the wave function" and the "randomness" involved are simply useful ways of speaking about our incomplete knowledge of the environment's very complicated wave function.  Thus, there is no randomness involved.  Quantum decoherence avoids making "measurements" and the "system" part of our ontology, which I find convincing.  Quantum decoherence results in a deterministic universe.
 
-As best I can tell, there is no scientific consensus as to whether the universe is deterministic or not.
+Other alternatives to the Copenhagen interpretation exist, such as the objective-collapse theories, which may or may not result in a deterministic universe.
+
+Thus, Carroll conveniently presents his minority-view as if it were the consensus of the scientific community.
 
 I enjoyed Carroll's discussion about the arrow of time:
 
@@ -57,9 +63,9 @@ I enjoyed Carroll's discussion about the arrow of time:
 > What we know is that this initially low entropy is responsible for the "thermodynamic" arrow of time, the one that says entropy was lower towards the past and higher toward the future.  Amazingly, it seems that this property of entropy is responsible for *all* of the differences between past and future that we know about.  Memory, aging, cause and effect---all can be traced to the second law of thermodynamics and in particular to the fact that entropy used to be low in the past.
 > = (chpt. 7)
 
-I think that Carroll is simplifies his presentation somewhat; I think the standard model is not "time symmetric," but instead is "charge, parity, and time symmetric."  I believe that the general conclusions are the same either way.
+Carroll oversimplifies his presentation---the standard model is not "time symmetric," but instead is "charge, parity, and time symmetric."  I believe this distinction does not affect the conclusions Carroll draws, however.
 
-It is especially interesting to note that "cause and effect" are not fundamental entities within modern physics---they are just useful ways of speaking about reality.  A useful definition of cause is presented:
+It is interesting to consider that "cause and effect" are not fundamental entities---they are just useful ways of speaking about reality, like entropy and heat are.  Carroll mentions a useful way of defining a "cause":
 
 > We can make sense of statements like "A causes B" by thinking of different possible worlds: in particular, worlds that were essentially the same except for whether the event A actually occurred.  Then, if we see that B occurs in all the worlds where A occurred, and B does not occur when A does not occur, it's safe to say "A causes B."
 > = (chpt. 8)

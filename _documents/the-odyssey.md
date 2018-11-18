@@ -174,6 +174,21 @@ The Greeks did not treat women well.
 <p>the clear good sense in what her son had sad. <cite>(1.355–62)</cite></p>
 </blockquote>
 
+## The Good Life
+
+<blockquote class="poetry">
+<p>Alcinous, majesty, shining amoung your island people,</p>
+<p>what a fine thing it is to listen to such a bard</p>
+<p>as we have here—the man sings like a god.</p>
+<p>The crown of life, I’d say.  There’s nothing better</p>
+<p>than when deep joy holds sway throughout the realms</p>
+<p>and banqueters up and down the palace sit in ranks,</p>
+<p>enthralled to hear the bard, and before them all, the tables</p>
+<p>heaped with bread and meats, and drawing wine from a mixing-bowl</p>
+<p>the steward makes his rounds and keeps the winecups flowing.</p>
+<p>This, to my mind, is the best that life can offer. <cite>(9.2–10)</cite></p>
+</blockquote>
+
 ## The Muses
 
 Homer, like Hesiod, implies that the Muse provides divine inspiration to bards.
