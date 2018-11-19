@@ -34,7 +34,7 @@ Carroll's presentation of determinism is deceptively oversimplified.  I believe 
 
 The Copenhagen interpretation of quantum mechanics says that physical systems do not generally have definite properties prior to being "measured," and only the act of measuring them causes them to taken on certain states.  The Copenhagen interpretation has several problems.
 
-The concept of the "system" and the "surroundings" are useful for modeling reality and writing equations for small parts of it, but they are not fundamental to our ontology.  Thus, what does it mean to say the system is deterministic except when you observe it?  We want to know whether the entire universe is deterministic or not.  If there are parts of the universe that are not deterministic, even only occasionally when we "observer" them, then then entire universe is not deterministic.  Determinism is an all-or-nothing phenomena.
+The concept of the "system" and the "surroundings" are useful for modeling reality and writing equations for small parts of it, but they are not fundamental to our ontology.  Thus, what does it mean to say the system is deterministic except when you observe it?  We want to know whether the entire universe is deterministic or not.  If there are parts of the universe that are not deterministic, even only occasionally when we "observer" them, then the entire universe is not deterministic.  Determinism is an all-or-nothing phenomena.
 
 Could we consider the entire universe as "the system," such that there is no outside observer who could introduce randomness by "collapsing the wave function"?  If this is possible then why does the act of dividing the universe into system and surroundings introduce randomness?  It would appear that it can not.
 

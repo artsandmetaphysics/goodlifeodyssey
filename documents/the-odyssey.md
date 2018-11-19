@@ -44,6 +44,8 @@ Here is an outline:
 8. Athletic games; song of Ares and Aphrodite; songs of Troy
 9. Encounter in Cyclops' cave; Odysseus is cursed
 10. The winds take Odysseus home and away again; Laestrygonians destroy most of the fleet; a year with Circe
+11. Odysseus talks to ghosts in the kingdom of the dead
+12. Return to Circe; the Sirens; Scylla and Charybdis; Helios' cattle; Calypso
 
 ## Justice, Morality, and the Gods
 
@@ -165,9 +167,23 @@ The Greeks did not treat women well.
 > the clear good sense in what her son had sad.
 > ~ (1.355--62)
 
+Agamemnon's ghost's rant against women:
+
+> "'But she---
+> the queen hell-bent on outrage---bathes in shame
+> not only herself but the whole breed of womankind,
+> even the honest ones to come, forever down the years!'"
+> So he declared and I cried out, 'How terrible!
+> Zeus from the very start, the thunder king
+> has hated the race of Atreus with a vengeance---
+> his trustiest weapon women's twisted wiles.
+> What armies of us died for the sake of Helen...
+> Clytemnestra schemed your death while you were worlds away!'"
+> ~ (11.432--40)
+
 ## The Good Life
 
-> Alcinous, majesty, shining amoung your island people,
+> Alcinous, majesty, shining among your island people,
 > what a fine thing it is to listen to such a bard
 > as we have here---the man sings like a god.
 > The crown of life, I'd say.  There's nothing better
@@ -184,7 +200,7 @@ The Greeks did not treat women well.
 Homer, like Hesiod, implies that the Muse provides divine inspiration to bards.
 
 > "I respect you, Demodocus, more than any man alive---
-> surely the Muse has taught you, Zeus's daugther,
+> surely the Muse has taught you, Zeus's daughter,
 > or god Apollo himself.  How true to life,
 > all too true ... you sing the Achaeans' fate,
 > all they did and suffered, all they soldiered through,
@@ -246,5 +262,34 @@ Odysseus is cursed by the Cyclops---causing his journey home to be so long:
 > alone in a stranger's ship---
 > and let him find a world of pain at home!"
 > ~ (9.527--35)
+
+Achilles in the underworld:
+
+> "'But you, Achilles,
+> there's not a man in the world more blest than you---
+> there never has been, never will be one.
+> Time was, when you were alive, we Argives
+> honored you as a god, and now down here, I see,
+> you lord it over the dead in all your power.
+> So grieve no more at dying, great Achilles.'
+> I reassured the ghost, but he broke out, protesting,
+> 'No winning words about death to *me*, shining Odysseus!
+> By god, I'd rather slave on earth for another man---
+> some dirt-poor tenant farmer who scrapes to keep alive---
+> than rule down here over all the breathless dead.'"
+> ~ (11.482--92)
+
+Sisyphus in the underworld:
+
+> "And I saw Sisyphus too, bound to his own torture,
+> grappling his monstrous boulder with both arms working,
+> heaving, hands struggling, legs driving, he kept on
+> thrusting the rock uphill toward the brink, but just
+> as it teetered, set to topple over---time and again
+> the immense weight of the thing would wheel it back and
+> the ruthless boulder would bound and tumble down to the plain again---
+> so once again he would heave, would struggle to thrust it up,
+> sweat drenching his body, dust swirling above his head."
+> ~ (11.593--600)
 
 *All quotations are taken from Robert Fagle's 1996 excellent translation of the* Odyssey. *Line numbers are approximate.*

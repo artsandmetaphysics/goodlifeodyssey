@@ -45,6 +45,8 @@ Here is an outline:
 8. Athletic games; song of Ares and Aphrodite; songs of Troy
 9. Encounter in Cyclops’ cave; Odysseus is cursed
 10. The winds take Odysseus home and away again; Laestrygonians destroy most of the fleet; a year with Circe
+11. Odysseus talks to ghosts in the kingdom of the dead
+12. Return to Circe; the Sirens; Scylla and Charybdis; Helios’ cattle; Calypso
 
 ## Justice, Morality, and the Gods
 
@@ -174,10 +176,25 @@ The Greeks did not treat women well.
 <p>the clear good sense in what her son had sad. <cite>(1.355–62)</cite></p>
 </blockquote>
 
+Agamemnon’s ghost’s rant against women:
+
+<blockquote class="poetry">
+<p>“‘But she—</p>
+<p>the queen hell-bent on outrage—bathes in shame</p>
+<p>not only herself but the whole breed of womankind,</p>
+<p>even the honest ones to come, forever down the years!’”</p>
+<p>So he declared and I cried out, ‘How terrible!</p>
+<p>Zeus from the very start, the thunder king</p>
+<p>has hated the race of Atreus with a vengeance—</p>
+<p>his trustiest weapon women’s twisted wiles.</p>
+<p>What armies of us died for the sake of Helen…</p>
+<p>Clytemnestra schemed your death while you were worlds away!’” <cite>(11.432–40)</cite></p>
+</blockquote>
+
 ## The Good Life
 
 <blockquote class="poetry">
-<p>Alcinous, majesty, shining amoung your island people,</p>
+<p>Alcinous, majesty, shining among your island people,</p>
 <p>what a fine thing it is to listen to such a bard</p>
 <p>as we have here—the man sings like a god.</p>
 <p>The crown of life, I’d say.  There’s nothing better</p>
@@ -195,7 +212,7 @@ Homer, like Hesiod, implies that the Muse provides divine inspiration to bards.
 
 <blockquote class="poetry">
 <p>“I respect you, Demodocus, more than any man alive—</p>
-<p>surely the Muse has taught you, Zeus’s daugther,</p>
+<p>surely the Muse has taught you, Zeus’s daughter,</p>
 <p>or god Apollo himself.  How true to life,</p>
 <p>all too true … you sing the Achaeans’ fate,</p>
 <p>all they did and suffered, all they soldiered through,</p>
@@ -260,6 +277,37 @@ Odysseus is cursed by the Cyclops—causing his journey home to be so long:
 <p>and come a broken man—all shipmates lost,</p>
 <p>alone in a stranger’s ship—</p>
 <p>and let him find a world of pain at home!” <cite>(9.527–35)</cite></p>
+</blockquote>
+
+Achilles in the underworld:
+
+<blockquote class="poetry">
+<p>“‘But you, Achilles,</p>
+<p>there’s not a man in the world more blest than you—</p>
+<p>there never has been, never will be one.</p>
+<p>Time was, when you were alive, we Argives</p>
+<p>honored you as a god, and now down here, I see,</p>
+<p>you lord it over the dead in all your power.</p>
+<p>So grieve no more at dying, great Achilles.’</p>
+<p>I reassured the ghost, but he broke out, protesting,</p>
+<p>‘No winning words about death to <em>me</em>, shining Odysseus!</p>
+<p>By god, I’d rather slave on earth for another man—</p>
+<p>some dirt-poor tenant farmer who scrapes to keep alive—</p>
+<p>than rule down here over all the breathless dead.’” <cite>(11.482–92)</cite></p>
+</blockquote>
+
+Sisyphus in the underworld:
+
+<blockquote class="poetry">
+<p>“And I saw Sisyphus too, bound to his own torture,</p>
+<p>grappling his monstrous boulder with both arms working,</p>
+<p>heaving, hands struggling, legs driving, he kept on</p>
+<p>thrusting the rock uphill toward the brink, but just</p>
+<p>as it teetered, set to topple over—time and again</p>
+<p>the immense weight of the thing would wheel it back and</p>
+<p>the ruthless boulder would bound and tumble down to the plain again—</p>
+<p>so once again he would heave, would struggle to thrust it up,</p>
+<p>sweat drenching his body, dust swirling above his head.” <cite>(11.593–600)</cite></p>
 </blockquote>
 
 *All quotations are taken from Robert Fagle’s 1996 excellent translation of the* Odyssey. *Line numbers are approximate.*
