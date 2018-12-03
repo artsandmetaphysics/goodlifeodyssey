@@ -46,6 +46,10 @@ Here is an outline:
 10. The winds take Odysseus home and away again; Laestrygonians destroy most of the fleet; a year with Circe
 11. Odysseus talks to ghosts in the kingdom of the dead
 12. Return to Circe; the Sirens; Scylla and Charybdis; Helios' cattle; Calypso
+13. Athena greets Odysseus on Ithaca; Poseidon turns the Phaeacians to stone
+14. Disguised Odysseus talks to the loyal swineherd Eumaeus
+15. Telemachus returns home; Eumaeus tells his story
+16. Odysseus meets Telemachus; they plan their revenge on the suitors
 
 ## Justice, Morality, and the Gods
 
