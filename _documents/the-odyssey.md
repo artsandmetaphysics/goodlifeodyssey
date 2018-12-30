@@ -43,14 +43,22 @@ Here is an outline:
 6. Athena guides the princess to bring aid to Odysseus
 7. King Alcinous promises to bring Odysseus home
 8. Athletic games; song of Ares and Aphrodite; songs of Troy
-9. Encounter in Cyclops’ cave; Odysseus is cursed
-10. The winds take Odysseus home and away again; Laestrygonians destroy most of the fleet; a year with Circe
+9. Encounter in Polyphemus the Cyclops’ cave; Odysseus is cursed
+10. Blown home and back; Laestrygonians destroy the fleet; a year with Circe
 11. Odysseus talks to ghosts in the kingdom of the dead
 12. Return to Circe; the Sirens; Scylla and Charybdis; Helios’ cattle; Calypso
 13. Athena greets Odysseus on Ithaca; Poseidon turns the Phaeacians to stone
 14. Disguised Odysseus talks to the loyal swineherd Eumaeus
-15. Telemachus returns home; Eumaeus tells his story
-16. Odysseus meets Telemachus; they plan their revenge on the suitors
+15. Telemachus returns with gifts and a seer; Eumaeus’ story
+16. Odysseus and Telemachus meet and plan revenge; the suitors conspire
+17. Mingling with the suitors
+18. Odysseus fights a hobo and chides the disloyal maidens
+19. Penelope questions disguised Odysseus; Eurycleia sees the scar
+20. Odysseus rests and receives omens; Apollo’s feast
+21. The trial of the bow; Odysseus signals the attack
+22. Slaughter of the suitors and the disloyal maidens
+23. Odysseus and Penelope reunited
+24. Achilles and Agamemnon greet the suitor’s ghosts; Odysseus and Laeretes; final battle and peace
 
 ## Justice, Morality, and the Gods
 
@@ -312,6 +320,47 @@ Sisyphus in the underworld:
 <p>the ruthless boulder would bound and tumble down to the plain again—</p>
 <p>so once again he would heave, would struggle to thrust it up,</p>
 <p>sweat drenching his body, dust swirling above his head.” <cite>(11.593–600)</cite></p>
+</blockquote>
+
+The swineherd Eumaeus and disguised Odysseus trading stories:
+
+<blockquote class="poetry">
+<p>“We two will keep to the shelter here, eat and drink</p>
+<p>and take some joy in each other’s heartbreaking sorrows,</p>
+<p>sharing each other’s memories. Over the years, you know,</p>
+<p>a man finds solace even in old sorrows, true, a man</p>
+<p>who’s weathered many blows and wandered many miles.” <cite>(15.398–402)</cite></p>
+</blockquote>
+
+The death of Argos:
+
+<blockquote class="poetry">
+<p>Infested with ticks, half-dead with neglect,</p>
+<p>here lay the hound, old Argos.</p>
+<p>But the moment he sensed Odysseus standing by</p>
+<p>he thumbed his tail, nuzzling low, and his ears dropped,</p>
+<p>though he had no strength to drag himself an inch</p>
+<p>toward his master.  Odysseus glanced to the side</p>
+<p>and flicked away a tear, hiding it from Eumaeus</p>
+<p>⋯</p>
+<p>With that he entered the well-constructed palace,</p>
+<p>strode through the halls and joined the proud suitors.</p>
+<p>But the dark shadow of death closed down on Argos’ eyes</p>
+<p>the instant he saw Odysseus, twenty years away. <cite>(17.300–27)</cite></p>
+</blockquote>
+
+Odysseus’ advice for the suitor Amphinomus:
+
+<blockquote class="poetry">
+<p>Of all that breathes and crawls across the earth,</p>
+<p>our mother earth breeds nothing feebler than a man.</p>
+<p>So long as the gods grant him power, spring in his knees,</p>
+<p>he thinks he will never suffer affliction down the years.</p>
+<p>But then, when the happy gods bring on the long hard times,</p>
+<p>bear them he must, against his will, and steel his heart.</p>
+<p>Our lives, our mood and mind as we pass across the earth,</p>
+<p>turn as the days turn…</p>
+<p>as the father of men and gods makes each day dawn. <cite>(18.130–7)</cite></p>
 </blockquote>
 
 *All quotations are taken from Robert Fagle’s 1996 excellent translation of the* Odyssey. *Line numbers are approximate.*
