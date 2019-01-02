@@ -26,7 +26,7 @@ order: 10
 10. Rimsky and Varenukha receive telegrams from Yalta; Varenukha is intercepted and brought to Wooland
 11. Ivan gives up writting a statement to the police, and accepts his situation
 12. Wooland’s first séance—cards, raining money, Bengalsky’s head, dresses, the exposure
-13.
+13. Ivan meets the Master and hears story of love and the rejected novel
 
 ## Characters
 
@@ -57,6 +57,8 @@ order: 10
 **Varenukha** is the administrator of the Variety Theater.
 
 **Georges Bengalsky** is the master of ceremonies for the Variety Theater.
+
+**The Master** is a writer, who wrote a book about Pontius Pilate and subsequently went insane.  At the time when Ivan meets him, he is a “clean shaven, dark-haired man of approximately thirty-eight, with a sharp nose, anxious [brown] eyes, and a wisp of hair hanging down on his forehead.”
 
 ## Motif: Reactions to the Supernatural
 
