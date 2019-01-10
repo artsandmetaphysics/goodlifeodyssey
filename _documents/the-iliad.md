@@ -32,13 +32,13 @@ The poem is about 16,000 lines of hexameter verse in the ancient Greek, and is s
 14. Hera distracts Zeus; Poseidon rallies; Ajax injures Hector
 15. Poseidon is dismissed; Apollo revives Hector and charges the ships
 16. The Myrmidons push back; Sarpedon dies; Patroclus dies
-17. Menelaus leads the fight for Patroclus’ body
+17. Menelaus leads the fight for Patroclus’s body
 18. Thetis and Achilles mourn; Hephaestus forges new armor
 19. Agamemnon and Achilles make amends, mourn, and arm
 20. The Olympian gods arm; Achilles fights Aeneas then Hector
 21. Achilles fights the river; the gods fight each other
 22. Priam laments; Achilles and Athena kill Hector
-23. Patroclus’ burial and funeral games
+23. Patroclus’s burial and funeral games
 24. The gods help Priam retrieve Hector’s body; Hector is buried
 
 ## The Gods
