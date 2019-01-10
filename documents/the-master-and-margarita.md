@@ -15,7 +15,7 @@ order: 10
 ## Outline
 
 1. Berlioz and Homeless discuss Jesus' existence with a stranger
-2. The stranger recalls Jesus' trial before Pontius Pilate
+2. (Jerusalem) The stranger recalls Jesus' trial before Pontius Pilate
 3. Berlioz slips and is decapitated by a tram car
 4. Homeless chases then searches for the stranger; he losses is cloths
 5. Massolit members wait for Berlioz; Homeless barges in and is arrested
@@ -24,9 +24,20 @@ order: 10
 8. Homeless wakes at the country hospital, and is convinced to stay
 9. Bosoy is vanished by Wooland, after checking Berlioz's apartment
 10. Rimsky and Varenukha receive telegrams from Yalta; Varenukha is intercepted and brought to Wooland
-11. Ivan gives up writting a statement to the police, and accepts his situation
+11. Ivan gives up writing a statement to the police, and accepts his situation
 12. Wooland's first séance---cards, raining money, Bengalsky's head, dresses, the exposure
 13. Ivan meets the Master and hears story of love and the rejected novel
+14. Rimsky is ambushed by the ghost of Varenukha, barely escaping when the cock crows
+15. Bosoy arrives at the asylum and dreams about the currency theater
+16. (Jerusalem) Jesus is executed; Matthew Levi attempts to relieve him
+17. The Variety closes; supernatural events follow its bookkeeper, who is eventually arrested
+18. Berlioz's uncle and the Variety's barman visit Wooland at Berlioz's apartment
+19. Margarita meets Azazello
+20. The magical cream turns Margarita into a beautiful which
+21. Margarita flies over Moscow and destroys the critic's apartment
+22. Margarita meets Wooland, who is playing chess with Behemoth
+23. Margarita greets guests at Wooland's super fantastical ball
+
 
 ## Characters
 
@@ -34,19 +45,19 @@ order: 10
 
 **Ivan Nikolaevich Ponyrev** is a young, broad-shouldered poet who writes under the pseudonym Homeless.
 
-**Koroviev**, or the choirmaster, or also Fagott, is Wooland's henchman; seven feet tall and unbelievably thin, he has a jeering face.
+**Koroviev**, also called Fagott, is Wooland's henchman; seven feet tall and unbelievably thin, he has a jeering face.
 
 **Wooland** is satan. His left teeth have platinum crowns, his right have gold, his right eye is black, his left green, he has dark hair and appears to be a little over 40.
 
 **Yeshua Ha-Nozri**, Wooland's depiction of Jesus.  Yeshua is Aramaic for "Lord of Salvation" and Ha-Nozri means "of Nazareth."
 
-**The Giant Cat** is Wooland's companion.
+**Pontous Pilate
 
-**Riukhin** is Homeless's friend and a phony poet, who tries to help him at the clinic but is rejected.
+**Behemoth** is a giant, walking, talking black cat who loves guns and alcohol.  He is one Wooland's companions.
 
 **Stepan Bogdanovich Likhodeev**, or Styopa for short, is the director of the Variety Theatre, and Berlioz's roommate.
 
-**The Redhead** is a wooland companion; he is short but extraordinarily broad-shouldered; he wears a bowler hat, has flaming red hair, a fang, and is quite ugly.
+**Azazello** is a wooland companion; he is short but extraordinarily broad-shouldered; he wears a bowler hat, has flaming red hair, a fang, and is quite ugly.
 
 **Doctor Stravinksy** is the friendly psychiatrist at the country hospital.
 
@@ -54,11 +65,15 @@ order: 10
 
 **Grigory Danilovich Rimsky** is the financial directory (findirector) of the Variety Theater.
 
-**Varenukha** is the administrator of the Variety Theater.
+**Ivan Savelyevich Varenukha** is the administrator of the Variety Theater.
 
 **Georges Bengalsky** is the master of ceremonies for the Variety Theater.
 
+**Vassily Stepanovich Lastochkin** is the bookkeeper at the Variety Theater.
+
 **The Master** is a writer, who wrote a book about Pontius Pilate and subsequently went insane.  At the time when Ivan meets him, he is a "clean shaven, dark-haired man of approximately thirty-eight, with a sharp nose, anxious [brown] eyes, and a wisp of hair hanging down on his forehead."
+
+**Margarita Nikolaevna** is a beautiful intelligent woman who lives in Moscow.
 
 ## Motif: Reactions to the Supernatural
 
