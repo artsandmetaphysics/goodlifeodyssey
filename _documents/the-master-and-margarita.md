@@ -32,12 +32,21 @@ order: 10
 16. (Jerusalem) Jesus is executed; Matthew Levi attempts to relieve him
 17. The Variety closes; supernatural events follow its bookkeeper, who is eventually arrested
 18. Berlioz’s uncle and the Variety’s barman visit Wooland at Berlioz’s apartment
-19. Margarita meets Azazello
+19. Margarita meets Azazello, who gives her the opportunity to see the Master again
 20. The magical cream turns Margarita into a beautiful which
 21. Margarita flies over Moscow and destroys the critic’s apartment
 22. Margarita meets Wooland, who is playing chess with Behemoth
 23. Margarita greets guests at Wooland’s super fantastical ball
-
+24. Wooland reunites Margarita and the Master in their old apartment
+25. (Jerusalem) Pilate meets with the head of secret police
+26. (Jerusalem) Judas is murdered, while chasing after his lover
+27. The investigation; Berlioz’s appartment is destroyed in a fight
+28. Behometh and Koroviev wreck havoc on Moscow
+29. Yeshua intercedes for the Master and Margarita and Wooland complies
+30. The Master and Margarita’s magical departure from Moscow
+31. Whistles on the hills overlooking Moscow
+32. Pilate is relieved at last, and the Master and Margarita are given their eternal home
+33. (Epilogue) The minor Moscow characters’s endings
 
 ## Characters
 
@@ -176,6 +185,18 @@ The various schemes to get Berlioz’s living space:
 <blockquote class="prose">
 <p>The news of Berlioz’s death spread through the whole house with a sort of supernatural speed, and as of seven o’clock Thursday morning, Bosoy began to receive telephone calls and then personal visits with declarations containing claims to the deceased’s living space.  In the period of two hours, Nikanor Ivanovich received thirty-two such declarations.</p>
 <p>They contained pleas, threats, libels, denunciations, promises to do renovations at their expense, references to unbearable over-crowding and the impossibility of living in the same apartment with bandits. Among others there were a description, staggering in its artistic power, of the theft from the apartment no. 31 of some meat dumplings, tucked directly into the pocket of a suit jacket, two vows to end life by suicide and one confession of secret pregnancy. <cite>(p. 92)</cite></p>
+</blockquote>
+
+Wooland’s last words to the Atheist Berlioz:
+
+<blockquote class="prose">
+<p>“Everything came to pass, did it not?” Wooland went on, looking into the head’s eyes. “The head was cut off by a woman, the meeting did not take place, and I am living in your apartment. That is a fact.  And fact is the most stubborn thing in the world. But we are now interested in what follows, and not in this already accomplished fact. You have always been an ardent preacher of the theory that, on the cutting off of his head, life ceases in a man, he turns to ashes and goes into non-being. I have the pleasure of informing you, in the presence of my guests, though they serve as proof of quite a different theory, that your theory is both solid and clever. However, one theory is as good as another. There is also one which holds that it will be given to each according to his faith. Let it come true! You go into non-being, and from the cup into which you are to be transformed, I will joyfully drink to being!” <cite>(p. 273)</cite></p>
+</blockquote>
+
+A lament as the Master and Margarita leave the earth:
+
+<blockquote class="prose">
+<p>Gods, my gods! How sad the evening earth! How mysterious the mists over the swamps! He who has wandered in these mists, he who has suffered much before death, he who has flown over this earth bearing on himself too heavy a burden, knows it. The weary man knows it. And without regret he leaves the mists of the earth, its swamps and rivers, with a light heart he gives himeself into the hands of death, knowing that she alone can bring him peace. <cite>(p. 379)</cite></p>
 </blockquote>
 
 *All quotes are from the 1997 translation by Richard Pevear and Larissa Volokhonsky.*
