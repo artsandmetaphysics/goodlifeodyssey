@@ -9,25 +9,31 @@ order: 12.5
 
 ## Part One: Cosmos
 
-Carroll is a proponent of poetic naturalism.  Naturalism comes down to three things:
+Carroll begins the book by proposing a philosophical framework he calls poetic naturalism.
+
+Naturalism:
 
 1. There is only one world, the natural world.
 2. The world evolves according to unbroken patterns, the laws of nature.
 3. The only reliable way of learning about the world is by observing it.
 
-The poetic aspect comes to the fore when we start talking about the world.  It can also be summarized in three points:
+The poetic aspect comes to the fore when we start talking about the world:
 
 1. There are many ways of talking about the world.
 2. All good ways of talking must be consistent with one another and with the world.
 3. Our purposes in the moment determine the best way of talking.
 
-Carrol’s discussion of determinism provides an example of how poetic naturalism combines deep ontological truths about underlying reality with the practical and useful ways that we speak day-to-day:
+The poetic component is a recognition that many human concepts, such as person, cause, choice, reason, justice, morality, and meaning, while not *fundamental* are still *real* and are worthy of our consideration.  There is also a warning that we should not apply these higher-level concepts in innappropriate ways.
+
+Carrol’s discussion of determinism and free-will is a good example of how poetic naturalism combines deep ontological truths about underlying reality with the practical and useful ways that we speak day-to-day:
 
 <blockquote class="prose">
-<p>Perhaps Laplace’s greatest contribution to our understanding of mechanics was not a technical or mathematical advance, but a philosophical one.  He realized that there was a simple answer to the question “What determines what will happen next?” And the answer is “The state of the universe right now.” …</p>
+<p>[Laplace] realized that there was a simple answer to the question “What determines what will happen next?” And the answer is “The state of the universe right now.” …</p>
 <p>We know that the quantum state of a system, left alone, evolves in a perfectly deterministic fashion, free even of the rare but annoying examples of non-determinism that we can find in classical mechanics.  But when we <em>observe</em> a system, it seems to behave randomly, rather than deterministically. …</p>
 <p>The momentary or Laplacian nature of physical evolution doesn’t have much relevance for the choices we face in our everyday lives.  For poetic naturalism, the situation is clear.  There is one way of talking about the universe that describes it as elementary particles or quantum states, in which Laplace holds sway and what happens next depends only on the state of the system right now.  There is also another way of talking about it, where we zoom out a bit and introduce categories like “people” and “choices.”  Unlike our best theory of planets or pendulums, our best theories of human behavior are not deterministic.  We don’t know any way to predict what a person will do based on what we can readily observe about their current state.  Whether we think of human behavior as determined depends on what we know. <cite>(chpt. 4)</cite></p>
 </blockquote>
+
+Thus, to the question “do humans have free-will” a poetic naturalist would say “fundamentally, no, but in everyday speech free-will, choices, and personhood are useful descriptions of reality.”
 
 Carroll’s presentation of determinism in Chapter 4 is deceptively oversimplified, although he does discuss the topic in more depth later in the book.  I believe his claim that the world is deterministic is only true within one of several interpretations of quantum mechanics.  There is no scientific consensus as to whether the universe is deterministic or not.  A great deal of debate still surrounds the so-called “collapse of the wave function” and the “measurement problem.”
 
@@ -41,7 +47,7 @@ One alternative to the Copenhagen interpretation is put forward by proponents of
 
 Other alternatives to the Copenhagen interpretation exist, such as the objective-collapse theories, which may or may not result in a deterministic universe.
 
-Thus, Carroll conveniently presents his minority-view as if it were the consensus of the scientific community.
+Thus, Carroll conveniently presents his minority-view as if it were the consensus of the scientific community.  It wouldn’t surprise me if he does this elsewhere in his book.
 
 I enjoyed Carroll’s discussion about the arrow of time:
 
@@ -64,9 +70,9 @@ It is interesting to consider that “cause and effect” are not fundamental en
 
 ## Part Two: Understanding
 
-Part two of *The Big Picture* appears to be a brief summary of Carroll’s epistemological beliefs.
+Part two of *The Big Picture* is a summary of Carroll’s epistemological system, beginning with Bayesian reasoning.
 
-He begins with a discussion of Bayesian reasoning.  Bayes’s theory is centrally important.  Bayes’s theory can be understood as a generalization of contraposition.  In propositional logic, where propositions are either true or false, we have:
+  Bayes’s theory can be understood as a generalization of contraposition.  In propositional logic, where propositions are either true or false, we have:
 
 ```
 (~H -> ~E) -> (E -> H)
@@ -79,12 +85,12 @@ P(H|E) = P(H)*P(E|H)/P(E)
        = P(H)*P(E|H)/[P(H)*P(E|H) + P(~H)*P(E|~H)]
 ```
 
-Bayesian reasoning, while interesting, must be only a small slice of one’s epistemological system.  Carroll treats it as more practically applicable and general than I believe it is.
+Bayesian reasoning, while interesting, must be a smaller part of one’s epistemological system then Carroll presents it to be.  There are many short-comings with Bayesian reasoning that Carroll does not consider, but which I believe are important.
 
-- How do we determine our prior beliefs, `P(H)`, and our likelihoods, `P(E|H)`?  Typically, the processes we use to determine these depend on other beliefs.  Thus we have a recursive web of beliefs.
-- Bayesian inference is presented as a one-way process.  We start with a set of beliefs, receive new evidence, then update our beliefs.  But given that our reasoning and our current set of beliefs determines our likelihoods, once our beliefs are updated, we should revise the likelihoods.  Our reasoning is not a one-way process as it is presented.
-- How do we decide what hypothesis to consider?
-- How do we know what evidence to consider, noting that there is not enough time to consider all of the evidence?
+- We determine our prior beliefs, `P(H)`, and our likelihoods, `P(E|H)` using other beliefs—thus our beliefs form a recursive web which does not fit into a clean linear progression from initial belief to final belief as we gather new evidence.
+- How do we decide what hypotheses to consider?
+- Our hypotheses rarely form a clean partition of the space of beliefs, unless restrict ourselves to `H` and `~H`.
+- It is not usually possible to consider all of the evidence we have available, and thus we must rely on second hand accounts and other forms of knowledge besides observations from the real world.
 
 One of the most intriguing and useful ideas presented is:
 
