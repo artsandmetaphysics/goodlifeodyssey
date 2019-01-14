@@ -144,9 +144,45 @@ Complexity is not as well defined as entropy is, although both are not fundament
 
 Perhaps humans are like the swirls of the coffee in the coffee cup of the universe?
 
+The fine-tuning argument for the existence of a god is:
+
+- Slightly changing many physical constants would result in life not being able to exist
+- Life exists
+- The best explanation for the tuned values of the physical constants is a god who wanted life to exist.
+
+Carroll believes this is "probably the most respectable argument in favor of theism ... but it's still not a very good argument."  One of the reasons that Carroll doesn't like it is because it uses "old evidence," that life exists, to make the argument.  And making a prediction and then gathering "new evidence" would be more convincing.  I think this particular counter argument is weak.  We shouldn't expect to apply the same standards to deep questions about the existence of humans or a god as we do to typical science experiments.
+
+There are a few issues with the fine-tuning argument which I think are more reasonable.  One is that it may not be easy to determine whether a particular set of physical constants would result in life or not.
+
+Another counter-argument is that some physical theories predict that there are many "universes" each with different physical constants---the so-called "multiverse."  If there is a multiverse, then we may simply be in the particular "universe" that has life-supporting physical constants.
+
+Carroll makes another interesting counter-argument:
+
+> If the laws of physics were chosen so that life could exist, we would expect that each of the various features of those laws would play some important role in the unfolding of life.  What we see, on the contrary, is something of a mess.  All living beings are made out of the lightest generation of fermions---the electron and the up and down quarks, with occasional appearances from electron neutrinos.  But there are two heavier families of particles, which don't play any part in life.  Why did God make the top and bottom quarks, for example, and why do they have the masses they do?  Under naturalism we would expect a variety of particles, some of which are important to life and some of which are not.  That's exactly what we do observer.
+> = (chpt. 36)
+
+Finally, if the universe was fine-tuned so that we could exist, why do we "live in a galaxy with more than 100 billion stars, in a universe with more than 100 billion galaxies"?  The universe could have easily been much smaller; why make it so enormous if we are the point of it all?
+
 ## Part Five: Thinking
 
+Carroll begins his discussion of conciousness with an provocative evolutionary hypothesis: the development of conciousness began when creatures move from the sea to land.  Vision is very limited underwater, thus, sea creatures don't have much time to plan their actions and instead must react quickly to events.  Once on land, where creatures can see further, there is evolutionary pressure to develop brains that can plan their actions.
 
+There are some intelligent sea-creatures which seem to break this theory.  In particular, octopuses.
+
+> If there is any one aspect of reality that causes people to doubt a purely physical and naturalist conception of the world, it's the existence of conciousness.
+> = (chpt. 37)
+
+This statement is true for me. But there are many reasons to believe that conciousness is physical:
+
+- Our minds appear to have multiple conflicting impulses warring with each other (Plato's white horse and black horse; the Apostle Paul's "I do not do what I want to do").
+- We can see electrical waves created by our brains in fMRIs and EEGs.
+- There are delays between physical events and when we can think about them (part of this is due to delays in sensory information reaching our brain).
+- Examples of individuals with partially damaged brains.
+- Various scientific experiments mapping certain cognitive abilities to parts of our brains.
+
+Some philosophers speak about "the hard problem" of conciousness---explaining the existence of qualia, the subjective character of experience.  Other philosophers view this as not being a problem, but rather just "conceptual confusion."
+
+The Zombie Problem: consider a human, now consider an identical copy of the human who does not experience qualia---a zombie.  If zombies can exist then naturalism must be incorrect.  Some philosophers argue that zombies are conceivable, thus they must be able to exist.  But is this true?  We can conceive of water without an oxygen atom, but this can not exist.
 
 ## Part Six: Caring
 
@@ -168,3 +204,5 @@ Carroll's ten considerations:
 8. The universe is in our hands
 9. We can do better than happiness
 10. Reality guides us
+
+I think this is an odd set of considerations to point out.
