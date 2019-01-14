@@ -25,7 +25,7 @@ The poetic aspect comes to the fore when we start talking about the world:
 
 The poetic component is a recognition that many human concepts, such as person, cause, choice, reason, justice, morality, and meaning, while not *fundamental* are still *real* and are worthy of our consideration.  There is also a warning that we should not apply these higher-level concepts in innappropriate ways.
 
-Carrol’s discussion of determinism and free-will is a good example of how poetic naturalism combines deep ontological truths about underlying reality with the practical and useful ways that we speak day-to-day:
+Carrol’s discussion of determinism and free-will is a good example of how poetic naturalism combines deep ontological truths with everyday language:
 
 <blockquote class="prose">
 <p>[Laplace] realized that there was a simple answer to the question “What determines what will happen next?” And the answer is “The state of the universe right now.” …</p>
@@ -33,9 +33,9 @@ Carrol’s discussion of determinism and free-will is a good example of how poet
 <p>The momentary or Laplacian nature of physical evolution doesn’t have much relevance for the choices we face in our everyday lives.  For poetic naturalism, the situation is clear.  There is one way of talking about the universe that describes it as elementary particles or quantum states, in which Laplace holds sway and what happens next depends only on the state of the system right now.  There is also another way of talking about it, where we zoom out a bit and introduce categories like “people” and “choices.”  Unlike our best theory of planets or pendulums, our best theories of human behavior are not deterministic.  We don’t know any way to predict what a person will do based on what we can readily observe about their current state.  Whether we think of human behavior as determined depends on what we know. <cite>(chpt. 4)</cite></p>
 </blockquote>
 
-Thus, to the question “do humans have free-will” a poetic naturalist would say “fundamentally, no, but in everyday speech free-will, choices, and personhood are useful descriptions of reality.”
+Thus, if you ask a poetic naturalist “do humans have free-will,” they would reply “fundamentally, no, but the words free-will, choice, and person are useful everyday descriptions of reality.”
 
-Carroll’s presentation of determinism in Chapter 4 is deceptively oversimplified, although he does discuss the topic in more depth later in the book.  I believe his claim that the world is deterministic is only true within one of several interpretations of quantum mechanics.  There is no scientific consensus as to whether the universe is deterministic or not.  A great deal of debate still surrounds the so-called “collapse of the wave function” and the “measurement problem.”
+Carroll’s presentation of determinism in Chapter 4 is oversimplified, although he does discuss the topic in more depth later in the book.  I believe his claim that the world is deterministic is only true within one of several interpretations of quantum mechanics.  There is no scientific consensus as to whether the universe is deterministic or not.  A great deal of debate still surrounds the so-called “collapse of the wave function” and the “measurement problem.”
 
 The Copenhagen interpretation of quantum mechanics says that physical systems do not generally have definite properties prior to being “measured,” and only the act of measuring them causes them to taken on certain states.  The Copenhagen interpretation has several problems.
 
@@ -110,7 +110,7 @@ I also like (and agree with) Carroll’s distinction between faith and reason:
 
 ## Part Three: Essence
 
-Carroll claims, in chapter 23, that:
+Carroll claims, in Chapter 23, that:
 
 <blockquote>
 <p>The laws of physics underlying everyday life are completely known.</p>
