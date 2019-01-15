@@ -1,6 +1,6 @@
 html {
   /*
-   * Set a resonable font-size, such that at 34rem we have ~70 characters on a
+   * Set a reasonable font-size, such that at 34rem we have ~70 characters on a
    * line.
    */
   line-height: 1.55;
@@ -10,11 +10,6 @@ html {
 
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
-
-  -webkit-hyphens: auto;
-  -moz-hyphens: auto;
-  -ms-hyphens: auto;
-  hyphens: auto;
 }
 
 body {
@@ -113,7 +108,7 @@ blockquote {
 
 /*
  * Since we are using a <p> for each line, we need to remove the typical
- * padding around the <p>.  In order to properly separate parapgraphs in the
+ * padding around the <p>.  In order to properly separate paragraphs in the
  * poetry, we insert a line break.  We set the `content` to a blank string, and
  * set the margin-top, so that we get the proper spacing which is usually in
  * between <p> tags.
