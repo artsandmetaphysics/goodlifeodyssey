@@ -69,14 +69,14 @@ Woland, Homeless, Pontius Pilate, and Margarita were my favourite characters.
 9. Bosoy is vanished by Woland, after checking Berlioz’s apartment
 10. Rimsky and Varenukha receive telegrams from Yalta; Varenukha is intercepted and brought to Woland
 11. Ivan gives up writing a statement to the police, and accepts his situation
-12. Woland’s séance—cards, raining money, Bengalsky’s head, dresses, the exposure
+12. Woland’s séance—cards, money, Bengalsky’s head, dresses, exposure
 13. Ivan meets the master and hears story of love and the rejected novel
 14. Rimsky is ambushed by the ghost of Varenukha, barely escaping when the cock crows
 15. Bosoy arrives at the asylum and dreams about the currency theater
 16. (Jerusalem) Jesus is executed; Matthew Levi attempts to relieve him
-17. The Variety closes; supernatural events follow its bookkeeper, who is eventually arrested
-18. Berlioz’s uncle and the Variety’s barman visit Woland at Berlioz’s apartment
-19. Margarita meets Azazello, who gives her the opportunity to see the master again
+17. The Variety closes; supernatural events follow its bookkeeper until he is arrested
+18. Berlioz’s uncle and the Variety’s barman visit Woland
+19. Margarita meets Azazello, who proposes a way for her to see the master
 20. The magical cream turns Margarita into a beautiful which
 21. Margarita flies over Moscow and destroys the critic’s apartment
 22. Margarita meets Woland, who is playing chess with Behemoth
@@ -89,7 +89,7 @@ Woland, Homeless, Pontius Pilate, and Margarita were my favourite characters.
 29. Yeshua intercedes for the master and Margarita and Woland complies
 30. The master and Margarita’s magical departure from Moscow
 31. Whistles on the hills overlooking Moscow
-32. Pilate is relieved at last, and the master and Margarita are given their eternal home
+32. Pilate is relieved at last, and the master and Margarita can rest
 33. (Epilogue) The minor Moscow characters’s endings
 
 ## Theme: Belief in the Supernatural
