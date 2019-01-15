@@ -5,7 +5,7 @@ description: >
   A commentary on “The Epic of Gilgamesh”
 type: note
 status: incomplete
-order: 1
+order: 1.9
 ---
 
 Ancient and beautiful, *The Epic of Gilgamesh* is the story of the king of Uruk.
@@ -60,10 +60,10 @@ A game trapper finds Enkidu at a watering hole, and is concerned because he fill
 <p>Then to the harlot’s words he listened intently,</p>
 <p class="indent"><em>as Shamhat</em> talked to him, to Enkidu:</p>
 <br>
-<p>‘You are handsome, Enkidu, you are just like a god!</p>
+<p>“You are handsome, Enkidu, you are just like a god!</p>
 <p class="indent">Why with the beasts do you wander the wild?</p>
 <p>Come, I will take you to Uruk-the-Sheepfold,</p>
-<p class="indent">to the sacred temple, home of Anu and Ishtar</p>
+<p class="indent">to the sacred temple, home of Anu and Ishtar”</p>
 </blockquote>
 
 I am quoting from the Andrew George translation; words in italics were difficult to decipher or were filled in from context.
@@ -75,13 +75,13 @@ There are more differences between the stories than there are similarities.  Eve
 There is, however, a snake in the *Epic of Gilgamesh.* Gilgamesh is returning from a journey with a plant that will make him young again.  This plant is similar to the tree of life in Genesis.  Here is the passage:
 
 <blockquote class="poetry">
-<p>‘This plant, Ur-shanabi, is the “Plant of Heartbeat,”</p>
+<p>“This plant, Ur-shanabi, is the ‘Plant of Heartbeat,’</p>
 <p class="indent">with it a man can regain his vigour.</p>
 <p>To Uruk-the-Sheepfold I will take it,</p>
 <p class="indent">to an ancient I will feed some and put the plant to the test!</p>
 <br>
-<p>‘Its name shall be “Old Man Grown Young,”</p>
-<p class="indent">I will eat it myself, and be again as I was in my youth!’</p>
+<p>“Its name shall be ‘Old Man Grown Young,’</p>
+<p class="indent">I will eat it myself, and be again as I was in my youth!”</p>
 <p>At twenty leagues they broke bread,</p>
 <p class="indent">at thirty leagues they stopped for the night.</p>
 <br>
@@ -126,13 +126,13 @@ The most common explanation for the Hebrew’s and Babylonian’s belief in the 
 In Babylonian mythology, Marduk was the supreme god.  Marduk rose to power by killing Tiamat, who was often represented as a great sea dragon, when all the other Babylonian gods were too afraid to confront it.  It seems that the Hebrew god references fought a similar battle:
 
 <blockquote class="poetry">
-<p>Can you draw out Leviathan with a fishhook,</p>
+<p>“Can you draw out Leviathan with a fishhook,</p>
 <p class="indent">or press down its tongue with a cord?</p>
 <p>Can you put a rope in its nose,</p>
 <p class="indent">or pierce its jaw with a hook?</p>
 <p>⋯</p>
 <p>Any hope of capturing it will be disappointed;</p>
-<p class="indent">were not even the gods overwhelmed at the sight of it?</p>
+<p class="indent">were not even the gods overwhelmed at the sight of it?”</p>
 <cite>— Job 41:1–9, New Revised Standard Version</cite>
 </blockquote>
 
@@ -152,17 +152,17 @@ Finally, parts of Ecclesiastes are very similar to the *Epic of Gilgamesh*.  Her
 <p>Death they dispensed to mankind,</p>
 <p class="indent">Life they kept for themselves.</p>
 <br>
-<p>‘But you, Gilgamesh, let your belly be full,</p>
+<p>“But you, Gilgamesh, let your belly be full,</p>
 <p class="indent">Enjoy yourself always by day and by night!</p>
 <p>Make merry each day,</p>
 <p class="indent">Dance and play day and night!</p>
 <br>
-<p>‘Let your clothes be clean,</p>
+<p>“Let your clothes be clean,</p>
 <p class="indent">Let your head be washed, may you bathe in water!</p>
 <p>Gaze on the child who holds your hand,</p>
 <p class="indent">Let your wife enjoy your repeated embrace!</p>
 <br>
-<p>‘For such is the destiny of mortal men’</p>
+<p>“For such is the destiny of mortal men”</p>
 </blockquote>
 
 And here is a similar saying in Ecclesiastes:
@@ -193,6 +193,6 @@ Thus, one can see that there are many similarities between the Babylonian texts 
 
 Some of these similarities may be deemed coincidental, but it seems implausible to believe that all of them are.
 
-Each similarity requires separate analysis.  Sometimes we can rely on the dates of the texts to rule out certain possibilities.  For example, Solomon is thought to have lived between 1000 and 900 BC, and thus Ecclesiastes could not have been written earlier than this.  The similar quote from *The Epic of Gilgamesh* if from a tablet that is from 1800–1700 BC.  Thus, explanation (3) is implausible.
+Each similarity requires separate analysis.  Sometimes we can rely on the dates of the texts to rule out certain possibilities.  For example, Solomon is thought to have lived between 1000 and 900 BCE, and thus Ecclesiastes could not have been written earlier than this.  The similar quote from *The Epic of Gilgamesh* if from a tablet that is from 1800–1700 BCE.  Thus, explanation (3) is implausible.
 
 Most of the Babylonian clay tablets we have recovered were copied around the time of Babylonian captivity, and thus a simplistic archaeological analysis is not possible because we do not know when the age of the original material.

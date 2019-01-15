@@ -3,7 +3,7 @@ title: >
   David Hockney
 description: >
   Notes David Hockney
-type: essay
+type: note
 order: 2
 ---
 

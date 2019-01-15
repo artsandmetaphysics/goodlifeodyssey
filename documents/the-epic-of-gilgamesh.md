@@ -5,7 +5,7 @@ description: >
   A commentary on "The Epic of Gilgamesh"
 type: note
 status: incomplete
-order: 1
+order: 1.9
 ---
 
 Ancient and beautiful, *The Epic of Gilgamesh* is the story of the king of Uruk.
@@ -58,10 +58,10 @@ A game trapper finds Enkidu at a watering hole, and is concerned because he fill
 > Then to the harlot's words he listened intently,
 >   *as Shamhat* talked to him, to Enkidu:
 >
-> 'You are handsome, Enkidu, you are just like a god!
+> "You are handsome, Enkidu, you are just like a god!
 >   Why with the beasts do you wander the wild?
 > Come, I will take you to Uruk-the-Sheepfold,
->   to the sacred temple, home of Anu and Ishtar
+>   to the sacred temple, home of Anu and Ishtar"
 > ~
 
 I am quoting from the Andrew George translation; words in italics were difficult to decipher or were filled in from context.
@@ -72,13 +72,13 @@ There are more differences between the stories than there are similarities.  Eve
 
 There is, however, a snake in the *Epic of Gilgamesh.* Gilgamesh is returning from a journey with a plant that will make him young again.  This plant is similar to the tree of life in Genesis.  Here is the passage:
 
-> 'This plant, Ur-shanabi, is the "Plant of Heartbeat,"
+> "This plant, Ur-shanabi, is the 'Plant of Heartbeat,'
 >   with it a man can regain his vigour.
 > To Uruk-the-Sheepfold I will take it,
 >   to an ancient I will feed some and put the plant to the test!
 >
-> 'Its name shall be "Old Man Grown Young,"
->   I will eat it myself, and be again as I was in my youth!'
+> "Its name shall be 'Old Man Grown Young,'
+>   I will eat it myself, and be again as I was in my youth!"
 > At twenty leagues they broke bread,
 >   at thirty leagues they stopped for the night.
 >
@@ -114,13 +114,13 @@ The most common explanation for the Hebrew's and Babylonian's belief in the wate
 
 In Babylonian mythology, Marduk was the supreme god.  Marduk rose to power by killing Tiamat, who was often represented as a great sea dragon, when all the other Babylonian gods were too afraid to confront it.  It seems that the Hebrew god references fought a similar battle:
 
-> Can you draw out Leviathan with a fishhook,
+> "Can you draw out Leviathan with a fishhook,
 >   or press down its tongue with a cord?
 > Can you put a rope in its nose,
 >   or pierce its jaw with a hook?
 > ...
 > Any hope of capturing it will be disappointed;
->   were not even the gods overwhelmed at the sight of it?
+>   were not even the gods overwhelmed at the sight of it?"
 > ~ Job 41:1--9, New Revised Standard Version
 
 > You divided the sea by your might;
@@ -136,17 +136,17 @@ Finally, parts of Ecclesiastes are very similar to the *Epic of Gilgamesh*.  Her
 > Death they dispensed to mankind,
 >   Life they kept for themselves.
 >
-> 'But you, Gilgamesh, let your belly be full,
+> "But you, Gilgamesh, let your belly be full,
 >   Enjoy yourself always by day and by night!
 > Make merry each day,
 >   Dance and play day and night!
 >
-> 'Let your clothes be clean,
+> "Let your clothes be clean,
 >   Let your head be washed, may you bathe in water!
 > Gaze on the child who holds your hand,
 >   Let your wife enjoy your repeated embrace!
 >
-> 'For such is the destiny of mortal men'
+> "For such is the destiny of mortal men"
 > ~
 
 And here is a similar saying in Ecclesiastes:
@@ -176,6 +176,6 @@ Thus, one can see that there are many similarities between the Babylonian texts 
 
 Some of these similarities may be deemed coincidental, but it seems implausible to believe that all of them are.
 
-Each similarity requires separate analysis.  Sometimes we can rely on the dates of the texts to rule out certain possibilities.  For example, Solomon is thought to have lived between 1000 and 900 BC, and thus Ecclesiastes could not have been written earlier than this.  The similar quote from *The Epic of Gilgamesh* if from a tablet that is from 1800--1700 BC.  Thus, explanation (3) is implausible.
+Each similarity requires separate analysis.  Sometimes we can rely on the dates of the texts to rule out certain possibilities.  For example, Solomon is thought to have lived between 1000 and 900 BCE, and thus Ecclesiastes could not have been written earlier than this.  The similar quote from *The Epic of Gilgamesh* if from a tablet that is from 1800--1700 BCE.  Thus, explanation (3) is implausible.
 
 Most of the Babylonian clay tablets we have recovered were copied around the time of Babylonian captivity, and thus a simplistic archaeological analysis is not possible because we do not know when the age of the original material.
