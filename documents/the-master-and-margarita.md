@@ -12,6 +12,48 @@ order: 10
 
 *The Master and Margarita* was written by Mikhail Bulgakov (mee-ha-EEL bool-GA-kov).  He finished writing it in 1940 and it was first published in 1966.
 
+## Thoughts
+
+I enjoyed reading *The Master and Margarita* because it was funny, fantastical, and well-written.  It feels like the novel forms a coherent whole, perhaps embedded in many subtle Christian and Fäuste references, but any concrete message, at least for an American reader, is beyond reach.
+
+## Characters
+
+Wooland, Homeless, Pontius Pilate, and Margarita were my favourite characters.
+
+**Mikhail Alexandrovich Berlioz** is the short, dark-haired, plump, bald editor of a literary journal and chairman of the board of Massolit.
+
+**Ivan Nikolaevich Ponyrev** is a young, broad-shouldered poet who writes under the pseudonym Homeless.
+
+**Koroviev**, also called Fagott, is Wooland's henchman; seven feet tall and unbelievably thin, he has a jeering face.
+
+**Wooland** is satan. His left teeth have platinum crowns, his right have gold, his right eye is black, his left green, he has dark hair and appears to be a little over 40.
+
+**Yeshua Ha-Nozri**, Wooland's depiction of Jesus.  Yeshua is Aramaic for "Lord of Salvation" and Ha-Nozri means "of Nazareth."
+
+**Pontius Pilate** was the procurator of Jerusalem.
+
+**Behemoth** is a giant, walking, talking black cat who loves guns and alcohol.  He is one Wooland's companions.
+
+**Stepan Bogdanovich Likhodeev**, or Styopa for short, is the director of the Variety Theatre, and Berlioz's roommate.
+
+**Azazello** is one of Wooland's companions; he is short but extraordinarily broad-shouldered; he wears a bowler hat, has flaming red hair, a fang, and is quite ugly.
+
+**Doctor Stravinksy** is the friendly psychiatrist at the country hospital.
+
+**Nikanor Ivanovich Bosoy** is the chairman of the tenants' association where Berlioz and Styopa lived.
+
+**Grigory Danilovich Rimsky** is the financial directory (findirector) of the Variety Theater.
+
+**Ivan Savelyevich Varenukha** is the administrator of the Variety Theater.
+
+**Georges Bengalsky** is the master of ceremonies for the Variety Theater.
+
+**Vassily Stepanovich Lastochkin** is the bookkeeper at the Variety Theater.
+
+**The Master** is a writer, who wrote a book about Pontius Pilate and subsequently went insane.  At the time when Ivan meets him, he is a "clean shaven, dark-haired man of approximately thirty-eight, with a sharp nose, anxious [brown] eyes, and a wisp of hair hanging down on his forehead."
+
+**Margarita Nikolaevna** is a beautiful intelligent woman who lives in Moscow, and is one of the few characters who can accept the supernatural. For this reason Wooland and his henchman seem to admire her.
+
 ## Outline
 
 1. Berlioz and Homeless discuss Jesus' existence with a stranger
@@ -48,43 +90,7 @@ order: 10
 32. Pilate is relieved at last, and the Master and Margarita are given their eternal home
 33. (Epilogue) The minor Moscow characters's endings
 
-## Characters
-
-**Mikhail Alexandrovich Berlioz** is the short, dark-haired, plump, bald editor of a literary journal and chairman of the board of Massolit.
-
-**Ivan Nikolaevich Ponyrev** is a young, broad-shouldered poet who writes under the pseudonym Homeless.
-
-**Koroviev**, also called Fagott, is Wooland's henchman; seven feet tall and unbelievably thin, he has a jeering face.
-
-**Wooland** is satan. His left teeth have platinum crowns, his right have gold, his right eye is black, his left green, he has dark hair and appears to be a little over 40.
-
-**Yeshua Ha-Nozri**, Wooland's depiction of Jesus.  Yeshua is Aramaic for "Lord of Salvation" and Ha-Nozri means "of Nazareth."
-
-**Pontius Pilate** was the procurator of Jerusalem.
-
-**Behemoth** is a giant, walking, talking black cat who loves guns and alcohol.  He is one Wooland's companions.
-
-**Stepan Bogdanovich Likhodeev**, or Styopa for short, is the director of the Variety Theatre, and Berlioz's roommate.
-
-**Azazello** is one of Wooland's companions; he is short but extraordinarily broad-shouldered; he wears a bowler hat, has flaming red hair, a fang, and is quite ugly.
-
-**Doctor Stravinksy** is the friendly psychiatrist at the country hospital.
-
-**Nikanor Ivanovich Bosoy** is the chairman of the tenants' association where Berlioz and Styopa lived.
-
-**Grigory Danilovich Rimsky** is the financial directory (findirector) of the Variety Theater.
-
-**Ivan Savelyevich Varenukha** is the administrator of the Variety Theater.
-
-**Georges Bengalsky** is the master of ceremonies for the Variety Theater.
-
-**Vassily Stepanovich Lastochkin** is the bookkeeper at the Variety Theater.
-
-**The Master** is a writer, who wrote a book about Pontius Pilate and subsequently went insane.  At the time when Ivan meets him, he is a "clean shaven, dark-haired man of approximately thirty-eight, with a sharp nose, anxious [brown] eyes, and a wisp of hair hanging down on his forehead."
-
-**Margarita Nikolaevna** is a beautiful intelligent woman who lives in Moscow.
-
-## Motif: Reactions to the Supernatural
+## Motif: Beliefe in the Supernatural
 
 Satan visits Moscow and accomplishes his plans with many supernatural feats. The book explores how individuals react to these events, and in particular the nature of denial and belief.
 
@@ -149,12 +155,6 @@ Wooland's last words to the beheaded atheist Berlioz also emphasize these theme:
 > = (p. 273)
 
 At the epilogue of the novel concludes by describing how all of Moscow, and the big investigation of Wooland's supernatural séance, was all explained away by the rational investigators.
-
-## Thoughts
-
-I enjoyed reading *The Master and Margarita* because it was funny, fantastical, and well-written.  It feels like the novel forms a coherent whole, perhaps embedded in many subtle Christian and Fäuste references, but any concrete message, at least for an American reader, is beyond reach.
-
-Wooland, Homeless, Pontius Pilate, and Margarita were my favourite characters.
 
 ## Quotes
 
