@@ -147,7 +147,7 @@ In Babylonian mythology, Marduk was the supreme god.  Marduk rose to power by ki
 Finally, parts of Ecclesiastes are very similar to the *Epic of Gilgamesh*.  Here is a quote, from a tavern-keeper at the edge of the world, advising Gilgamesh:
 
 <blockquote class="poetry">
-<p>The life that you seek you never will find:</p>
+<p>“The life that you seek you never will find:</p>
 <p class="indent">When the gods created mankind,</p>
 <p>Death they dispensed to mankind,</p>
 <p class="indent">Life they kept for themselves.</p>

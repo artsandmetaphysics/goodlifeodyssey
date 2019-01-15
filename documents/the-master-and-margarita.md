@@ -14,9 +14,9 @@ order: 10
 
 ## Thoughts
 
-I enjoyed reading *The Master and Margarita* because it was funny, fantastical, and unique.  During my first read the novel felt disjointed, but somehow it felt like it congealed at the end.  A primary theme is belief in the supernatural.
+I enjoyed reading *The Master and Margarita* because it was funny, fantastical, and unique.  The novel felt disjointed until the ending, when somehow, it felt like it congealed.  A primary theme is belief in the supernatural.
 
-I noticed many Christian and Fäuste references, and certainly there are many that I missed.  As an American reader who is mostly ignorant of Russian history, I am sure there are other layers of meaning and satire which eluded me.
+I noticed many Christian and Fäuste references, and certainly there are many that I missed.  As an American reader who is ignorant of Russian history, I must have also missed other themes and satire.
 
 ## Characters
 
