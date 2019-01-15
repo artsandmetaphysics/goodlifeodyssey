@@ -25,7 +25,7 @@ order: 10
 9. Bosoy is vanished by Wooland, after checking Berlioz’s apartment
 10. Rimsky and Varenukha receive telegrams from Yalta; Varenukha is intercepted and brought to Wooland
 11. Ivan gives up writing a statement to the police, and accepts his situation
-12. Wooland’s first séance—cards, raining money, Bengalsky’s head, dresses, the exposure
+12. Wooland’s séance—cards, raining money, Bengalsky’s head, dresses, the exposure
 13. Ivan meets the Master and hears story of love and the rejected novel
 14. Rimsky is ambushed by the ghost of Varenukha, barely escaping when the cock crows
 15. Bosoy arrives at the asylum and dreams about the currency theater
@@ -60,13 +60,13 @@ order: 10
 
 **Yeshua Ha-Nozri**, Wooland’s depiction of Jesus.  Yeshua is Aramaic for “Lord of Salvation” and Ha-Nozri means “of Nazareth.”
 
-**Pontous Pilate
+**Pontius Pilate** was the procurator of Jerusalem.
 
 **Behemoth** is a giant, walking, talking black cat who loves guns and alcohol.  He is one Wooland’s companions.
 
 **Stepan Bogdanovich Likhodeev**, or Styopa for short, is the director of the Variety Theatre, and Berlioz’s roommate.
 
-**Azazello** is a wooland companion; he is short but extraordinarily broad-shouldered; he wears a bowler hat, has flaming red hair, a fang, and is quite ugly.
+**Azazello** is one of Wooland’s companions; he is short but extraordinarily broad-shouldered; he wears a bowler hat, has flaming red hair, a fang, and is quite ugly.
 
 **Doctor Stravinksy** is the friendly psychiatrist at the country hospital.
 
@@ -110,6 +110,27 @@ Later on in the story, Ivan is in insane asylum discussing his encounter with Sa
 <p>“… And, really, I’m surprised at Berlioz! Now you, of course, are a virginal person,” here the guest apologized again, “but that one, from what I’ve heard about him, had after all read at least something!” <cite>(p. 133)</cite></p>
 </blockquote>
 
+Surprisingly, the visitor (who, unknown to Ivan, is the Master) doubts the existence of Satan towards the end of the novel, after Satan has returned the Master and Margarita back to their little apartment in Moscow:
+
+<blockquote class="prose">
+<p>“Pah, the devil!” exclaimed the master unexpectedly.  “But, just think, it’s …” he put out his cigarette butt in the ashtray and pressed his head with his hands.  “no, listen, you’re an intelligent person and have never been crazy … are you seriously convinced that we were at Satan’s yesterday?”</p>
+<p>“Quite seriously,” Margarita replied.</p>
+<p>“Of course, of course,” the master said ironically, “so now instead of one madman there are two—husband and wife!” <cite>(p. 365)</cite></p>
+</blockquote>
+
+Margarita, from the start, had less trouble believing in the supernatural, and she tries to convince here lover to believe too:
+
+<blockquote class="prose">
+<p>“I swear to you by your life, I swear by the astrologer’s son whom you guessed, that all will be well!”</p>
+<p>“Fine, fine,” responded the master, and he added, laughing: “of course, when people have been robbed of everything, like you and me, they seek salvation from other-worldly powers! Well, so, I agree to seek there.” <cite>(p. 367)</cite></p>
+</blockquote>
+
+But he is still skeptical, until moments later a devil visits and he believes again:
+
+<blockquote class="prose">
+<p>“No, Margarita’s right… Of course, this is the devil’s messenger sitting before me. No more than two nights ago, I myself tried to prove to Ivan that it was precisely Satan whom he had met at the Patriarch’s Ponds, and now for some reason I got scared of the thoughts and started babbling something about hypnotists and hallucination…Devil there’s any hypnotists in it!…” <cite>(p. 368)</cite></p>
+</blockquote>
+
 Many other characters struggle to reconcile the supernatural events with their reason.  The findirector Rimsky, upon receiving telegrams from Styopa who had been in Moscow that morning but was transported by Satan across Russian to Yalta, searches for possible explanations:
 
 <blockquote>
@@ -131,9 +152,23 @@ and, after a couple very impressive “magic tricks,” including a rain of cash
 
 Shortly after, Satan has his cat cut off Bengalsky’s head (it is put back on later).
 
+Wooland’s last words to the beheaded atheist Berlioz also emphasize these theme:
+
+<blockquote class="prose">
+<p>“Everything came to pass, did it not?” Wooland went on, looking into the head’s eyes. “The head was cut off by a woman, the meeting did not take place, and I am living in your apartment. That is a fact.  And fact is the most stubborn thing in the world. But we are now interested in what follows, and not in this already accomplished fact. You have always been an ardent preacher of the theory that, on the cutting off of his head, life ceases in a man, he turns to ashes and goes into non-being. I have the pleasure of informing you, in the presence of my guests, though they serve as proof of quite a different theory, that your theory is both solid and clever. However, one theory is as good as another. There is also one which holds that it will be given to each according to his faith. Let it come true! You go into non-being, and from the cup into which you are to be transformed, I will joyfully drink to being!” <cite>(p. 273)</cite></p>
+</blockquote>
+
+At the epilogue of the novel concludes by describing how all of Moscow, and the big investigation of Wooland’s supernatural séance, was all explained away by the rational investigators.
+
+## Thoughts
+
+I enjoyed reading *The Master and Margarita* because it was funny, fantastical, and well-written.  It feels like the novel forms a coherent whole, perhaps embedded in many subtle Christian and Fäuste references, but any concrete message, at least for an American reader, is beyond reach.
+
+Wooland, Homeless, Pontius Pilate, and Margarita were my favourite characters.
+
 ## Quotes
 
-Our two writers drink a soda:
+A nice taste of Bulgakov’s funny whimsical style is found near the beginning of the novel, when two writers in the park attempt to a seltzer:
 
 <blockquote class="prose">
 <p>“Give us seltzer,” Berlioz asked.</p>
@@ -187,10 +222,11 @@ The various schemes to get Berlioz’s living space:
 <p>They contained pleas, threats, libels, denunciations, promises to do renovations at their expense, references to unbearable over-crowding and the impossibility of living in the same apartment with bandits. Among others there were a description, staggering in its artistic power, of the theft from the apartment no. 31 of some meat dumplings, tucked directly into the pocket of a suit jacket, two vows to end life by suicide and one confession of secret pregnancy. <cite>(p. 92)</cite></p>
 </blockquote>
 
-Wooland’s last words to the Atheist Berlioz:
+How to tell if someone is lying:
 
-<blockquote class="prose">
-<p>“Everything came to pass, did it not?” Wooland went on, looking into the head’s eyes. “The head was cut off by a woman, the meeting did not take place, and I am living in your apartment. That is a fact.  And fact is the most stubborn thing in the world. But we are now interested in what follows, and not in this already accomplished fact. You have always been an ardent preacher of the theory that, on the cutting off of his head, life ceases in a man, he turns to ashes and goes into non-being. I have the pleasure of informing you, in the presence of my guests, though they serve as proof of quite a different theory, that your theory is both solid and clever. However, one theory is as good as another. There is also one which holds that it will be given to each according to his faith. Let it come true! You go into non-being, and from the cup into which you are to be transformed, I will joyfully drink to being!” <cite>(p. 273)</cite></p>
+<blockquote>
+<p>“Understand that the tongue can conceal the truth, but the eyes—never! A sudden question is put to you, you don’t even flinch, in one second you get hold of yourself and know what you must say to conceal the truth, and you speak quite convincingly, and not a wrinkle on your face moves, but—alas—the truth which the question stirs up from the bottom of your soul leaps momentarily into your eyes, and it’s all over! They see it, and you’re caught!”</p>
+<p>(p. 165)</p>
 </blockquote>
 
 A lament as the Master and Margarita leave the earth:
