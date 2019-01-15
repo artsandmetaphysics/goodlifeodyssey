@@ -156,7 +156,7 @@ Perhaps the novel's most direct rejection of atheism and disbelief is found in W
 > "Everything came to pass, did it not?" Woland went on, looking into the head's eyes. "The head was cut off by a woman, the meeting did not take place, and I am living in your apartment. That is a fact.  And fact is the most stubborn thing in the world. But we are now interested in what follows, and not in this already accomplished fact. You have always been an ardent preacher of the theory that, on the cutting off of his head, life ceases in a man, he turns to ashes and goes into non-being. I have the pleasure of informing you, in the presence of my guests, though they serve as proof of quite a different theory, that your theory is both solid and clever. However, one theory is as good as another. There is also one which holds that it will be given to each according to his faith. Let it come true! You go into non-being, and from the cup into which you are to be transformed, I will joyfully drink to being!"
 > = (p. 273)
 
-At the epilogue of the novel concludes by describing how all of Moscow, and the big investigation of Woland's supernatural séance, was all explained away by the rational investigators.
+The epilogue describes how the many people who saw Woland's supernatural séance were able to rationalize it away and subsequently forget about it.
 
 Thus, from start to finish, the novel explores belief and disbelief in reaction to the devil.  The devil, like Jesus in the Bible, wants people to believe in him.
 
