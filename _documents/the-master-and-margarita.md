@@ -238,9 +238,8 @@ The various schemes to get Berlioz’s living space:
 
 How to tell if someone is lying:
 
-<blockquote>
-<p>“Understand that the tongue can conceal the truth, but the eyes—never! A sudden question is put to you, you don’t even flinch, in one second you get hold of yourself and know what you must say to conceal the truth, and you speak quite convincingly, and not a wrinkle on your face moves, but—alas—the truth which the question stirs up from the bottom of your soul leaps momentarily into your eyes, and it’s all over! They see it, and you’re caught!”</p>
-<p>(p. 165)</p>
+<blockquote class="prose">
+<p>“Understand that the tongue can conceal the truth, but the eyes—never! A sudden question is put to you, you don’t even flinch, in one second you get hold of yourself and know what you must say to conceal the truth, and you speak quite convincingly, and not a wrinkle on your face moves, but—alas—the truth which the question stirs up from the bottom of your soul leaps momentarily into your eyes, and it’s all over! They see it, and you’re caught!” <cite>(p. 165)</cite></p>
 </blockquote>
 
 A lament as the master and Margarita leave the earth:
