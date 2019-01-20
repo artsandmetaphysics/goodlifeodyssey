@@ -139,6 +139,7 @@ blockquote > p.indent {
  */
 p > cite {
   white-space: nowrap;
+  float: right;
 }
 
 /*
@@ -240,5 +241,9 @@ ul, ol {
     padding-right: 0;
     padding-left: 0;
     color: #555;
+  }
+
+  p > cite {
+    float: none;
   }
 }
