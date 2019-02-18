@@ -25,7 +25,7 @@ The poem is about 16,000 lines of hexameter verse in the ancient Greek, and is s
 7. Ajax duels Hector to a draw; the Acheaens build a wall
 8. Zeus turns the tide; the Trojans camp outside their walls
 9. Agamemnon despairs; the embassy to Achilles fails
-10. Odysseus and Ajax maraud through the Night
+10. Odysseus and Diomedes maraud through the Night
 11. Agamemnon and others are injured; Nestor's plea to Patroclus
 12. Five Trojan battalions storm the wall; Hector breaks through
 13. Poseidon and the Aeantes' defend the ships
