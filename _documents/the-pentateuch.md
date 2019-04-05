@@ -1,8 +1,7 @@
 ---
-title: >
-  “The Pentateuch”
+title: The Pentateuch
 description: >
-  Notes on “The Pentateuch”
+  Notes on the Pentateuch
 type: note
 order: 5.1
 ---
@@ -10,6 +9,16 @@ order: 5.1
 ## Genesis
 
 - Primeval history (1 - 11)
+  - Creation in seven days (1 - 2.4a)
+  - Creation in a garden (2.4b - 2.25)
+  - Fall into sin (3)
+  - Cain and Abel; Cain genealogy (4)
+  - Seth Genealogy (5)
+  - Divine-human reproduction (6.1 - 6.4)
+  - The flood; covenant; curse of Ham (6.5 - 9)
+  - Table of nations (10)
+  - Tower of Babel (11.1 - 11.9)
+  - Shem genealogy (11.10 - 11.26)
 - Abraham (11 - 25)
 - Jacob (25 - 36)
 - Joseph (37 - 50)
