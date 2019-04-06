@@ -20,7 +20,7 @@ I believe that the law collections within the Pentateuch contradict each other s
 
 I believe that there is some historical memory left in the Pentateuch, perhaps even as far back as the patriarchs.  But I believe many of the details were exaggerated or modified over time.
 
-What follows is my outline of the Pentateuch.
+What follows is my outline of the Pentateuch.  I keep the main outline to two levels.  Note that occasionally, when a chapter ending is only a verse or two off of a logical section divide, I round the outline.  E.g., the "Song of Moses" logical section begins with the last verse of Deuteronomy 31, but I list the logical section as starting with Deuteronomy 32.
 
 ## Genesis
 
@@ -133,7 +133,7 @@ What follows is my outline of the Pentateuch.
   - Holy times (23)
   - Oil and loaves; blaspheming (24)
   - Sabbatical and jubilee (25)
-  - Promise and threat (26)
+  - Blessing and curse (26)
 - Addendum (27)
 
 ## Numbers
@@ -186,12 +186,26 @@ What follows is my outline of the Pentateuch.
   - The war of conquest (7)
   - Temptation to pride and self-sufficiency (8)
   - Why the Israelites are given the land (9)
-  - Obedience is a condition for the land (10 - 11)
+  - Obedience as a condition for the land (10 - 11)
 - Second discourse: laws (12 - 28)
   - Centralization of worship (12)
   - Unconditional loyalty (13)
   - Obligations of holiness (14)
   - Remission of debts and manumission of slaves (15.1 - 15.18)
   - Sacrifice of first born (15.19 - 15.23)
+  - The festival calendar (16.1 - 16.17)
+  - Laws of public officials (16.18 - 18)
+  - Cities of refuge; integrity of judicial system (19)
+  - Rules for holy war (20)
+  - Miscellaneous civil and family laws (21 - 25)
+  - Conclusion (26)
+  - Ceremonies at Shechem upon entry into the land (27)
+  - Blessing and curse (28)
 - Third discourse (29 - 30)
+  - Didactic historical review (29)
+  - Reassurance of restoration (30)
 - Death of Moses (31 - 34)
+  - Moses makes arrangements for his death (31)
+  - The Song of Moses (32)
+  - The blessing of Moses (33)
+  - The death of Moses (34)
