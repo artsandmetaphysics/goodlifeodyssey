@@ -6,6 +6,22 @@ type: note
 order: 5.1
 ---
 
+## My Beliefs about the Pentateuch
+
+I believe that the Pentateuch is a beautiful and compelling story of the creation of the world, the patriarchs, and the Israelite’s exodus from Egypt and journey through the wilderness.
+
+I believe that the creation story and flood story in Genesis were inspired and adapted from widely-known polytheistic Mesopotamian stories to emphasize the Israelite’s all-powerful and moral god and his love of humanity.
+
+I believe that the Pentateuch contains references from Israel and Yahweh’s polytheistic past.
+
+I believe that the Pentateuch was combined from multiple older sources so as to tell a cohesive unified story, and that it does tell a cohesive story, but frequently the inconsistencies in the individual sources are evident.  The law codes present throughout most of the Pentateuch are unique from other Mesopotamian law codes in that they were given and enforced by a moral single God and are more egalitarian.  But some of the laws were taken or inspired from older law collections.
+
+I believe that the law collections within the Pentateuch contradict each other sometimes—likely because they were written at different times by different people at different times with different motives.
+
+I believe that there is some historical memory left in the Pentateuch, perhaps even as far back as the patriarchs.  But I believe many of the details were exaggerated or modified over time.
+
+What follows is my outline of the Pentateuch.
+
 ## Genesis
 
 - Primeval history (1 - 11.26)
@@ -100,24 +116,82 @@ order: 5.1
   - Reparation offering (5.14 - 6.7)
   - Ritual institutions (6.8 - 7)
 - Dedication of the tabernacle (8 - 10)
+  - Consecration of Aaron (8)
+  - Day of revelation; Nadab and Abihu die (9 - 10)
 - Ritual purity (11 - 16)
+  - Dietary laws (11)
+  - Purification and childbirth (12)
+  - Purification and skin disease (13 - 14)
+  - Purification and bodily discharge (15)
+  - Annual purging of the temple (16)
 - The Holiness Collection (17 - 26)
+  - Slaughter and blood (17)
+  - Abominations of the Canaanites (18)
+  - Holiness of individuals (19)
+  - Molech worship and sexual crimes (20)
+  - Worship and holiness (21 - 22)
+  - Holy times (23)
+  - Oil and loaves; blaspheming (24)
+  - Sabbatical and jubilee (25)
+  - Promise and threat (26)
 - Addendum (27)
 
 ## Numbers
 
 - Holiness and camp (1 - 6)
-- Holiness and tabernacle (8 - 10)
-- Departure from Sinai (10)
-- Rebellion and death (11 - 21)
+  - Census of first generation (1)
+  - Arrangement of camp (2)
+  - Levite duties and census (3 - 4)
+  - Purity; jealous husband (5)
+  - Nazarites; priestly blessing (6)
+- Holiness and tabernacle (7 - 10)
+  - Tabernacle offerings of dedication (7)
+  - Dedication of the Levites (8)
+  - The second passover; cloud and wilderness march (9)
+- Wilderness journey (10 - 21)
+  - Trumpets (10.1 - 10.10)
+  - Departure from Sinai (10.11 - 10.36)
+  - Murmuring; quails (11)
+  - Aaron and Miriam (12)
+  - Spies in the promised land (13 -14)
+  - Laws (15)
+  - Korah’s revolt (16 - 17)
+  - Compensation for Levites (18)
+  - Red cow (19)
+  - Moses doubts; Edomites prevent crossing; Aaron dies (20)
+  - Defeat King Arad; bronze serpent; journey north (21)
 - Threats on the plains of Moab (22 - 25)
+  - Balak and Balaam (22 - 24)
+  - Plague (25)
 - Preparations for the promised land (26 - 36)
+  - Second census (26)
+  - Daughters of Zelophad; Moses death predicted; Joshua chosen (27)
+  - Calendar of sacrifices (28 - 29)
+  - Women and vows (30)
+  - Vengeance against Midianites (31)
+  - Settling the Transjordan (32)
+  - Catalog of wilderness journey (33)
+  - Division of the land (34)
+  - Cities of refuge; homicide laws (35)
+  - Zelophad daughter revision (36)
 
 ## Deuteronomy
 
-- First discourse (1 - 4)
+- First discourse (1 - 4.43)
   - Historical recap (1 - 3)
   - Admonition to follow the law (4)
-- Second discourse (4 - 28)
+- Second discourse: preamble (5 - 11)
+  - The Decalogue (5)
+  - Sermon on the first commandment (6)
+  - The war of conquest (7)
+  - Temptation to pride and self-sufficiency (8)
+  - Why the Israelites are given the land (9)
+  - Obedience is a condition for the land (10 - 11)
+- Second discourse: laws (12 - 28)
+  - Centralization of worship (12)
+  - Unconditional loyalty (13)
+  - Obligations of holiness (14)
+  - Remission of debts and manumission of slaves (15.1 - 15.18)
+  - Sacrifice of first born (15.19 - 15.23)
 - Third discourse (29 - 30)
 - Death of Moses (31 - 34)
