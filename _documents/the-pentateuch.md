@@ -176,7 +176,7 @@ I believe that the laws in the Pentateuch were progressive compared to their nei
     - Cities of refuge; homicide laws (35)
     - Zelophad daughters revision (36)
 - Deuteronomy
-  - First discourse (1 - 4.43)
+  - First discourse (1 - 4)
     - Historical recap (1 - 3)
     - Admonition to follow the law (4)
   - Second discourse: preamble (5 - 11)
@@ -209,7 +209,7 @@ I believe that the laws in the Pentateuch were progressive compared to their nei
     - The blessing of Moses (33)
     - The death of Moses (34)
 
-Note that occasionally, when a chapter ending is only a verse or two off of a logical section divide, I round the outline.  E.g., the “Song of Moses” logical section begins with the last verse of Deuteronomy 31, but I list the logical section as starting with Deuteronomy 32.
+Note: occasionally, when a section divide ends near a chapter division, I round the section division to the nearest chapter outline.  E.g., the “Song of Moses” section begins with the last verse of Deuteronomy 31, but the outline section starts with Deuteronomy 32.
 
 <script>
 document.documentElement.classList.add('js')
