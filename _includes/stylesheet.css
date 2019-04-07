@@ -187,7 +187,7 @@ ul, ol {
   }
 
   .hidden-print {
-    display: none;
+    display: none !important;
   }
 }
 
@@ -252,5 +252,9 @@ ul, ol {
 
   p > cite {
     float: none;
+  }
+
+  .hidden-sm {
+    display: none;
   }
 }

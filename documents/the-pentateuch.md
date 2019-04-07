@@ -22,7 +22,12 @@ I believe that there is some historical truth in the Pentateuch, beginning with 
 
 ## Outline
 
-Here is an outline of the Pentateuch.  I keep the main outline to two levels.  Note that occasionally, when a chapter ending is only a verse or two off of a logical section divide, I round the outline.  E.g., the "Song of Moses" logical section begins with the last verse of Deuteronomy 31, but I list the logical section as starting with Deuteronomy 32.
+<p class="hidden-no-js hidden-print">
+  <span class="hidden-sm">Set outline depth: &nbsp;</span>
+  <a href="#" onclick="setDepth(event,2)">Major Sections</a> ·
+  <a href="#" onclick="setDepth(event,3)">Chapters</a> ·
+  <!--<a href="#" onclick="setDepth(event,4)">Notes</a>-->
+</p>
 
 - Genesis
   - Primeval history (1 - 11.26)
@@ -160,7 +165,7 @@ Here is an outline of the Pentateuch.  I keep the main outline to two levels.  N
     - Plague (25)
   - Preparations for the promised land (26 - 36)
     - Second census (26)
-    - Daughters of Zelophad; Moses's death predicted; Joshua chosen (27)
+    - Zelophad daughters; Moses's death predicted; Joshua chosen (27)
     - Calendar of sacrifices (28 - 29)
     - Women and vows (30)
     - Vengeance against Midianites (31)
@@ -168,7 +173,7 @@ Here is an outline of the Pentateuch.  I keep the main outline to two levels.  N
     - Catalog of wilderness journey (33)
     - Division of the land (34)
     - Cities of refuge; homicide laws (35)
-    - Zelophad daughter revision (36)
+    - Zelophad daughters revision (36)
 - Deuteronomy
   - First discourse (1 - 4.43)
     - Historical recap (1 - 3)
@@ -203,21 +208,36 @@ Here is an outline of the Pentateuch.  I keep the main outline to two levels.  N
     - The blessing of Moses (33)
     - The death of Moses (34)
 
+Note that occasionally, when a chapter ending is only a verse or two off of a logical section divide, I round the outline.  E.g., the "Song of Moses" logical section begins with the last verse of Deuteronomy 31, but I list the logical section as starting with Deuteronomy 32.
+
 <script>
 document.documentElement.classList.toggle('js')
-document.querySelectorAll('main > ul').forEach(function(ul) {
-  ul.onclick = function(event) {
-    if (event.target.tagName === 'LI') {
-      event.target.classList.toggle('hidden-children')
-    }
+ul=document.querySelector('main > ul')
+ul.onclick=function(e){
+  if(e.target.tagName === 'LI')
+    e.target.classList.toggle('hidden-children')
+}
+function setDepth(e,d){
+  e.preventDefault()
+  var s=''
+  while(d--){
+    s+='li '
+    ul.querySelectorAll(s).forEach(function(li){
+      if(d!=0)
+        li.classList.remove('hidden-children')
+      else
+        li.classList.add('hidden-children')
+    })
   }
-})
+}
 </script>
 <style>
-ul{padding-left: 1.4rem;}
-main > ul li{font-weight: normal;}
-main > ul > li {font-weight: bold;}
-.js main > ul li {cursor: pointer;}
-.js main > ul li li li {cursor: default;}
-.js .hidden-children > ul {display: none;}
+ul{padding-left:1.4rem}
+main > ul li{font-weight:normal}
+main > ul > li{font-weight:bold}
+.js main > ul li{cursor:pointer}
+.js main > ul li li li{cursor:default}
+.js .hidden-children > ul{display:none}
+.hidden-no-js{display:none}
+.js .hidden-no-js{display:block}
 </style>

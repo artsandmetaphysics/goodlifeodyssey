@@ -4,6 +4,11 @@
     d
 }
 
+/<p.*>/,/<\/p>/ {
+    p
+    d
+}
+
 # em-dashes and en-dashes, except for YAML delimiters and horizontal rules
 /^---$/ !{
     s/---/—/g
