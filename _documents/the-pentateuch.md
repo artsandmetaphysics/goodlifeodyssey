@@ -77,11 +77,11 @@ What follows is my outline of the Pentateuch.  I keep the main outline to two le
   - Joseph saves and enslaves Egypt (47)
   - Jacob adopts Joseph’s sons (48)
   - Jacob’s blessing (49)
-  - Nervous brothers; Joseph’s death (5)
+  - Nervous brothers; Joseph’s death (50)
 
 ## Exodus
 
-- In and out of Egypt (1 - 18)
+- Out of Egypt (1 - 18)
   - Pharaoh oppresses the Israelites (1)
   - Moses born, murders, flees, marries (2)
   - Moses called and objects; God nearly kills Moses (3 - 4)
