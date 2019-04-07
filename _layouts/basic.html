@@ -18,6 +18,9 @@
   </head>
   <body>
     <header>
+      {% if page.url != '/' %}
+      <p class="hidden-print"><a href="/">← other essays and notes</a></p>
+      {% endif %}
       <hr>
     </header>
     <main>
