@@ -24,7 +24,7 @@ I believe that there is some historical truth in the Pentateuch, beginning with 
 
 Here is an outline of the Pentateuch.  I keep the main outline to two levels.  Note that occasionally, when a chapter ending is only a verse or two off of a logical section divide, I round the outline.  E.g., the “Song of Moses” logical section begins with the last verse of Deuteronomy 31, but I list the logical section as starting with Deuteronomy 32.
 
-- **Genesis**
+- Genesis
   - Primeval history (1 - 11.26)
     - Creation in seven days (1 - 2.4a)
     - Creation in a garden (2.4b - 2.25)
@@ -79,7 +79,7 @@ Here is an outline of the Pentateuch.  I keep the main outline to two levels.  N
     - Jacob adopts Joseph’s sons (48)
     - Jacob’s blessing (49)
     - Nervous brothers; Joseph’s death (50)
-- **Exodus**
+- Exodus
   - Out of Egypt (1 - 18)
     - Pharaoh oppresses the Israelites (1)
     - Moses born, murders, flees, marries (2)
@@ -104,7 +104,7 @@ Here is an outline of the Pentateuch.  I keep the main outline to two levels.  N
     - Golden calf; God’s displeasure; Moses pleads (32 - 33)
     - Restoration of the covenant (34)
     - Creation of the tabernacle (35 - 40)
-- **Leviticus**
+- Leviticus
   - Sacrifice (1 - 7)
     - Burnt offerings (1)
     - Cereal offerings (2)
@@ -132,7 +132,7 @@ Here is an outline of the Pentateuch.  I keep the main outline to two levels.  N
     - Sabbatical and jubilee (25)
     - Blessing and curse (26)
   - Addendum (27)
-- **Numbers**
+- Numbers
   - Holiness and camp (1 - 6)
     - Census of first generation (1)
     - Arrangement of camp (2)
@@ -169,7 +169,7 @@ Here is an outline of the Pentateuch.  I keep the main outline to two levels.  N
     - Division of the land (34)
     - Cities of refuge; homicide laws (35)
     - Zelophad daughter revision (36)
-- **Deuteronomy**
+- Deuteronomy
   - First discourse (1 - 4.43)
     - Historical recap (1 - 3)
     - Admonition to follow the law (4)
@@ -202,3 +202,22 @@ Here is an outline of the Pentateuch.  I keep the main outline to two levels.  N
     - The Song of Moses (32)
     - The blessing of Moses (33)
     - The death of Moses (34)
+
+<script>
+document.documentElement.classList.toggle('js')
+document.querySelectorAll('main > ul').forEach(function(ul) {
+  ul.onclick = function(event) {
+    if (event.target.tagName === 'LI') {
+      event.target.classList.toggle('hidden-children')
+    }
+  }
+})
+</script>
+<style>
+ul{padding-left: 1.4rem;}
+main > ul li{font-weight: normal;}
+main > ul > li {font-weight: bold;}
+.js main > ul li {cursor: pointer;}
+.js main > ul li li li {cursor: default;}
+.js .hidden-children > ul {display: none;}
+</style>
