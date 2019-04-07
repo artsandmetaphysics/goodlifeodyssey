@@ -16,17 +16,18 @@ I believe that some of the stories and laws were adapted from older polytheistic
 
 I believe that the Pentateuch, while largely Monotheistic, contains remnants from Israel's polytheistic past when Yahweh was one god among many.
 
-I believe that the Pentateuch was combined from multiple older sources.  Although it largely tells a cohesive story, inconsistencies in the individual sources are evident and were likely intentionally included.
-
 I believe that there is some historical truth in the Pentateuch, beginning with the patriarchs, but that many details are symbolic or exaggerated.
+
+I believe that the Pentateuch was combined from multiple sources a long time after when the events were said to have occurred.  Although it largely tells a cohesive story, inconsistencies in the individual sources are evident and were likely intentionally included.
+
+I believe that the laws in the Pentateuch were progressive compared to their neighbors, that modern critics often misunderstand their historical context, but that the laws treat women as inferior to men.
 
 ## Outline
 
 <p class="hidden-no-js hidden-print">
   <span class="hidden-sm">Set outline depth: &nbsp;</span>
   <a href="#" onclick="setDepth(event,2)">Major Sections</a> ·
-  <a href="#" onclick="setDepth(event,3)">Chapters</a> ·
-  <!--<a href="#" onclick="setDepth(event,4)">Notes</a>-->
+  <a href="#" onclick="setDepth(event,3)">Chapters</a>
 </p>
 
 - Genesis
@@ -50,7 +51,7 @@ I believe that there is some historical truth in the Pentateuch, beginning with 
     - Third promise; circumcision covenant (17)
     - Annunciation of Isaac (18.1 - 18.15)
     - Sodom and Gomorrah (18.16 - 19.29)
-    - Lot sleeps with his daughters (19.30 - 19.38)
+    - Lot impregnates his daughters (19.30 - 19.38)
     - Sister lie Abimelech (20)
     - Birth of Isaac; Ishmael dismissed; Abimelech dispute (21)
     - The testing of Abraham (22)
@@ -211,7 +212,7 @@ I believe that there is some historical truth in the Pentateuch, beginning with 
 Note that occasionally, when a chapter ending is only a verse or two off of a logical section divide, I round the outline.  E.g., the "Song of Moses" logical section begins with the last verse of Deuteronomy 31, but I list the logical section as starting with Deuteronomy 32.
 
 <script>
-document.documentElement.classList.toggle('js')
+document.documentElement.classList.add('js')
 ul=document.querySelector('main > ul')
 ul.onclick=function(e){
   if(e.target.tagName === 'LI')
