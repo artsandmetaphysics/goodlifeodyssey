@@ -10,24 +10,19 @@ order: 5.1
 
 The Pentateuch is the first five books of all bibles (Jewish, Catholic, Eastern Orthodox, Oriental Orthodox, and Protestant).  Here are some of my beliefs about the Pentateuch, derived from study of the Pentateuch, historical sources, and commentaries:
 
-I believe that the Pentateuch is a beautiful and compelling story of the creation of the world, the patriarchs, and the Israelite’s exodus from Egypt and journey through the wilderness.
-
-I believe that some of the stories and laws were adapted from older polytheistic Mesopotamian stories and laws to emphasize the Israelite’s all-powerful and moral God and his love of humanity.
-
-I believe that the Pentateuch, while largely Monotheistic, contains remnants from Israel’s polytheistic past when Yahweh was one god among many.
-
-I believe that there is some historical truth in the Pentateuch, beginning with the patriarchs, but that many details are symbolic or exaggerated.
-
-I believe that the Pentateuch was combined from multiple sources a long time after when the events were said to have occurred.  Although it largely tells a cohesive story, inconsistencies in the individual sources are evident and were likely intentionally included.
-
-I believe that the laws in the Pentateuch were progressive compared to their neighbors, that modern critics often misunderstand their historical context, but that the laws treat women as inferior to men.
+1. I believe that the Pentateuch is a beautiful and compelling story of the creation of the world, the patriarchs, and the Israelite’s exodus from Egypt and journey through the wilderness.
+2. I believe that some of the stories and laws were adapted from older polytheistic Mesopotamian stories and laws to emphasize the Israelite’s all-powerful and moral God and his love of humanity.
+3. I believe that the Pentateuch, while largely Monotheistic, contains remnants from Israel’s polytheistic past when Yahweh was one god among many.
+4. I believe that there is some historical truth in the Pentateuch, beginning with the patriarchs, but that many details are symbolic or exaggerated.
+5. I believe that the Pentateuch was combined from multiple sources a long time after when the events were said to have occurred.  Although it largely tells a cohesive story, inconsistencies in the individual sources are evident and were likely intentionally included.
+6. I believe that the laws in the Pentateuch were progressive compared to their neighbors, that modern critiques of the laws often misunderstand their historical context, but that the laws treat women as inferior to men.
 
 ## Outline
 
 <p class="hidden-no-js hidden-print">
   <span class="hidden-sm">Set outline depth: &nbsp;</span>
-  <a href="#" onclick="setDepth(event,2)">Major Sections</a> ·
-  <a href="#" onclick="setDepth(event,3)">Chapters</a>
+  <a href="#" onclick="setDepth(2,event)">Major Sections</a> ·
+  <a href="#" onclick="setDepth(3,event)">Chapters</a>
 </p>
 
 - Genesis
@@ -211,6 +206,52 @@ I believe that the laws in the Pentateuch were progressive compared to their nei
 
 Note: occasionally, when a section divide ends near a chapter division, I round the section division to the nearest chapter outline.  E.g., the “Song of Moses” section begins with the last verse of Deuteronomy 31, but the outline section starts with Deuteronomy 32.
 
+## Anachronisms
+
+There are a number of verses that are difficult to explain if it is believed that Moses wrote the entire Pentateuch.  The Pentateuch does not claim that Moses wrote it, outside of some laws in Exodus and Deuteronomy.
+
+Here is a list of some anachronistic verses which are difficult to explain if Moses authored the Pentateuch.  Note that traditionalists have devised explanations for all of these anachronisms, but I find that most of the explanations stretch plausibility, especially when all of these verses are considered collectively.
+
+<blockquote class="prose">
+<p>Abram passed through the land to the place of Shechem, to the oak of Moreh. At that time, Canaanites were in the land. <cite>(Genesis 12.6)</cite></p>
+</blockquote>
+
+The Canaanites were in the control of the land for Moses’s entire lifetime.  Thus, the clarification “at that time, Canaanites were in the land” implies that the Canaanites were no-longer in the land when the author was writing, and that they were clarifying this for their audience.
+
+<blockquote class="prose">
+<p>There was strife between the herdsmen of Abram’s livestock and the herdsmen of Lot’s livestock. The Canaanites and the Perizzites lived in the land at that time. <cite>(Genesis 13.7)</cite></p>
+</blockquote>
+
+Similar logic applies to this verse in chapter 13.
+
+<blockquote class="prose">
+<p>When Abram heard that his relative was taken captive, he led out his three hundred eighteen trained men, born in his house, and pursued as far as Dan. <cite>(Genesis 14.14)</cite></p>
+</blockquote>
+
+The town of Dan was named after the conquest, according to Joshua and Judges:
+
+<blockquote class="prose">
+<p>The border of the children of Dan went out beyond them; for the children of Dan went up and fought against Leshem, and took it, and struck it with the edge of the sword, and possessed it, and lived therein, and called Leshem, Dan, after the name of Dan their forefather. <cite>(Joshua 19.47)</cite></p>
+</blockquote>
+
+<blockquote class="prose">
+<p>They called the name of the city Dan, after the name of Dan their father, who was born to Israel; however the name of the city used to be Laish. <cite>(Judges 18.29)</cite></p>
+</blockquote>
+
+The phrase “from Dan to Beer-sheba” is used several times in the historical books to indicate the full extent of Israel.  Thus, the use of Dan in Genesis 14 is consistent with this conception of Dan.
+
+<blockquote class="prose">
+<p>These are the words which Moses spoke to all Israel beyond the Jordan in the wilderness <cite>(Deuteronomy 1.1)</cite></p>
+</blockquote>
+
+The phrase “beyond the Jordan” implies that the author is on the Western side.  Moses did not cross the Jordan, thus it seems that author can not be Moses.
+
+<blockquote class="prose">
+<p>(The Emim lived there before, a great and numerous people, and tall as the Anakim. These also are considered to be Rephaim, as the Anakim; but the Moabites call them Emim. The Horites also lived in Seir in the past, but the children of Esau succeeded them. They destroyed them from before them, and lived in their place, as Israel did to the land of his possession, which Yahweh gave to them.) <cite>(Deuteronomy 12.10 - 12)</cite></p>
+</blockquote>
+
+The phrase “as Israel did to the land” implies that the conquest has already taken place.
+
 <script>
 document.documentElement.classList.add('js')
 ul=document.querySelector('main > ul')
@@ -218,7 +259,7 @@ ul.onclick=function(e){
   if(e.target.tagName === 'LI')
     e.target.classList.toggle('hidden-children')
 }
-function setDepth(e,d){
+function setDepth(d,e){
   e.preventDefault()
   var s=''
   while(d--){
@@ -233,6 +274,7 @@ function setDepth(e,d){
 }
 </script>
 <style>
+main > ol{list-style-type:upper-roman}
 ul{padding-left:1.4rem}
 main > ul li{font-weight:normal}
 main > ul > li{font-weight:bold}
