@@ -6,6 +6,18 @@ type: note
 order: 5.1
 ---
 
+<style>
+main > ol{list-style-type:upper-roman}
+ul{padding-left:1.4rem}
+main > ul li{font-weight:normal}
+main > ul > li{font-weight:bold}
+.js main > ul li{cursor:pointer}
+.js main > ul li li li{cursor:default}
+.js .hidden-children > ul{display:none}
+.hidden-no-js{display:none}
+.js .hidden-no-js{display:block}
+</style>
+
 ## My Beliefs
 
 The Pentateuch is the first five books of all bibles (Jewish, Catholic, Eastern Orthodox, Oriental Orthodox, and Protestant).  Here are some of my beliefs about the Pentateuch, derived from study of the Pentateuch, historical sources, and commentaries:
@@ -273,14 +285,3 @@ function setDepth(d,e){
   }
 }
 </script>
-<style>
-main > ol{list-style-type:upper-roman}
-ul{padding-left:1.4rem}
-main > ul li{font-weight:normal}
-main > ul > li{font-weight:bold}
-.js main > ul li{cursor:pointer}
-.js main > ul li li li{cursor:default}
-.js .hidden-children > ul{display:none}
-.hidden-no-js{display:none}
-.js .hidden-no-js{display:block}
-</style>
