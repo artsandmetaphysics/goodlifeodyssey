@@ -22,12 +22,12 @@ main > ul > li{font-weight:bold}
 
 The Pentateuch is the first five books of all bibles (Jewish, Catholic, Eastern Orthodox, Oriental Orthodox, and Protestant).  Here are some of my beliefs about the Pentateuch, derived from study of the Pentateuch, historical sources, and commentaries:
 
-1. I believe that the Pentateuch is a beautiful and compelling story of the creation of the world, the patriarchs, and the Israelite's exodus from Egypt and journey through the wilderness.
-2. I believe that some of the stories and laws were adapted from older polytheistic Mesopotamian stories and laws to emphasize the Israelite's all-powerful and moral God and his love of humanity.
-3. I believe that the Pentateuch, while largely Monotheistic, contains remnants from Israel's polytheistic past when Yahweh was one god among many.
-4. I believe that there is some historical truth in the Pentateuch, beginning with the patriarchs, but that many details are symbolic or exaggerated.
-5. I believe that the Pentateuch was combined from multiple sources a long time after when the events were said to have occurred.  Although it largely tells a cohesive story, inconsistencies in the individual sources are evident and were likely intentionally included.
-6. I believe that the laws in the Pentateuch were progressive compared to their neighbors, that modern critiques of the laws often misunderstand their historical context, but that the laws treat women as inferior to men.
+1. The Pentateuch is a beautiful and compelling story of the creation of the world, the patriarchs, and the Israelite's exodus from Egypt and journey through the wilderness.
+2. Some of the stories and laws were adapted from older polytheistic Mesopotamian stories and laws to emphasize the Israelite's all-powerful and moral God and his love of humanity.
+3. The Pentateuch, while largely Monotheistic, contains remnants from Israel's polytheistic past when Yahweh was one god among many.
+4. There is some historical truth in the Pentateuch, beginning with the patriarchs, but that many details are symbolic or exaggerated.
+5. The Pentateuch was combined from multiple sources a long time after when the events were said to have occurred.  Although it largely tells a cohesive story, inconsistencies in the individual sources are evident and were likely intentionally included.
+6. The laws in the Pentateuch were progressive compared to their neighbors, that modern critiques of the laws often misunderstand their historical context, but that the laws treat women as inferior to men.
 
 ## Outline
 
@@ -55,7 +55,7 @@ The Pentateuch is the first five books of all bibles (Jewish, Catholic, Eastern 
     - Militant Abram saves Lot (14)
     - Second promise (15)
     - Hagar and Ishmael (16)
-    - Third promise; circumcision covenant (17)
+    - Circumcision covenant (17)
     - Annunciation of Isaac (18.1 - 18.15)
     - Sodom and Gomorrah (18.16 - 19.29)
     - Lot impregnates his daughters (19.30 - 19.38)
@@ -146,13 +146,12 @@ The Pentateuch is the first five books of all bibles (Jewish, Catholic, Eastern 
     - Blessing and curse (26)
   - Addendum (27)
 - Numbers
-  - Holiness and camp (1 - 6)
+  - The camp and tabernacle (1 - 9)
     - Census of first generation (1)
     - Arrangement of camp (2)
     - Levite duties and census (3 - 4)
     - Purity; jealous husband (5)
     - Nazarites; priestly blessing (6)
-  - Holiness and tabernacle (7 - 10)
     - Tabernacle offerings of dedication (7)
     - Dedication of the Levites (8)
     - The second passover; cloud and wilderness march (9)
@@ -193,7 +192,7 @@ The Pentateuch is the first five books of all bibles (Jewish, Catholic, Eastern 
     - Temptation to pride and self-sufficiency (8)
     - Why the Israelites are given the land (9)
     - Obedience as a condition for the land (10 - 11)
-  - Second discourse: laws (12 - 28)
+  - Second discourse: laws (12 - 25)
     - Centralization of worship (12)
     - Unconditional loyalty (13)
     - Obligations of holiness (14)
@@ -204,6 +203,7 @@ The Pentateuch is the first five books of all bibles (Jewish, Catholic, Eastern 
     - Cities of refuge; integrity of judicial system (19)
     - Rules for holy war (20)
     - Miscellaneous civil and family laws (21 - 25)
+  - Second discourse: conclusion (26 - 28)
     - Conclusion (26)
     - Ceremonies at Shechem upon entry (27)
     - Blessing and curse (28)
