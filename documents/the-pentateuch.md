@@ -67,7 +67,7 @@ The Pentateuch is the first five books of all bibles (Jewish, Catholic, Eastern 
     - Death of Abraham; genealogy (25.1 - 25.18)
   - Jacob (25.19 - 36)
     - Birth and birthright (25.19 - 25.34)
-    - Sister lie Abimelech; promise; Esau's wives (26)
+    - Promise; sister lie Abimelech; abundance; Esau's wives (26)
     - Jacob steals the blessing (27)
     - Jacob's ladder (28)
     - Jacob marries Leah and Rachel (29)
@@ -224,36 +224,38 @@ There are a number of verses that are difficult to explain if it is believed tha
 
 Here is a list of some anachronistic verses which are difficult to explain if Moses authored the Pentateuch.  Note that traditionalists have devised explanations for all of these anachronisms, but I find that most of the explanations stretch plausibility, especially when all of these verses are considered collectively.
 
-> Abram passed through the land to the place of Shechem, to the oak of Moreh. At that time, Canaanites were in the land.
-> = (Genesis 12.6)
+> Abram passed through the land to the place of Shechem, to the oak of Moreh. At that time, *Canaanites were in the land.*
+> = Genesis 12.6
 
 The Canaanites were in the control of the land for Moses's entire lifetime.  Thus, the clarification "at that time, Canaanites were in the land" implies that the Canaanites were no-longer in the land when the author was writing, and that they were clarifying this for their audience.
 
-> There was strife between the herdsmen of Abram’s livestock and the herdsmen of Lot’s livestock. The Canaanites and the Perizzites lived in the land at that time.
-> = (Genesis 13.7)
+> There was strife between the herdsmen of Abram’s livestock and the herdsmen of Lot’s livestock. *The Canaanites and the Perizzites lived in the land at that time.*
+> = Genesis 13.7
 
 Similar logic applies to this verse in chapter 13.
 
-> When Abram heard that his relative was taken captive, he led out his three hundred eighteen trained men, born in his house, and pursued as far as Dan.
-> = (Genesis 14.14)
+> When Abram heard that his relative was taken captive, he led out his three hundred eighteen trained men, born in his house, and pursued *as far as Dan*.
+> = Genesis 14.14
 
 The town of Dan was named after the conquest, according to Joshua and Judges:
 
-> The border of the children of Dan went out beyond them; for the children of Dan went up and fought against Leshem, and took it, and struck it with the edge of the sword, and possessed it, and lived therein, and called Leshem, Dan, after the name of Dan their forefather.
-> = (Joshua 19.47)
+> The border of the children of Dan went out beyond them; for the children of Dan went up and fought against Leshem, and took it, and struck it with the edge of the sword, and possessed it, and lived therein, *and called Leshem, Dan, after the name of Dan their forefather*.
+> = Joshua 19.47
 
-> They called the name of the city Dan, after the name of Dan their father, who was born to Israel; however the name of the city used to be Laish.
-> = (Judges 18.29)
+> They called the name of the city Dan, after the name of Dan their father, who was born to Israel; however *the name of the city used to be Laish*.
+> = Judges 18.29
 
-The phrase "from Dan to Beer-sheba" is used several times in the historical books to indicate the full extent of Israel.  Thus, the use of Dan in Genesis 14 is consistent with this conception of Dan.
+Note that Joshua and Judges disagree regarding the name of the city prior to being renamed.
 
-> These are the words which Moses spoke to all Israel beyond the Jordan in the wilderness
-> = (Deuteronomy 1.1)
+Some have suggested that the Dan referenced in Genesis is a different place.  While possible, this seems unlikely because the phrase "from Dan to Beer-sheba" is used in the historical books to indicate the full extent of Israel.  Thus, the use of Dan in Genesis 14 is consistent with this conception of Dan as the northernmost point of the nation.
+
+> These are the words which Moses spoke to all Israel *beyond the Jordan* in the wilderness
+> = Deuteronomy 1.1
 
 The phrase "beyond the Jordan" implies that the author is on the Western side.  Moses did not cross the Jordan, thus it seems that author can not be Moses.
 
-> (The Emim lived there before, a great and numerous people, and tall as the Anakim. These also are considered to be Rephaim, as the Anakim; but the Moabites call them Emim. The Horites also lived in Seir in the past, but the children of Esau succeeded them. They destroyed them from before them, and lived in their place, as Israel did to the land of his possession, which Yahweh gave to them.)
-> = (Deuteronomy 12.10 - 12)
+> (The Emim lived there before, a great and numerous people, and tall as the Anakim. These also are considered to be Rephaim, as the Anakim; but the Moabites call them Emim. The Horites also lived in Seir in the past, but the children of Esau succeeded them. They destroyed them from before them, and lived in their place, *as Israel did to the land of his possession, which Yahweh gave to them*.)
+> = Deuteronomy 12.10 - 12
 
 The phrase "as Israel did to the land" implies that the conquest has already taken place.
 

@@ -77,7 +77,8 @@ def strip_quoting(line):
 
 
 def process_line(line):
-    return re.sub(r'\*([^*]*)\*', r'<em>\1</em>', line)
+    line_w_strongs = re.sub(r'\*\*([^*]*)\*\*', r'<strong>\1</strong>', line)
+    return re.sub(r'\*([^*]*)\*', r'<em>\1</em>', line_w_strongs)
 
 
 if __name__ == "__main__":
