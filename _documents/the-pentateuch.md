@@ -28,6 +28,7 @@ The Pentateuch is the first five books of all bibles (Jewish, Catholic, Eastern 
 4. There is some historical truth in the Pentateuch, beginning with the patriarchs, but that many details are symbolic or exaggerated.
 5. The Pentateuch was combined from multiple sources a long time after when the events were said to have occurred.  Although it largely tells a cohesive story, inconsistencies in the individual sources are evident and were likely intentionally included.
 6. The laws in the Pentateuch were progressive compared to their neighbors, that modern critiques of the laws often misunderstand their historical context, but that the laws treat women as inferior to men.
+7. The authors of the Pentateuch had an ancient Mesopotamian (and incorrect) understanding of the physical world.
 
 ## Outline
 
