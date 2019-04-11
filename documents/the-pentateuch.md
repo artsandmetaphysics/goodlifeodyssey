@@ -8,14 +8,20 @@ order: 5.1
 
 <style>
 main > ol{list-style-type:upper-roman}
-ul{padding-left:1.4rem}
-main > ul li{font-weight:normal}
-main > ul > li{font-weight:bold}
-.js main > ul li{cursor:pointer}
-.js main > ul li li li{cursor:default}
-.js .hidden-children > ul{display:none}
+ul:first-child{padding-left:1.4rem}
+main > ul:first-child li{font-weight:normal}
+main > ul:first-child > li{font-weight:bold}
+.js main > ul:first-child li{cursor:pointer}
+.js main > ul:first-child li li li{cursor:default}
+.js .hidden-children > ul:first-child{display:none}
 .hidden-no-js{display:none}
 .js .hidden-no-js{display:block}
+.color .y{color:olive}
+.color .p{color:purple}
+.y,.p{transition: color 0.2s ease-out}
+.n {color:black}
+.hide-y blockquote .y{display:none}
+.hide-p blockquote .p{display:none}
 </style>
 
 ## My Beliefs
@@ -219,7 +225,7 @@ The Pentateuch is the first five books of all bibles (Jewish, Catholic, Eastern 
 
 Note: occasionally, when a section divide ends near a chapter division, I round the section division to the nearest chapter outline.  E.g., the "Song of Moses" section begins with the last verse of Deuteronomy 31, but the outline section starts with Deuteronomy 32.
 
-## Anachronisms
+## Mosaic Authorship
 
 There are a number of verses that are difficult to explain if it is believed that Moses wrote the entire Pentateuch.  The Pentateuch does not claim that Moses wrote it, outside of some laws in Exodus and Deuteronomy.
 
@@ -260,9 +266,51 @@ The phrase "beyond the Jordan" implies that the author is on the Western side.  
 
 The phrase "as Israel did to the land" implies that the conquest has already taken place.
 
+## Source Theories and Genesis 1 - 11
+
+Many scholars believe that the Pentateuch was combined from older sources, which themselves evolved over a long period of time, and was combined into the form we have now by a master editor or redactor.  One particular source theory is the "Documentary Hypothesis," although there are others.  The belief in multiple sources does not necessarily mean that:
+
+- The sources were not divinely inspired and edited,
+- The redactor did not combine the parts into a unified whole, or
+- Moses didn't write portions of the Pentateuch.
+
+In this section, I will examine Genesis 1 - 11 to see why scholars believe it is composed from multiple sources, and whether these arguments are persuasive.
+
+Some reasons include:
+
+- The differing style between portions of the text. E.g., Gen 1 vs 2, 4 v 5, 10 v 11.
+- Contradictions in Gen 1 vs 2 (the order that the animals are created is swapped)
+- Genesis 4 and 5 appear to repeat many names, but in one genealogy cain is the parent and in the other seth is.
+- Repetitions and differing numbers in the flood.
+
+<p class="hidden-no-js hidden-print color">
+  <span class="hidden-sm">Highlight: &nbsp;</span>
+  <a href="#" onclick="setHighlight('N',event)"><span class="n">Y + P</span></a> ·
+  <a href="#" onclick="setHighlight('YP',event)"><span class="y">Y</span> + <span class="p">P</span></a> ·
+  <a href="#" onclick="setHighlight('Y',event)"><span class="y">Y</span></a> ·
+  <a href="#" onclick="setHighlight('P',event)"><span class="p">P</span></a>
+</p>
+
+> <span class="y">⁵ Yahweh saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of man’s heart was continually only evil. ⁶ Yahweh was sorry that he had made man on the earth, and it grieved him in his heart. ⁷ Yahweh said, “I will destroy man whom I have created from the surface of the ground—man, along with animals, creeping things, and birds of the sky—for I am sorry that I have made them.” ⁸ But Noah found favor in Yahweh’s eyes.</span>
+> <span class="p">⁹ This is the history of the generations of Noah: Noah was a righteous man, blameless among the people of his time. Noah walked with God. ¹⁰ Noah became the father of three sons: Shem, Ham, and Japheth. ¹¹ The earth was corrupt before God, and the earth was filled with violence. ¹² God saw the earth, and saw that it was corrupt, for all flesh had corrupted their way on the earth.</span>
+> <span class="p">¹³ God said to Noah, “I will bring an end to all flesh, for the earth is filled with violence through them. Behold, I will destroy them and the earth. ¹⁴ Make a ship of gopher wood. You shall make rooms in the ship, and shall seal it inside and outside with pitch. ¹⁵ This is how you shall make it. The length of the ship shall be three hundred cubits, its width fifty cubits, and its height thirty cubits. ¹⁶ You shall make a roof in the ship, and you shall finish it to a cubit upward. You shall set the door of the ship in its side. You shall make it with lower, second, and third levels. ¹⁷ I, even I, will bring the flood of waters on this earth, to destroy all flesh having the breath of life from under the sky. Everything that is in the earth will die. ¹⁸ But I will establish my covenant with you. You shall come into the ship, you, your sons, your wife, and your sons’ wives with you. ¹⁹ Of every living thing of all flesh, you shall bring two of every sort into the ship, to keep them alive with you. They shall be male and female. ²⁰ Of the birds after their kind, of the livestock after their kind, of every creeping thing of the ground after its kind, two of every sort will come to you, to keep them alive. ²¹ Take with you some of all food that is eaten, and gather it to yourself; and it will be for food for you, and for them.” ²² Thus Noah did. He did all that God commanded him.</span>
+> <span class="y">¹ Yahweh said to Noah, “Come with all of your household into the ship, for I have seen your righteousness before me in this generation. ² You shall take seven pairs of every clean animal with you, the male and his female. Of the animals that are not clean, take two, the male and his female. ³ Also of the birds of the sky, seven and seven, male and female, to keep seed alive on the surface of all the earth. ⁴ In seven days, I will cause it to rain on the earth for forty days and forty nights. I will destroy every living thing that I have made from the surface of the ground.”</span>
+> <span class="y">⁵ Noah did everything that Yahweh commanded him.</span>
+> <span class="p">⁶ Noah was six hundred years old when the flood of waters came on the earth.</span> <span class="y">⁷ Noah went into the ship with his sons, his wife, and his sons’ wives, because of the floodwaters. ⁸ Clean animals, unclean animals, birds, and everything that creeps on the ground</span> <span class="p">⁹ went by pairs to Noah into the ship, male and female, as God commanded Noah.</span> <span class="y">¹⁰ After the seven days, the floodwaters came on the earth.</span> <span class="p">¹¹ In the six hundredth year of Noah’s life, in the second month, on the seventeenth day of the month, on that day all the fountains of the great deep burst open, and the sky’s windows opened.</span> <span class="y">¹² It rained on the earth forty days and forty nights.</span>
+> <span class="p">¹³ In the same day Noah, and Shem, Ham, and Japheth—the sons of Noah—and Noah’s wife and the three wives of his sons with them, entered into the ship— ¹⁴ they, and every animal after its kind, all the livestock after their kind, every creeping thing that creeps on the earth after its kind, and every bird after its kind, every bird of every sort. ¹⁵ Pairs from all flesh with the breath of life in them went into the ship to Noah. ¹⁶ Those who went in, went in male and female of all flesh, as God commanded him;</span> <span class="y">then Yahweh shut him in. ¹⁷ The flood was forty days on the earth. The waters increased, and lifted up the ship, and it was lifted up above the earth.</span> <span class="p">¹⁸ The waters rose, and increased greatly on the earth; and the ship floated on the surface of the waters. ¹⁹ The waters rose very high on the earth. All the high mountains that were under the whole sky were covered. ²⁰ The waters rose fifteen cubits higher, and the mountains were covered. ²¹ All flesh died that moved on the earth, including birds, livestock, animals, every creeping thing that creeps on the earth, and every man.</span> <span class="y">²² All on the dry land, in whose nostrils was the breath of the spirit of life, died. ²³ Every living thing was destroyed that was on the surface of the ground, including man, livestock, creeping things, and birds of the sky. They were destroyed from the earth. Only Noah was left, and those who were with him in the ship.</span> <span class="p">²⁴ The waters flooded the earth one hundred fifty days.</span>
+> <span class="p">¹ God remembered Noah, all the animals, and all the livestock that were with him in the ship; and God made a wind to pass over the earth. The waters subsided. ² The deep’s fountains and the sky’s windows were also stopped, and the rain from the sky was restrained.</span> <span class="y">³ The waters continually receded from the earth. After the end of one hundred fifty days the waters receded.</span> <span class="p">⁴ The ship rested in the seventh month, on the seventeenth day of the month, on Ararat’s mountains. ⁵ The waters receded continually until the tenth month. In the tenth month, on the first day of the month, the tops of the mountains were visible.</span>
+> <span class="y">⁶ At the end of forty days, Noah opened the window of the ship which he had made, ⁷ and he sent out a raven. It went back and forth, until the waters were dried up from the earth. ⁸ He himself sent out a dove to see if the waters were abated from the surface of the ground, ⁹ but the dove found no place to rest her foot, and she returned into the ship to him, for the waters were on the surface of the whole earth. He put out his hand, and took her, and brought her to him into the ship. ¹⁰ He waited yet another seven days; and again he sent the dove out of the ship. ¹¹ The dove came back to him at evening and, behold, in her mouth was a freshly plucked olive leaf. So Noah knew that the waters were abated from the earth. ¹² He waited yet another seven days, and sent out the dove; and she didn’t return to him any more.</span>
+> <span class="p">¹³ In the six hundred first year, in the first month, the first day of the month, the waters were dried up from the earth.</span> <span class="y">Noah removed the covering of the ship, and looked. He saw that the surface of the ground was dry.</span> <span class="p">¹⁴ In the second month, on the twenty-seventh day of the month, the earth was dry.</span>
+> <span class="p">¹⁵ God spoke to Noah, saying, ¹⁶ “Go out of the ship, you, your wife, your sons, and your sons’ wives with you. ¹⁷ Bring out with you every living thing that is with you of all flesh, including birds, livestock, and every creeping thing that creeps on the earth, that they may breed abundantly in the earth, and be fruitful, and multiply on the earth.”</span>
+>     ¹⁸ Noah went out, with his sons, his wife, and his sons’ wives with him. ¹⁹ Every animal, every creeping thing, and every bird, whatever moves on the earth, after their families, went out of the ship.
+>     ²⁰ Noah built an altar to Yahweh, and took of every clean animal, and of every clean bird, and offered burnt offerings on the altar. ²¹ Yahweh smelled the pleasant aroma. Yahweh said in his heart, “I will not again curse the ground any more for man’s sake because the imagination of man’s heart is evil from his youth. I will never again strike every living thing, as I have done. ²² While the earth remains, seed time and harvest, and cold and heat, and summer and winter, and day and night will not cease.”
+>     ¹ God blessed Noah and his sons, and said to them, “Be fruitful, multiply, and replenish the earth. ² The fear of you and the dread of you will be on every animal of the earth, and on every bird of the sky. Everything that moves along the ground, and all the fish of the sea, are delivered into your hand. ³ Every moving thing that lives will be food for you. As I gave you the green herb, I have given everything to you. ⁴ But flesh with its life, that is, its blood, you shall not eat. ⁵ I will surely require accounting for your life’s blood. At the hand of every animal I will require it. At the hand of man, even at the hand of every man’s brother, I will require the life of man. ⁶ Whoever sheds man’s blood, his blood will be shed by man, for God made man in his own image. ⁷ Be fruitful and multiply. Increase abundantly in the earth, and multiply in it.”
+>     ⁸ God spoke to Noah and to his sons with him, saying, ⁹ “As for me, behold, I establish my covenant with you, and with your offspring after you, ¹⁰ and with every living creature that is with you: the birds, the livestock, and every animal of the earth with you, of all that go out of the ship, even every animal of the earth. ¹¹ I will establish my covenant with you: All flesh will not be cut off any more by the waters of the flood. There will never again be a flood to destroy the earth.” ¹² God said, “This is the token of the covenant which I make between me and you and every living creature that is with you, for perpetual generations: ¹³ I set my rainbow in the cloud, and it will be a sign of a covenant between me and the earth. ¹⁴ When I bring a cloud over the earth, that the rainbow will be seen in the cloud, ¹⁵ I will remember my covenant, which is between me and you and every living creature of all flesh, and the waters will no more become a flood to destroy all flesh. ¹⁶ The rainbow will be in the cloud. I will look at it, that I may remember the everlasting covenant between God and every living creature of all flesh that is on the earth.” ¹⁷ God said to Noah, “This is the token of the covenant which I have established between me and all flesh that is on the earth.”
+> =
+
 <script>
 document.documentElement.classList.add('js')
-ul=document.querySelector('main > ul')
+ul=document.querySelectorAll('main > ul')[0]
 ul.onclick=function(e){
   if(e.target.tagName === 'LI')
     e.target.classList.toggle('hidden-children')
@@ -279,5 +327,12 @@ function setDepth(d,e){
         li.classList.add('hidden-children')
     })
   }
+}
+function setHighlight(h,e){
+  e.preventDefault()
+  var cl=document.documentElement.classList
+  if(h=='Y')cl.add('hide-p');else cl.remove('hide-p')
+  if(h=='P')cl.add('hide-y');else cl.remove('hide-y')
+  if(h=='N')cl.remove('color');else cl.add('color')
 }
 </script>
