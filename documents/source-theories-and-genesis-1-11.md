@@ -10,14 +10,11 @@ order: 5.2
 .hidden-no-js{display:none}
 .js .hidden-no-js{display:block}
 
-.color .n{color:#000}
-.color .y{color:#B14}
-.color .p{color:#41B}
-.color a{padding:0.3rem;margin-right:0.3rem;border:1px solid black;border-radius:0.3rem}
-.color a:hover{text-decoration:none}
-.y,.p{transition: color 0.2s ease-out}
-.hide-y blockquote .y{display:none}
-.hide-p blockquote .p{display:none}
+.b{color:#000}
+.y{color:#B14}
+.p{color:#41B}
+.hide-y .y{display:none}
+.hide-p .p{display:none}
 </style>
 
 ## Introduction
@@ -32,20 +29,11 @@ In this section, I will examine Genesis 1 - 11 to see why scholars believe it is
 
 ## The Creation Accounts
 
-<p class="hidden-no-js hidden-print color">
-  <span class="hidden-sm">Highlight: </span>
-  <a href="#" onclick="setHighlight('N',event)">
-    <span class="n">No Sources</span>
-  </a>
-  <a href="#" onclick="setHighlight('YP',event)">
-    <span class="y">Y</span><span class="n"> And </span><span class="p">P</span>
-  </a>
-  <a href="#" onclick="setHighlight('Y',event)">
-    <span class="y">Only Y</span>
-  </a>
-  <a href="#" onclick="setHighlight('P',event)">
-    <span class="p">Only P</span>
-  </a>
+<p class="hidden-no-js hidden-print">
+  <span class="hidden-sm">Display: &nbsp;</span>
+  <a class="b" href="#" onclick="setHighlight('yp',event)"><span class="y">Y</span> and <span class="p">P</span></a> ·
+  <a class="y" href="#" onclick="setHighlight('y',event)">Only Y</a> ·
+  <a class="p" href="#" onclick="setHighlight('p',event)">Only P</a>
 </p>
 
 > <span class="p">¹ In the beginning, God created the heavens and the earth. ² The earth was formless and empty. Darkness was on the surface of the deep and God’s Spirit was hovering over the surface of the waters.</span>
@@ -64,53 +52,7 @@ In this section, I will examine Genesis 1 - 11 to see why scholars believe it is
 
 ## The Fall and Cain and Abel
 
-> <span class="y">¹ Now the serpent was more subtle than any animal of the field which Yahweh God had made. He said to the woman, “Has God really said, ‘You shall not eat of any tree of the garden’?”</span>
-> <span class="y">² The woman said to the serpent, “We may eat fruit from the trees of the garden, ³ but not the fruit of the tree which is in the middle of the garden. God has said, ‘You shall not eat of it. You shall not touch it, lest you die.’ ”</span>
-> <span class="y">⁴ The serpent said to the woman, “You won’t really die, ⁵ for God knows that in the day you eat it, your eyes will be opened, and you will be like God, knowing good and evil.”</span>
-> <span class="y">⁶ When the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise, she took some of its fruit, and ate. Then she gave some to her husband with her, and he ate it, too. ⁷ Their eyes were opened, and they both knew that they were naked. They sewed fig leaves together, and made coverings for themselves. ⁸ They heard Yahweh God’s voice walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of Yahweh God among the trees of the garden.</span>
-> <span class="y">⁹ Yahweh God called to the man, and said to him, “Where are you?”</span>
-> <span class="y">¹⁰ The man said, “I heard your voice in the garden, and I was afraid, because I was naked; so I hid myself.”</span>
-> <span class="y">¹¹ God said, “Who told you that you were naked? Have you eaten from the tree that I commanded you not to eat from?”</span>
-> <span class="y">¹² The man said, “The woman whom you gave to be with me, she gave me fruit from the tree, and I ate it.”</span>
-> <span class="y">¹³ Yahweh God said to the woman, “What have you done?”</span>
-> <span class="y">The woman said, “The serpent deceived me, and I ate.”</span>
-> <span class="y">¹⁴ Yahweh God said to the serpent,</span>
-> <span class="y">“Because you have done this,</span>
-> <span class="y">you are cursed above all livestock,</span>
-> <span class="y">and above every animal of the field.</span>
-> <span class="y">You shall go on your belly</span>
-> <span class="y">and you shall eat dust all the days of your life.</span>
-> <span class="y">¹⁵ I will put hostility between you and the woman,</span>
-> <span class="y">and between your offspring and her offspring.</span>
-> <span class="y">He will bruise your head,</span>
-> <span class="y">and you will bruise his heel.”</span>
-> <span class="y">¹⁶ To the woman he said,</span>
-> <span class="y">“I will greatly multiply your pain in childbirth.</span>
-> <span class="y">You will bear children in pain.</span>
-> <span class="y">Your desire will be for your husband,</span>
-> <span class="y">and he will rule over you.”</span>
-> <span class="y">¹⁷ To Adam he said,</span>
-> <span class="y">“Because you have listened to your wife’s voice,</span>
-> <span class="y">and ate from the tree,</span>
-> <span class="y">about which I commanded you, saying, ‘You shall not eat of it,’</span>
-> <span class="y">the ground is cursed for your sake.</span>
-> <span class="y">You will eat from it with much labor all the days of your life.</span>
-> <span class="y">¹⁸ It will yield thorns and thistles to you;</span>
-> <span class="y">and you will eat the herb of the field.</span>
-> <span class="y">¹⁹ You will eat bread by the sweat of your face until you return to the ground,</span>
-> <span class="y">for you were taken out of it.</span>
-> <span class="y">For you are dust,</span>
-> <span class="y">and you shall return to dust.”</span>
-> <span class="y">²⁰ The man called his wife Eve because she would be the mother of all the living. ²¹ Yahweh God made garments of animal skins for Adam and for his wife, and clothed them.</span>
-> <span class="y">²² Yahweh God said, “Behold, the man has become like one of us, knowing good and evil. Now, lest he reach out his hand, and also take of the tree of life, and eat, and live forever—” ²³ Therefore Yahweh God sent him out from the garden of Eden, to till the ground from which he was taken. ²⁴ So he drove out the man; and he placed cherubim at the east of the garden of Eden, and a flaming sword which turned every way, to guard the way to the tree of life.</span>
-> <span class="y">¹ The man knew Eve his wife. She conceived, and gave birth to Cain, and said, “I have gotten a man with Yahweh’s help.” ² Again she gave birth, to Cain’s brother Abel. Abel was a keeper of sheep, but Cain was a tiller of the ground. ³ As time passed, Cain brought an offering to Yahweh from the fruit of the ground. ⁴ Abel also brought some of the firstborn of his flock and of its fat. Yahweh respected Abel and his offering, ⁵ but he didn’t respect Cain and his offering. Cain was very angry, and the expression on his face fell. ⁶ Yahweh said to Cain, “Why are you angry? Why has the expression of your face fallen? ⁷ If you do well, won’t it be lifted up? If you don’t do well, sin crouches at the door. Its desire is for you, but you are to rule over it.” ⁸ Cain said to Abel, his brother, “Let’s go into the field.” While they were in the field, Cain rose up against Abel, his brother, and killed him.</span>
-> <span class="y">⁹ Yahweh said to Cain, “Where is Abel, your brother?”</span>
-> <span class="y">He said, “I don’t know. Am I my brother’s keeper?”</span>
-> <span class="y">¹⁰ Yahweh said, “What have you done? The voice of your brother’s blood cries to me from the ground. ¹¹ Now you are cursed because of the ground, which has opened its mouth to receive your brother’s blood from your hand. ¹² From now on, when you till the ground, it won’t yield its strength to you. You will be a fugitive and a wanderer in the earth.”</span>
-> <span class="y">¹³ Cain said to Yahweh, “My punishment is greater than I can bear. ¹⁴ Behold, you have driven me out today from the surface of the ground. I will be hidden from your face, and I will be a fugitive and a wanderer in the earth. Whoever finds me will kill me.”</span>
-> <span class="y">¹⁵ Yahweh said to him, “Therefore whoever slays Cain, vengeance will be taken on him sevenfold.” Yahweh appointed a sign for Cain, so that anyone finding him would not strike him.</span>
-> <span class="y">¹⁶ Cain left Yahweh’s presence, and lived in the land of Nod, east of Eden. </span>
-> =
+The Fall into Sin and the story of Cain and Abel are believed to be entirely from the "J" source, and for this reason, I do not include them here.
 
 ## The Genealogies from Adam to Noah
 
@@ -123,12 +65,11 @@ Some reasons include:
 - Genesis 4 and 5 appear to repeat many names, but in one genealogy Cain is the parent and in the other Seth is.
 - Repetitions and differing numbers in the flood.
 
-<p class="hidden-no-js hidden-print color">
-  <span class="hidden-sm">Highlight: &nbsp;</span>
-  <a href="#" onclick="setHighlight('N',event)">Y and P</a> ·
-  <a href="#" onclick="setHighlight('YP',event)"><span class="y">Y</span> and <span class="p">P</span></a> ·
-  <a href="#" onclick="setHighlight('Y',event)"><span class="y">Y</span></a> ·
-  <a href="#" onclick="setHighlight('P',event)"><span class="p">P</span></a>
+<p class="hidden-no-js hidden-print">
+  <span class="hidden-sm">Display: &nbsp;</span>
+  <a class="b" href="#" onclick="setHighlight('yp',event)"><span class="y">Y</span> and <span class="p">P</span></a> ·
+  <a class="y" href="#" onclick="setHighlight('y',event)">Only Y</a> ·
+  <a class="p" href="#" onclick="setHighlight('p',event)">Only P</a>
 </p>
 
 > <span class="y">⁵ Yahweh saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of man’s heart was continually only evil. ⁶ Yahweh was sorry that he had made man on the earth, and it grieved him in his heart. ⁷ Yahweh said, “I will destroy man whom I have created from the surface of the ground—man, along with animals, creeping things, and birds of the sky—for I am sorry that I have made them.” ⁸ But Noah found favor in Yahweh’s eyes.</span>
@@ -138,7 +79,7 @@ Some reasons include:
 > <span class="y">⁵ Noah did everything that Yahweh commanded him.</span>
 > <span class="p">⁶ Noah was six hundred years old when the flood of waters came on the earth.</span> <span class="y">⁷ Noah went into the ship with his sons, his wife, and his sons’ wives, because of the floodwaters. ⁸ Clean animals, unclean animals, birds, and everything that creeps on the ground</span> <span class="p">⁹ went by pairs to Noah into the ship, male and female, as God commanded Noah.</span> <span class="y">¹⁰ After the seven days, the floodwaters came on the earth.</span> <span class="p">¹¹ In the six hundredth year of Noah’s life, in the second month, on the seventeenth day of the month, on that day all the fountains of the great deep burst open, and the sky’s windows opened.</span> <span class="y">¹² It rained on the earth forty days and forty nights.</span>
 > <span class="p">¹³ In the same day Noah, and Shem, Ham, and Japheth—the sons of Noah—and Noah’s wife and the three wives of his sons with them, entered into the ship— ¹⁴ they, and every animal after its kind, all the livestock after their kind, every creeping thing that creeps on the earth after its kind, and every bird after its kind, every bird of every sort. ¹⁵ Pairs from all flesh with the breath of life in them went into the ship to Noah. ¹⁶ Those who went in, went in male and female of all flesh, as God commanded him;</span> <span class="y">then Yahweh shut him in. ¹⁷ The flood was forty days on the earth. The waters increased, and lifted up the ship, and it was lifted up above the earth.</span> <span class="p">¹⁸ The waters rose, and increased greatly on the earth; and the ship floated on the surface of the waters. ¹⁹ The waters rose very high on the earth. All the high mountains that were under the whole sky were covered. ²⁰ The waters rose fifteen cubits higher, and the mountains were covered. ²¹ All flesh died that moved on the earth, including birds, livestock, animals, every creeping thing that creeps on the earth, and every man.</span> <span class="y">²² All on the dry land, in whose nostrils was the breath of the spirit of life, died. ²³ Every living thing was destroyed that was on the surface of the ground, including man, livestock, creeping things, and birds of the sky. They were destroyed from the earth. Only Noah was left, and those who were with him in the ship.</span> <span class="p">²⁴ The waters flooded the earth one hundred fifty days.</span>
-> <span class="p">¹ God remembered Noah, all the animals, and all the livestock that were with him in the ship; and God made a wind to pass over the earth. The waters subsided. ² The deep’s fountains and the sky’s windows were also stopped, and the rain from the sky was restrained.</span> <span class="y">³ The waters continually receded from the earth. After the end of one hundred fifty days the waters receded.</span> <span class="p">⁴ The ship rested in the seventh month, on the seventeenth day of the month, on Ararat’s mountains. ⁵ The waters receded continually until the tenth month. In the tenth month, on the first day of the month, the tops of the mountains were visible.</span>
+> <span class="p">¹ God remembered Noah, all the animals, and all the livestock that were with him in the ship; and God made a wind to pass over the earth. The waters subsided. ² The deep’s fountains and the sky’s windows were also stopped, and the rain from the sky was restrained.</span> <span class="y">³ The waters continually receded from the earth.</span> <span class="p">After the end of one hundred fifty days the waters receded. ⁴ The ship rested in the seventh month, on the seventeenth day of the month, on Ararat’s mountains. ⁵ The waters receded continually until the tenth month. In the tenth month, on the first day of the month, the tops of the mountains were visible.</span>
 > <span class="y">⁶ At the end of forty days, Noah opened the window of the ship which he had made, ⁷ and he sent out a raven. It went back and forth, until the waters were dried up from the earth. ⁸ He himself sent out a dove to see if the waters were abated from the surface of the ground, ⁹ but the dove found no place to rest her foot, and she returned into the ship to him, for the waters were on the surface of the whole earth. He put out his hand, and took her, and brought her to him into the ship. ¹⁰ He waited yet another seven days; and again he sent the dove out of the ship. ¹¹ The dove came back to him at evening and, behold, in her mouth was a freshly plucked olive leaf. So Noah knew that the waters were abated from the earth. ¹² He waited yet another seven days, and sent out the dove; and she didn’t return to him any more.</span>
 > <span class="p">¹³ In the six hundred first year, in the first month, the first day of the month, the waters were dried up from the earth.</span> <span class="y">Noah removed the covering of the ship, and looked. He saw that the surface of the ground was dry.</span> <span class="p">¹⁴ In the second month, on the twenty-seventh day of the month, the earth was dry.</span>
 > <span class="p">¹⁵ God spoke to Noah, saying, ¹⁶ “Go out of the ship, you, your wife, your sons, and your sons’ wives with you. ¹⁷ Bring out with you every living thing that is with you of all flesh, including birds, livestock, and every creeping thing that creeps on the earth, that they may breed abundantly in the earth, and be fruitful, and multiply on the earth.”</span>
@@ -150,13 +91,55 @@ Some reasons include:
 
 ## The Genealogies from Noah to Abraham
 
+## Example from David and Goliath Story
+
+Why would an editor stitch together multiple stories while leaving contradictions in the original text, as source critics believe is done the flood story?  Perhaps both sources were believed to be sacred?  Or maybe the editor didn't know which one was correct, and wanted to keep both?  But if that is the case, why wouldn't they explicitly say this---and why would they stitch the stories together, creating an odd hybrid of the two?  One can speculate, but it is difficult to understand.
+
+While the motivation for splicing stories may be unknown, we do know at least one instance in the biblical texts where splicing occurred---the story of David and Goliath in 1 Samuel.
+
+The Masoretic tradition---which most western Bible translations are based off---has a second copy of the David and Goliath story spliced into the original story.  The Septuagint---a translation of the Old Testament into Greek that Jesus quoted from in the New Testament---does not contain the spliced in story.  Note that the Septuagint is often abbreviated using LXX.
+
+Here is the David and Goliath story (1 Samuel 16.17 - 18.6), taken from the Masoretic text.  The verses which were added are highlighted in <span class="y">red</span>.  Each story reads coherently on its own.
+
+When reading the text, note that David is introduced twice (once in the original, and once in the spliced in story).  The setting for the story is introduced twice (once in the original, and once in the spliced in story).  Also, Saul, who already knew who David was and who his after was, asks "Whose son are you, you young man?"  He already knew David and "loved him greatly."  This apparent difficulty in the text can be explained by the fact that two sources were spliced together.
+
+<p class="hidden-no-js hidden-print">
+  <span class="hidden-sm">Display: &nbsp;</span>
+  <a class="b" href="#" onclick="setHighlight('yp',event)"><span class="p">LXX</span> and <span class="y">Additions</span></a> ·
+  <a class="p" href="#" onclick="setHighlight('p',event)">Only LXX</a> ·
+  <a class="y" href="#" onclick="setHighlight('y',event)">Only Additions</a>
+</p>
+
+> <span class="p">¹⁷ Saul said to his servants, “Provide me now a man who can play well, and bring him to me.”</span>
+> <span class="p">¹⁸ Then one of the young men answered, and said, “Behold, I have seen a son of Jesse the Bethlehemite who is skillful in playing, a mighty man of valor, a man of war, prudent in speech, and a handsome person; and Yahweh is with him.”</span>
+> <span class="p">¹⁹ Therefore Saul sent messengers to Jesse, and said, “Send me David your son, who is with the sheep.”</span>
+> <span class="p">²⁰ Jesse took a donkey loaded with bread, and a container of wine, and a young goat, and sent them by David his son to Saul. ²¹ David came to Saul, and stood before him. He loved him greatly; and he became his armor bearer. ²² Saul sent to Jesse, saying, “Please let David stand before me; for he has found favor in my sight.” ²³ When the spirit from God was on Saul, David took the harp, and played with his hand; so Saul was refreshed, and was well, and the evil spirit departed from him.</span>
+> <span class="p">¹ Now the Philistines gathered together their armies to battle; and they were gathered together at Socoh, which belongs to Judah, and encamped between Socoh and Azekah, in Ephesdammim. ² Saul and the men of Israel were gathered together, and encamped in the valley of Elah, and set the battle in array against the Philistines. ³ The Philistines stood on the mountain on the one side, and Israel stood on the mountain on the other side: and there was a valley between them. ⁴ A champion out of the camp of the Philistines named Goliath, of Gath, whose height was six cubits and a span went out. ⁵ He had a helmet of bronze on his head, and he wore a coat of mail; and the weight of the coat was five thousand shekels of bronze. ⁶ He had bronze shin armor on his legs, and a bronze javelin between his shoulders. ⁷ The staff of his spear was like a weaver’s beam; and his spear’s head weighed six hundred shekels of iron. His shield bearer went before him. ⁸ He stood and cried to the armies of Israel, and said to them, “Why have you come out to set your battle in array? Am I not a Philistine, and you servants to Saul? Choose a man for yourselves, and let him come down to me. ⁹ If he is able to fight with me and kill me, then will we be your servants; but if I prevail against him and kill him, then you will be our servants and serve us.” ¹⁰ The Philistine said, “I defy the armies of Israel today! Give me a man, that we may fight together!”</span>
+> <span class="p">¹¹ When Saul and all Israel heard those words of the Philistine, they were dismayed, and greatly afraid.</span> <span class="y">¹² Now David was the son of that Ephrathite of Bethlehem Judah, whose name was Jesse; and he had eight sons. The man was an elderly old man in the days of Saul. ¹³ The three oldest sons of Jesse had gone after Saul to the battle: and the names of his three sons who went to the battle were Eliab the firstborn, and next to him Abinadab, and the third Shammah. ¹⁴ David was the youngest; and the three oldest followed Saul. ¹⁵ Now David went back and forth from Saul to feed his father’s sheep at Bethlehem. ¹⁶ The Philistine came near morning and evening, and presented himself forty days. ¹⁷ Jesse said to David his son, “Now take for your brothers an ephah of this parched grain, and these ten loaves, and carry them quickly to the camp to your brothers; ¹⁸ and bring these ten cheeses to the captain of their thousand, and see how your brothers are doing, and bring back news.” ¹⁹ Now Saul, and they, and all the men of Israel, were in the valley of Elah, fighting with the Philistines. ²⁰ David rose up early in the morning, and left the sheep with a keeper, and took and went, as Jesse had commanded him. He came to the place of the wagons, as the army which was going out to the fight shouted for the battle. ²¹ Israel and the Philistines put the battle in array, army against army. ²² David left his baggage in the hand of the keeper of the baggage, and ran to the army, and came and greeted his brothers. ²³ As he talked with them, behold, the champion, the Philistine of Gath, Goliath by name, came up out of the ranks of the Philistines, and said the same words; and David heard them. ²⁴ All the men of Israel, when they saw the man, fled from him, and were terrified. ²⁵ The men of Israel said, “Have you seen this man who has come up? He has surely come up to defy Israel. The king will give great riches to the man who kills him, and will give him his daughter, and make his father’s house free in Israel.”</span>
+> <span class="y">²⁶ David spoke to the men who stood by him, saying, “What shall be done to the man who kills this Philistine, and takes away the reproach from Israel? For who is this uncircumcised Philistine, that he should defy the armies of the living God?”</span>
+> <span class="y">²⁷ The people answered him in this way, saying, “So shall it be done to the man who kills him.”</span>
+> <span class="y">²⁸ Eliab his oldest brother heard when he spoke to the men; and Eliab’s anger burned against David, and he said, “Why have you come down? With whom have you left those few sheep in the wilderness? I know your pride, and the naughtiness of your heart; for you have come down that you might see the battle.”</span>
+> <span class="y">²⁹ David said, “What have I now done? Is there not a cause?” ³⁰ He turned away from him toward another, and spoke like that again; and the people answered him again the same way. ³¹ When the words were heard which David spoke, they rehearsed them before Saul; and he sent for him.</span><span class="p">³² David said to Saul, “Let no man’s heart fail because of him. Your servant will go and fight with this Philistine.”</span>
+> <span class="p">³³ Saul said to David, “You are not able to go against this Philistine to fight with him; for you are but a youth, and he a man of war from his youth.”</span>
+> <span class="p">³⁴ David said to Saul, “Your servant was keeping his father’s sheep; and when a lion or a bear came, and took a lamb out of the flock, ³⁵ I went out after him, and struck him, and rescued it out of his mouth. When he arose against me, I caught him by his beard, and struck him, and killed him. ³⁶ Your servant struck both the lion and the bear. This uncircumcised Philistine shall be as one of them, since he has defied the armies of the living God.” ³⁷ David said, “Yahweh who delivered me out of the paw of the lion, and out of the paw of the bear, he will deliver me out of the hand of this Philistine.”</span>
+> <span class="p">Saul said to David, “Go! Yahweh will be with you.” ³⁸ Saul dressed David with his clothing. He put a helmet of bronze on his head, and he clad him with a coat of mail. ³⁹ David strapped his sword on his clothing, and he tried to move; for he had not tested it. David said to Saul, “I can’t go with these; for I have not tested them.” Then David took them off.</span>
+> <span class="p">⁴⁰ He took his staff in his hand, and chose for himself five smooth stones out of the brook, and put them in the pouch of his shepherd’s bag which he had. His sling was in his hand; and he came near to the Philistine. ⁴¹ The Philistine walked and came near to David; and the man who bore the shield went before him. ⁴² When the Philistine looked around, and saw David, he disdained him; for he was but a youth, and ruddy, and had a good looking face. ⁴³ The Philistine said to David, “Am I a dog, that you come to me with sticks?” The Philistine cursed David by his gods. ⁴⁴ The Philistine said to David, “Come to me, and I will give your flesh to the birds of the sky, and to the animals of the field.”</span>
+> <span class="p">⁴⁵ Then David said to the Philistine, “You come to me with a sword, with a spear, and with a javelin; but I come to you in the name of Yahweh of Armies, the God of the armies of Israel, whom you have defied. ⁴⁶ Today, Yahweh will deliver you into my hand. I will strike you, and take your head from off you. I will give the dead bodies of the army of the Philistines today to the birds of the sky, and to the wild animals of the earth; that all the earth may know that there is a God in Israel, ⁴⁷ and that all this assembly may know that Yahweh doesn’t save with sword and spear; for the battle is Yahweh’s, and he will give you into our hand.”</span>
+> <span class="p">⁴⁸ When the Philistine arose, and walked and came near to meet David, David hurried, and ran toward the army to meet the Philistine. ⁴⁹ David put his hand in his bag, took a stone, and slung it, and struck the Philistine in his forehead. The stone sank into his forehead, and he fell on his face to the earth. ⁵⁰ So David prevailed over the Philistine with a sling and with a stone, and struck the Philistine, and killed him; but there was no sword in the hand of David. ⁵¹ Then David ran, stood over the Philistine, took his sword, drew it out of its sheath, killed him, and cut off his head with it. When the Philistines saw that their champion was dead, they fled. ⁵² The men of Israel and of Judah arose and shouted, and pursued the Philistines as far as Gai and to the gates of Ekron. The wounded of the Philistines fell down by the way to Shaaraim, even to Gath and to Ekron. ⁵³ The children of Israel returned from chasing after the Philistines and they plundered their camp. ⁵⁴ David took the head of the Philistine, and brought it to Jerusalem; but he put his armor in his tent.</span> <span class="y">⁵⁵ When Saul saw David go out against the Philistine, he said to Abner, the captain of the army, “Abner, whose son is this youth?”</span>
+> <span class="y">Abner said, “As your soul lives, O king, I can’t tell.”</span>
+> <span class="y">⁵⁶ The king said, “Inquire whose son the young man is!”</span>
+> <span class="y">⁵⁷ As David returned from the slaughter of the Philistine, Abner took him and brought him before Saul with the head of the Philistine in his hand. ⁵⁸ Saul said to him, “Whose son are you, you young man?”</span>
+> <span class="y">David answered, “I am the son of your servant Jesse the Bethlehemite.”</span>
+> <span class="y">¹ When he had finished speaking to Saul, the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul. ² Saul took him that day, and wouldn’t let him go home to his father’s house any more. ³ Then Jonathan and David made a covenant, because he loved him as his own soul. ⁴ Jonathan stripped himself of the robe that was on him, and gave it to David, and his clothing, even including his sword, his bow, and his sash. ⁵ David went out wherever Saul sent him, and behaved himself wisely; and Saul set him over the men of war. It was good in the sight of all the people, and also in the sight of Saul’s servants.</span>
+> <span class="p">⁶ As they came, when David returned from the slaughter of the Philistine, the women came out of all the cities of Israel, singing and dancing, to meet king Saul, with tambourines, with joy, and with instruments of music.</span>
+> =
+
 <script>
 document.documentElement.classList.add('js')
 function setHighlight(h,e){
   e.preventDefault()
-  var cl=document.documentElement.classList
-  if(h=='Y')cl.add('hide-p');else cl.remove('hide-p')
-  if(h=='P')cl.add('hide-y');else cl.remove('hide-y')
-  if(h=='N')cl.remove('color');else cl.add('color')
+  var cl=e.currentTarget.parentElement.nextElementSibling.classList
+  if(h=='y')cl.add('hide-p');else cl.remove('hide-p')
+  if(h=='p')cl.add('hide-y');else cl.remove('hide-y')
 }
 </script>
