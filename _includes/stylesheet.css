@@ -42,7 +42,7 @@ header, main, footer {
 hr {
   border: none;
   margin: 0;
-  height: 0.5rem;
+  height: 0.4rem;
 
   /*
    * We use the background-color so that the big <hr>s in the header and footer
