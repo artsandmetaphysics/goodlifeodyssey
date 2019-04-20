@@ -24,3 +24,12 @@ Or do we fear death because we are not intended to die?
 
 > For the creation was subjected to futility, not willingly, but because of him who subjected it, in hope that the creation itself will be set free from its bondage to corruption and obtain the freedom of the glory of the children of God.  For we know that the whole creation has been groaning together in the pains of childbirth until now.  And not only the creation, but we ourselves, who have the first fruits of the Spirit, groan inwardly as we wait eagerly for adoption as sons, the redemption of our bodies.
 > - Romans 8:20--23, English Standard Version
+
+Does the fear of death keep us trudging along?
+
+> To sleep; perchance to dream. Ay, there's the rub,
+> For in that sleep of death what dreams may come,
+> When we have shuffled off this mortal coil,
+> Must give us pause---there's the respect
+> That makes calamity of so long life.
+> - Hamlet III.1

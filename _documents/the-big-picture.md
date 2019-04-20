@@ -23,7 +23,7 @@ The poetic aspect comes to the fore when we start talking about the world:
 2. All good ways of talking must be consistent with one another and with the world.
 3. Our purposes in the moment determine the best way of talking.
 
-The poetic component is a recognition that many human concepts, such as person, cause, choice, reason, justice, morality, and meaning, while not *fundamental* are still *real* and are worthy of our consideration.  There is also a warning that we should not apply these higher-level concepts in innappropriate ways.
+The poetic component is a recognition that many human concepts, such as person, cause, choice, reason, justice, morality, and meaning, while not *fundamental* are still *real* and are worthy of our consideration.  There is also a warning that we should not apply these higher-level concepts in inappropriate ways.
 
 Carrol’s discussion of determinism and free-will is a good example of how poetic naturalism combines deep ontological truths with everyday language:
 

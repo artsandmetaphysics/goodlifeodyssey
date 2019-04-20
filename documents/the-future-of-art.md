@@ -112,9 +112,11 @@ Painters have similar dilemmas, but the scope and magnitude of a single person i
 
 Over time, as consumers demand more variety, and our society becomes wealthier, and our tools for developing video and video games becomes cheaper, I think artists will explore the space further.
 
+{% comment %}
 TODO: discuss the consumption experience (must art be viewed in a museum?)
 
 TODO: discuss replicability (fake copies of paintings; duplication of digital content)
+{% endcomment %}
 
 So what is art?  I don't think we have a full definition, but I think it has to do with the intentions and effort of the artist.  I don't think the medium matters, except with regards to the space of possibility afforded by that medium.  I think that virtual reality affords the largest space of possibility to the artist, and thus, I believe there is more room for creative expression in video games than in traditional art forms like painting or sculpture.
 

@@ -9,7 +9,7 @@ order: 3.4
 
 Hesiod was one of the most famous Greek poets.  He is not as good a writer as Homer, but the ancients often grouped him with Homer.
 
-He wrote two short epic poems,  *The Theogony* and *Works and Days*.
+He wrote two short epic poems, *The Theogony* and *Works and Days*, which have survived.
 
 ## The Muses
 
