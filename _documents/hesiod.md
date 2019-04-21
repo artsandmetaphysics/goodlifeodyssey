@@ -9,13 +9,15 @@ order: 3.4
 
 Hesiod was a famous Greek poet, often listed in the same sentence with Homer, who wrote the epic hexameter poems *Theogony* and *Works and Days*.  He likely lived between 800 and 600 BCE.
 
-## The Evolution and Origination of Myths
+## The Evolution of Myths
 
 Unlike most of the ancient Greeks, I don’t believe that Zeus, Athena, or their other gods existed.  But why did the Greeks believe?  And where did their myths come from, if they are not true?
 
-The Greek myths were not created at once.  New religious ideas usually evolve from older ideas.  Thus, it is not surprising that some of Hesiod’s myths are similar to Babylonian, Hittite, and Vedic myths.  But how did the unique aspects of Greek mythology evolve from their earlier sources?  And where did the earlier myths come from?  These are difficult questions, but I believe Hesiod poetry can provide some insight to both of them.
+Some of Hesiod’s myths are similar to Babylonian, Hittite, and Vedic myths.  This continuity is not surprising because new religious ideas usually evolve from older religious ideas.  But how did this evolution occur?  And where did the earlier myths come from?  We don’t have enough evidence to answer either question with certainty, but Hesiod’s poetry provides some small insight into each of them.
 
-Hesiod, in his *Theogony*, organizes and synthesize older Greek myths while also adding his own details.  Hesiod appears to believe that the Muses—the nine daughters of Zeus and Memory—inspired his poetry, and perhaps this explains how he felt justified taking creative license, while preserving the truth of his stories:
+Hesiod’s *Theogony* organizes and synthesizes older Greek myths while also adding details.  Thus, the big question about the evolution of religion can be considered at a smaller scale within Hesiod himself: How did he evolve the Greek Myths?
+
+Hesiod appears to believe that the Muses—the nine daughters of Zeus and Memory—inspired his poetry, and perhaps this explains how he felt justified taking creative license with his source material, while also believing in his own stories:
 
 <blockquote class="poetry">
 <p>And they taught Hesiod the art of singing verse,</p>
@@ -23,7 +25,7 @@ Hesiod, in his *Theogony*, organizes and synthesize older Greek myths while also
 <p>And this was the very first thing they told me,</p>
 <p>The Olympian Muses, daughters of Zeus Aegisholder:</p>
 <br>
-<p>“Hillbillies and bellies, poor excuses for shepards:</p>
+<p>“Hillbillies and bellies, poor excuses for shepherds:</p>
 <p>We know how to tell many believable lies,</p>
 <p>But also, when we want to, how to speak the plain truth.”</p>
 <br>
@@ -49,9 +51,9 @@ Hesiod, in his *Theogony*, organizes and synthesize older Greek myths while also
 <cite>— Theogony, 23–35, 103–125</cite>
 </blockquote>
 
-Hesiod does not presume that the Muses told him the truth, but he does presume the possibility that they told him the truth.  In other words, Hesiod presumes that creative stories comes from the Muses and also that the Muses may reveal divine truths in these stories.
+Hesiod does not presume that the Muses tell him the truth, but he does presume that they might have told him the truth.  In other words, creative stories come from the Muses and may reveal divine truths.
 
-We get another glimpse into Hesiod’s views of the Muses and truth in *Works and Days*, when he is giving advice to his brother.  Hesiod distinguishes between his own experience and what the Muses have taught him:
+We get another glimpse into Hesiod’s views of the Muses and truth in *Works and Days*, when he is giving advice to his brother.  Hesiod distinguishes between his experience and what the Muses have taught him:
 
 <blockquote class="poetry">
 <p>So if you [Hesiod’s lazy brother] ever turn your addled wits to trade</p>
@@ -78,7 +80,7 @@ Perhaps the myths evolved when story-tellers, believing they were inspired, re-t
 
 As with biological evolution, one wonders how the big jumps were made.  How would Zeus replace Ouranos at the head of the Pantheon?  One may conjecture, but perhaps the battles of the generations of the gods represent the battles of peoples and cultures in the ancient world?
 
-Hesiod’s poetry may also provide some insight into the origination of Myths.  Hesiod’s creativity is not arbitrary and contains its own sort of logic.  Hesiod appears to deduce the existence of a second god, Strife, from the multiple uses of the word “strife”:
+Hesiod’s poetry may also provide some insight into the origination of Myths.  Hesiod’s creativity is not arbitrary.  Hesiod deduces the existence of a second god, Strife, from the multiple uses of the word “strife”:
 
 <blockquote class="poetry">
 <p>It looks like there’s not just one kind of Strife—</p>
@@ -91,7 +93,7 @@ Hesiod’s poetry may also provide some insight into the origination of Myths.  
 <p>This ornery Eris.  They have to: it’s the gods’ will.</p>
 <br>
 <p>The other was born first though.  Ebony Night</p>
-<p>Bore her, and Kronos’ son who sits high in thin air</p>
+<p>Bore her, and Cronos’s son who sits high in thin air</p>
 <p>Set her in Earth’s roots, and she’s a lot better for humans.</p>
 <p>Even shiftless folks she gets stirred up to work.</p>
 <br>
@@ -115,11 +117,9 @@ Later in *Works and Days*, towards the end of a list of suggestions for avoiding
 <cite>— Works and Days, 840–844</cite>
 </blockquote>
 
-In these two examples, Hesiod deduces the existence of gods using etymology and some sort of metaphysical reasoning (anything that doesn’t die must be a lie).
+In these two examples, Hesiod deduces the existence of Strife and Talk using etymology and metaphysical reasoning (anything that doesn’t die must be a lie). Perhaps the Greek myths, as well as the earlier myths that inspired them, were based on observations of reality.  These rational underpinnings would prop up the beliefs, since adherents could see them in the world around them.
 
-Perhaps the Greek myths, as well as the earlier myths that inspired them, were based in observations of reality.  These rational underpinnings would prop up the beliefs, since adherents could see them in the world around them.
-
-Imagine a young Greek farmer.  Over and over, growing up, all of the adults in his life tell him Zeus rules the world and wields thunderbolts.  Occasionally, at special times of the year, his family performs sacrifice rituals to Zeus and other gods.  Poets occasionally come through the town, and tell stories of the gods—some he has heard, others are new.  If you asked this boy how he knew Zeus was real, he would probably say he knew Zeus was real because he could see the thunderbolts!
+Imagine a young Greek girl.  All of the adults in her life tell her that Zeus and the gods rule the world and he wields thunderbolts and causes snow storms.  Occasionally, at special times of the year, you participate in solemn sacrifices to Zeus, and other gods, involving the bloody ritual slaying of animals.  Poets occasionally come through your town, and tell stories of the gods—some you have heard, others are new, but they all include Zeus.  If you asked this girl how they knew Zeus was real, she would probably say she knew Zeus was real because she could see the thunderbolts and snow storms!
 
 We are not certain whether Hesiod (or Homer) existed, but this irrelevant to this discussions—what matters is that the Greek tradition included, and to some degree accepted, the idea of Muses providing divine inspiration via creative human story-telling.  This is one mechanism by-which the details of religions beliefs could evolve and develop, despite not being true.
 
@@ -157,7 +157,7 @@ An apparently similar use of genealogies is found in Genesis, and especially the
 
 After the first few generations, Hesiod depicts creation as a sexual act, similar to the *Enuma Elish.*  Other traditions conceptualize creation through speech.  For example, Genesis 1.3 states “Then God said, ‘Let there be light’ and there was light.”  Still others conceptualize creation through material acts.  For example, Genesis 2.7 states “then the Lord God formed man from the dust of the ground, and breathed into his nostrils the breath of life.”
 
-Sex, speech, and craftsmanship are all creative acts in human life, so it is natural that humans would project them backwards to the creation of the world (and the gods).
+Sex, speech, and craftsmanship are all creative acts in human life, so it is natural that humans would project them backward to the creation of the world (and the gods).
 
 Hesiod presents three types of gods:
 
@@ -210,7 +210,7 @@ The Babylonians and Sumerians thought men were created to feed the gods with sac
 <cite>— Works and Days, 110–112</cite>
 </blockquote>
 
-Both Marduk and Zeus were young sky gods who lead a fight over and older generation of gods to become the leading god.  Zeus’s division of duties and realms upon defeating Kronus is similar to Marduk’s division after defeating Tiamhat in the *Enuma Elish*, and the Sumerian concept of *me* is also similar (and even older).
+Both Marduk and Zeus were young sky gods who lead a fight over an older generation of gods to become the leading god.  Zeus’s division of duties and realms upon defeating Cronos is similar to Marduk’s division after defeating Tiamhat in the *Enuma Elish*, and the Sumerian concept of *me* is also similar (and even older).
 
 <blockquote class="poetry">
 <p>So the blessed gods had done a hard piece of work,</p>
@@ -221,10 +221,10 @@ Both Marduk and Zeus were young sky gods who lead a fight over and older generat
 <cite>— Theogony, 886–890</cite>
 </blockquote>
 
-Hesiod has a pessimistic and believes men have gotten weaker over time.
+Hesiod was pessimistic and believes men have gotten weaker over time.
 
 Greek religious beliefs varied geographically and temporally—there was no canonical set of myths.  Homer and Hesiod disagreed with each other sometimes. For example, in Hesiod Aphrodite is born from Ouranos’s castrated members floating in the foam off the coast of Cyprus.  In Homer, Aphrodite is the daughter of Zeus and Dione.
 
 Hesiod spends a long time discussing the relatively unimportant goddess Hekate; perhaps Hesiod was involved with a Hekate cult that was popular in his region?
 
-*Quotations are from the Stanley Lombardo translation, as are the line-numbers which are different from the line-numbers in the Greek.*
+*Quotations are from the Stanley Lombardo translation, as are the line numbers which are different from the line numbers in the Greek.*
