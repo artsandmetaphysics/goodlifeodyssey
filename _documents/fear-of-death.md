@@ -33,7 +33,7 @@ Or do we fear death because we are not intended to die?
 
 Does the fear of death keep us trudging along?
 
-<blockquote>
+<blockquote class="poetry">
 <p>To sleep; perchance to dream. Ay, there’s the rub,</p>
 <p>For in that sleep of death what dreams may come,</p>
 <p>When we have shuffled off this mortal coil,</p>

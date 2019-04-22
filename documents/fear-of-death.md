@@ -32,4 +32,4 @@ Does the fear of death keep us trudging along?
 > When we have shuffled off this mortal coil,
 > Must give us pause---there's the respect
 > That makes calamity of so long life.
-> - Hamlet III.1
+> ~ Hamlet III.1

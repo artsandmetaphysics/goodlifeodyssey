@@ -7,13 +7,13 @@ type: note
 order: 3.4
 ---
 
-Hesiod was a famous Greek poet, often listed in the same sentence with Homer, who wrote the epic hexameter poems *Theogony* and *Works and Days*.  He likely lived between 800 and 600 BCE.
+Hesiod was a famous Greek poet---the ancients often mention him in the same sentence with Homer---who wrote the epic hexameter poems *Theogony* and *Works and Days*.  He is thought to have lived sometime between 800 and 600 BCE.
 
 ## The Evolution of Myths
 
 Unlike most of the ancient Greeks, I don't believe that Zeus, Athena, or their other gods existed.  But why did the Greeks believe?  And where did their myths come from, if they are not true?
 
-Some of Hesiod's myths are similar to Babylonian, Hittite, and Vedic myths.  This continuity is not surprising because new religious ideas usually evolve from older religious ideas.  But how did this evolution occur?  And where did the earlier myths come from?  We don't have enough evidence to answer either question with certainty, but Hesiod's poetry provides some small insight into each of them.
+Some of Hesiod's myths are similar to Babylonian and Hittite myths.  This continuity is not surprising because new religious ideas usually evolve from older religious ideas.  But how did this evolution occur?  And where did the earlier myths come from?  We don't have enough evidence to answer either question with certainty, but Hesiod's poetry provides some small insight into each of them.
 
 Hesiod's *Theogony* organizes and synthesizes older Greek myths while also adding details.  Thus, the big question about the evolution of religion can be considered at a smaller scale within Hesiod himself: How did he evolve the Greek Myths?
 
