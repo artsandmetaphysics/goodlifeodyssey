@@ -7,6 +7,7 @@ import html
 
 def translate_markdown(lines, printer):
     in_quote = False
+    in_poem = False
     quote = []
     for line in lines:
         line = line.rstrip()
@@ -18,8 +19,14 @@ def translate_markdown(lines, printer):
             translate_quote(quote, printer)
             quote = []
 
+        if line == '~~~':
+            in_poem = not in_poem
+            continue
+
         if in_quote:
             quote.append(line)
+        elif in_poem:
+            printer(line + '<br>')
         else:
             printer(line)
 
