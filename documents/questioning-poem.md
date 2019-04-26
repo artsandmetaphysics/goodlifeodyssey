@@ -22,7 +22,7 @@ The child is taught discipline.
 The child grows into a person.
 And this person lives how they please.
 Pleasures and pursuits fill its time.
-Pain encroaches.
+Life's pain encroaches.
 The person looks for meaning
 And the person searches for purpose
 And the person asks how to live.

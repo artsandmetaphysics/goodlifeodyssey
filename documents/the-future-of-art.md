@@ -11,7 +11,7 @@ I enjoy looking at art.  In fact, one of the reasons my wife and I moved to New 
 
 As a child, I was interested in painting.  There was a time when my parents arranged for me to visit an elderly painter from our church.  Visits began with her offering a strawberry soda, after which she would teach me to paint landscapes.  I continued painting during high school but rarely have since.
 
-Outside of my found memories painting as a child, and many visits to art museums, most of what I know about art is from *The Story of Art* by E. H. Gombrich.  The book opens with the following quote:
+Outside of my fond memories painting as a child, and many visits to art museums, most of what I know about art is from *The Story of Art* by E. H. Gombrich.  The book opens with the following quote:
 
 > There really is no such thing as Art.  There are only artists.
 

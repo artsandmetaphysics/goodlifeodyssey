@@ -1,7 +1,7 @@
 ---
 layout: basic
 title: Arts & Metaphysics
-description: This website contains my essays and notes about art, history, religion, and philosophy.
+description: This website contains my writings about art, history, religion, and philosophy.
 ---
 <p>{{ page.description }}</p>
 

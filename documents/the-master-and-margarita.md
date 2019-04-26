@@ -107,7 +107,7 @@ The opening discussion, between the editor Berlioz, the poet Ivan, and the Satan
 
 And then Satan tells the story of Jesus' trial before Pilate.
 
-Later on in the story, Ivan is in insane asylum discussing his encounter with Satan with another inmate:
+Later, Ivan discusses is in the insane asylum discussing his encounter with Satan with another inmate:
 
 > "Very well," the visitor replied, and he said weightily and distinctly: "Yesterday at the Patriarch's Ponds you met Satan."
 > Ivan did not get upset, as he had promised, but even so he was greatly astounded.
