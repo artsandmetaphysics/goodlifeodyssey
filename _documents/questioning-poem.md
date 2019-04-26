@@ -24,14 +24,15 @@ Pleasures and pursuits fill its time.<br>
 Pain encroaches.<br>
 The person looks for meaning<br>
 And the person searches for purpose<br>
-And asks how to live.<br>
+And the person asks how to live.<br>
 <br>
 Religion tells this person how to live.<br>
 Religion tells this person what exists<br>
 What exists but is not seen.<br>
+<br>
 How do they know?<br>
 How do they trust the words of the ancient books,<br>
-The words of the ancient books passed down through the ages<br>
+The words passed down through the ages<br>
 The words of the prophets<br>
 The words of the priests?<br>
 <br>
@@ -41,6 +42,6 @@ And do what I should do.<br>
 <br>
 The words of the priests tell me what to do!<br>
 The prophets speak out!<br>
-The ancient books speak their wisdom,<br>
+The ancient books pass along their wisdom!<br>
 But how can I trust their knowledge?<br>
 How can I know?<br>
