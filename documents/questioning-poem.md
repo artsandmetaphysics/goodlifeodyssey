@@ -18,15 +18,14 @@ And the words grow clearer.
 The child is taught to act.
 The acts of the child are bad.
 The child is taught discipline.
-
 The child grows into a person.
 And this person lives how they please.
 Pleasures and pursuits fill its time.
-Life's pain encroaches.
+
+Then life's pain encroaches.
 The person looks for meaning
 And the person searches for purpose
 And the person asks how to live.
-
 Religion tells this person how to live.
 Religion tells this person what exists
 What exists but is not seen.

@@ -17,15 +17,14 @@ And the words grow clearer.<br>
 The child is taught to act.<br>
 The acts of the child are bad.<br>
 The child is taught discipline.<br>
-<br>
 The child grows into a person.<br>
 And this person lives how they please.<br>
 Pleasures and pursuits fill its time.<br>
-Life’s pain encroaches.<br>
+<br>
+Then life’s pain encroaches.<br>
 The person looks for meaning<br>
 And the person searches for purpose<br>
 And the person asks how to live.<br>
-<br>
 Religion tells this person how to live.<br>
 Religion tells this person what exists<br>
 What exists but is not seen.<br>
