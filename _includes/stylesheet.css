@@ -3,7 +3,7 @@ html {
    * Set a reasonable font-size, such that at 34rem we have ~70 characters on a
    * line.
    */
-  line-height: 1.55;
+  line-height: 1.5625;
   font-size: 20px;
   font-family: Palatino, 'Times New Roman', serif;
   color: #222;
