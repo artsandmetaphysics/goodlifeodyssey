@@ -43,7 +43,7 @@ And do what I should do.
 
 The words of the priests tell me what to do!
 The prophets speak out!
-The ancient books pass along their wisdom!
+The ancient books pass along their wisdom.
 But how can I trust their knowledge?
 How can I know?
 ~~~

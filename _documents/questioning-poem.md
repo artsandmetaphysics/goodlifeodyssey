@@ -42,6 +42,6 @@ And do what I should do.<br>
 <br>
 The words of the priests tell me what to do!<br>
 The prophets speak out!<br>
-The ancient books pass along their wisdom!<br>
+The ancient books pass along their wisdom.<br>
 But how can I trust their knowledge?<br>
 How can I know?<br>
