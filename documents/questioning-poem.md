@@ -12,9 +12,9 @@ order: 0.1
 A baby is born and the parents love the baby.
 A baby is born and the parents raise the baby.
 A baby is born and the parents teach it words.
-The words start slowly.
-Slowly the words grow longer
-And the words grow sharper.
+The words come slowly.
+The words grow longer
+And the words grow clearer.
 The child is taught to act.
 The acts of the child are bad.
 The child is taught discipline.
