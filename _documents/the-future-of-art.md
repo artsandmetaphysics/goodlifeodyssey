@@ -7,23 +7,12 @@ type: essay
 status: incomplete
 order: 300
 ---
-I enjoy looking at art.  In fact, one of the reasons my wife and I moved to New York City was to look at the art here.
 
-As a child, I was interested in painting.  There was a time when my parents arranged for me to visit an elderly painter from our church.  Visits began with her offering a strawberry soda, after which she would teach me to paint landscapes.  I continued painting during high school but rarely have since.
+The definition of the word “art” is subjective—some people may have a broader view than others.  It is insightful to understand what is generally meant by the word “art.”  Further, I believe that the future of art lies in the broadening of this definition.
 
-Outside of my fond memories painting as a child, and many visits to art museums, most of what I know about art is from *The Story of Art* by E. H. Gombrich.  The book opens with the following quote:
+I enjoy looking at sunsets, but is a sunset art?  Is a pattern of ant tunnels art?  One could call the ants artists—or are only humans allowed to be artists?  While washing dishes, I may cause startling and beautiful patterns to form in the soap bubbles.  I pause to look at them, and I find them beautiful.  Most people do not consider sunsets, ant tunnels, or accidentally created soap bubbles patterns art.  Thus I suggest art must have an intentional creator.
 
-<blockquote>
-<p>There really is no such thing as Art.  There are only artists.</p>
-</blockquote>
-
-I imagine Gombrich as an old British professor, after years of being asked “What is Art?” and after years of arguments and debates and consternation, giving up.
-
-The definition of “art” is subjective, and an art lover may have a broader view than the typical person.  I believe it is insightful to understand what is generally meant when people use the word “art.”  Further, I believe that the future of art lies in the broadening of this definition.
-
-I enjoy looking at sunsets, but is a sunset art?  Is a pattern of ant tunnels art?  One could call the ants artists—or are only humans allowed to be artists?  While washing dishes, I may cause startling and beautiful patterns to form in the soap bubbles.  I pause to look at them, and I find them beautiful.  Most people do not consider sunsets, ant tunnels, or accidentally created soap bubbles patterns to be art.  Thus I suggest that for something to be art a concious being must have created it.
-
-I enjoy the taste of cheap New York pizza.  While the pizza is consciously and intentionally created, most people do not consider the pizza-maker an artist and the pizza art.  Why not?  Is it the transience of the pizza?  Or how it is experienced—by an individual, in an irreproducible manner?  Is it because too little effort was put into its creation?  Or perhaps it is because the senses of taste, smell, and feeling—the crunch and swirl of masticated pizza in your mouth—is inferior to the senses of vision and hearing?  We will consider each of these objections in turn, beginning with the last.
+I enjoy the taste of cheap New York pizza.  While the pizza is intentionally created, is it art?  Why not?  Is it the transience of the pizza?  Or is it how it is experienced—by an individual, in an irreproducible manner?  Is it because too little effort was put into its creation?  Or perhaps it is because the senses of taste, smell, and feeling—the crunch and swirl of masticated pizza in your mouth—is inferior to the senses of vision and hearing?  We will consider each of these objections in turn, beginning with the last.
 
 I see no reason why the lower senses—taste, smell, and feeling—can not join hearing and sight as senses capable of appreciating art.
 
