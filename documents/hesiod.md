@@ -115,6 +115,11 @@ Imagine a young Greek girl.  All of the adults in her life tell her that Zeus an
 
 We are not certain whether Hesiod (or Homer) existed, but this irrelevant to this discussions---what matters is that the Greek tradition included, and to some degree accepted, the idea of Muses providing divine inspiration via creative human story-telling.  This is one mechanism by-which the details of religions beliefs could evolve and develop, despite not being true.
 
+Herodotus' appears to view Hesiod similarly:
+
+> But the origin of each of the gods, or whether they always existed, and what they look like: all of this was unknown until just recently---only yesterday, so to speak.  For I believe that Hesiod and Homer were contemporaries who lived no more than 400 years before my time.  These were the poets who composed for the Hellenes the theogony, assigned to the gods their epithets, defined their particular honors and skills, and described what they look like.
+> - The Histories, 2.53
+
 ## Genealogies and Creation
 
 Hesiod uses genealogy as an organizational and explanatory scheme for the gods.
