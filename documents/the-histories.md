@@ -7,24 +7,33 @@ type: note
 order: 5
 ---
 
-## Observations
+## Scope
 
-Herodotus's history of the Greco-Person war progresses back and forth in time as he gives background for the personalities and peoples involved.
+The purpose of the book:
 
-Herodotus relays entertaining and implausible stories, occasionally mentioning that he doesn't believe them (and why) or offering his own alternative.  He is motivated by his major topic---the Greco-Persian Wars---but also by relaying marvels that he has found.  For example, he justifies his long discussion of Egypt as follows:
+> Herodotus of Halicarnassus here displays his inquiry, so that human achievements may not become forgotten in time, and great and marvellous deeds---some displayed by Greeks, some by barbarians---may not be without their glory; and especially to show why the two peoples fought with each other.
+> = (1.1)
+
+Herodotus provides an extensive background for the personalities involved in the war, including many entertaining and implausible stories.
+
+> Well, then, let these accounts told by the Egyptians be put to use by anyone who finds such things credible.  My entire account is governed by the rule that I write down precisely what I am told by everyone, just as I heard it.
+> = (2.123)
+
+He often adds his opinions after relaying the stories of others.  He is motivated by his major topic---the Greco-Persian Wars---but also by relaying marvels that he has found.
 
 > I am going to extend my account of Egypt at some length here and give additional details about it, because this country has more marvels and monuments that defy description than any other.
 > = (2.35)
 
-His writing is conversational, and he does not have a strict sense of what sort of material belongs in his account and what does not.  I like this flexibility of scope, and I wish our 21st century expectations for topical boundaries were less rigidly followed.
+> I have given a rather lengthy account of the Samians because they achieved the three greatest engineering works of all the Hellenes.  First, they dug a tunnel through a 900-foot-high mountain.
+> = (3.59)
 
-Herodotus discusses
+His writing is conversational, and he does not have a strict sense of what sort of material belongs in his account and what does not.  I like the broad scope.  Herodotus discusses
 
 - Geography
 - Customs of various peoples
-- Debates about natural causes (the cause of the flood of the Nile)
+- The causes of natural wonders (the cause of the flood of the Nile)
 
-Herodotus does not feel any need to outline the path he takes for his readers.  Whether this doing so was impractical using the writing technologies he had (i.e., he didn't know the path his writing would take, and could not insert an outline after the fact) or because he did not feel a need to pander to his listeners (or readers) is unclear.  In any event.
+Herodotus does not feel any need to outline the path he takes for his readers.  Whether this doing so was impractical using the writing technologies he had (i.e., he didn't know the path his writing would take, and could not insert an outline after the fact) or because he did not feel a need to pander to his listeners (or readers) is unclear.
 
 ## Outline
 
@@ -47,19 +56,27 @@ Herodotus does not feel any need to outline the path he takes for his readers.  
 > = (2.3--4)
 
 > The Hellenes tell many different naive stories, and their myth of Herakles is especially foolish.
+> = (2.45)
 
 ## Religion
 
 Herodotus was pious.
 
-Herodotus believed that the Egyptians worshiped the same gods that the Greeks worshiped.  To a modern person, it seems more likely that the gods and their stories developed largely (but not completely_ independently.  Herodotus' willingness to associate foreign gods with Greek gods is consistent with the fact that he believed these gods existed and were present throughout the world.
+> It is on this lake that they have nocturnal performances reenacting the sufferings of the gods, which the Egyptians call the mysteries.  Now, although I know all the details of these rites, may my reverence ensure that they remain unspoken.  I feel the same way about the rite of Demeter which the Hellenes call the Thesmophoria, so may my reverence ensure that they also remain unspoken, except for that which one can say without offense to religion.
+> = (2.171)
+
+> [The Trojan war] took place---and here I am declaring my own opinion---because a divine force arranged matters so that the Trojans, by there total ruin and destruction, would clearly demonstrate to all humans the fundamental truth that when great injustices are committed, retribution from the gods is also great.  That, at least, is what I think.
+> = (2.12)
+
+Herodotus believed that the Egyptians worshiped the same gods that the Greeks worshiped.  To a modern person, it seems more likely that the gods and their stories developed largely (but not completely) independently.  Herodotus' willingness to associate foreign gods with Greek gods is consistent with the fact that he believed these gods existed and were present throughout the world.
+
+> The Hellenes believe that Herakles, Dionysos, and Pan are the youngest of the gods.  But the Egyptians hold that Pan is the most ancient of these three and belongs to the first group of gods, called "The Eight Gods."  Herakles belongs to the second group, called "The Twelve Gods," and Dionysos belongs to the third, who were born from "The Twelve."
+> = (2.145)
+
+> The Arabians believe that Dionysos and Ourania are the only gods who exist, and they claim that they cut their hair to look just like the haircut of Dionysos.  They shear the hair around the head in a ring and shave under the temples.  Dionysos they call Orotalt; Ourania, Alilat.
+> = (3.8)
 
 ## Quotes From Book I
-
-The purpose of the book:
-
-> Herodotus of Halicarnassus here displays his inquiry, so that human achievements may not become forgotten in time, and great and marvellous deeds---some displayed by Greeks, some by barbarians---may not be without their glory; and especially to show why the two peoples fought with each other.
-> = (1.1)
 
 Right and wrong were distinguished long ago:
 
@@ -119,7 +136,7 @@ Massagetae customs:
 
 The account of why the Egyptians came to believe the Phrygians were the oldest men:
 
-> Now, before Psammetichos became king, the Egyptians used to believe that they were the earliest humans.  But upon assuming the kingship Psammetichos became eager to ascertain which people were really the first; and ever since his reign, the Egyptians consider that the Phrygians lived before they did, but that they themselves existed prior to all the rest of humanity.  Unable to find a means of discovering who were the first humans by making inquiries, Psammetichos devised an experiment.  He selected two newborn children from ordinary people and gave them to a shepherd to take into his flocks and raise according to the following instructions: no one was to utter a word in their presence; the shepherd should place them in a secluded hut by themselves and at appropriate intervals bring in the goats, give the children their fill of milk, and then tend to the rest of their needs. The reason he gave these instructions was because he wished to listen to the children after they had outgrown their inarticulate crying and to find out what word they would speak first.  And everything turned out as he planned, for the shepherd had followed his orders for two years when one day, as he opened the door entering, both children rushed at him with outstretched hands, crying out "bekos." At first the shepherd kept quiet about having heard this, but when the word bekos was repeated again and again as he came and went in his care for the children, he told his master.  At his command the shepherd brought the children into his presence, and Psammetichos himself heard the word.  When he inquired which people might use the word bekos, he discovered that the word bekos means "bread" in the Phrygian language.  Thus the Egyptians accepted this evidence and concluded that the Prygians are older than themselves.
+> Now, before Psammetichos became king, the Egyptians used to believe that they were the earliest humans.  But upon assuming the kingship Psammetichos became eager to ascertain which people were really the first; and ever since his reign, the Egyptians consider that the Phrygians lived before they did, but that they themselves existed prior to all the rest of humanity.  Unable to find a means of discovering who were the first humans by making inquiries, Psammetichos devised an experiment.  He selected two newborn children from ordinary people and gave them to a shepherd to take into his flocks and raise according to the following instructions: no one was to utter a word in their presence; the shepherd should place them in a secluded hut by themselves and at appropriate intervals bring in the goats, give the children their fill of milk, and then tend to the rest of their needs. The reason he gave these instructions was because he wished to listen to the children after they had outgrown their inarticulate crying and to find out what word they would speak first.  And everything turned out as he planned, for the shepherd had followed his orders for two years when one day, as he opened the door entering, both children rushed at him with outstretched hands, crying out "bekos." At first the shepherd kept quiet about having heard this, but when the word bekos was repeated again and again as he came and went in his care for the children, he told his master.  At his command the shepherd brought the children into his presence, and Psammetichos himself heard the word.  When he inquired which people might use the word bekos, he discovered that the word bekos means "bread" in the Phrygian language.  Thus the Egyptians accepted this evidence and concluded that the Phrygians are older than themselves.
 > = (2.2)
 
 Whether or not the Egyptians believed this account or performed this experiment, it seems clear that some group (be it Herodotus or his listeners) found this account plausible.  There is a certain logic to the argument, and it also demonstrates the basic conception of performing an "experiment" to learn about the natural world.  They assume that language is innate, and that a child would innately begin speaking the first language.  They also don't seem to consider that the children could have, by chance, made up a word that matched an existing language.
@@ -153,3 +170,83 @@ A bizarre story about cats:
 > Many animals live with these people, but many more would do so if it were not for the fate of the cats.  When the female cats have given birth, they no longer associate with the males, who, however, still seek intercourse with them, but without success.  So in response, the males outsmart the females by stealing away and then killing their offspring, although they do not eat them after killing them.  The females, bereft of their babies, feel a desire foe more and so go back to the males, for they are fond of offspring.
 > And whenever a fire breaks out, some divine seizure comes over the cats.  The Egyptians stand at intervals and try to keep the cats safe, but if they fail to extinguish the fire, the cats slip between or leap over them and rush into the flames.  When this happens, the Egyptians are overcome by intense grief.  All those who live in a household where a cat has died a natural death shave their eyebrows.  For the death of a dog, however, they shave their entire body and head.
 > = (2.66)
+
+A comical story about a Pharaoh that simultaneously hints at the Greek (and perhaps also Egyptian) view of women:
+
+> They say that when Sesostris died, his son Pheros inherited the kingdom.  He performed no military feats, but was blinded in the following incident: during his reign the river flooded over the land to a greater extend than ever before; it rose to a height of twenty-seven feet, and when it overflowed the fields, the winds drove it to surge in waves like a sea.  They say that this kin, in reckless arrogance, took a spear and cast it into the eddies in the middle of the river, and that immediately afterward, his eyes were afflicted with disease and he became blind.  His blindness continued for ten years until, in the eleventh year, there came an oracular response from the city of Bouto stating that the duration of the his punishment was over now and that he would regain his sight by washing his eyes with the urine of a woman who had been with her husband alone, having had no experience of any other men.  And so he first tried this with the urine of his own wife, but this failed to restore his sight.  He then tried all other women, one after the other, and when he finally regained his sight, he bright together into one city---which is now called Red Soil--all the women he had tried except for the one whose urine had restored his sight.  When they were gatherer together there, he set them all on fire along with the city itself.  But he took as his own wife the woman with whose urine he had washed his eyes and regained his site.
+> = (2.111)
+
+According to the Egyptian priests, Helen never made it to Troy---violent winds pushed Paris off course, and after landing in Egypt and learning what had happened, they retained Helen:
+
+> That is what the Egyptian priests said, and I agree with their argument, considering that if Helen had been in Troy, the Trojans would certainly have returned her to the Hellenes, whether Paris concurred or not.  For neither Priam nor his kin could have been so demented that they would have willingly endangered their own persons, their children, and their city just so that Paris could have Hellen.  Surely the Trojans would have realized this even in the first years of the ware and would have given her up.
+> = (2.120)
+
+There is a fantastical story about an architect, his two sons, the Pharaoh, and his daughter, in Book II fragment 121, but it is too long to transcribe.  I recommend reading it.
+
+Apparently some of the Egyptians believed in reincarnation:
+
+> The Egyptians are in fact the first to have claimed that the human soul is immortal and that each time the body perishes, it enters at birth another living being; and whenever it has gone through the lives of all types of creatures living on land or sea, or flying in the air, it again enters at birth the body of a human.  This cycle is said to take 3,000 years.  There are certain Hellenes---some who lived earlier, some later---who have adopted the theory as though it were their very own.
+> = (2.123)
+
+The Pharaoh's prostitutes his daughter:
+
+> The priests said that Cheops sank to such depths of wickedness that when he ran short of money, he placed his own daughter in a brothel and ordered her to charge a certain sum of silver, although they neglected to tell me the exact amount she was to demand.  She did as her father ordered, but, intending to leave behind a memorial of her own, she asked each man who came to her for the gift of one stone.  And from these stones, they said, was built the pyramid that stands in the middle of the three that are situated in front of the great pyramid.  Each of its sides measures 150 feet.
+> = (2.126)
+
+The Pharaoh Amasis' advice about working too much:
+
+> Amasis established the following daily routine for himself.  He worked diligently on serious matters of government from dawn until the peak market hour [about 10 a.m.], but after that he would drink and banter with his drinking companions.  His close friends and family were disturbed by this behavior and admonished him: "Sire, you are not conducting yourself properly by pursuing worthless pastimes.  You outhit to be seated solemnly upon your stately throne, transacting affairs of state throughout the day; that way, the Egyptians would know that they were being governed by a competent man, and your reputation would improve.  But as it is, you are not acting at all like a kin."  Amasis retorted: "When archers need to use their bows, they string them tightly, but when they have finished using them, they relax them.  For if a bow remained tightly strung all the time, it would snap and would be of nos use when someone needed it.  The same principle applies to the daily routine of a human being: if someone wants to work seriously all the time and not let himself ease off for his share of play, he will go insane without even knowing it, or at the least suffer a stroke.  And it is because I recognize this maxim that I allot a share of my time to each aspect of life."
+> = (2.173)
+
+## Quotes From Book III
+
+Greek culture held these two, somewhat contradictory, beliefs: that men should compete and strive for excellence "be the best", but also that they should not strive with the gods.  Both beliefs are present in Homer (the former being especially clear in the *Iliad*, and the later perhaps more in the *Odyssey*), as well as Herodotus.  This story is a nice example of the latter belief:
+
+> Now Amasis did not fail to notice Polykrates' [a Greek tyrant] exceptionally good fortune, and it worried him; so when his luck continued to improve still further, Amasis wrote him a letter and sent it to Samos.  The letter said, "From Amasis to Polykrates: It is a pleasure to hear that a friend and ally is doing well, but I am not pleased by your exceptional good fortune, since I know that god is jealous.  Actually, what I sincerely want for both myself and for those I care about is good fortune in one matter but failure in another, and thus a life of continually alternating fortune rather than of success in everything.  For I have never yet heard of anyone enjoying good fortune in all things who did not ultimately die in total disaster.  And so now listen to me and deal with your perpetual good fortune as I advise.  You must think about what you have and select your most valuable possession, whatever would most break your heart were you to lose it; and then throw that object away so that it will never reach a human being again.  If, after this, your good fortune persists and does not alternate with suffering, apply the remedy I have suggested once again."
+> When Polykrates read this latter, he realized that Amasis had given him very good advice, so he search for the one heirloom in his possession shoe loss would most afflict his heart and select a signet ring that he wore, and emerald set in gold which had been crafted by Theodoros of Samos son of Telekles.  And so when he decided that his ring was the object he should throw away, he manned a penteconter, got on board, and ordered the me to put out to sea.  When they had reached a distance far form Samos, he took off his ring and, as all the men sailing with him looked on, tossed it into the sea. That done, he sailed home and mourned his loss.
+> But then, four or five days later, a fisherman caught a huge and beautiful fish; and thinking that it was only right to present it to Polykrates as a gift, he took it to the doors of Polykrates' home and announced that he wished to be admitted into the presence of Polykrates.  When this request was granted, he offered the fish to Polykrates with these words: "Sire, when I caught this fish, I did not think it right to take it to market, although I do make my living by my own labor.  Instead, I decided it was worthy of you and your rule.  So I bring this fish and give it to you now as a present." Polykrates was delighted to hear this little speech and replied, "You are very kind; I thank you twice over, both for your words and for your gift, and I invite you to dine with us." The fisher man went home every flattered by the esteem shown him by Polykrates.  But when the servants cut open the huge fish, they discovered the ring of Polykrates within its belly.  As soon as they saw it, they took it out and gleefully brought it to him and, as they gave it to him, explained how they had found it. Polykrates realized that this was an act of god, so he wrote down everything he had done and what had happened to him, then sent the whole story in a letter to Egypt.
+> When Amasis read this letter, he realized that it was impossible for one person ton rescue another from what he destined to experience: he knew that Polykrates was not going to continue to enjoy good fortune in everything and come to a happy end, since even what he had attempted to throw away had been restored to him.  So Amasis sent a herald to Samos to announce that he was breaking off their alliance of friendship.
+> = (3.40--42)
+
+And Polykrates did meet a terrible end, in fact, his death was so gruesome Herodotus says he didn't want to describe it.  Most historians today believe that Polykrates broke off the relationship with Amasis when Cambyses conquered the Phoenicians (who had a great navy), and thus threatened Samos.  I am interested in the story because it is entertaining and because it gives us insight into the Greek's beliefs about good fortune.
+
+The ethnic cleansing of the Magi, after over-throwing the short-lived conspiracy by the two Magi brothers to pose as Smerdis:
+
+> After the conspirators had killed both Magi, they cut off their heads and, leaving their own wounded men there, since they were too weak to go with them but could help guard the acropolis, the other five ran outside carrying the heads of the Magi.  There, with great shouts they called out to the other Persians, describing all that had happened and showing them the heads.  As they spread the news, they also killed every Magus they found in their path.  When the Persians learned from them about the Magi's criminal fraud and what had just occurred, they decided it was right for them to join in the killing, too, so, drawing their daggers, they slew every Magus they found, and if nightfall had not ended the slaughter, there would not have been a single Magus left alive.  The Persians commemorate this day as their most important public holiday and celebrate it with a great festival they call the Murder of the Magi.  And during this entire day all Magi must keep within their houses---none are permitted to appear outside.
+> = (3.79)
+
+After the Magi revolt is put down, the seven Persians purportedly debated the merits of monarchy, oligarchy, and democracy.  Here is the argument for Democracy:
+
+> "I think it best that we no longer be ruled by one of ourselves as a monarch, since that kind of government is neither pleasant nor good.  You have seen how Cambyses became outrageously arrogant, and you have all experienced the insolence of the Magus directly.  How could monarchy be a harmonious and coherent system when it permits the ruler to do whatever he wishes, to be accountable to no one?  Even the best of men, if placed in this position of power, would lose his normal mental balance, for arrogance will grow within him as he enjoys all the good things at hand, as will envy, too, which is always a fundamental component of human nature.  All evil likes in these two traits, and he manifests both of them.  ... The rule of the majority, however, not only has the most beautiful and powerful name of all, equality, but in practice, the majority does not act at all like a monarch.  Indeed, the majority chooses its magistrates by lot, it holds all of these officials accountable to an audit, and it refers all resolution to the authority of the public.  I therefore propose that we abandoned monarchy and raise the majority to a ruling position, for in the many is the whole."
+> = (3.80)
+
+It seems impossible that this conversation ever occurred, partly because Herodotus' presentation of democracy includes several components which are very specific an unique to how Athenian democracy was performed.  Here are the arguments for oligarchy:
+
+> I am in favor of what Otanes says in his attempt to put an end to tyranny, but when he tells us to transfer power to the majority, he has strayed far from good judgement.  For nothing can be both more unintelligent or insolent than the worthless, ineffectual mob.  If men want to escape the arrogance of a tyrant, it is absolutely intolerable that they should then fall victim to the arrogance of the undisciplined common people.  For whatever the tyrant may do, he at least knows what he is doing, whereas the people have no idea of what they are doing.  How could someone who has not been educated, who has never seen anything good or decent, be knowledgeable about anything?  He pushes and shoves and stumbles into affairs without thought, like a raging torrent.
+> = (3.81)
+
+And finally, here is Darius' winning argument for monarchy:
+
+> What Megabyzos claimed about the majority seems right to me, but what he said about oligarchy seems wrong.  For if we compare the best examples in theory of these three types of government---the best democracy, the best oligarchy, and the best monarchy---I declare that monarchy surpasses the other two by far.  For obviously nothing can be better than the one man who is the best.  And since he has the best judgement, he would be a blameless administrator of the majority, and thus, too, he would best be able to maintain silence about his plans to oppose enemies.  In an oligarchy, on the other hand, many men strive to achieve excellence, and thus private rivalries tend to become public hostilities.  For each man wants to be the head of affairs and desires that his own opinions prevail; so that they ultimately become extremely hostile toward one another, which leads to the emergence of factions, which in turn produces bloodshed, and then, also demonstrates just how much monarchy excels the others.  Then again, when the people rule, incompetence will always inevitably be the result.  While this incompetence is present, these inept men do not themselves engage in public hostilities, bu instead form strong friendships among one another as they incompetently manage the commonwealth together.  This situation goes on until one of them steps forth as leader of the people and stops the others from continuing such actions, after which this man is effectively declared to be a monarch, which again proves that monarchy is the best of the three.
+> = (3.82)
+
+An interesting observation about how frequently animals reproduce:
+
+> The Arabians say that the entire world would be filled with these snakes if it were not for a certain phenomenon that happens to them, and which, i believe, also happens to vipers.  And this phenomenon indeed makes sense: for divine providence in its wisdom created all creatures that are cowardly and that serve as food for others to reproduce in great numbers so as to assure that some would be left despite the constant consumption of them, while it has made sure that those animals which are brutal and aggressive predators reproduce very few offspring.  The hare, for example, is hunted by every kind of beast, bird, and man, and so reproduces prolifically.  Of all animals, she is the only one that conceives while she is already pregnant; her womb can contain at the same time young that are furry, bare of fur, just recently formed, and still being conceived.
+> = (3.108)
+
+I think Herodotus' observation is clever, and it seems reasonable.  It is like people who say that God created each animal with its own job and role; while perhaps true in a deeper sense, it is not true in the direct sense.  For evolution has brought about the fine balance of the animals.
+
+Fantastical thoughts about the end of the earth:
+
+> It is clear that gold exists in by far the greatest quantities to the north of Europe, but I cannot say with certainty how it comes to be there.  It is reported that there are one-eyed men called Arimaspians who snatch it away from griffins, but I cannot believe in the existence of one-eyed men who are born that way, and who would still have in all other respects a nature just like that of other humans.  In any case, these peripheral regions which surround and enclose the rest of the art on all sides quite reasonably contain the very things we value as most beautiful and rare.
+> = (3.116)
+
+Note that Herodotus (inconsistently with his discussion of the number of continents in book II), applies reason to the deduction of geography.  This expectation that geography can be reasoned about, perhaps parallels our own expectations of how the laws of physics should act, although I believe we are right and they were wrong.  Still, when seen as a parallel like this, such arguments may feel less silly to us.
+
+The Babylonians, when they revolted, killed many of their women:
+
+> After the navy sailed off to Samos, the Babylonians revolted.  They had prepared for this rebellion well in advance, for during the entire period of disorder when the Magus ruled and the Seven revolted, they were making preparations for a siege, and somehow no on noticed them doing it.  When they did revolt openly, each man set aside his mother and on woman he selected from his household to prepare his food.  These women were saved; all the other women were brought together and strangled in order to prevent them from consuming the supply of food.
+> = (3.150)
+
+*Quotations are taken from Andrea L. Purvis's 2007 translation of* The Histories*, published by Anchor Books.*
