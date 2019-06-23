@@ -27,7 +27,7 @@ Herodotus discusses
 
 Herodotus does not feel any need to outline the path he takes for his readers.  Whether this doing so was impractical using the writing technologies he had (i.e., he didn’t know the path his writing would take, and could not insert an outline after the fact) or because he did not feel a need to pander to his listeners (or readers) is unclear.  In any event.
 
-## Rough Outline
+## Outline
 
 - Proem, 1.1 Purpose
 - 1.2–5 Abduction of women
@@ -164,7 +164,3 @@ A bizarre story about cats:
 <p>Many animals live with these people, but many more would do so if it were not for the fate of the cats.  When the female cats have given birth, they no longer associate with the males, who, however, still seek intercourse with them, but without success.  So in response, the males outsmart the females by stealing away and then killing their offspring, although they do not eat them after killing them.  The females, bereft of their babies, feel a desire foe more and so go back to the males, for they are fond of offspring.</p>
 <p>And whenever a fire breaks out, some divine seizure comes over the cats.  The Egyptians stand at intervals and try to keep the cats safe, but if they fail to extinguish the fire, the cats slip between or leap over them and rush into the flames.  When this happens, the Egyptians are overcome by intense grief.  All those who live in a household where a cat has died a natural death shave their eyebrows.  For the death of a dog, however, they shave their entire body and head. <cite>(2.66)</cite></p>
 </blockquote>
-
-Reincarnation:
-
-
