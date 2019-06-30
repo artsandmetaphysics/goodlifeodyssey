@@ -49,6 +49,9 @@ Herodotus does not feel any need to outline the path he takes for his readers.  
 - 3.39--60 Spartans vs Polykrates of Samos
 - 3.61--87 Magi Revolt and Darius' Accession
 - 3.88--160 Reign of Darius
+- 4.1--82 Scythian Geography and Customs
+- 4.83--142 Darius' Expedition to Scythia
+- 4.145--205 Libya and the Persians
 
 ## Epistemology
 
@@ -75,6 +78,9 @@ Herodotus believed that the Egyptians worshiped the same gods that the Greeks wo
 
 > The Arabians believe that Dionysos and Ourania are the only gods who exist, and they claim that they cut their hair to look just like the haircut of Dionysos.  They shear the hair around the head in a ring and shave under the temples.  Dionysos they call Orotalt; Ourania, Alilat.
 > = (3.8)
+
+> The only gods they [the Scythians] try to appease are Hestia, who is their most important divinity, Zeus, and Earth, whom they condier to be the wife of Zeus; after these, they worship Apollo, Ourania Aphrodite, Herakles, and Ares.  While these are the traditional gods of all the Scythians, the Royal Scythians also sacrifies to Poseidon.  In the Scythian language, Hestia is called Tabiti; Zeus, Papaios (and most correctly so, in my opinion); Earth is called Api; Apollo, Goitosyros; Ourania Aphrodite, Argimpasa; and Poseidon, Thagimasadas.  It is not their custom to erect statues, altars, or temples, except for Ares.
+> = (4.59)
 
 ## Quotes From Book I
 
@@ -248,5 +254,40 @@ The Babylonians, when they revolted, killed many of their women:
 
 > After the navy sailed off to Samos, the Babylonians revolted.  They had prepared for this rebellion well in advance, for during the entire period of disorder when the Magus ruled and the Seven revolted, they were making preparations for a siege, and somehow no on noticed them doing it.  When they did revolt openly, each man set aside his mother and on woman he selected from his household to prepare his food.  These women were saved; all the other women were brought together and strangled in order to prevent them from consuming the supply of food.
 > = (3.150)
+
+## Quotes From Book IV
+
+Sailing around Africa:
+
+> After he [king Nechos of Egypt] stopped excavation work on the canal, which extended from the Nile to the Arabian Gulf, he sent some Phoenicians off on boats with orders to sail around Libya and back through the Pillars of Herakles into the Mediterranean Sea and to return by that route to Egypt  And so the Phoenicians set out from the Erythraean Sea and sailed the Southern Sea.  Whenever autumn came, they would put in to shore at whatever region of Libya they happened to have reached in order to sow seeds.  There they would wait for the harvest, and after reaping their crops, they would sail on again.  This they did for two years, and in the third, they came around through the Pillars of Herakles and returned to Egypt.  They mentioned something else which I do not find credible, thought someone else may: that when they were sailing around Libya, the sun was on their right as they went.
+> = (4.42)
+
+An account of Scythian soothsayers:
+
+> Whenever the king of the Scythians falls ill, he sends for three of the most distinguished soothsayers, and they perform prophecies in the first way that I described.  What they generally report is that some person has sworn falsely by the royal hearth, and they accuse one of the townspeople by name.  In fact, it is the Scythian custom that when someone wants to swear the most solemn kind of oath, he most often does so by the royal hearth.  The man named by these prophets is immediately apprehended and brought to the soothsayers, who charge that their prophecy has revealed him to be a perjurer on the royal hearth and thus to be the cause of the king's present pain.  When the accused man protest vehemently and denies the charge, the king responds by sending for twice as many soothsayers.  If they, too, condemn the man as a perjurer through their prophecies, the man is immediately beheaded, and the first three prophets divide up his possessions by lot.  But if they recently summoned soothsayers in addition to the other three absolve him of the charge, then other soothsayers come, and again more besides.  If the majority of all these acquit the man, it is decreed that the first three prophets themselves must die.
+> = (4.68)
+
+The tradition implies skepticism of the soothsayers' ability and motives.  This description is an example of superstition leading to injustice.
+
+Here is an incredible story about the supposed development of the believe in immortality:
+
+> As to immortality, the Getai believe that they do not really die, but that when one of them passes away, he goes to Salmoxis, a sort of divinity whom some of them also call Gebeleizis.  Every fifth year they send off one of their number, who has been selected by lot to serve as a messenger to Salmoxis, with instructions as to what they want at that particular time.  This is how they dispatch him . Three men who are appointed to the task each hold a javelin, while others seize the hands and feet of the man being sent to Salmoxis, swing him up in the air, and throw him onto the points of the javelins.  If the man dies from being impaled, they believe that the god is well disposed toward them; but if he does not die, they blame the messenger himself, accusing him of being a bad man, and seek another to send in his place.  They give the messenger instructions while he is still alive.  These same Thracians shoot their arrows up into the sky, aiming at thunder and lightning as they shout threats at the god, and they believe that no other god exists but their own.
+> I have heard from the Hellenes who inhabit the Hellespont and the Pontus, however, that this Salmoxis was actually a human being who had been enslaved and served Pythagoras son of Mnesarchos on Samos.  But he was eventually freed, and then he acquired abundant wealth there before returning to his own land.  Now while the Thracians live a crude life and are rather stupid, Salmoxis knew the Ionian way of life and character, which is more profound than that of the Thracians, and he had associated with Hellenes, including Pythagoras, certainly not the feeblest thinker of the Hellenes.  And so he had a banqueting hall built where he hosted and entertained the leading men of the town, and he taught them neither he nor they, his drinking companions, nor their descendants would die, but that they would come to a place where they would live on and have all good things.  And as he was composing these lessons and relating them to his guests, he was also constructing an underground chamber.  When it was completely finished, he vanished from the sight of the Thracians, by descending into the chamber and spending three years there.  The Thracians missed him and grieved for him as though he had died, but in the fourth year he appeared to them, and thus what Salmoxis had thought them became credible.  That, at least, is what they say he did.
+> I myself do not believe this story about him and the underground chamber, although I don't discount it completely  I do think, however, that this Salmoxis lived many ears before Pythagoras.  But whether Salmoxis was born a human being or exists as some sort of native divinity among the Getai, let us bid him farewell.  At any rate, that is how the Getai were subdued by the Persians, and they were no following along with the rest of the army.
+> = (4.94--96)
+
+Herodotus', following a Greek sort of reasoning, compares Scythia to a square:
+
+> And so the shape of Scythia is square: two of its sides reach down to the sea, and these and its coastal and inland margins make it equal on all sides.
+
+Getting out of an oath in a clever way:
+
+> There was in Axos a merchant, Themision of Thera, with whom Etearchos pledged guest-friendship and whom he asked to swear to perform whatever service he would request.  When Themision had sworn the oath, Etearchos brought forth his daughter and handed her over to him with instructions to take her away and throw her into the sea.  Infuriated at being deceived by the oath in this way, Themision renounced his pact of guest-friendship, and then, to release himself from obligation under the oath he had sworn to Etearchos, he sailed away with the girl, tied a rope around her, lowered her down into the sea, and then, after pulling her back up, took her with him back to Thera.
+> = (4.154)
+
+Sexual customs of the Auseans:
+
+> They share intercourse with their women in common, promiscuously like beasts, and do not dwell together as couples.  Whenever a woman's child has developed sufficiently, the men get together within three months, and whichever of them the child resembles most is acknowledged as his father.
+> = (4.180)
 
 *Quotations are taken from Andrea L. Purvis's 2007 translation of* The Histories*, published by Anchor Books.*

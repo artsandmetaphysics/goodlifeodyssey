@@ -59,4 +59,11 @@ After some brief comments about his approach, Thucydides resumes his argument as
 > What made war inevitable was the growth of Athenian power and the fear which this caused in Sparta.
 > = (1.23)
 
+The Greek poleis thought of themselves as independent political units.  During the war, there was pressure to join the Delian or Peloponnesian leagues.  In a limited sense, this was pressure for the Greeks to produce larger political structures.  This process is seen during the speech of the Corcyrians to the Athenians:
+
+> What has happened is that our policy in the past appears to have been against our own present interests, and at the same time makes it look inconsistent of us to be asking help from you.  It certainly looks inconsistent to be coming here to ask for help when in the past we have deliberately avoided all alliances; and it is because of this very policy that we are now left entirely along to fact a war with Corinth.  We used to think that our neutrality was a wise thing, since it prevented us being dragged into danger by other people's policies; now we see it clearly as a lack of foresight and to a source of weakness.
+> = (1.32)
+
+It seems to me that concerns about being overrun by larger political groups will produce an upward pressure on smaller groups.  This pressure will continue exherting itself until there are two groups remaining.  Clearly there are other pressures, many of which push towards smaller sizes.
+
 *All quotations are taken from Rex Warner's 1954 translation of the* History of the Peloponnesian War*, published by Penguin Classics.*
