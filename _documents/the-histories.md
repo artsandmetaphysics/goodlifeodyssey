@@ -54,8 +54,10 @@ Herodotus does not feel any need to outline the path he takes for his readers.  
 - 3.61–87 Magi Revolt and Darius’ Accession
 - 3.88–160 Reign of Darius
 - 4.1–82 Scythian Geography and Customs
-- 4.83–142 Darius’ Expedition to Scythia
+- 4.83–144 Darius’ Expedition to Scythia
 - 4.145–205 Libya and the Persians
+- 5.1–29 Darius’ Campaign in the Hellespont and Thrace
+- 5.30–6.49 The Ionian Revolt
 
 ## Epistemology
 
@@ -325,6 +327,66 @@ Sexual customs of the Auseans:
 
 <blockquote class="prose">
 <p>They share intercourse with their women in common, promiscuously like beasts, and do not dwell together as couples.  Whenever a woman’s child has developed sufficiently, the men get together within three months, and whichever of them the child resembles most is acknowledged as his father. <cite>(4.180)</cite></p>
+</blockquote>
+
+## Quotes from Book V
+
+The life-denying Getai:
+
+<blockquote class="prose">
+<p>When a child is born to them [the Getai], his relatives sit around him and grieve over all the evils he will have to endure later, recounting all things that humans must suffer.  But when someone dies, they have fun and take pleasure in burying him in the ground, reciting over him all the evils he has escaped and how he is now in a state of complete bliss. <cite>(5.4)</cite></p>
+</blockquote>
+
+The contest among Krestonian wives:
+
+<blockquote class="prose">
+<p>Each man has many wives, and whenever a man dies, a great contest with fierce rivalry is held among his wives and their families concerning which of them was the wife whom he loved the most.  The woman who is judged most worthy of this honor is eulogized by both the mean and the women, after which her closest relative cuts her throat over the grave and she is buried with her husband.  The other wives consider their rejection a terrible misfortune and the greatest possible disgrace. <cite>(5.5)</cite></p>
+</blockquote>
+
+The Thracian customs:
+
+<blockquote class="prose">
+<p>They sell their children for export abroad and do not keep watch over their unmarried daughters, but instead allow them to have intercourse with any man they want.  They purchase their wives, however, from the women’s parents for very high prices and then guard them quite strictly.  To have tattoos is a mark of nobility, while having none is a sign of baseness.  The idle man of leisure is most admired, and the man who works the soil is most despised.  The most honorable way to make a living is thought to be by war and plunder.  Those are their most remarkable customs. <cite>(5.6)</cite></p>
+</blockquote>
+
+Darius’ comment about friendship:
+
+<blockquote class="prose">
+<p>Of all possessions the most valuable is a friend who is both intelligent and well intentioned. <cite>(5.24)</cite></p>
+</blockquote>
+
+Sending a message on a slave’s tattooed head:
+
+<blockquote class="prose">
+<p>Histiaios had wanted to tell Aristagoras to revolt but could not safely send such and instruction to him, since the roads were guarded.  And so he had chosen his most trustworthy slave, shaved his head, tattooed it with his message, and waited for the hair to grow back.  As soon as it had done so, he sent the slave off with instructions to do nothing other than go to Miletus and, once there, to tell Aristagoras to shave off his hair and look at his head. <cite>(5.35)</cite></p>
+</blockquote>
+
+The Athenian women stab a man to death with pins:
+
+<blockquote class="prose">
+<p>Actually that one man did not survive long either, but perished in the following way.  After he had returned to Athens he reported the disaster, and when the wives of the men who had served with him against Aegina heard of it, they became outraged that of all the men, he alone had come back safely.  They took hold of him on all sides and, as they all asked him where their own husbands were, they stabbed him with the pins of the cloaks; and so that is how he, too, died.  To the Athenians, what the women had done seemed an even more terrible disaster than the loss of the army.  They could find no other penalty to impose upon the women except to make them change their style of dress to the Ionian fashion. Prior to this, the Athenian women had worn Dorian clothing, which most resembles the Corinthian style, but now they changed to wearing a linen tunic, so they would have no pins to use. <cite>(5.87)</cite></p>
+</blockquote>
+
+Herodotus’ comments about democracy in Athens:
+
+<blockquote class="prose">
+<p>So the Athenians had increased in strength, which demonstrates that an equal voice in government has beneficial impact not merely in one way, but in every way:  the Athenians, while ruled by tyrants, were no better in war than any of the peoples living around them, but once they were rid of tyrants, they became by far the best of all. Thus it is clear that they were deliberately slack while repressed, since they were working for a master, but that after they were freed, they became ardently devoted to working hard so as to win achievements for themselves as individuals. <cite>(5.78)</cite></p>
+</blockquote>
+
+<blockquote class="prose">
+<p>When Aristgoras appeared before the Athenian people, he repeated the same things that he had said in Sparta about the good things in Asia and about Persian warfare—that they used neither shields nor spears and how easy it would be to subdue them.  In addition, he told them that Miletus was originally and Athenian colony, and therefore, since the Athenians were a great power, it was only fair and reasonable for them to offer protection to the Milesians  There was nothing he failed to promise them, since he was now in dire need, and at last he managed to win them over.  For it would seem to be easier to deceive and impose upon a whole throng of people than to do so to just on individual, since he had failed with Kleomenes of Lacedaemon, who was alone, but then succeeded with 30,000 Athenians.  After the Athenians had been won over, they voted to dispatch twenty ships to help the Ionians and appointed Melanthion, a man of the city who was distinguished in every respect, as commander over them.  These ships turned out to be the beginning of evils for both Hellenes and barbarians. <cite>(5.97)</cite></p>
+</blockquote>
+
+Darius’ comments when he first hears about the Athenians:
+
+<blockquote class="prose">
+<p>It is said that when Darius first heard this report, he disregarded the Ionians, since he knew that they at least would not escape punishment for their revolt; but he inquired who the Athenians were, and after he had been told, he asked for a bow.  He took the bow, set an arrow on its string, and shot the arrow toward the heavens.  And as it flew high into the air, he said: “Zeus, let it be granted to me to punish the Athenians.”  After saying this, he appointed one of his attendants to repeat to him three times whenever his dinner was served: “My lord, remember the Athenians.” <cite>(5.105)</cite></p>
+</blockquote>
+
+Onesilos’ head:
+
+<blockquote class="prose">
+<p>Because Onesilos had besieged the Amathousians, they cut off his head and took it to Amathous, where they hung it up over the city gates.  The head eventually became hollow as it hung there, and then swarms of bees entered it and filled it with honeycombs. <cite>(5.114)</cite></p>
 </blockquote>
 
 *Quotations are taken from Andrea L. Purvis’s 2007 translation of* The Histories*, published by Anchor Books.*
