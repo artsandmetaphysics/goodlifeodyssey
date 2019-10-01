@@ -171,7 +171,7 @@ Plagues and natural disasters were believed to be caused by gods. An example of 
 
 ## The Rage of Achilles
 
-Traditionally, the first word of an epic poem is also its central theme. Here is the first line of the *Iliad*:
+Traditionally, the first word of an epic poem identifies its central theme:
 
 > Rage---Goddess, sing the rage of Peleus' son Achilles,
 > murderous, doomed, that cost the Achaeans countless losses,
@@ -240,7 +240,7 @@ Some interpret the *Iliad* as a poem about growth and moral progress---Achilles'
 
 ## War and Violence
 
-War and violence permeate the *Iliad.* One of the first things a modern reader notices in the *Iliad* is that Homer provides the names of even nearly every character that dies:
+War and violence permeate the *Iliad.* One of the first things a modern reader notices in the *Iliad* is that Homer provides the names of nearly every character that dies:
 
 > Who was the first he slaughtered, who the last,
 > Hector the son of Priam, now Zeus gave him glory?
@@ -305,7 +305,7 @@ Everyone in the *Iliad* is obsessed with armor and weapons. Armor provided prote
 > helmets and breastplates, gleaming, polished bright."
 > ~ (13.259--65)
 
-When Patroclus leads the Myrmidons into battle, Achilles says a prayer to Zeus that asking for his safety, and his armor back:
+When Patroclus leads the Myrmidons into battle, Achilles prays to Zeus for his safety and for his armor's return:
 
 > "But once he repels the roaring onslaught from the ships
 > let him come back to me and our fast fleet---unharmed---
@@ -469,7 +469,7 @@ Zeus' comment about mankind, during the fight over Patroclus' body:
 > of all that breathe and crawl across the earth.
 > ~ (17.447--8)
 
-Achilles' hours prophesies to his death:
+Achilles' horse prophesies his death:
 
 > And Roan Beauty the horse with flashing hoofs
 > spoke up from under the yoke, bowing his head low
