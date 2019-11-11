@@ -3,7 +3,7 @@ title: >
   Buddhism
 description: >
   Notes on Buddhism
-type: notes
+type: note
 status: incomplete
 order: 506
 ---

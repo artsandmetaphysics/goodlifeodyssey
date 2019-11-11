@@ -433,6 +433,8 @@ Jove can not bear to watch her pain, so he sends Mercury to kill Argus. He tells
 
 Many of Ovid's stories explain the origin of species (especially of birds), rivers, springs, and constellations.
 
+As an interesting note, the tale that Mercury tells Argus is about the rape of Syrinx; a commentator observed that rape is so common that the story was dull enough to put Argus to sleep (although his wand may have helped too).
+
 ## Epistemology
 
 Ovid does not appear to take the myths he is telling seriously. Throughout the poem, he inserts comic asides. Here I present a few illustrative examples.
@@ -456,7 +458,7 @@ He slyly implies that we do not know the source of some stories firsthand:
 Here he ironically says we have a story on good faith:
 
 > (you needn't take this part of it on faith,
-> for it's supported by and old tradition)---
+> for it's supported by an old tradition)---
 > these stones at once begin to lose their hardness
 > and their rigidity; slowly they soften;
 > once softened, they begin to take on shapes.
@@ -486,6 +488,22 @@ Apollo's sudden love for Daphne:
 > until his heart was utterly afire,
 > and hope sustained his unrequited passion.
 > ~ (1.678--85)
+
+Apollo chasing Daphne, after being unable to woo her:
+
+> But the young god had no further interest
+> in wasting his fine words on her; admonished
+> by his own passion, he accelerates,
+> and runs as swiftly as a Gallic hound
+> chasing a rabbit through an open field;
+> the one seeks shelter and the other, prey---
+> he clings to her, is just about to spring,
+> with his long muzzle straining at her heels,
+> while she, not knowing whether she's been caught,
+> in one swift burst, eludes those snapping jaws,
+> no longer the anticipated feast;
+> so he in hope and she in terror race.
+> ~ (1.732--44)
 
 ## Other Interesting Quotes
 
