@@ -3,9 +3,9 @@ title: >
   The Book of Daniel
 description: >
   Notes on The Biblical Book of Daniel
-type: notes
+type: note
 status: incomplete
-order: 506
+order: 52
 ---
 
 ## Outline
@@ -29,12 +29,12 @@ The book of Daniel has a number of historical inaccuracies.
 
 The Neo-Babylonian empire had the following kings:
 
-Nabu-apla-usur 626–605 BC
-Nabu-kudurri-usur II 605–562 BC
-Amel-Marduk 562–560 BC
-Neriglissar 560–556 BC
-Labaši- Marduk 556 BC
-Nabonidus 556–539 BC
+- Nabu-apla-usur 626–605 BC
+- Nabu-kudurri-usur II 605–562 BC
+- Amel-Marduk 562–560 BC
+- Neriglissar 560–556 BC
+- Labaši- Marduk 556 BC
+- Nabonidus 556–539 BC
 
 King Nabu-kudurri-usur, also known as Nebuchadnezzar, captured Jerusalem in 597 BC and deposed its king Jehoiachin.
 

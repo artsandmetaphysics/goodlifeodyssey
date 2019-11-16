@@ -32,30 +32,31 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
   - The four ages of man (gold, silver, bronze, iron)
   - War with the Giants
   - Jove recounts Lycaon’s evil at the divine assembly
-  - The great flood
+  - The great flood from above and below
   - Devout Deucalion and Pyrrha create more humans from mud
   - The earth generates life from the muck
   - Apollo kills the Python (and establishes the Pythian games)
-  - Apollo and Daphne
-  - Jove and Io (I)
-  - Pan and Syrinx
-  - Jove and Io (II)
-  - Phaëthon
+  - Apollo brags to cupid; then woos and chases Daphne
+  - Jove rapes Io then turns her into a cow
+    - Pan pursues Syrinx; creates the reed pipe
+  - Jove begs for Juno to relent and saves Io
+  - Phaëthon sets out to prove he is the sun’s son
 - Book II
-  - Phaëthon
-  - The Heliades
-  - Cycnus
-  - The sun’s complaint
-  - Jove, Callisto, and Arcas
-  - The raven and the crow
-  - The prohecies of Ocyrhoë
-  - Mercury and the tattletale
-  - Mercury and Aglauros (1)
-  - The house of Envy
-  - Mercury and Aglauros (2)
-  - Jove and Europa
+  - Phaëthon’s foolish wish; Apollo attempts to dissuade him
+  - Phaëthon’s doomed ride; burning heaven and earth; death
+  - The Heliades, Phaëthon’s sisters, become trees (and their tears amber)
+  - Cycnus turns into a bird as he despairs for Phaëthon
+  - Apollo threatens to resign but relents
+  - Jove rapes Callisto who births Arcas; turned into constellations
+  - Crow warns raven not discloses infidelity; he is turned black
+  - The prophetess Ocyrhoë over steps and is turned into a horse
+  - Mercury steals cows and the tattletale old man
+  - Mercury falls for Herse; Aglauros’s her sister demands gold
+    - The house of Envy; Envy infects Aglauros
+  - Mercury turns Aglauros to stone
+  - Jove becomes a beautiful bull to steal Europa
 - Book III
-  - Jove and Europa
+  - Jove rapes Europa
   - Cadmus founds Thebes
   - Actaeon and Diana
   - Juno, Jove, and Semele
@@ -114,7 +115,7 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
   - Daedalus and Perdix
   - Meleager and Althaea
   - Acheloüs and Theseus
-  - THe Echinades and Perimele
+  - The Echinades and Perimele
   - Baucis and Philemon
   - Erysicthon and his daughter
 - Book IX
@@ -449,6 +450,133 @@ Jove can not bear to watch her pain, so he sends Mercury to kill Argus. He tells
 
 Many of Ovid’s stories explain the origin of species (especially of birds), rivers, springs, and constellations.
 
+As an interesting note, the tale that Mercury tells Argus is about the rape of Syrinx; a commentator observed that rape is so common that the story was dull enough to put Argus to sleep (although his wand may have helped too).
+
+## Book II
+
+The tale of Phaëthon’s doomed journey is one of my favourite in Ovid. Here is the description of Apollo’s throne room:
+
+<blockquote class="poetry">
+<p>Phoebus sat</p>
+<p>In robes of purple high upon a throne</p>
+<p>that glittered brilliantly with emeralds;</p>
+<p>and in attendance on his left and right</p>
+<p>stood Day and Month and Year and Century,</p>
+<p>and all the Hours, evenly divided;</p>
+<p>fresh Spring was there, adorned with floral crown,</p>
+<p>and Summer, naked, bearing ripened grain,</p>
+<p>and Autumn, stained from treading out her grapes,</p>
+<p>and Winter with his grey and frosty locks. <cite>(2.29–38)</cite></p>
+</blockquote>
+
+When describing the burning Earth, Ovid’s description alludes back to the _Iliad_ (20.60–67):
+
+<blockquote class="poetry">
+<p>The soil cracks everywhere, and now the light</p>
+<p>seeps to the underworld and terrifies</p>
+<p>its ruler and his wife <cite>(2.345–7)</cite></p>
+</blockquote>
+
+After Zeus kills Phaëthon with lightening, Apollo mourns:
+
+<blockquote class="poetry">
+<p>His miserable father, sick with grief,</p>
+<p>drew his cloak up around his head in mourning;</p>
+<p>for one whole day then, if the tale is true,</p>
+<p>the sun was quite put out. The conflagration</p>
+<p>(for the world was still ablaze) provided light;</p>
+<p>that was a time some good came out of evil. <cite>(2.439–45)</cite></p>
+</blockquote>
+
+The stories in the _Metamorphoses_ frequently refer to earlier incidents. For example:
+
+<blockquote class="poetry">
+<p>When Apollo heard</p>
+<p>the accusation brought against his lover,</p>
+<p>the laurel resting on his brow slipped down;</p>
+<p>in not as much time as it takes to tell,</p>
+<p>his face, his lyre, his high color fell! <cite>(2.832–6)</cite></p>
+</blockquote>
+
+Also, when Juno is departing from Tethys and Oceanus in Book II, she rides up on “peacocks fitted out with Argus’ eyes”—another reference to book I.
+
+The reference to the laurel tree refers back to the Daphne story in Book I—perhaps hinting that Apollo has already moved on to another lover.
+
+Almost all of the stories end with physical transformations. I like how Ovid describes Ocyrhoë’s transformation into a horse:
+
+<blockquote class="poetry">
+<p>It seems my human form is being taken:</p>
+<p>the thought of grass for dinner pleases me,</p>
+<p>and open fields, where I can freely ride</p>
+<p>as I become my relative—a mare!</p>
+<p>Whole horse? But why? My father is but a centaur!”</p>
+<p>Her whining, waning, becomes whinnying,</p>
+<p>as mind and speech both grow confused together,</p>
+<p>and for a moment seemed a sound between</p>
+<p>the noise a horse makes and a human word,</p>
+<p>more like someone who imitates a horse,</p>
+<p>before the sound turned clearly into neighing,</p>
+<p>as she went on all fours through the tall grass.</p>
+<p>Her fingers fused together and a single</p>
+<p>band of light horn surrounded them, a hoof.</p>
+<p>Her neck and mouth were both increased in size</p>
+<p>and her long robe was turned into a tail</p>
+<p>while the hair that used to stray across her neck</p>
+<p>became a mane that fell on her right side;</p>
+<p>made over now in voice and form completely,</p>
+<p>this transformation gave her a new name. <cite>(2.917–936)</cite></p>
+</blockquote>
+
+Minerva visits the goddess Envy to have her enact revenge on irreverent follower:
+
+<blockquote class="poetry">
+<p>She headed straight to Envy’s squalid quarters,</p>
+<p>black with corruption, hidden deep within</p>
+<p>a sunless valley where no breezes blow,</p>
+<p>a sad and sluggish place, richly frigid,</p>
+<p>where cheerful fires die upon the hearth</p>
+<p>and fog that never lifts embraces all.</p>
+<p>Arriving here, the warlike maiden stood</p>
+<p>before the house (for heaven’s law denied</p>
+<p>her entrance) and with her spear tip rapped</p>
+<p>upon the doors, which instantly flew open,</p>
+<p>revealing Envy at her feast of snakes,</p>
+<p>a fitting meal for her corrupted nature:</p>
+<p>from such a sight, the goddess turned away.</p>
+<p>The object of her visit sluggishly</p>
+<p>arises from the ground where she’d been sitting,</p>
+<p>leaving behind her interrupted dinner</p>
+<p>of half-eaten reptiles. Stiffly she advances,</p>
+<p>and when she sees the beauty of the goddess</p>
+<p>and of her armor, she cannot help but groan,</p>
+<p>and makes a face, and sighs a wretched sigh.</p>
+<p>Then she grows pale, and her body shrivels up.</p>
+<p>Her glance is sidewise and her teeth are black;</p>
+<p>her nipples drip with poisonous green bile,</p>
+<p>and venom from her dinner coats her tongue;</p>
+<p>she only smiles at sight of another’s grief,</p>
+<p>nor does she know, disturbed by wakeful cares,</p>
+<p>the benefits of slumber; when she beholds</p>
+<p>another’s joy, she falls into decay,</p>
+<p>and rips down only to be ripped apart,</p>
+<p>herself the punishment for being her. <cite>(2.1049–78)</cite></p>
+</blockquote>
+
+After Io and Callisto, Jove pursues Europa:
+
+<blockquote class="poetry">
+<p>Majestic power and erotic love</p>
+<p>do not get on together very well,</p>
+<p>nor do they linger long in the same place:</p>
+<p>the father and the ruler of all gods,</p>
+<p>who holds the lightning bolt in his right hand</p>
+<p>and shakes the world when he but nods his head,</p>
+<p>now relinquishes authority and power,</p>
+<p>assuming the appearance of a bull</p>
+<p>to mingle with the other cattle, lowing</p>
+<p>as gorgeously he strolls in the new grass. <cite>(2.1161–1170)</cite></p>
+</blockquote>
+
 ## Epistemology
 
 Ovid does not appear to take the myths he is telling seriously. Throughout the poem, he inserts comic asides. Here I present a few illustrative examples.
@@ -475,7 +603,7 @@ Here he ironically says we have a story on good faith:
 
 <blockquote class="poetry">
 <p>(you needn’t take this part of it on faith,</p>
-<p>for it’s supported by and old tradition)—</p>
+<p>for it’s supported by an old tradition)—</p>
 <p>these stones at once begin to lose their hardness</p>
 <p>and their rigidity; slowly they soften;</p>
 <p>once softened, they begin to take on shapes. <cite>(1.556–60)</cite></p>
@@ -506,6 +634,23 @@ Apollo’s sudden love for Daphne:
 <p>just so the smitten god went up in flames</p>
 <p>until his heart was utterly afire,</p>
 <p>and hope sustained his unrequited passion. <cite>(1.678–85)</cite></p>
+</blockquote>
+
+Apollo chasing Daphne, after being unable to woo her:
+
+<blockquote class="poetry">
+<p>But the young god had no further interest</p>
+<p>in wasting his fine words on her; admonished</p>
+<p>by his own passion, he accelerates,</p>
+<p>and runs as swiftly as a Gallic hound</p>
+<p>chasing a rabbit through an open field;</p>
+<p>the one seeks shelter and the other, prey—</p>
+<p>he clings to her, is just about to spring,</p>
+<p>with his long muzzle straining at her heels,</p>
+<p>while she, not knowing whether she’s been caught,</p>
+<p>in one swift burst, eludes those snapping jaws,</p>
+<p>no longer the anticipated feast;</p>
+<p>so he in hope and she in terror race. <cite>(1.732–44)</cite></p>
 </blockquote>
 
 ## Other Interesting Quotes
