@@ -62,7 +62,9 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
   - The judgement of Tiresias
   - Echo is cursed by Jove; she falls for Narcissus
   - Narcissus falls for himself and wastes away
-  - King Pentheus rejects Bacchus; his mom and sisters kill him
+  - King Pentheus rejects Bacchus
+  - Acoetes's story about Bacchus on the boat
+  - Pentheus' mom and sisters kill him in a frenzy
 - Book IV
   - The daughers of Minyas
   - Pyramus and Thisbe
@@ -559,9 +561,9 @@ After Io and Callisto, Jove pursues Europa:
 
 ## Book III
 
-After Europa is stolen, her father "in an action bother paternal and perverse" demands that Cadmus, her brother, find her. He decides to flee and found a new city, and goes onto found the city of Thebes in Greece.  Herodotus believed that Cadmus brought the Phoenician alphabet to the Greeks (_The Histories_ 5.58).
+After Europa is stolen, her father "in an action bother paternal and perverse" demands that Cadmus, her brother, find her. Unable to, he decides to flee Tyre and found the new city of Boeotian Thebes. Incidentally, Herodotus believed that Cadmus brought the Phoenician alphabet to the Greeks (_The Histories_ 5.58).
 
-A great serpent kills many of Cadmus' men, and so he pursues and kills the serpent. Afterwards, Athena instructs him to sow the serpent's seeds into the ground.
+While founding Thebes, a great serpent kills many of Cadmus' men, and so he pursues and kills the serpent. Afterwards, Athena instructs him to sow the serpent's seeds into the ground.
 
 > And then, incredibly, the dull clods stir:
 > at first only the little tips of spears
@@ -616,7 +618,7 @@ After the Actaeon story, Jove falls for Semele---Cadmus' daughter. Semele become
 
 > A long, inveigling chat of this and that,
 > until Jove's name came up. Nurse sighted and said,
-> "I _hope_ he's Jupiter---although I doubt it:
+> "I *hope* he's Jupiter---although I doubt it:
 > the divinity plea? An all-to-common ploy
 > among seducers. Suppose he is, though:
 > make him provide assurance of his love;
@@ -634,9 +636,9 @@ Tiresias is a recurring character in the Greek tragedies.
 
 Tiresias' first prediction is that Narcissus, if he knows himself, will not live to old age. The meaning of this was unclear, until Narcissus falls in love with himself. Then Tiresias becomes famous.
 
-> "But _now_ I get it! _I_ am that other one!
+> "But *now* I get it! *I* am that other one!
 > I've finally seen through my own image!
-> I burn with love for---_me_! The spark I kindle
+> I burn with love for---*me*! The spark I kindle
 > is the torch I carry: whatever can I do?
 > Am I the favor-seeker, or the favor sought?
 > "Why seek at all, when all that I desire
@@ -649,12 +651,14 @@ Ovid paints a compelling, yet humorous, picture of obsession with his descriptio
 > His last words were directed to the pool:
 > "Alas, dear boy, whom I have vainly cherished!"
 > Those words returned to him again, and when
-> he cried "Farewell!" "_Farewell!_" cried Echo back.
+> he cried "Farewell!" "*Farewell!*" cried Echo back.
 > His weary head sank to the grass; death closed
 > those eyes transfixed once by their master's beauty,
 > but on the ferry ride across the Styx,
 > his gaze into its current did not waver.
 > ~ (3.643--50)
+
+Acoetes' story is similar to the seventh Homeric Hymn to Dionysus.
 
 ## Epistemology
 
