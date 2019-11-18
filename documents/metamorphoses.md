@@ -21,7 +21,7 @@ The *Metamorphoses* is Ovid's epic poem about change.
 
 The poem is about 12,000 lines of hexameter verse in Latin, and is split into 15 books. It was first published in 8 AD.
 
-Ovid focuses on telling the many stories using beautiful and light-hearted language.
+Ovid focuses on telling the many stories using beautiful and light-hearted language. His audience was familiar with the stories he tells, so it is his approach to telling the stories that makes them as entertaining as they are.
 
 ## Outline
 
@@ -43,7 +43,7 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
 - Book II
   - Phaëthon's foolish wish; Apollo attempts to dissuade him
   - Phaëthon's doomed ride; burning heaven and earth; death
-  - The Heliades, Phaëthon's sisters, become trees (and their tears amber)
+  - Phaëthon's sisters become Heliades (and their tears amber)
   - Cycnus turns into a bird as he despairs for Phaëthon
   - Apollo threatens to resign but relents
   - Jove rapes Callisto who births Arcas; turned into constellations
@@ -56,13 +56,13 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
   - Jove becomes a beautiful bull to steal Europa
 - Book III
   - Jove rapes Europa
-  - Cadmus founds Thebes
-  - Actaeon and Diana
-  - Juno, Jove, and Semele
+  - Cadmus kills the dragon; sows the teeth; founds Thebes
+  - Actaeon sees Diana naked; transformed into a stag and is hunted
+  - Juno impregnates Semele; Jove enacts revenge
   - The judgement of Tiresias
-  - Narcissus and Echo
-  - Narcissus
-  - Bacchus and Pentheus
+  - Echo is cursed by Jove; she falls for Narcissus
+  - Narcissus falls for himself and wastes away
+  - King Pentheus rejects Bacchus; his mom and sisters kill him
 - Book IV
   - The daughers of Minyas
   - Pyramus and Thisbe
@@ -412,6 +412,7 @@ While a cow, Io's father makes an interesting comment:
 > it is a hurtful thing to be a god,
 > for the gates of death are firmly closed against me,
 > and our sorrows must go on forever."
+> ~ (1.916--9)
 
 Jove can not bear to watch her pain, so he sends Mercury to kill Argus. He tells Argus a tail to make him fall asleep:
 
@@ -506,7 +507,9 @@ Almost all of the stories end with physical transformations. I like how Ovid des
 > this transformation gave her a new name.
 > ~ (2.917--936)
 
-Minerva visits the goddess Envy to have her enact revenge on irreverent follower:
+The story of Mercury stealing Apollo's cattle is also told in the Homeric Hymn to Dionysus. Ovid's version is shorter, and there are differences, but in both there is an old man who betrays the location of the cattle. (In Ovid's version the man is less devout and gives away the location confidentially and with little hesitation). It is intriguing to see the development of the story over several centuries.
+
+Minerva visits the goddess Envy to have her enact revenge on irreverent follower. The description of Envy is, even for Ovid, exceptionally vivid:
 
 > She headed straight to Envy's squalid quarters,
 > black with corruption, hidden deep within
@@ -553,6 +556,105 @@ After Io and Callisto, Jove pursues Europa:
 > to mingle with the other cattle, lowing
 > as gorgeously he strolls in the new grass.
 > ~ (2.1161--1170)
+
+## Book III
+
+After Europa is stolen, her father "in an action bother paternal and perverse" demands that Cadmus, her brother, find her. He decides to flee and found a new city, and goes onto found the city of Thebes in Greece.  Herodotus believed that Cadmus brought the Phoenician alphabet to the Greeks (_The Histories_ 5.58).
+
+A great serpent kills many of Cadmus' men, and so he pursues and kills the serpent. Afterwards, Athena instructs him to sow the serpent's seeds into the ground.
+
+> And then, incredibly, the dull clods stir:
+> at first only the little tips of spears
+> are visible, emerging from the furrows,
+> but these, almost at once are followed by
+> the brightly painted waving crests of helmets
+> then shoulders, breasts, and arms heavy with weapons,
+> and finally a dense-packed mass of shields:
+> no different from what you will have seen
+> on feats days, in the theater, when the curtain
+> lifts from the pit, and the images of men
+> painted upon it seem to rise: heads first,
+> and then the rest of them, little by little,
+> drawn up in one unbroken wave until
+> the tiny figures stand erect onstage,
+> complete in all respects, from head to feet.
+> ~ (3.129--43)
+
+And then these men fight each other until Athena stops them. These so-called sown men (Spartoi) founded Thebes with Cadmus. I think this is the oddest story in the Metamorphoses, and I wonder what significance it had to the ancient Greeks.
+
+> Thebes has been founded now, and even though
+> an exile still, you might seem fortunate
+> in having Mars and Venus as your in-laws,
+> Cadmus; nor is this all, for in addition
+> are offspring worthy of your noble wife,
+> your sons and daughters, the pledges of your love,
+> and grandsons too, already grown to manhood.
+> But "fortunate"? A judgment best reserved
+> for a man's last day: call no one blest, until
+> he dies and the last rites are said for him.
+> ~ (3.163--72)
+
+This reasoning is pervasive in Herodotus.
+
+Actaeon stumbles across the virgin goddess Diana, who spitefully turns him into a stag. He is subsequently torn to pieces by his own pack of hunting dogs. (In the _Epic of Gilgamesh_, when Gilgamesh is rejecting Ishtar's love entreaties, he mentions how she turned a prior lover into a wolf who was then chased by his own hunting dogs.)
+
+Actaeon is caught, and his dogs tear him to pieces.
+
+> And it is said
+> he did not die until his countless wounds
+> had satisfied Diana's awful wrath.
+> Folks were divided: there were those who found
+> the goddess's actions cruel and unjust,
+> while others considered them appropriate
+> to the defense of her austere virginity.
+> As usual, both parties had their reasons.
+> ~ (3.315--22)
+
+Throughout the _Metamorphoses_ Ovid playfully questions the god's morals, as in this quote.
+
+After the Actaeon story, Jove falls for Semele---Cadmus' daughter. Semele becomes pregnant and Juno, to protect her honor, tricks Semele into requesting Jove make love to her the way he does to Juno. Unbeknownst to Semele, this will kill her. Juno takes the form of Semele's nurse.
+
+> A long, inveigling chat of this and that,
+> until Jove's name came up. Nurse sighted and said,
+> "I _hope_ he's Jupiter---although I doubt it:
+> the divinity plea? An all-to-common ploy
+> among seducers. Suppose he is, though:
+> make him provide assurance of his love;
+> if he's the real thing, ask him to put on
+> all of the trappings of his high office
+> and embrace you, showing such almighty splendor
+> as when he is received by Lady Juno."
+> ~ (3.358--67)
+
+(It is difficult to imagine a woman being seduced by a man claiming to be a god.)
+
+After Juno gets her revenge on Semele, her next victim is Tiresias. Tiresias is blinded for agreeing with Jove that women enjoy sex more than men. Tiresias is then blinded by Juno, but Jove (since "one god can't undo another's doing") gives him the gift of prophecy. Jove seems to enjoy thwarting Juno's punishments---consider also the Callisto story.
+
+Tiresias is a recurring character in the Greek tragedies.
+
+Tiresias' first prediction is that Narcissus, if he knows himself, will not live to old age. The meaning of this was unclear, until Narcissus falls in love with himself. Then Tiresias becomes famous.
+
+> "But _now_ I get it! _I_ am that other one!
+> I've finally seen through my own image!
+> I burn with love for---_me_! The spark I kindle
+> is the torch I carry: whatever can I do?
+> Am I the favor-seeker, or the favor sought?
+> "Why seek at all, when all that I desire
+> is mine already? Riches in such abundance
+> that I've been left completely without means!"
+> ~ (3.599-606)
+
+Ovid paints a compelling, yet humorous, picture of obsession with his description of Narcissus' death:
+
+> His last words were directed to the pool:
+> "Alas, dear boy, whom I have vainly cherished!"
+> Those words returned to him again, and when
+> he cried "Farewell!" "_Farewell!_" cried Echo back.
+> His weary head sank to the grass; death closed
+> those eyes transfixed once by their master's beauty,
+> but on the ferry ride across the Styx,
+> his gaze into its current did not waver.
+> ~ (3.643--50)
 
 ## Epistemology
 

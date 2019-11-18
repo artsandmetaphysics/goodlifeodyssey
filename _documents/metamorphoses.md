@@ -22,7 +22,7 @@ The *Metamorphoses* is Ovid’s epic poem about change.
 
 The poem is about 12,000 lines of hexameter verse in Latin, and is split into 15 books. It was first published in 8 AD.
 
-Ovid focuses on telling the many stories using beautiful and light-hearted language.
+Ovid focuses on telling the many stories using beautiful and light-hearted language. His audience was familiar with the stories he tells, so it is his approach to telling the stories that makes them as entertaining as they are.
 
 ## Outline
 
@@ -44,7 +44,7 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
 - Book II
   - Phaëthon’s foolish wish; Apollo attempts to dissuade him
   - Phaëthon’s doomed ride; burning heaven and earth; death
-  - The Heliades, Phaëthon’s sisters, become trees (and their tears amber)
+  - Phaëthon’s sisters become Heliades (and their tears amber)
   - Cycnus turns into a bird as he despairs for Phaëthon
   - Apollo threatens to resign but relents
   - Jove rapes Callisto who births Arcas; turned into constellations
@@ -57,13 +57,13 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
   - Jove becomes a beautiful bull to steal Europa
 - Book III
   - Jove rapes Europa
-  - Cadmus founds Thebes
-  - Actaeon and Diana
-  - Juno, Jove, and Semele
+  - Cadmus kills the dragon; sows the teeth; founds Thebes
+  - Actaeon sees Diana naked; transformed into a stag and is hunted
+  - Juno impregnates Semele; Jove enacts revenge
   - The judgement of Tiresias
-  - Narcissus and Echo
-  - Narcissus
-  - Bacchus and Pentheus
+  - Echo is cursed by Jove; she falls for Narcissus
+  - Narcissus falls for himself and wastes away
+  - King Pentheus rejects Bacchus; his mom and sisters kill him
 - Book IV
   - The daughers of Minyas
   - Pyramus and Thisbe
@@ -421,11 +421,11 @@ Daphne escapes, but Io is less fortunate. After Jove rapes her he turns her into
 
 While a cow, Io’s father makes an interesting comment:
 
-<blockquote>
+<blockquote class="poetry">
 <p>“Nor can I end this suffering by death;</p>
 <p>it is a hurtful thing to be a god,</p>
 <p>for the gates of death are firmly closed against me,</p>
-<p>and our sorrows must go on forever.”</p>
+<p>and our sorrows must go on forever.” <cite>(1.916–9)</cite></p>
 </blockquote>
 
 Jove can not bear to watch her pain, so he sends Mercury to kill Argus. He tells Argus a tail to make him fall asleep:
@@ -527,7 +527,9 @@ Almost all of the stories end with physical transformations. I like how Ovid des
 <p>this transformation gave her a new name. <cite>(2.917–936)</cite></p>
 </blockquote>
 
-Minerva visits the goddess Envy to have her enact revenge on irreverent follower:
+The story of Mercury stealing Apollo’s cattle is also told in the Homeric Hymn to Dionysus. Ovid’s version is shorter, and there are differences, but in both there is an old man who betrays the location of the cattle. (In Ovid’s version the man is less devout and gives away the location confidentially and with little hesitation). It is intriguing to see the development of the story over several centuries.
+
+Minerva visits the goddess Envy to have her enact revenge on irreverent follower. The description of Envy is, even for Ovid, exceptionally vivid:
 
 <blockquote class="poetry">
 <p>She headed straight to Envy’s squalid quarters,</p>
@@ -575,6 +577,111 @@ After Io and Callisto, Jove pursues Europa:
 <p>assuming the appearance of a bull</p>
 <p>to mingle with the other cattle, lowing</p>
 <p>as gorgeously he strolls in the new grass. <cite>(2.1161–1170)</cite></p>
+</blockquote>
+
+## Book III
+
+After Europa is stolen, her father “in an action bother paternal and perverse” demands that Cadmus, her brother, find her. He decides to flee and found a new city, and goes onto found the city of Thebes in Greece.  Herodotus believed that Cadmus brought the Phoenician alphabet to the Greeks (_The Histories_ 5.58).
+
+A great serpent kills many of Cadmus’ men, and so he pursues and kills the serpent. Afterwards, Athena instructs him to sow the serpent’s seeds into the ground.
+
+<blockquote class="poetry">
+<p>And then, incredibly, the dull clods stir:</p>
+<p>at first only the little tips of spears</p>
+<p>are visible, emerging from the furrows,</p>
+<p>but these, almost at once are followed by</p>
+<p>the brightly painted waving crests of helmets</p>
+<p>then shoulders, breasts, and arms heavy with weapons,</p>
+<p>and finally a dense-packed mass of shields:</p>
+<p>no different from what you will have seen</p>
+<p>on feats days, in the theater, when the curtain</p>
+<p>lifts from the pit, and the images of men</p>
+<p>painted upon it seem to rise: heads first,</p>
+<p>and then the rest of them, little by little,</p>
+<p>drawn up in one unbroken wave until</p>
+<p>the tiny figures stand erect onstage,</p>
+<p>complete in all respects, from head to feet. <cite>(3.129–43)</cite></p>
+</blockquote>
+
+And then these men fight each other until Athena stops them. These so-called sown men (Spartoi) founded Thebes with Cadmus. I think this is the oddest story in the Metamorphoses, and I wonder what significance it had to the ancient Greeks.
+
+<blockquote class="poetry">
+<p>Thebes has been founded now, and even though</p>
+<p>an exile still, you might seem fortunate</p>
+<p>in having Mars and Venus as your in-laws,</p>
+<p>Cadmus; nor is this all, for in addition</p>
+<p>are offspring worthy of your noble wife,</p>
+<p>your sons and daughters, the pledges of your love,</p>
+<p>and grandsons too, already grown to manhood.</p>
+<p>But “fortunate”? A judgment best reserved</p>
+<p>for a man’s last day: call no one blest, until</p>
+<p>he dies and the last rites are said for him. <cite>(3.163–72)</cite></p>
+</blockquote>
+
+This reasoning is pervasive in Herodotus.
+
+Actaeon stumbles across the virgin goddess Diana, who spitefully turns him into a stag. He is subsequently torn to pieces by his own pack of hunting dogs. (In the _Epic of Gilgamesh_, when Gilgamesh is rejecting Ishtar’s love entreaties, he mentions how she turned a prior lover into a wolf who was then chased by his own hunting dogs.)
+
+Actaeon is caught, and his dogs tear him to pieces.
+
+<blockquote class="poetry">
+<p>And it is said</p>
+<p>he did not die until his countless wounds</p>
+<p>had satisfied Diana’s awful wrath.</p>
+<p>Folks were divided: there were those who found</p>
+<p>the goddess’s actions cruel and unjust,</p>
+<p>while others considered them appropriate</p>
+<p>to the defense of her austere virginity.</p>
+<p>As usual, both parties had their reasons. <cite>(3.315–22)</cite></p>
+</blockquote>
+
+Throughout the _Metamorphoses_ Ovid playfully questions the god’s morals, as in this quote.
+
+After the Actaeon story, Jove falls for Semele—Cadmus’ daughter. Semele becomes pregnant and Juno, to protect her honor, tricks Semele into requesting Jove make love to her the way he does to Juno. Unbeknownst to Semele, this will kill her. Juno takes the form of Semele’s nurse.
+
+<blockquote class="poetry">
+<p>A long, inveigling chat of this and that,</p>
+<p>until Jove’s name came up. Nurse sighted and said,</p>
+<p>“I _hope_ he’s Jupiter—although I doubt it:</p>
+<p>the divinity plea? An all-to-common ploy</p>
+<p>among seducers. Suppose he is, though:</p>
+<p>make him provide assurance of his love;</p>
+<p>if he’s the real thing, ask him to put on</p>
+<p>all of the trappings of his high office</p>
+<p>and embrace you, showing such almighty splendor</p>
+<p>as when he is received by Lady Juno.” <cite>(3.358–67)</cite></p>
+</blockquote>
+
+(It is difficult to imagine a woman being seduced by a man claiming to be a god.)
+
+After Juno gets her revenge on Semele, her next victim is Tiresias. Tiresias is blinded for agreeing with Jove that women enjoy sex more than men. Tiresias is then blinded by Juno, but Jove (since “one god can’t undo another’s doing”) gives him the gift of prophecy. Jove seems to enjoy thwarting Juno’s punishments—consider also the Callisto story.
+
+Tiresias is a recurring character in the Greek tragedies.
+
+Tiresias’ first prediction is that Narcissus, if he knows himself, will not live to old age. The meaning of this was unclear, until Narcissus falls in love with himself. Then Tiresias becomes famous.
+
+<blockquote class="poetry">
+<p>“But _now_ I get it! _I_ am that other one!</p>
+<p>I’ve finally seen through my own image!</p>
+<p>I burn with love for—_me_! The spark I kindle</p>
+<p>is the torch I carry: whatever can I do?</p>
+<p>Am I the favor-seeker, or the favor sought?</p>
+<p>“Why seek at all, when all that I desire</p>
+<p>is mine already? Riches in such abundance</p>
+<p>that I’ve been left completely without means!” <cite>(3.599-606)</cite></p>
+</blockquote>
+
+Ovid paints a compelling, yet humorous, picture of obsession with his description of Narcissus’ death:
+
+<blockquote class="poetry">
+<p>His last words were directed to the pool:</p>
+<p>“Alas, dear boy, whom I have vainly cherished!”</p>
+<p>Those words returned to him again, and when</p>
+<p>he cried “Farewell!” “_Farewell!_” cried Echo back.</p>
+<p>His weary head sank to the grass; death closed</p>
+<p>those eyes transfixed once by their master’s beauty,</p>
+<p>but on the ferry ride across the Styx,</p>
+<p>his gaze into its current did not waver. <cite>(3.643–50)</cite></p>
 </blockquote>
 
 ## Epistemology
