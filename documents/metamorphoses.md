@@ -58,7 +58,7 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
   - Jove rapes Europa
   - Cadmus kills the dragon; sows the teeth; founds Thebes
   - Actaeon sees Diana naked; transformed into a stag and is hunted
-  - Juno impregnates Semele; Jove enacts revenge
+  - Jove impregnates Semele; Juno enacts revenge
   - The judgement of Tiresias
   - Echo is cursed by Jove; she falls for Narcissus
   - Narcissus falls for himself and wastes away
@@ -66,16 +66,17 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
   - Acoetes's story about Bacchus on the boat
   - Pentheus' mom and sisters kill him in a frenzy
 - Book IV
-  - The daughers of Minyas
-  - Pyramus and Thisbe
-  - Mars and Venus
-  - The Sun and Leucothoë
-  - The foundtain of Salmacis
+  - The daughers of Minyas refuse to worship Bacchus
+    - Pyramus and Thisbe's accidental suicide
+    - Mars and Venus are caught in infidelity
+    - Venus's revenge against the Sun (via Leucothoë)
+    - The fountain of Salmacis and Hermaphrodite
   - The daughters of Minyas transformed
-  - Cadmus and Harmonia
-  - Perseus and Atlas
-  - Perseus and Andromeda
-  - Perseus and Medusa
+  - Juno in Hades; revenge against Ino and Athamas (and Seleme)
+  - Cadmus and Harmonia despair and become snakes
+  - Perseus turns Atlas into a mountain
+  - Perseus saves Andromeda from the water monster
+  - Perseus recalls Medusa's demise
 - Book V
   - Persues and the suitors
   - Minerva visits the Muses
@@ -659,6 +660,129 @@ Ovid paints a compelling, yet humorous, picture of obsession with his descriptio
 > ~ (3.643--50)
 
 Acoetes' story is similar to the seventh Homeric Hymn to Dionysus.
+
+## Book IV
+
+Most of Book IV is a sequence of stories told by the Minyas daughters, who refuse to join Bacchus' festival.
+
+The first of their stories, of the suicide of Pyramus and Thisbe, is the original inspiration that lead Shakespeare's Romeo and Juliet (with a few other versions in between). Pyramus' suicide is described with an epic simile:
+
+> "He carries Thisbe's cloak to the tree of their pact,
+> and presses tears and kisses on the fabric.
+> 'Drink *my* blood now,' he says, drawing his sword,
+> and thrusting it at once in his own guts:
+> a fatal blow; dying, he draws the blade
+> out of his burning wound, and his lifeblood
+> follows it, jetting high into the air,
+> as he lies on his back upon the ground.
+> It was as when a water pipe is ruptured
+> where the lead has rotted, and it springs a leak:
+> a column of water goes hissing through the hole
+> and parts the air with its pulsating thrusts;
+> splashed with his gore, the tree's pale fruit grow dark;
+> blood soaks its roots and surges up to dye
+> the hanging berries purple with its color."
+> ~ (4.164--78)
+
+The two lovers planned to meet at the tomb of Ninus, who was the king of Assyria and husband of Semiramis. Semiramis was a legendary queen of Assyria. She is often associated with the historical queen Sammurāmat who ruled from 811 - 808 BC.
+
+The story of Hermaphroditus is a rare example of a woman (sort of) raping a man. The description includes a progression of similes:
+
+> "'I've won, the boy is mine!'
+> the nymph cries out, and tearing off her clothing,
+> she dives into the middle of the pool,
+> and though he fights her, holds him in her clutches,
+> seizing the kisses he is loath to yield;
+> her hands surprise him, coming from below,
+> caressing that reluctant breast of his---
+> although he strives to tear himself away,
+> the nymph---now here, now there---surrounds her prey,
+> just as the serpent wraps herself around
+> the eagle when he grasps her in his talons
+> and takes her up: dangling from his claws,
+> she twines herself between his head and feet
+> and with her tail, immobilizes him;
+> or just as ivy winds around a tree,
+> and as the octopus beneath the sea
+> securely binds the prey that it has captured
+> with tentacles sent out in all directions;
+> yet still the boy denies the nymph her bliss'"
+> ~ (4.490--507)
+
+A description of the underworld:
+
+> There are a thousand ways into this city,
+> and open gates on all sides; as the ocean
+> receives the rivers from around the world,
+> so this place gathers in all mortal souls,
+> and never fills, however many come.
+> Here bloodless, boneless, bodiless shades stray:
+> some make their way to the forum; others seek
+> the palace of the ruler of the dead,
+> or take up once again the crafts they lived by.
+> ~ (4.603--11)
+
+Juno's frustrated jealous rage fills much of the first four books of Ovid. She eventually drives Cadmus and Harmonia into ruin. Although Juno caused much of their suffering, the story of their transformation (which has may favourite imagery in the book) implies that it was Cadmus' killing of the serpent that lead to his woes:
+
+> "Was it a sacred serpent that I speared,"
+> asked Cadmus, "when, newly come from Sidon,
+> I sprinkled the viper's teeth upon the ground,
+> and seeded a new crop of human beings?
+> If that is what the gods have been avenging
+> by their unwavering wrath for all these years,
+> why then, I pray that I might be extended
+> into a serpent with a gut-like shape---"
+> And as he said it he became a serpent
+> with a gut-like shape. At once he felt the scales
+> begin to grow out on his thickened skin,
+> and his dark body lighten up with patches
+> of iridescent blue; he fell upon his breast,
+> and his two legs were blended into one,
+> which, gradually lengthening, became
+> an elegant and sharply pointed tail.
+> His arms remained unchanged; he held them out,
+> and as the tears coursed down his cheeks (which were
+> still---for the moment---human), he exclaimed,
+> "Come closer to me, O most wretched wife,
+> and while there is still something left of me,
+> before I am entirely transformed
+> to serpent, touch me, take these hands in yours!"
+> He would have said much more, but suddenly
+> the tip of his tongue divided into two,
+> and words no longer would obey his wishes,
+> so that whenever he tried to complain
+> or grieve, he hissed, and could not manage more,
+> for he had been left with no other voice.
+> Now striking her bare breast, his wife cries out,
+> "Cadmus! Stay as you are! Put off these strange
+> shapes now possessing you, unfortunate man!
+> Cadmus, what's happening? Where are your feet?
+> Your face? Complexion? Even as I speak,
+> where is the rest of you! Heavenly beings,
+> will you not also turn me to a snake?"
+> The creature's tongue flicked lightly over her lips,
+> and he slipped in between her cherished breasts
+> as though he were familiar with the place,
+> embraced her, and slid right around her neck.
+> Those of his companions who were present
+> were horrified, but she just calmly stroked
+> the smooth, sleek neck of the crested dragon,
+> and at once there were two serpents intertwined,
+> who presently went crawling off and found
+> a hiding place within a nearby grove.
+> ~ (4.779--824)
+
+Perseus turns Atlas into a mountain:
+
+> Atlas became a mountain just as large
+> as the man had been. His hair and beard became
+> a forest, and his arms and shoulders turned
+> into adjacent ridges; his head was now
+> the mountain's summit and his bones were rock.
+> Each part grew to extraordinary size
+> (as you immortals had ordained), until
+> the weight of heaven rested on his shoulders.
+> ~ (4.899--907)
 
 ## Epistemology
 

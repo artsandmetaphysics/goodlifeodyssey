@@ -59,7 +59,7 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
   - Jove rapes Europa
   - Cadmus kills the dragon; sows the teeth; founds Thebes
   - Actaeon sees Diana naked; transformed into a stag and is hunted
-  - Juno impregnates Semele; Jove enacts revenge
+  - Jove impregnates Semele; Juno enacts revenge
   - The judgement of Tiresias
   - Echo is cursed by Jove; she falls for Narcissus
   - Narcissus falls for himself and wastes away
@@ -67,16 +67,17 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
   - Acoetes’s story about Bacchus on the boat
   - Pentheus’ mom and sisters kill him in a frenzy
 - Book IV
-  - The daughers of Minyas
-  - Pyramus and Thisbe
-  - Mars and Venus
-  - The Sun and Leucothoë
-  - The foundtain of Salmacis
+  - The daughers of Minyas refuse to worship Bacchus
+    - Pyramus and Thisbe’s accidental suicide
+    - Mars and Venus are caught in infidelity
+    - Venus’s revenge against the Sun (via Leucothoë)
+    - The fountain of Salmacis and Hermaphrodite
   - The daughters of Minyas transformed
-  - Cadmus and Harmonia
-  - Perseus and Atlas
-  - Perseus and Andromeda
-  - Perseus and Medusa
+  - Juno in Hades; revenge against Ino and Athamas (and Seleme)
+  - Cadmus and Harmonia despair and become snakes
+  - Perseus turns Atlas into a mountain
+  - Perseus saves Andromeda from the water monster
+  - Perseus recalls Medusa’s demise
 - Book V
   - Persues and the suitors
   - Minerva visits the Muses
@@ -687,6 +688,134 @@ Ovid paints a compelling, yet humorous, picture of obsession with his descriptio
 </blockquote>
 
 Acoetes’ story is similar to the seventh Homeric Hymn to Dionysus.
+
+## Book IV
+
+Most of Book IV is a sequence of stories told by the Minyas daughters, who refuse to join Bacchus’ festival.
+
+The first of their stories, of the suicide of Pyramus and Thisbe, is the original inspiration that lead Shakespeare’s Romeo and Juliet (with a few other versions in between). Pyramus’ suicide is described with an epic simile:
+
+<blockquote class="poetry">
+<p>“He carries Thisbe’s cloak to the tree of their pact,</p>
+<p>and presses tears and kisses on the fabric.</p>
+<p>‘Drink <em>my</em> blood now,’ he says, drawing his sword,</p>
+<p>and thrusting it at once in his own guts:</p>
+<p>a fatal blow; dying, he draws the blade</p>
+<p>out of his burning wound, and his lifeblood</p>
+<p>follows it, jetting high into the air,</p>
+<p>as he lies on his back upon the ground.</p>
+<p>It was as when a water pipe is ruptured</p>
+<p>where the lead has rotted, and it springs a leak:</p>
+<p>a column of water goes hissing through the hole</p>
+<p>and parts the air with its pulsating thrusts;</p>
+<p>splashed with his gore, the tree’s pale fruit grow dark;</p>
+<p>blood soaks its roots and surges up to dye</p>
+<p>the hanging berries purple with its color.” <cite>(4.164–78)</cite></p>
+</blockquote>
+
+The two lovers planned to meet at the tomb of Ninus, who was the king of Assyria and husband of Semiramis. Semiramis was a legendary queen of Assyria. She is often associated with the historical queen Sammurāmat who ruled from 811 - 808 BC.
+
+The story of Hermaphroditus is a rare example of a woman (sort of) raping a man. The description includes a progression of similes:
+
+<blockquote class="poetry">
+<p>“‘I’ve won, the boy is mine!’</p>
+<p>the nymph cries out, and tearing off her clothing,</p>
+<p>she dives into the middle of the pool,</p>
+<p>and though he fights her, holds him in her clutches,</p>
+<p>seizing the kisses he is loath to yield;</p>
+<p>her hands surprise him, coming from below,</p>
+<p>caressing that reluctant breast of his—</p>
+<p>although he strives to tear himself away,</p>
+<p>the nymph—now here, now there—surrounds her prey,</p>
+<p>just as the serpent wraps herself around</p>
+<p>the eagle when he grasps her in his talons</p>
+<p>and takes her up: dangling from his claws,</p>
+<p>she twines herself between his head and feet</p>
+<p>and with her tail, immobilizes him;</p>
+<p>or just as ivy winds around a tree,</p>
+<p>and as the octopus beneath the sea</p>
+<p>securely binds the prey that it has captured</p>
+<p>with tentacles sent out in all directions;</p>
+<p>yet still the boy denies the nymph her bliss’” <cite>(4.490–507)</cite></p>
+</blockquote>
+
+A description of the underworld:
+
+<blockquote class="poetry">
+<p>There are a thousand ways into this city,</p>
+<p>and open gates on all sides; as the ocean</p>
+<p>receives the rivers from around the world,</p>
+<p>so this place gathers in all mortal souls,</p>
+<p>and never fills, however many come.</p>
+<p>Here bloodless, boneless, bodiless shades stray:</p>
+<p>some make their way to the forum; others seek</p>
+<p>the palace of the ruler of the dead,</p>
+<p>or take up once again the crafts they lived by. <cite>(4.603–11)</cite></p>
+</blockquote>
+
+Juno’s frustrated jealous rage fills much of the first four books of Ovid. She eventually drives Cadmus and Harmonia into ruin. Although Juno caused much of their suffering, the story of their transformation (which has may favourite imagery in the book) implies that it was Cadmus’ killing of the serpent that lead to his woes:
+
+<blockquote class="poetry">
+<p>“Was it a sacred serpent that I speared,”</p>
+<p>asked Cadmus, “when, newly come from Sidon,</p>
+<p>I sprinkled the viper’s teeth upon the ground,</p>
+<p>and seeded a new crop of human beings?</p>
+<p>If that is what the gods have been avenging</p>
+<p>by their unwavering wrath for all these years,</p>
+<p>why then, I pray that I might be extended</p>
+<p>into a serpent with a gut-like shape—”</p>
+<p>And as he said it he became a serpent</p>
+<p>with a gut-like shape. At once he felt the scales</p>
+<p>begin to grow out on his thickened skin,</p>
+<p>and his dark body lighten up with patches</p>
+<p>of iridescent blue; he fell upon his breast,</p>
+<p>and his two legs were blended into one,</p>
+<p>which, gradually lengthening, became</p>
+<p>an elegant and sharply pointed tail.</p>
+<p>His arms remained unchanged; he held them out,</p>
+<p>and as the tears coursed down his cheeks (which were</p>
+<p>still—for the moment—human), he exclaimed,</p>
+<p>“Come closer to me, O most wretched wife,</p>
+<p>and while there is still something left of me,</p>
+<p>before I am entirely transformed</p>
+<p>to serpent, touch me, take these hands in yours!”</p>
+<p>He would have said much more, but suddenly</p>
+<p>the tip of his tongue divided into two,</p>
+<p>and words no longer would obey his wishes,</p>
+<p>so that whenever he tried to complain</p>
+<p>or grieve, he hissed, and could not manage more,</p>
+<p>for he had been left with no other voice.</p>
+<p>Now striking her bare breast, his wife cries out,</p>
+<p>“Cadmus! Stay as you are! Put off these strange</p>
+<p>shapes now possessing you, unfortunate man!</p>
+<p>Cadmus, what’s happening? Where are your feet?</p>
+<p>Your face? Complexion? Even as I speak,</p>
+<p>where is the rest of you! Heavenly beings,</p>
+<p>will you not also turn me to a snake?”</p>
+<p>The creature’s tongue flicked lightly over her lips,</p>
+<p>and he slipped in between her cherished breasts</p>
+<p>as though he were familiar with the place,</p>
+<p>embraced her, and slid right around her neck.</p>
+<p>Those of his companions who were present</p>
+<p>were horrified, but she just calmly stroked</p>
+<p>the smooth, sleek neck of the crested dragon,</p>
+<p>and at once there were two serpents intertwined,</p>
+<p>who presently went crawling off and found</p>
+<p>a hiding place within a nearby grove. <cite>(4.779–824)</cite></p>
+</blockquote>
+
+Perseus turns Atlas into a mountain:
+
+<blockquote class="poetry">
+<p>Atlas became a mountain just as large</p>
+<p>as the man had been. His hair and beard became</p>
+<p>a forest, and his arms and shoulders turned</p>
+<p>into adjacent ridges; his head was now</p>
+<p>the mountain’s summit and his bones were rock.</p>
+<p>Each part grew to extraordinary size</p>
+<p>(as you immortals had ordained), until</p>
+<p>the weight of heaven rested on his shoulders. <cite>(4.899–907)</cite></p>
+</blockquote>
 
 ## Epistemology
 
