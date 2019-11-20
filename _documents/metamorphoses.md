@@ -79,18 +79,18 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
   - Perseus saves Andromeda from the water monster
   - Perseus recalls Medusa’s demise
 - Book V
-  - Persues and the suitors
+  - Persues slaughters the suitors
   - Minerva visits the Muses
-  - The daughters of Pierus
-  - Calliope’s hymn to Ceres: Proem
-  - The rape of Prserpina
-  - Stellio
-  - Ascalphus
-  - The daughters of Acheloüs
-  - Prosperina transformed
-  - Arethusa’s tale
-  - Triptolemus and Lyncus
-  - The P-Airides
+    - The daughters of Pierus challenge the Muses
+      - The rape and kidnap of Proserpina
+      - Stellio is turned into a small lizard
+      - Ceres searches; Arethusa helps; Appeal to Jove
+      - Ascalphus spots Prserpina eating the pomegranate
+      - The daughters of Acheloüs transformed into sirens
+      - Prosperina’s year divided between husband and mother
+        - Arethusa’s recounts Alpheus’ pursuit; becomes a fountain
+      - Triptolemus scatters seeds; Lyncus of Scythia rejects them
+    - The daughters of Pierus transformed into birds
 - Book VI
   - Arachne
   - Niobe
@@ -912,6 +912,14 @@ He openly questions the plausibility of the stories:
 <p>and—this part is scarcely credible—was sewn</p>
 <p>into his father’s thigh, where he was brought to term. <cite>(3.400-2)</cite></p>
 </blockquote>
+
+## Structure
+
+The _Metamorphoses_’ Stories flow together roughly following time, but not completely. For example, Atlas is said to be carrying the world on his shoulders in book II but does not receive his burden until book IV, and Hercules’ apotheosis occurs in book IX but he is present during the sack of Troy in book XI.
+
+Stories are often grouped together by family (the Cadmus stories in books III and IV) or by region (the Anatolian stories in book VI).
+
+Nested stories at two or three levels are common (on occasion, as with the Arethusa and Alpheus in book V, four levels are present).
 
 ## Similes
 
