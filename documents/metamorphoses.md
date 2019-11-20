@@ -784,6 +784,47 @@ Perseus turns Atlas into a mountain:
 > the weight of heaven rested on his shoulders.
 > ~ (4.899--907)
 
+## Book V
+
+Perseus slays many men at his wedding to Andromeda, when her prior betrothed casts a spear at him. The scene seems to contrast and slyly tease Homer's epic death scenes. One of my favourite is:
+
+> Pedasus, grinning,
+> saw how he kept himself and his instrument
+> out of harm's way, and shouted to him, "Sing
+> the remainder of your song to the shades below,"
+> lodging his shaft above the bard's left eye;
+> and as he fell, his dying fingers struck
+> the lyre's strings, and on that plaintive note
+> the poet and his song came to an end.
+> ~ (5.165--71)
+
+After describing dying men, one after another, Ovid says:
+
+> It really would take far too long to name
+> the ordinary soldiers
+> ~ (5.296--7)
+
+Minerva visits the nine muses, who tell of the nine sisters who challenged their supremacy and of the contest between them, and retell the story by which they won the contest. As part of this story, Venus makes the following comment:
+
+> "'"My son [Cupid], my sword, my strong right arm and source of my power,
+> take up that weapon by which all your victims are vanquished
+> and send your swift arrows into the breast of the deity
+> to whom the last part of the threefold realm was allotted.
+> You govern the gods and their ruler; you rule the defeated
+> gods of the ocean and govern the one who rules them, too;
+> why give up on the dead, when we can extend our empire
+> into their realm? A third part of the world is involved here!
+> And yet the celestial gods spurn our forbearance,
+> and the prestige of Love is diminished, even as mine is.
+> Do you not see how Athena and huntress Diana
+> have both taken leave of me? The virgin daughter of Ceres
+> desires to do likewise---and will, if we let her!
+> But if you take pride in our alliance, advance it
+> by joining her to her uncle!"'"
+> ~ (5.531--46)
+
+Venus' impulse leads to the rape of Persephone and (so they say) the rotation of the seasons.
+
 ## Epistemology
 
 Ovid does not appear to take the myths he is telling seriously. Throughout the poem, he inserts comic asides. Here I present a few illustrative examples.
@@ -823,6 +864,13 @@ In other places, he speculates about the gods motives:
 > Clymene, moved by Phaêthon's petition
 > (or by the insult to her own good name),
 > ~ (1.1055--64)
+
+He openly questions the plausibility of the stories:
+
+> Her [Semele's] child was torn out of her womb unfinished
+> and---this part is scarcely credible---was sewn
+> into his father's thigh, where he was brought to term.
+> ~ (3.400-2)
 
 ## Similes
 

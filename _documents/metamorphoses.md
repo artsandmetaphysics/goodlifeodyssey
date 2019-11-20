@@ -817,6 +817,50 @@ Perseus turns Atlas into a mountain:
 <p>the weight of heaven rested on his shoulders. <cite>(4.899–907)</cite></p>
 </blockquote>
 
+## Book V
+
+Perseus slays many men at his wedding to Andromeda, when her prior betrothed casts a spear at him. The scene seems to contrast and slyly tease Homer’s epic death scenes. One of my favourite is:
+
+<blockquote class="poetry">
+<p>Pedasus, grinning,</p>
+<p>saw how he kept himself and his instrument</p>
+<p>out of harm’s way, and shouted to him, “Sing</p>
+<p>the remainder of your song to the shades below,”</p>
+<p>lodging his shaft above the bard’s left eye;</p>
+<p>and as he fell, his dying fingers struck</p>
+<p>the lyre’s strings, and on that plaintive note</p>
+<p>the poet and his song came to an end. <cite>(5.165–71)</cite></p>
+</blockquote>
+
+After describing dying men, one after another, Ovid says:
+
+<blockquote class="poetry">
+<p>It really would take far too long to name</p>
+<p>the ordinary soldiers <cite>(5.296–7)</cite></p>
+</blockquote>
+
+Minerva visits the nine muses, who tell of the nine sisters who challenged their supremacy and of the contest between them, and retell the story by which they won the contest. As part of this story, Venus makes the following comment:
+
+<blockquote class="poetry">
+<p>“‘“My son [Cupid], my sword, my strong right arm and source of my power,</p>
+<p>take up that weapon by which all your victims are vanquished</p>
+<p>and send your swift arrows into the breast of the deity</p>
+<p>to whom the last part of the threefold realm was allotted.</p>
+<p>You govern the gods and their ruler; you rule the defeated</p>
+<p>gods of the ocean and govern the one who rules them, too;</p>
+<p>why give up on the dead, when we can extend our empire</p>
+<p>into their realm? A third part of the world is involved here!</p>
+<p>And yet the celestial gods spurn our forbearance,</p>
+<p>and the prestige of Love is diminished, even as mine is.</p>
+<p>Do you not see how Athena and huntress Diana</p>
+<p>have both taken leave of me? The virgin daughter of Ceres</p>
+<p>desires to do likewise—and will, if we let her!</p>
+<p>But if you take pride in our alliance, advance it</p>
+<p>by joining her to her uncle!”‘“ <cite>(5.531–46)</cite></p>
+</blockquote>
+
+Venus’ impulse leads to the rape of Persephone and (so they say) the rotation of the seasons.
+
 ## Epistemology
 
 Ovid does not appear to take the myths he is telling seriously. Throughout the poem, he inserts comic asides. Here I present a few illustrative examples.
@@ -859,6 +903,14 @@ In other places, he speculates about the gods motives:
 <p>to give him proof of who his father was.</p>
 <p>Clymene, moved by Phaêthon’s petition</p>
 <p>(or by the insult to her own good name), <cite>(1.1055–64)</cite></p>
+</blockquote>
+
+He openly questions the plausibility of the stories:
+
+<blockquote class="poetry">
+<p>Her [Semele’s] child was torn out of her womb unfinished</p>
+<p>and—this part is scarcely credible—was sewn</p>
+<p>into his father’s thigh, where he was brought to term. <cite>(3.400-2)</cite></p>
 </blockquote>
 
 ## Similes
