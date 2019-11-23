@@ -92,13 +92,13 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
       - Triptolemus scatters seeds; Lyncus of Scythia rejects them
     - The daughters of Pierus transformed into birds
 - Book VI
-  - Arachne
-  - Niobe
-  - Latona
-  - Marsyas
-  - Pelops
-  - Tereus, Procne, and Philomela
-  - Boreas and Orithya
+  - Arachne brags and beats Minerva, but is turned into a spider
+  - Niobe brags and her seven sons then daughters are slayed
+  - Latona births on Delos; turns unreasonable peasants to frogs
+  - Marsyas is stripped
+  - Pelops’s ivory chip
+  - Tereus marries Procne, rapes her sister Philomela, eats his son
+  - Boreas steals Orithya as his bride
 - Book VII
   - Medea and Jason
   - Medea and Aeson
@@ -861,6 +861,78 @@ Minerva visits the nine muses, who tell of the nine sisters who challenged their
 
 Venus’ impulse leads to the rape of Persephone and (so they say) the rotation of the seasons.
 
+## Book VI
+
+This book continues the theme of divine revenge:
+
+<blockquote>
+<p>“To praise is insufficient,” she [Minerva] reflected;</p>
+<p>“we will be praised—and we will not permit</p>
+<p>those who belittle our divinity</p>
+<p>to go unpunished!”</p>
+<p>(6.4–7)</p>
+</blockquote>
+
+Minerva contests the Arachne—an expert weaver. Although she loses, she turns her competitor into a spider.
+
+This simile from their contest is superb:
+
+<blockquote class="poetry">
+<p>Into their fabrics they weave purple threads</p>
+<p>of Tyrian dye, and place beside them shades</p>
+<p>that lighten imperceptibly from these;</p>
+<p>as when a storm ends and the sun comes out,</p>
+<p>a rainbow’s arch illuminates the sky;</p>
+<p>although a thousand colors shine in it,</p>
+<p>they eye cannot say where one color ends</p>
+<p>and another starts, so gradual the verging;</p>
+<p>there in the middle, the colors look the same,</p>
+<p>while, at the edges, they seem different. <cite>(6.87–96)</cite></p>
+</blockquote>
+
+The brief stories of Marsyas the Satyr and Pelops (Tantalus’ son) feel undeveloped and seem to be included because merely due the transformations involved.
+
+The story of Tereus, the marauder from Thrace, and the Athenian sister-princesses, Procne and Philomela, is disturbing. Procne is given in marriage to Tereus, to prevent the defeat of Athens. After a few years, she asks her wicked husband to retrieve her sister—but he lusts after her:
+
+<blockquote class="poetry">
+<p>And now delay was unendurable:</p>
+<p>he eagerly repeated Procne’s speech,</p>
+<p>and raised his own desires under hers.</p>
+<p>Love lent him eloquence, and when he seemed</p>
+<p>to go beyond the mandate he’d been given,</p>
+<p>he said that this was merely Procne’s wish,</p>
+<p>and added tears, as though they too were part</p>
+<p>of his commission. By the gods above,</p>
+<p>what utter blindness dwells in human hearts!</p>
+<p>Here Tereus achieves a reputation</p>
+<p>for piety while plotting wickedness,</p>
+<p>and criminal behavior wins him praise! <cite>(6.669–80)</cite></p>
+</blockquote>
+
+After trapping Philomela in a house in the woods and raping her, she cries:
+
+<blockquote class="poetry">
+<p>“Nevertheless, if the gods are watching this,</p>
+<p>if heavenly power means anything at all,</p>
+<p>if, with my honor, all has not been lost,</p>
+<p>somehow or other I will punish you;</p>
+<p>I’ll cast aside my modesty and speak</p>
+<p>of what you’ve done; if I escape this place,</p>
+<p>I’ll go among the people with my tale;</p>
+<p>imprisoned here, my voice will fill the trees</p>
+<p>and wring great sobs of grief from senseless rocks!</p>
+<p>Heaven will hear me, and what gods there are,</p>
+<p>_if_ there are any gods in all of heaven!”</p>
+<p>Such words provoke the savage tyrant’s wrath</p>
+<p>and fear in equal measure <cite>(6.781–792)</cite></p>
+</blockquote>
+
+He proceeds to cut out her tongue.
+
+## Book VII
+
+
+
 ## Epistemology
 
 Ovid does not appear to take the myths he is telling seriously. Throughout the poem, he inserts comic asides. Here I present a few illustrative examples.
@@ -979,6 +1051,14 @@ Towards the end of Book I, Clymenes tells her son that:
 <blockquote class="poetry">
 <p>“It will not be a great task to discover</p>
 <p>the place where your father [Apollo] keeps his household gods.” <cite>(1.1074–5)</cite></p>
+</blockquote>
+
+Procne carries of her son Itys, to murder him and feed him to her evil husband:
+
+<blockquote class="poetry">
+<p>Now resolute, she carries Itys off,</p>
+<p>just as a tiger on the Ganges’ banks</p>
+<p>will drag a nursing fawn through the dense woods <cite>(6.922-4)</cite></p>
 </blockquote>
 
 *All quotations are taken from Charles Martin’s 2004 translation. Line numbers refer to the translation and not the original Latin.*

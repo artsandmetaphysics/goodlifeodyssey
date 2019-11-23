@@ -91,13 +91,13 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
       - Triptolemus scatters seeds; Lyncus of Scythia rejects them
     - The daughters of Pierus transformed into birds
 - Book VI
-  - Arachne
-  - Niobe
-  - Latona
-  - Marsyas
-  - Pelops
-  - Tereus, Procne, and Philomela
-  - Boreas and Orithya
+  - Arachne brags and beats Minerva, but is turned into a spider
+  - Niobe brags and her seven sons then daughters are slayed
+  - Latona births on Delos; turns unreasonable peasants to frogs
+  - Marsyas is stripped
+  - Pelops's ivory chip
+  - Tereus marries Procne, rapes her sister Philomela, eats his son
+  - Boreas steals Orithya as his bride
 - Book VII
   - Medea and Jason
   - Medea and Aeson
@@ -825,6 +825,73 @@ Minerva visits the nine muses, who tell of the nine sisters who challenged their
 
 Venus' impulse leads to the rape of Persephone and (so they say) the rotation of the seasons.
 
+## Book VI
+
+This book continues the theme of divine revenge:
+
+> "To praise is insufficient," she [Minerva] reflected;
+> "we will be praised---and we will not permit
+> those who belittle our divinity
+> to go unpunished!"
+> (6.4--7)
+
+Minerva contests the Arachne---an expert weaver. Although she loses, she turns her competitor into a spider.
+
+This simile from their contest is superb:
+
+> Into their fabrics they weave purple threads
+> of Tyrian dye, and place beside them shades
+> that lighten imperceptibly from these;
+> as when a storm ends and the sun comes out,
+> a rainbow's arch illuminates the sky;
+> although a thousand colors shine in it,
+> they eye cannot say where one color ends
+> and another starts, so gradual the verging;
+> there in the middle, the colors look the same,
+> while, at the edges, they seem different.
+> ~ (6.87--96)
+
+The brief stories of Marsyas the Satyr and Pelops (Tantalus' son) feel undeveloped and seem to be included because merely due the transformations involved.
+
+The story of Tereus, the marauder from Thrace, and the Athenian sister-princesses, Procne and Philomela, is disturbing. Procne is given in marriage to Tereus, to prevent the defeat of Athens. After a few years, she asks her wicked husband to retrieve her sister---but he lusts after her:
+
+> And now delay was unendurable:
+> he eagerly repeated Procne's speech,
+> and raised his own desires under hers.
+> Love lent him eloquence, and when he seemed
+> to go beyond the mandate he'd been given,
+> he said that this was merely Procne's wish,
+> and added tears, as though they too were part
+> of his commission. By the gods above,
+> what utter blindness dwells in human hearts!
+> Here Tereus achieves a reputation
+> for piety while plotting wickedness,
+> and criminal behavior wins him praise!
+> ~ (6.669--80)
+
+After trapping Philomela in a house in the woods and raping her, she cries:
+
+> "Nevertheless, if the gods are watching this,
+> if heavenly power means anything at all,
+> if, with my honor, all has not been lost,
+> somehow or other I will punish you;
+> I'll cast aside my modesty and speak
+> of what you've done; if I escape this place,
+> I'll go among the people with my tale;
+> imprisoned here, my voice will fill the trees
+> and wring great sobs of grief from senseless rocks!
+> Heaven will hear me, and what gods there are,
+> _if_ there are any gods in all of heaven!"
+> Such words provoke the savage tyrant's wrath
+> and fear in equal measure
+> ~ (6.781--792)
+
+He proceeds to cut out her tongue.
+
+## Book VII
+
+
+
 ## Epistemology
 
 Ovid does not appear to take the myths he is telling seriously. Throughout the poem, he inserts comic asides. Here I present a few illustrative examples.
@@ -935,5 +1002,12 @@ Towards the end of Book I, Clymenes tells her son that:
 > "It will not be a great task to discover
 > the place where your father [Apollo] keeps his household gods."
 > ~ (1.1074--5)
+
+Procne carries of her son Itys, to murder him and feed him to her evil husband:
+
+> Now resolute, she carries Itys off,
+> just as a tiger on the Ganges' banks
+> will drag a nursing fawn through the dense woods
+> ~ (6.922-4)
 
 *All quotations are taken from Charles Martin's 2004 translation. Line numbers refer to the translation and not the original Latin.*
