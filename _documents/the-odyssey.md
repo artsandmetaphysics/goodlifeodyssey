@@ -72,12 +72,12 @@ Early in book 1, the gods are in full assembly—curiously similar to the assemb
 <p>Look at Aegisthus now …</p>
 <p>above and beyond <em>his</em> share he stole Atrides’ wife,</p>
 <p>he murdered the warlord coming home from Troy</p>
-<p>though he knew it meant his own total ruin. <cite>(1.31–37)</cite></p>
+<p>though he knew it meant his own total ruin.” <cite>(1.31–37)</cite></p>
 </blockquote>
 
 From the start of the *Odyssey,* the gods seem more concerned with morals and justice than they did in the *Iliad.*
 
-Zeus’ implication that men should have a “proper share” of pains is interesting.  In the Abrahamic religions, pain and suffering are the result of the fall of man.  After the fall, there doesn’t seem to be an expectation that these pains are distributed evenly.  In the Greek religion, they had the myth of Pandora’s box, which is in someways similar to the story of Adam and Even, but even after the fall it appears there is a sense that pains should be spread evenly.
+Zeus’ implication that men should have a “proper share” of pains is interesting.  In the Abrahamic religions, pain and suffering are the result of the fall of man.  After the fall, there doesn’t seem to be an expectation that these pains are distributed evenly.  In the Greek religion, they had the myth of Pandora’s box, which is in someways similar to the story of Adam and Eve, but even after the fall it appears there is a sense that miseries should be distributed evenly.
 
 Shortly after Zeus’ comment, Athena responds:
 
@@ -179,7 +179,7 @@ The Greeks did not treat women well.
 
 <blockquote class="poetry">
 <p>“So, mother,</p>
-<p>got back to your quarters. Tend to your own tasks,</p>
+<p>go back to your quarters. Tend to your own tasks,</p>
 <p>the distaff and the loom, and keep the women</p>
 <p>working hard as well.  As for giving orders,</p>
 <p>men will see to that, but I most of all:</p>
@@ -218,6 +218,8 @@ Agamemnon’s ghost’s rant against women:
 <p>This, to my mind, is the best that life can offer. <cite>(9.2–10)</cite></p>
 </blockquote>
 
+My wife observed that is perhaps not a coincidence that Homer’s Odysseus believes a talented bard’s story is the best that life has to offer.
+
 ## The Muses
 
 Homer, like Hesiod, implies that the Muse provides divine inspiration to bards.
@@ -241,7 +243,7 @@ Homer, like Hesiod, implies that the Muse provides divine inspiration to bards.
 Helen uses a strange drug while feasting with Menelaus, Telemachus, and Pisastratus:
 
 <blockquote class="poetry">
-<p>The Zeus’s daughter Helen thought of something else.</p>
+<p>Then Zeus’s daughter Helen thought of something else.</p>
 <p>Into the mixing-bowl from which they drank their wine</p>
 <p>she slipped a drug, heart’s-ease, dissolving anger,</p>
 <p>magic to make us all forget our pains…</p>
@@ -259,7 +261,7 @@ In Odysseus’ speech to the princess Nausicaa, he describes the ideal marriage:
 <p>husband, and house, and lasting harmony too.</p>
 <p>No finer, greater gift in the world than that…</p>
 <p>when man and woman possess their home, two minds,</p>
-<p>two hearts that work as one. Despair to their enemies,</p>
+<p>two hearts that work as one.  Despair to their enemies,</p>
 <p>a joy to all their friends.  Their own best claim to glory.” <cite>(6.180–4)</cite></p>
 </blockquote>
 

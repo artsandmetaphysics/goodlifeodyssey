@@ -70,12 +70,12 @@ Early in book 1, the gods are in full assembly---curiously similar to the assemb
 > Look at Aegisthus now ...
 > above and beyond *his* share he stole Atrides' wife,
 > he murdered the warlord coming home from Troy
-> though he knew it meant his own total ruin.
+> though he knew it meant his own total ruin."
 > ~ (1.31--37)
 
 From the start of the *Odyssey,* the gods seem more concerned with morals and justice than they did in the *Iliad.*
 
-Zeus' implication that men should have a "proper share" of pains is interesting.  In the Abrahamic religions, pain and suffering are the result of the fall of man.  After the fall, there doesn't seem to be an expectation that these pains are distributed evenly.  In the Greek religion, they had the myth of Pandora's box, which is in someways similar to the story of Adam and Even, but even after the fall it appears there is a sense that pains should be spread evenly.
+Zeus' implication that men should have a "proper share" of pains is interesting.  In the Abrahamic religions, pain and suffering are the result of the fall of man.  After the fall, there doesn't seem to be an expectation that these pains are distributed evenly.  In the Greek religion, they had the myth of Pandora's box, which is in someways similar to the story of Adam and Eve, but even after the fall it appears there is a sense that miseries should be distributed evenly.
 
 Shortly after Zeus' comment, Athena responds:
 
@@ -101,7 +101,7 @@ The assembly in book 2 provides some insight into justice in ancient Greece.  Te
 
 > "Now we have no man like Odysseus in command
 > to drive this curse from the house.  We ourselves?
-> We're hardly the ones to fight them off.  All we'd do 
+> We're hardly the ones to fight them off.  All we'd do
 > is parade our wretched weakness.  A boy inept at battle.
 > Oh I'd swing to attack if I had the power in me.
 > By god, it's intolerable, what they do---disgrace,
@@ -170,7 +170,7 @@ Athena reveals herself to many people at once:
 The Greeks did not treat women well.
 
 > "So, mother,
-> got back to your quarters. Tend to your own tasks,
+> go back to your quarters. Tend to your own tasks,
 > the distaff and the loom, and keep the women
 > working hard as well.  As for giving orders,
 > men will see to that, but I most of all:
@@ -207,6 +207,8 @@ Agamemnon's ghost's rant against women:
 > This, to my mind, is the best that life can offer.
 > ~ (9.2--10)
 
+My wife observed that is perhaps not a coincidence that Homer's Odysseus believes a talented bard's story is the best that life has to offer.
+
 ## The Muses
 
 Homer, like Hesiod, implies that the Muse provides divine inspiration to bards.
@@ -228,7 +230,7 @@ Homer, like Hesiod, implies that the Muse provides divine inspiration to bards.
 
 Helen uses a strange drug while feasting with Menelaus, Telemachus, and Pisastratus:
 
-> The Zeus's daughter Helen thought of something else.
+> Then Zeus's daughter Helen thought of something else.
 > Into the mixing-bowl from which they drank their wine
 > she slipped a drug, heart's-ease, dissolving anger,
 > magic to make us all forget our pains...
@@ -245,7 +247,7 @@ In Odysseus' speech to the princess Nausicaa, he describes the ideal marriage:
 > husband, and house, and lasting harmony too.
 > No finer, greater gift in the world than that...
 > when man and woman possess their home, two minds,
-> two hearts that work as one. Despair to their enemies,
+> two hearts that work as one.  Despair to their enemies,
 > a joy to all their friends.  Their own best claim to glory."
 > ~ (6.180--4)
 
