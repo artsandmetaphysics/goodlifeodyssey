@@ -132,3 +132,33 @@ Yet, in the deepest sense, I think the Teacher is wrong.
 If our existence is meaningless because it is transient, or because it is not unique, then one must wonder where could meaning possibly come from? I think the only possible answers are that there must be meaning found even within our transient lives or that there is some mystical meta-physical source of meaning which is not found in our finite universe.
 
 Thus, while our existence is but a breath, to be blown away and forgotten, we can find meaning in it or hope that there is a hidden meaning beyond the metaphysical veil.
+
+---
+
+J: Did you find time to read and consider *Ecclesiastes*?
+
+D: I did—I read it once quickly, and it impressed me so much that the following evening I copied my favorite passages to help me reflect on them. Then, over the next few days I reread the twelve chapters several times and began to search to find out what others have thought about the book. I read several commentaries and interpretations. Indeed, it has affected me greatly and I am glad that I have read and considered it.
+
+J: I am impressed that Koholeth took hold of you so strongly! How did it affect you? Do you think his claims are correct?
+
+D: It affected me in several ways. As you know, I am not sure whether I believe there is a God and am especially whether there is a God seeking a relationship with each human being. Yet, even without a firm belief in life after death, justice for the wicked, and a personal relationship with the universe’s creator, I live a happy life. For this reason, Koholeth’s claim that everything is meaningless, vain, utterly futile, and like a breath in the wind challenges my intuition. I love my wife, have a caring family and loyal friends, derive meaning and purpose from my labor, enjoy reading literature and viewing art, and appreciate the wonders of existence. Some day I hope to have a family. There has been little pain or suffering in my life. But intuitions are often incorrect, and my privileged life may mislead me.
+
+J: Koholeth lead a more privileged life than you.
+
+D: Certainly he did! He had many wives and prostitutes, he does not discuss his family or friends, but he did have wealth beyond compare. He had private singers and could enjoy music when he wished. Interestingly, being fortunate enough to live in a great city, I can listen to better musicians that Koholeth could. I can also view a larger range of art and have access to literature translated from great cultures around the world. I also likely eat a greater variety of food than Koholeth. I mention all of this not to dismiss his claims, but only to point out that when measured in these ways, our progress is impressive. Still, I doubt Koholeth would be impressed by a few new dishes or epics from distant cultures.
+
+
+I feel my life is meaningful for He claims that all is meaningless—including my life, but I do not feel my life is vain, meaningless, or utterly futile.  I have meaning to me, but Koholeth seems to be searching for an absolute meaning. If I t
+
+- discussion of absolute vs relative meaning; how does god give meaning if we don’t give ourselves meaning; mystical answer; (“as we have discussed many times before”)
+
+Also compare to absolute justice; justice is an external factor—God makes the justice real by punishing the “wicked” as defined by God. Since meaning and purpose are internal, it does not seems possible that God could somehow create meaning directly in the same way. Perhaps God could allow us to live forever, and somehow being able to live forever is the cause of meaning. This seems unlikely to me. God could also institute other mystical changes in how reality is experienced which would result in there being meaning. Also, what about a relationship with God? Could that create meaning? Well, if we assume our physical form is not changed, then what do relationships look like? There are sexual relationships with our wives. That seems odd even to consider. However, this sexual relationship does create more meaning since it is (or should be) a unique experience that two people have with each other. The sensation of sex is unique. The production of children together is even more amazing than the sexual part (to me). Putting aside our taboos of thinking about sex, and our natural inclination to disassociate a holy thing God from this, it seems possible there could be something equivalent to sex that is unique and different, which we can not conceive of on Earth, which would provide more meaning and purpose to our lives than what Koholeth was able to find here.
+
+Moving on from this, it is also possible that
+
+D: In one sense, I agree with Koholeth—my life is like a breath, like a generation of leaves. The years are passing quickly! Speaking of years passing quickly—How are your children?
+
+J. They are well, my youngest is
+
+
+- I also do not feel that my labor is in vain
