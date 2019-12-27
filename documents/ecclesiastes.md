@@ -70,8 +70,6 @@ Various approaches may be used to resolve the mismatch between Ecclesiastes and 
 - Interpret the phrase "under the sun" to mean that the Teacher is knowingly and explicitly contrasting a philosophy based on human wisdom with a full understanding of God's wisdom.
 - Provide interpretations of the problematic verses on an as-needed basis.
 
----
-
 Some problematic verses:
 
 > Moreover I saw under the sun that in the place of justice, wickedness was there, and in the place of righteousness, wickedness was there as well. I said in my heart, God will judge the righteous and the wicked, for he has appointed a time for every matter, and for every work. I said in my heart with regard to human beings that God is testing them to show that they are but animals. For the fate of humans and the fate of animals is the same; as one dies, so dies the other. They all have the same breath, and humans have no advantage over the animals; for all is vanity. All go to one place; all are from the dust, and all turn to dust again. Who knows whether the human spirit goes upward and the spirit of animals goes downward to the earth? So I saw that there is nothing better than that all should enjoy their work, for that is their lot; who can bring them to see what will be after them?
@@ -91,8 +89,6 @@ Wait, one should not be too righteous? And one fears God shall succeed with both
 
 In these verses, as in those quoted from chapter 3 above, it is clear that the author does not believe in a pleasant afterlife. The dead are no longer "under the sun," since they are in Sheol.
 
----
-
 Apparent internal contradictions:
 
 > Then I saw the wicked buried; they used to go in and out of the holy place, and were praised in the city where they had done such things. This also is vanity. Because sentence against an evil deed is not executed speedily, the human heart is fully set to do evil. Though sinners do evil a hundred times and prolong their lives, yet I know that it will be well with those who fear God, because they stand in fear before him, but it will not be well with the wicked, neither will they prolong their days like a shadow, because they do not stand in fear before God.
@@ -100,11 +96,7 @@ Apparent internal contradictions:
 > There is a vanity that takes place on earth, that there are righteous people who are treated according to the conduct of the wicked, and there are wicked people who are treated according to the conduct of the righteous. I said that this also is vanity.
 > = (8.10--14)
 
----
-
 I do not find the interpretation that "under the sun" should mean that the Teacher is speaking as-if he did not have knowledge of God, or that he is restricting his discussion to the human world. Throughout Ecclesiastes the Teacher discusses God. He tells his audience to enjoy life, usually in a conciliatory tone, implying that this is the best we can expect to get out of life.
-
----
 
 In the most direct sense, the Teacher is wrong!
 
@@ -127,33 +119,3 @@ Yet, in the deepest sense, I think the Teacher is wrong.
 If our existence is meaningless because it is transient, or because it is not unique, then one must wonder where could meaning possibly come from? I think the only possible answers are that there must be meaning found even within our transient lives or that there is some mystical meta-physical source of meaning which is not found in our finite universe.
 
 Thus, while our existence is but a breath, to be blown away and forgotten, we can find meaning in it or hope that there is a hidden meaning beyond the metaphysical veil.
-
----
-
-J: Did you find time to read and consider *Ecclesiastes*?
-
-D: I did---I read it once quickly, and it impressed me so much that the following evening I copied my favorite passages to help me reflect on them. Then, over the next few days I reread the twelve chapters several times and began to search to find out what others have thought about the book. I read several commentaries and interpretations. Indeed, it has affected me greatly and I am glad that I have read and considered it.
-
-J: I am impressed that Koholeth took hold of you so strongly! How did it affect you? Do you think his claims are correct?
-
-D: It affected me in several ways. As you know, I am not sure whether I believe there is a God and am especially whether there is a God seeking a relationship with each human being. Yet, even without a firm belief in life after death, justice for the wicked, and a personal relationship with the universe's creator, I live a happy life. For this reason, Koholeth's claim that everything is meaningless, vain, utterly futile, and like a breath in the wind challenges my intuition. I love my wife, have a caring family and loyal friends, derive meaning and purpose from my labor, enjoy reading literature and viewing art, and appreciate the wonders of existence. Some day I hope to have a family. There has been little pain or suffering in my life. But intuitions are often incorrect, and my privileged life may mislead me.
-
-J: Koholeth lead a more privileged life than you.
-
-D: Certainly he did! He had many wives and prostitutes, he does not discuss his family or friends, but he did have wealth beyond compare. He had private singers and could enjoy music when he wished. Interestingly, being fortunate enough to live in a great city, I can listen to better musicians that Koholeth could. I can also view a larger range of art and have access to literature translated from great cultures around the world. I also likely eat a greater variety of food than Koholeth. I mention all of this not to dismiss his claims, but only to point out that when measured in these ways, our progress is impressive. Still, I doubt Koholeth would be impressed by a few new dishes or epics from distant cultures.
-
-
-I feel my life is meaningful for He claims that all is meaningless---including my life, but I do not feel my life is vain, meaningless, or utterly futile.  I have meaning to me, but Koholeth seems to be searching for an absolute meaning. If I t
-
-- discussion of absolute vs relative meaning; how does god give meaning if we don't give ourselves meaning; mystical answer; ("as we have discussed many times before")
-
-Also compare to absolute justice; justice is an external factor---God makes the justice real by punishing the "wicked" as defined by God. Since meaning and purpose are internal, it does not seems possible that God could somehow create meaning directly in the same way. Perhaps God could allow us to live forever, and somehow being able to live forever is the cause of meaning. This seems unlikely to me. God could also institute other mystical changes in how reality is experienced which would result in there being meaning. Also, what about a relationship with God? Could that create meaning? Well, if we assume our physical form is not changed, then what do relationships look like? There are sexual relationships with our wives. That seems odd even to consider. However, this sexual relationship does create more meaning since it is (or should be) a unique experience that two people have with each other. The sensation of sex is unique. The production of children together is even more amazing than the sexual part (to me). Putting aside our taboos of thinking about sex, and our natural inclination to disassociate a holy thing God from this, it seems possible there could be something equivalent to sex that is unique and different, which we can not conceive of on Earth, which would provide more meaning and purpose to our lives than what Koholeth was able to find here.
-
-Moving on from this, it is also possible that
-
-D: In one sense, I agree with Koholeth---my life is like a breath, like a generation of leaves. The years are passing quickly! Speaking of years passing quickly---How are your children?
-
-J. They are well, my youngest is
-
-
-- I also do not feel that my labor is in vain
