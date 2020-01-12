@@ -15,6 +15,16 @@ He was a writer and cleric, and became the Dean of St Patrick's Cathedral in Dub
 
 _Gulliver's Travels_ was first published in 1726.
 
+In each of Gulliver's four journeys, the focus of Swift's satire shifts.
+
+Part I focuses on the pettiness of humankind. The king of Lilliput is referred to as the "delight and terror of the universe," highlighting how small we are to God and the universe.
+
+Part II focuses on the human body (although he exploring our vices too).
+
+Part III focuses on the mind.
+
+Part IV focuses on our immorality.
+
 Here I collect my favourite quotes from the book.
 
 ## Part I: Lilliput
