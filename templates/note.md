@@ -1,9 +1,9 @@
 ---
 title: >
   TITLE
+type: note
 description: >
   Notes on "TITLE"
-type: note
 ---
 
 ## Summary
