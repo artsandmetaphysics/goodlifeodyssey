@@ -32,15 +32,19 @@ Meaning is recursively derived.  For example, the meaning in my relationship wit
 
 ## Meaning as Purpose
 
-Purpose is the reason for existence.  "Your chief purpose is to glorify God, and to enjoy him forever."  The purpose of a jar is to contain things, to make them easier to carry, or to make them easier to store.
+Purpose is the reason for which something exists.  "Humanity's chief purpose is to glorify God, and to enjoy him forever."  The purpose of a jar is to decorate or contain.  The purpose of my trip to the country was to enjoy nature.
 
-Purpose is a relation between a creator and the created (or acquired).
+Purpose is a relation between a creator and the created.
 
-When someone asks "what is my purpose," it may mean "for what purpose was I created?" or it may mean "what purpose should be behind the collective actions of my life?"  In the first case, God is the creator and the person is the created. In the second case the person is the creator and their actions are created.
+When someone asks "what is my purpose," it may mean "for what purpose was I created?" or it may mean "what purpose should be behind the collective actions of my life?"  In the first case, God is the creator and the person is the created.  In the second case the person is the creator and their actions are created.
 
 ## Meaning and a Creator
 
-If we are created we may find meaning in the fulfillment of our creator's purpose.  Or we may not---a Sumerian, who believes they were created to supply beer and bread to the gods, may find the endless sacrifices meaningless. Alternately, there may be a creator, yet we may not have any purpose---perhaps we are agents in a simulation, evolving for the entertainment of some higher beings.
+If we are created we may find meaning in the fulfillment of our creator's purpose.
+
+Or we may not---a Sumerian, who believes they were created to supply beer and bread to the gods, may find the endless sacrifices meaningless.
+
+Alternately, there may be a creator, yet we may not have any purpose---perhaps we are agents in a simulation, and we evolved by chance and our universe is entertainment for higher beings who are largely indifferent to our existence.
 
 ## Meaning within a Finite Existence
 
