@@ -58,4 +58,4 @@ When faced with our finite existence, we can only find meaning outside of time. 
 
 The longer one lives, the less significant any particular day or event becomes.  Our first trip abroad is more meaningful than the tenth.
 
-If meaning originates from significance, then an infinite existence acts to reduce the meaning of any of it.  In this way, meaning may be squeezed out by the infinite.
+If meaning originates from significance, then an infinite existence acts to reduce the meaning of any of it.  In this way, meaning may be squeezed out by the infinite.  Alternately, one may say that all meaning comes from the finite; our lives are valuable _because_ they are short.
