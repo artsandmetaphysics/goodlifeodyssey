@@ -46,10 +46,16 @@ Or we may not—a Sumerian, who believes they were created to supply beer and br
 
 Alternately, there may be a creator, yet we may not have any purpose—perhaps we are agents in a simulation, and we evolved by chance and our universe is entertainment for higher beings who are largely indifferent to our existence.
 
-## Meaning within a Finite Existence
+## Meaning and the Finite
 
-Can there be meaning in the finite? If conscious existence will be snuffed out by entropy, can our lives have lasting meaning?
+Can there be meaning in the finite?  If conscious existence will be snuffed out by entropy, can our lives have lasting meaning?
 
 For most of us, lasting meaning requires lasting existence.  We may die, but our contributions, ideas, art, writing, or offspring will not.  Three thousand years pass, and Achilles is still famous, but eventually all memory of Achilles will be lost.  Will his striving be meaningless?
 
 When faced with our finite existence, we can only find meaning outside of time.  Any effect of us having existed may be gone, but we still did exist.  We lived our best life.  We loved our best, and contributed what we could.  We appreciated the beauty of the universe, and that will never change.
+
+## Meaning and the Infinite
+
+The longer one lives, the less significant any particular day or event becomes.  Our first trip abroad is more meaningful than the tenth.
+
+If meaning originates from significance, then an infinite existence acts to reduce the meaning of any of it.  In this way, meaning may be squeezed out by the infinite.
