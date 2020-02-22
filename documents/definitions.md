@@ -7,7 +7,8 @@ description: >
   they useful, and are they what was meant?
 type: essay
 status: incomplete
-redirect_from: "/on-definitions"
+redirect_from:
+  - /on-definitions
 ---
 
 When two people converse, each person assumes the other is using words like themself.  Yet frequently, neither person could define the words they are using.

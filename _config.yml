@@ -26,3 +26,5 @@ defaults:
       status: complete
 plugins:
   - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
