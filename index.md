@@ -18,7 +18,7 @@ description: This website contains my writings about art, history, religion, and
   {% include li.html id='fear-of-death' %}
   {% include li.html id='ethical-progress' %}
   {% include li.html id='love-thy-neighbor-as-thyself' %}
-<ul>
+</ul>
 
 ## Notes
 
@@ -28,4 +28,4 @@ description: This website contains my writings about art, history, religion, and
   {% include li.html id='the-iliad' %}
   {% include li.html id='the-odyssey' %}
   {% include li.html id='homeric-hymns' %}
-<ul>
+</ul>

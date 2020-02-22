@@ -1,5 +1,5 @@
 {% for d in site.documents %}
-{% if d.url contains id %}
+{% if d.url contains include.id %}
   <li>
     <a title="{{ d.description | xml_escape | normalize_whitespace }}"
        href="{{ d.url }}">{{ d.title }}</a>
