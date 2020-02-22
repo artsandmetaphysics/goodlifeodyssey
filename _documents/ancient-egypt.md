@@ -3,8 +3,6 @@ title: >
   Ancient Egypt
 description: >
   Notes on Ancient Egypt
-type: note
-order: 0.5
 ---
 
 ## History

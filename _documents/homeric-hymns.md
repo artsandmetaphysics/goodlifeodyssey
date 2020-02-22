@@ -3,8 +3,6 @@ title: >
   “The Homeric Hymns”
 description: >
   Notes on “The Homeric Hymns”
-type: note
-order: 3.5
 ---
 
 *The Homeric Hymns* are a collection of thirty-three hexameter poems which honor the ancient Greek gods.  Modern scholars believe most of them were written between 700 and 500 BCE.  The hymns were traditionally attributed to Homer.

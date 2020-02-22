@@ -3,9 +3,6 @@ title: >
   Altera: Higher Level Concepts
 description: >
   A brief exploration of higher level concepts in our world, as they could be realized in Altera.
-type: essay
-status: incomplete
-order: 506
 ---
 
 ## Thoughts on Nook Reproduction

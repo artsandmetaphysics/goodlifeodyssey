@@ -3,9 +3,6 @@ title: >
   The “Odyssey”
 description: >
   Notes on the “Odyssey”
-type: note
-status: incomplete
-order: 3
 ---
 
 ## Background

@@ -3,9 +3,6 @@ title: >
   Meaning and Purpose
 description: >
   A meandering contemplation of meaning and purpose
-type: essay
-status: incomplete
-order: 105
 ---
 
 ## Uses of the Word “Meaning”

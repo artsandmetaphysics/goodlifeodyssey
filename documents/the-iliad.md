@@ -3,9 +3,6 @@ title: >
   The "Iliad"
 description: >
   Notes on the "Iliad"
-type: note
-status: incomplete
-order: 2
 ---
 
 ## Background

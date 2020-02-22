@@ -5,9 +5,6 @@ description: >
   Philosophical discussion benefits from precise and shared
   definitions.  I discuss the two questions we can ask about definitions---are
   they useful, and are they what was meant?
-type: essay
-status: incomplete
-order: 1
 ---
 
 When two people converse, each person assumes the other is using words like themself.  Yet frequently, neither person could define the words they are using.

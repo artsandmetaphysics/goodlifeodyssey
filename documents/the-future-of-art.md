@@ -3,9 +3,6 @@ title: >
   The Future of Art
 description: >
   I predict the future of art, and give my reasons for this prediction.
-type: essay
-status: incomplete
-order: 300
 ---
 
 The definition of the word "art" is subjective---some people may have a broader view than others.  It is insightful to understand what is generally meant by the word "art."  Further, I believe that the future of art lies in the broadening of this definition.

@@ -3,8 +3,6 @@ title: >
   Ancient China
 description: >
   Notes on Ancient China
-type: note
-order: 1.5
 ---
 
 ## Dynasties

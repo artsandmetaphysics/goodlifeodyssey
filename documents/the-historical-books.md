@@ -2,8 +2,6 @@
 title: Joshua, Judges, Samuel, and Kings
 description: >
   Notes on the historical books of the Hebrew Bible
-type: note
-order: 5.101
 ---
 
 <style>

@@ -3,9 +3,6 @@ title: >
   "The Stranger" by Albert Camus
 description: >
   Notes on the "The Stranger" by Albert Camus
-type: note
-status: incomplete
-order: 2
 ---
 
 ## Summary
