@@ -4,7 +4,6 @@ title: >
 description: >
   Notes on Religion
 type: note
-order: 1000
 ---
 
 It is difficult to define the word “religion.”

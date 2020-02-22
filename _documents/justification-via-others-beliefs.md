@@ -5,7 +5,6 @@ description: >
   When is it appropriate to justify one’s own beliefs with another’s beliefs?
 type: essay
 status: complete
-order: 2.5
 ---
 
 We justify our beliefs using a combination of intuition, emotion, reasoning, sensory perception, and other means.

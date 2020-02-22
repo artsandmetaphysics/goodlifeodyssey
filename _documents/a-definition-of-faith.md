@@ -5,7 +5,6 @@ description: >
   Faith in beliefs is indicated by how drastically our actions change as a result of our belief.
 type: essay
 status: incomplete
-order: 2
 ---
 
 We all have a worldview—a collection of beliefs that direct our actions.  Our worldview may be ill-defined, poorly considered, or even inconsistent.  Still, if we have ever reasoned about how to act, we have a worldview.

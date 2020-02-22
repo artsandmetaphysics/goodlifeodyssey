@@ -5,7 +5,6 @@ description: >
   A detailed description of the physical laws of Altera.
 type: essay
 status: incomplete
-order: 501
 ---
 
 ## Physical Laws

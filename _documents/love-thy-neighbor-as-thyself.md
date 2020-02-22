@@ -5,7 +5,6 @@ description: >
   A brief discussion of the second great commandment of the New Testament.
 type: essay
 status: incomplete
-order: 800
 ---
 
 Jesus distills the law into two commands:

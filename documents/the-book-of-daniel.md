@@ -5,7 +5,6 @@ description: >
   Notes on The Biblical Book of Daniel
 type: note
 status: incomplete
-order: 52
 ---
 
 ## Outline

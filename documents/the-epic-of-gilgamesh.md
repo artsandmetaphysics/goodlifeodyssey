@@ -5,7 +5,6 @@ description: >
   A commentary on "The Epic of Gilgamesh"
 type: note
 status: incomplete
-order: 1.9
 ---
 
 Ancient and beautiful, *The Epic of Gilgamesh* is the story of the king of Uruk.

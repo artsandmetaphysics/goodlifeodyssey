@@ -5,7 +5,6 @@ description: >
   Why would and all-loving God allow a place filled with suffering to exist?
 type: essay
 status: complete
-order: 900
 ---
 Hell, as described by Dante in *The Divine Comedy*, is filled with people being tortured forever by demons.  Why does God allow the demons to torture people forever?
 

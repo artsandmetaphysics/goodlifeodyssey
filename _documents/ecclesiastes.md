@@ -4,7 +4,6 @@ title: >
 description: >
   Ecclesiastes
 type: note
-order: 5.1
 ---
 
 Ecclesiastes is a beautiful and has compelled me to challenge my own views of meaning and purpose.

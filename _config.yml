@@ -24,3 +24,5 @@ defaults:
     values:
       layout: basic
       status: complete
+plugins:
+  - jekyll-redirect-from

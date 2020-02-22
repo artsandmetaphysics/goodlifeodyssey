@@ -4,7 +4,6 @@ title: >
 description: >
   Notes on "The Histories" by Herodotus
 type: note
-order: 5
 ---
 
 ## Scope

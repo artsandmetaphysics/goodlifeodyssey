@@ -5,7 +5,6 @@ description: >
   Nooks can use the scientific method to understand Altera.  What can they discover, and what difficulties will they have?
 type: essay
 status: incomplete
-order: 506
 ---
 
 The Nooks could perform scientific experiments to better understand the physical laws of Altera.  Some laws would be easier to understand than others.  They could learn when certain actions would be "allowed."  Perhaps, if all of the Nooks in the universe collaborated together, they could somehow deduce the equation for the pseudo random number generator that governs food placement.
