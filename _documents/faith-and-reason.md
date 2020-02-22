@@ -7,22 +7,22 @@ description: >
 
 ## Why Believe
 
-There are many reasons to practice a religion, but most can be reduced to “I think it is true” or “it makes me happier.”
+Most reasons to practice a religion can be reduced to “it is true” or “it makes me happier.”
 
-I want to practice a religion because it is true.  What do I mean by true?
+What does it mean for a religion to be true?
 
-Most religions make metaphysical claims—claims about the nature of reality.  Here are a few such claims:
+Most religions make metaphysical claims, for example:
 
-- The pharaoh is a god.
-- Trees have spirits.
-- The universe was created.
-- The laws of physics have never changed.
-- Humans have souls.
-- All “living” creatures have souls.
-- The universe will end.
-- Heaven exists.
-- Heaven and purgatory exist.
-- Your actions (or beliefs) determine your fate after you die.
+- The pharaoh is a god
+- Trees have spirits
+- The universe was created
+- The laws of physics have never changed
+- Humans have souls
+- All “living” creatures have souls
+- The universe will end
+- Heaven exists
+- Heaven and purgatory exist
+- Your actions (or beliefs) determine your fate after you die
 - Humans can be reincarnated.
 
 I want to believe a religion that makes true metaphysical claims.
