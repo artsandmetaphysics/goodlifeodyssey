@@ -1,0 +1,8 @@
+{% for d in site.documents %}
+{% if d.url contains id %}
+  <li>
+    <a title="{{ d.description | xml_escape | normalize_whitespace }}"
+       href="{{ d.url }}">{{ d.title }}</a>
+  </li>
+{% endif %}
+{% endfor %}

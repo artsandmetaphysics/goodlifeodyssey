@@ -3,18 +3,10 @@ layout: basic
 title: Arts & Metaphysics
 description: This website contains my writings about art, history, religion, and philosophy.
 ---
-<p>{{ page.description }}</p>
+{{ page.description }}
 
-{% assign groups = site.documents | group_by: 'type' | sort: 'name' %}
-{% for group in groups %}
-  <h2>{{ group.name | capitalize }}s</h2>
-  <ul class="index">
-  {% assign documents = group.items | sort: 'order' %}
-  {% for d in documents  %}
-    <li>
-      <a title="{{ d.description | xml_escape | normalize_whitespace }}"
-         href="{{ d.url }}">{{ d.title }}</a>
-    </li>
-  {% endfor %}
-  </ul>
-{% endfor %}
+## Essays
+
+<ul class="index">
+  {% include li.html id='on-definitions' %}
+<ul>
