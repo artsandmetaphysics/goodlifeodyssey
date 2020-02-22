@@ -8,7 +8,7 @@ description: This website contains my writings about art, history, religion, and
 ## Essays
 
 <ul class="index">
-  {% include li.html id='on-definitions' %}
+  {% include li.html id='definitions' %}
   {% include li.html id='meaning-and-purpose' %}
   {% include li.html id='a-definition-of-faith' %}
   {% include li.html id='faith-and-reason' %}
