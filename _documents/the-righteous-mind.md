@@ -8,7 +8,6 @@ type: note
 
 ## Summary
 
-
 ## Outline
 
 - Intuitions come first; strategic reasoning second
@@ -23,6 +22,8 @@ type: note
     - Jefferson: Reason and emotions are equally good
   - Evidence that intitutions come first
   - Evidence that strategic reasoning comes second
+- There’s more to morality than harm and fairness
+  -
 
 ## Questions
 
@@ -68,6 +69,27 @@ To see why this distinction is important, imagine a biased partisan searching fo
 
 Haidt’s skepticism towards reason is less radical that it first seems—it seems that he agrees with Plato that abstract reason _should_ be king, but that individuals are not goo
 
+## What is Reason?
+
+What does Haidt mean by “reason?”  To begin, lets assume he means what is normally meant.  What is normally meant by the word “reason?”
+
+Sometimes the word is used as a noun.  For example, “my reason for moving to New York.”  Here the “reason” is the result of “reasoning.”  It is the output of a process.  “A cause, explanation, or justification for an action or event.”
+
+The word “reason” is also used as a verb.  To “reason” is to “think, understand, and form judgments by a process of logic.”
+
+The reasoning process varies with the task. Consider:
+
+- Solving a mathematics problem
+- Designing a physics experiment
+- Modeling weather systems
+- Deducing the conclusions of a psychology experiment
+- Deciding whether to hire a particular individual
+- Predicting the effects of law on society
+
+It surprises me that so many varied actives are considered “reasoning.”  The processes that are followed by a mathematician and a politician are quite different.
+
+Good reasoning tends to lead to true judgments.  But even reasoning which leads to false judgments may be “good” in the sense that the conclusions drawn were the most likely given the evidence available.
+
 ## Does Education make us Moral?
 
 I suspect it does, but why?
@@ -78,4 +100,9 @@ I suspect it does, but why?
 
 ## Implications
 
+
+## References
+
+- [Hume’s Moral Philosophy](https://plato.stanford.edu/entries/hume-moral/)
+-
 
