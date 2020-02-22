@@ -3,6 +3,8 @@ title: >
   "History of the Peloponnesian War" by Thucydides
 description: >
   Notes on "History of the Peloponnesian War" by Thucydides
+type: note
+order: 5.1
 ---
 
 ## Outline

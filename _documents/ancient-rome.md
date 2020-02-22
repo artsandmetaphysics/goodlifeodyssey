@@ -3,6 +3,8 @@ title: >
   Ancient Rome
 description: >
   Notes on Ancient Rome
+type: note
+order: 1.6
 ---
 
 - Rome existed from roughly 500 BCE to 500 CE

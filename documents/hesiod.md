@@ -3,6 +3,8 @@ title: >
   Hesiod
 description: >
   Notes on Hesiod's "Theogony" and "Works and Days"
+type: note
+order: 3.4
 ---
 
 Hesiod was a famous Greek poet---the ancients often mention him in the same sentence with Homer---who wrote the epic hexameter poems *Theogony* and *Works and Days*.  He is thought to have lived sometime between 800 and 600 BCE.

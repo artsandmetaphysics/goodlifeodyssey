@@ -3,6 +3,8 @@ title: >
   David Hockney
 description: >
   Notes David Hockney
+type: note
+order: 2
 ---
 
 ## Life

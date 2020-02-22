@@ -3,6 +3,8 @@ title: >
   The Hittites
 description: >
   Notes on The Hittites
+type: note
+order: 0.51
 ---
 
 - The Hittite civilization started c. 1600 BCE and ended c. 1178 BCE.

@@ -3,6 +3,9 @@ title: >
   Altera: Appearance and Reality
 description: >
   I investigate how Nooks may perceive and sense their world.
+type: essay
+status: incomplete
+order: 504
 ---
 
 Is there any knowledge in Altera that is so certain that no reasonable Nook could deny it?

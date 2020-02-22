@@ -3,6 +3,9 @@ title: >
   Ovid's "Metamorphoses"
 description: >
   Notes on Ovid's "Metamorphoses"
+type: note
+status: incomplete
+order: 2.1
 ---
 
 ## Introduction

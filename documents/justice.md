@@ -3,6 +3,9 @@ title: >
   Justice
 description: >
   A meandering contemplation of justice
+type: essay
+status: incomplete
+order: 104
 ---
 
 If everyone was perfect, we would not need justice.  Thus justice is distinguished from a moral code; justice exists independently as a mean of addressing failures to follow a moral code.

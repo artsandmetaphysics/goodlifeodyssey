@@ -3,6 +3,9 @@ title: >
   My Epistemology
 description: >
   An essay in which I explain how I know things.
+type: essay
+status: incomplete
+order: 700
 ---
 
 A metaphysical belief is "true" when it correctly describes reality.

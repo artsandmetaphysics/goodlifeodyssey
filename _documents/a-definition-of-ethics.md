@@ -3,6 +3,9 @@ title: >
   A Definition of Ethics
 description: >
   Ethics: the study of how concious beings should act.
+type: essay
+status: incomplete
+order: 3
 ---
 
 Ethics is the study of how conscious beings should act.

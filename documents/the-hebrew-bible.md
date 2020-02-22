@@ -3,6 +3,8 @@ title: >
   "The Old Testament"
 description: >
   Notes on "The Old Testament"
+type: note
+order: 5
 ---
 
 ## Selected Timeline

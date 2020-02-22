@@ -3,6 +3,9 @@ title: >
   Plato's "Republic"
 description: >
   Notes on Plato's "Republic"
+type: note
+status: incomplete
+order: 2
 ---
 
 ## Background

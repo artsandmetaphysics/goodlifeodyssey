@@ -3,6 +3,8 @@ title: >
   “The Big Picture” by Sean Carroll
 description: >
   Notes on “The Big Picture” by Sean Carroll
+type: note
+order: 12.5
 ---
 
 ## Part One: Cosmos

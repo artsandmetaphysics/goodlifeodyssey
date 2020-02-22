@@ -2,6 +2,8 @@
 title: The Pentateuch
 description: >
   Notes on the Pentateuch
+type: note
+order: 5.1
 ---
 
 <style>

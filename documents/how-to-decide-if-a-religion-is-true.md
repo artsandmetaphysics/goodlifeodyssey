@@ -3,6 +3,9 @@ title: >
   How To Decide if a Religion is True
 description: >
   How To Decide if a Religion is True
+type: essay
+status: complete
+order: 1000
 ---
 
 The word religion is difficult to define. Here, a religion is be a set of metaphysical claims (statements about the nature of reality) and ethical imperatives (statements about how one should act).

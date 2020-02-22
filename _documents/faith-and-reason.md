@@ -3,6 +3,9 @@ title: >
   Faith and Reason
 description: >
   An exploration of the relationship between faith and reason.
+type: essay
+status: incomplete
+order: 400
 ---
 
 ## Why Believe

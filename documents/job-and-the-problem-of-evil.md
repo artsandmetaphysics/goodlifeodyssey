@@ -3,6 +3,8 @@ title: >
   "Job" and the Problem of Evil
 description: >
   "Job" and the Problem of Evil
+type: note
+order: 5
 ---
 
 ## Outline

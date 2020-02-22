@@ -2,6 +2,8 @@
 title: Source Theories and Genesis 1 - 11
 description: >
   An interactive investigation of the purported source theories for Genesis 1 - 11.
+type: note
+order: 5.2
 ---
 
 <style>

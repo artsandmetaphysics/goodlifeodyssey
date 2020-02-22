@@ -3,6 +3,9 @@ title: >
   Buddhism
 description: >
   Notes on Buddhism
+type: note
+status: incomplete
+order: 506
 ---
 
 ## Words

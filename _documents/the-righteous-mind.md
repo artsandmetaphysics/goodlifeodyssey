@@ -3,6 +3,7 @@ title: >
   The Righteous Mind
 description: >
   Notes on “The Righteous Mind”
+type: note
 ---
 
 ## Summary
