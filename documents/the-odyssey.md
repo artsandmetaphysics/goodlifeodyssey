@@ -37,7 +37,7 @@ Here is an outline:
 2. The assembly at Ithaca; Telemachus secretly sets sail
 3. Nestor recalls his return; sacrifice to Athena; departure for Lacedaemon
 4. Menelaus recalls his return; the suitors plot their ambush
-5. Hermes visits Calypso; Odysseus builds raft; sails then swims to Phaeacia
+5. Hermes visits Calypso; Odysseus' raft; sails then swims to Phaeacia
 6. Athena guides the princess to bring aid to Odysseus
 7. King Alcinous promises to bring Odysseus home
 8. Athletic games; song of Ares and Aphrodite; songs of Troy
@@ -72,7 +72,7 @@ Early in book 1, the gods are in full assembly---curiously similar to the assemb
 > though he knew it meant his own total ruin."
 > ~ (1.31--37)
 
-From the start of the *Odyssey,* the gods seem more concerned with morals and justice than they did in the *Iliad.*
+From the start of the *Odyssey,* the gods seem more concerned with morals and justice than in the *Iliad.*
 
 Zeus' implication that men should have a "proper share" of pains is interesting.  In the Abrahamic religions, pain and suffering are the result of the fall of man.  After the fall, there doesn't seem to be an expectation that these pains are distributed evenly.  In the Greek religion, they had the myth of Pandora's box, which is in someways similar to the story of Adam and Eve, but even after the fall it appears there is a sense that miseries should be distributed evenly.
 
@@ -360,4 +360,4 @@ When Odysseus reaches Phaeacia after swimming for two days:
 > as he swam on, anxious to plant his feet on sold ground again.
 > ~ (5.390--9)
 
-*All quotations are taken from Robert Fagle's 1996 excellent translation of the* Odyssey. *Line numbers are approximate.*
+*All quotations are taken from Robert Fagle's excellent 1996 translation of the* Odyssey. *Line numbers are approximate.*
