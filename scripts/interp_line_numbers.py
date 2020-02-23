@@ -19,6 +19,9 @@ def interp_line_numbers(y1, y2, x1, x2, qx1, qx2):
 
 
 if __name__ == "__main__":
+    if len(sys.argv) != 7:
+        print('USAGE: interp_line_numbers ORIG1 ORIG2 TRANS1 TRANS2 QUOTE1 QUOTE2')
+        sys.exit(1)
     first_original_lineno_page = int(sys.argv[1])
     last_original_lineno_page = int(sys.argv[2])
     first_translation_lineno_page = int(sys.argv[3])

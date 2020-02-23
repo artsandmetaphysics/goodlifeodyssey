@@ -37,15 +37,15 @@ Here is an outline:
 2. The assembly at Ithaca; Telemachus secretly sets sail
 3. Nestor recalls his return; sacrifice to Athena; departure for Lacedaemon
 4. Menelaus recalls his return; the suitors plot their ambush
-5. Hermes visits Calypso; Odysseus builds a raft, sails, then swims to Phaeacia
+5. Hermes visits Calypso; Odysseus builds raft; sails then swims to Phaeacia
 6. Athena guides the princess to bring aid to Odysseus
 7. King Alcinous promises to bring Odysseus home
 8. Athletic games; song of Ares and Aphrodite; songs of Troy
 9. Encounter in Polyphemus the Cyclops' cave; Odysseus is cursed
-10. Blown home and back; Laestrygonians destroy the fleet; a year with Circe
+10. Blown home and back; Laestrygonians destroy the fleet; year with Circe
 11. Odysseus talks to ghosts in the kingdom of the dead
 12. Return to Circe; the Sirens; Scylla and Charybdis; Helios' cattle; Calypso
-13. Athena greets Odysseus on Ithaca; Poseidon turns the Phaeacians to stone
+13. Athena greets Odysseus on Ithaca; Poseidon petrifies the Phaeacians
 14. Disguised Odysseus talks to the loyal swineherd Eumaeus
 15. Telemachus returns with gifts and a seer; Eumaeus' story
 16. Odysseus and Telemachus meet and plan revenge; the suitors conspire
@@ -342,5 +342,22 @@ Odysseus' advice for the suitor Amphinomus:
 > turn as the days turn...
 > as the father of men and gods makes each day dawn.
 > ~ (18.130--7)
+
+## Similes
+
+When Odysseus reaches Phaeacia after swimming for two days:
+
+> Then when Dawn with her lovely locks brought on
+> the third day, the wind fell in an instant,
+> all glazed to a dead calm, and Odysseus,
+> scanning sharply, raised high by a groundswell,
+> looked up and saw it---landfall, just ahead.
+> Joy ... warm as they joy that children feel
+> when they see their father's life dawn again,
+> one who's lain on a sickbed racked with torment,
+> wasting away, slowly, under some angry power's onslaught---
+> So warm, Odysseus' joy when he saw that shore, those trees,
+> as he swam on, anxious to plant his feet on sold ground again.
+> ~ (5.390--9)
 
 *All quotations are taken from Robert Fagle's 1996 excellent translation of the* Odyssey. *Line numbers are approximate.*

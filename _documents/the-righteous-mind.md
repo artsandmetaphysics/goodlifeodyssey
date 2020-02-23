@@ -20,9 +20,17 @@ type: note
     - Plato: Reason could and should be master
     - Hume: Reason should serve the “passions”
     - Jefferson: Reason and emotions are equally good
-  - Evidence that intitutions come first
+  - Evidence that institutions come first
   - Evidence that strategic reasoning comes second
 - There’s more to morality than harm and fairness
+  - Sociocentric vs individualistic cultures
+  - Moral Tastebuds:
+    - Care/Harm
+    - Fairness/Cheating
+    - Loyalty/Betrayal
+    - Authority/Subversion
+    - Sanctity/Degradation
+    - Liberty/Oppression
   -
 
 ## Questions
@@ -89,6 +97,51 @@ The reasoning process varies with the task. Consider:
 It surprises me that so many varied actives are considered “reasoning.”  The processes that are followed by a mathematician and a politician are quite different.
 
 Good reasoning tends to lead to true judgments.  But even reasoning which leads to false judgments may be “good” in the sense that the conclusions drawn were the most likely given the evidence available.
+
+## Objects vs Relationships
+
+Near the opening of book II, Haidt makes the following claim:
+
+<blockquote>
+<p>The WEIRDer (Western, educated, industrialized, rich, democratic) you are, the more you see a world filled with separate objects, rather than relationships.</p>
+</blockquote>
+
+He then presents some experimental evidence to back his claim, before proceeding to draw very wide-ranging conclusions from this assessment. For example, he says:
+
+<blockquote>
+<p>But if you live in a non-WEIRD society in which people are more likely to see relationships, contexts, groups, and institutions, then you won’t be so focused on protecting individuals. You’ll have a more sociocentric morality, which means that you place the needs of groups and institutions first, often ahead of the needs of individuals.</p>
+</blockquote>
+
+Haidt’s justification for these claims is insufficient.
+
+First he presents an experiment where Eastern Asians and Americans are asked to complete “I am …”, and WEIRD people describe themselves in terms of their own attributes, while Eastern Asian people describe themselves in terms of their relationships with others.
+
+I suspect there _are_ significant differences between these two groups. I even accept that Eastern Asians are more likely to view themselves in terms of their relationships than Westerners (based on my experiences talking to Asian people).
+
+But the study presented does not seem to be good evidence for the claim that Eastern Asians perceive the world differently.
+
+Next he presents a visual experiment:
+
+<blockquote>
+<p>The differences run deep; even visual perception is affected. In what’s known as the framed-line task, you are shown a square with a line drawn inside it. You then turn the page and see an empty square that is larger or smaller than the original square. Your task is to draw a line that is the same as the line you saw on the previous page, either in absolute terms (same number of centimeters; ignore the new frame) or in relative terms (same proportion relative to the frame). Westerners, and particularly Americans, excel at the absolute task, because they saw the line as an independent object in the first place and stored it separately in memory. East Asians, in contrast, outperform Americans at the relative task, because they automatically perceived and remembered the relationship among the parts.</p>
+</blockquote>
+
+The connection between the visual experiment and these broad claims about sociocentric cultures is weak at best.
+
+Furthermore, a research group in China [attempted to reproduce](https://doi.org/10.1167/8.12.2) the visual perception experiment, and did not see the cultural differences that Kutayama did.
+
+<blockquote>
+<p>Our data do not support the hypothesis advocated in Kitayama et al. (2003) that basic visual perception is influenced by the perceiver’s cultural background. Instead, the data could be explained by a simpler notion that a visible frame of reference helps encode more precisely a line’s length relative to the frame than the same line’s length independent of the frame (Rock &amp; Ebenholtz, 1959).</p>
+</blockquote>
+
+In general, I thought the evidence presented in Part II was much weaker than in Part I. For example, Haidt presents the “evolutionary origins” of the different taste receptors, but as best I recall, didn’t provide any evidence (beyond the fact that all his claims are plausible) for them. I appreciated that he said:
+
+<blockquote>
+<p>My goal was to find links between virtues and well-established evolutionary theories. I didn’t want to make the classic mistake of amateur evolutionary theorists, which is to pick a trait and then ask: “Can I think of a story about how this trait might once have been adaptive?” The answer to that question is almost always yes because reasoning can take you wherever you want to go. Anyone with access to an armchair can sit down and generate what Rudyard Kipling called “just-so stories”—fantastical accounts of how the camel got a hump and the elephant got a trunk. My goal, in contrast, was to identify the most obvious links between two fields I deeply respected: anthropology and evolutionary psychology.</p>
+</blockquote>
+
+I think Haidt’s overall thesis is very plausible, and I have so-far enjoyed his discussion a lot and feel that he has provided a nice mental model of morality. But his scientific justification for his thesis feels misleading.
+
 
 ## Does Education make us Moral?
 
