@@ -17,16 +17,16 @@ Few, if any, beliefs are certain.  We can not “prove” many beliefs.
 
 Still, we can and do use certain rules to establish how likely or unlikely beliefs are.
 
-It is less useful to consider individual beliefs than to consider multiple interconnected beliefs—a belief system.
+It is often useful to consider sets of interconnected beliefs—a “belief system.”
 
-We can consider whether a belief system is internally consistent—thus, in some cases, we can disprove a belief system.
+One may ask if a set of beliefs is internally consistent—thus, in some cases, we can disprove the belief system without disproving any particular belief.
 
-If a set of beliefs is internally consistent, it may still be “wrong.”
+An internally consistent belief system may still be “wrong.”
 
-We are free agents existing in reality.  We begin our lives without consciousness and it slowly appears.
+We are free agents existing in reality.  We begin our lives without consciousness and it slowly appears.  We can not escape our existence in reality, and our metaphysical and epistemological belief system must begin somewhere; we must adopt our first epistemological beliefs without a foundation.
 
-We can not escape our existence in reality, and our metaphysical and epistemological belief system must begin somewhere; we must adopt our first epistemological beliefs without a foundation.
+Our epistemological and metaphysical beliefs are intertwined; we are bound by reality, and the assumptions we make about reality inform how we decide what we know about reality, and vice versa.
 
-We can not decompose our epistemological beliefs from our metaphysical beliefs.  We are bound by reality, and the assumptions we make about reality inform how we decide what we know about reality, and vice versa.
+Our brains have a limited physical extent.
 
-Our brains have a limited physical extent.  Language is also limited.
+Language is limited, but not hopelessly so.
