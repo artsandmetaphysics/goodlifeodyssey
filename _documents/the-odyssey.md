@@ -374,12 +374,26 @@ When Odysseus reaches Phaeacia after swimming for two days:
 <p>all glazed to a dead calm, and Odysseus,</p>
 <p>scanning sharply, raised high by a groundswell,</p>
 <p>looked up and saw it—landfall, just ahead.</p>
-<p>Joy … warm as they joy that children feel</p>
+<p>Joy … warm as the joy that children feel</p>
 <p>when they see their father’s life dawn again,</p>
 <p>one who’s lain on a sickbed racked with torment,</p>
 <p>wasting away, slowly, under some angry power’s onslaught—</p>
 <p>So warm, Odysseus’ joy when he saw that shore, those trees,</p>
-<p>as he swam on, anxious to plant his feet on sold ground again. <cite>(5.390–9)</cite></p>
+<p>as he swam on, anxious to plant his feet on solid ground again. <cite>(5.390–9)</cite></p>
+</blockquote>
+
+Just as the children worried about death for several days, so did Odysseus as he floated in the sea.
+
+Later in the story, when Odysseus has reached his home and is plotting his revenge, Homer gives us this great simile:
+
+<blockquote class="poetry">
+<p>But he himself kept tossing, turning,</p>
+<p>intent as a cook before some white-hot blazing fire</p>
+<p>who rolls his sizzling sausage back and forth,</p>
+<p>packed with fat and blood—keen to broil it quickly,</p>
+<p>tossing, turning it, this way, that way—so he cast about:</p>
+<p>how could he get these shameless suitors in his clutches,</p>
+<p>one man facing a mob? <cite>(20.25–30)</cite></p>
 </blockquote>
 
 *All quotations are taken from Robert Fagle’s excellent 1996 translation of the* Odyssey. *Line numbers are approximate.*

@@ -31,7 +31,10 @@ type: note
     - Authority/Subversion
     - Sanctity/Degradation
     - Liberty/Oppression
-  -
+- Morality Binds and Blinds
+  - Group selection is real
+    - Major biological transitions are a form of group selection
+    - ,1j
 
 ## Questions
 
@@ -43,7 +46,7 @@ Rationalism and empiricism would then be gradations on a spectrum. The rationali
 
 ## The Rationalist Delusion
 
-At first Haidt seemed to agree with Hume that reason _ought_ to serve emotions.  This interpretation is strengthed by his use of the term the "rationalist delusion."  But I think Haidt does _not_ believe reason should serve the emotions.  Instead, he is skeptical of the individual's ability to reason, but ultimately reason is still king.
+At first Haidt seemed to agree with Hume that reason _ought_ to serve emotions.  This interpretation is strengthened by his use of the term the "rationalist delusion."  But I think Haidt does _not_ believe reason should serve the emotions.  Instead, he is skeptical of the individual's ability to reason, but ultimately reason is still king.
 
 At the end of Book I, Haidt presents his most compelling arguments against the rationalist view of the mind (and moral thinking):
 

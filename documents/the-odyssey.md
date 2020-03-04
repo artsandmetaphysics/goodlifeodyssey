@@ -352,12 +352,25 @@ When Odysseus reaches Phaeacia after swimming for two days:
 > all glazed to a dead calm, and Odysseus,
 > scanning sharply, raised high by a groundswell,
 > looked up and saw it---landfall, just ahead.
-> Joy ... warm as they joy that children feel
+> Joy ... warm as the joy that children feel
 > when they see their father's life dawn again,
 > one who's lain on a sickbed racked with torment,
 > wasting away, slowly, under some angry power's onslaught---
 > So warm, Odysseus' joy when he saw that shore, those trees,
-> as he swam on, anxious to plant his feet on sold ground again.
+> as he swam on, anxious to plant his feet on solid ground again.
 > ~ (5.390--9)
+
+Just as the children worried about death for several days, so did Odysseus as he floated in the sea.
+
+Later in the story, when Odysseus has reached his home and is plotting his revenge, Homer gives us this great simile:
+
+> But he himself kept tossing, turning,
+> intent as a cook before some white-hot blazing fire
+> who rolls his sizzling sausage back and forth,
+> packed with fat and blood—keen to broil it quickly,
+> tossing, turning it, this way, that way—so he cast about:
+> how could he get these shameless suitors in his clutches,
+> one man facing a mob?
+> ~ (20.25--30)
 
 *All quotations are taken from Robert Fagle's excellent 1996 translation of the* Odyssey. *Line numbers are approximate.*
