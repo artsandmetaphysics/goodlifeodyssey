@@ -4,7 +4,6 @@ title: >
 description: >
   Notes on the "Iliad"
 type: note
-status: incomplete
 ---
 
 ## Background
