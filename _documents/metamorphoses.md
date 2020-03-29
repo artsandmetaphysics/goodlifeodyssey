@@ -253,15 +253,13 @@ He describes how the four winds are separated:
 <p>and to the mountain peaks that lie below</p>
 <p>the morning’s rays; and Zephyr took his place</p>
 <p>on the western shores warmed by the setting sun.</p>
-<p>the frozen north and Scythia were seized</p>
+<p>The frozen north and Scythia were seized</p>
 <p>by bristling Boreas; the lands opposite,</p>
 <p>continually drenched by fog and rain,</p>
 <p>are where the south wind, known as Auster, dwells. <cite>(1.78–92)</cite></p>
 </blockquote>
 
-After creation, Ovid describes the four ages of man. It is similar to Hesiod’s ages of man in _Works and Days_:
-
-Here are the vices of the Iron Age:
+After creation, Ovid describes the four ages of man. It is similar to Hesiod’s ages of man in _Works and Days_. Here are the vices of the Iron Age:
 
 <blockquote class="poetry">
 <p>Now men demand that the rich earth provide</p>
@@ -305,13 +303,11 @@ Here is part of Hesiod’s description of the Iron Age:
 <cite>— Works and Days, 212–35</cite>
 </blockquote>
 
-I find it interesting that both accounts imply that new technology, bronze and iron (and perhaps gold coinage), introduce new evils. Both accounts also look back to an earlier, simpler time when humans existed in a purer state.
+Both accounts imply new technologies, such as bronze, iron, and perhaps gold coinage, cause new evils. Both accounts look to an earlier, purer time. A time when the gods still lived on Earth.
 
-In both accounts, the gods used to live on Earth but eventually moved up to heaven.
+Unlike Hesiod, Ovid does does not include the aberrant Age of Heroes in between the bronze and iron ages. The Age of Heroes, unlike the other four, is not named after a metal (it is better than the previous age). I think Hesiod inserted it to meld an older tradition of the metal ages with the Greek’s own tradition of the heroes of Thebes and the Trojan ware.
 
-Unlike Hesiod, Ovid does does not include the aberrant Age of Heroes in between the bronze and iron ages. The Age of Heroes, unlike the other four, is not named after a metal and is better than the previous age. I think Hesiod inserted it to meld an older tradition of the metal ages with the Greek’s own tradition of the heroes of Thebes and the Trojan ware. In any event, Ovid does not include it.
-
-In response to the wickedness of the Iron Age, Jove calls for a great flood. Unlike in the Babylonian Atrahasis flood myth, where it isn’t until after the flood that the gods regret destroying their source of food sacrifices, in Ovid the gods have more foresight:
+In response to the wickedness of the Iron Age, Jove calls for a great flood. Unlike the Babylonian Atrahasis flood myth—wherein the gods regret destroying their source of sacrifices—in Ovid, the gods have more foresight:
 
 <blockquote class="poetry">
 <p>Some of the gods give voice to their approval</p>
@@ -324,7 +320,7 @@ In response to the wickedness of the Iron Age, Jove calls for a great flood. Unl
 <p>why, who would bring the incense to their altars? <cite>(1.336–43)</cite></p>
 </blockquote>
 
-Ovid’s descriptive power is evident in his portrayal of the flood:
+Ovid’s description of the flood is powerful:
 
 <blockquote class="poetry">
 <p>One takes to the hills, another to his skiff,</p>
@@ -354,7 +350,7 @@ Ovid’s descriptive power is evident in his portrayal of the flood:
 <p>while those spared drowning perish of starvation. <cite>(1.407–31)</cite></p>
 </blockquote>
 
-Jove stops the flood when he realizes the two remaining survivors devout. After describing how the floods recede, Ovid recounts what Deucalian, the last man alive, says to his wife Pyrrha:
+Jove stops the flood when he realizes the two human survivors are devout. After describing how the floods recede, Ovid recounts what Deucalian, the last man alive, says to his wife Pyrrha:
 
 <blockquote class="poetry">
 <p>“O sister, wife, and only woman left,</p>
@@ -385,7 +381,7 @@ Ovid explains how life was biogenerated from the muck (an accepted theory at the
 <p>originate from these opposing sources <cite>(1.595–8)</cite></p>
 </blockquote>
 
-The python is among the forms that are generated, and Ovid tells the tale of Apollo killing the Python (and establishing the Pythian games to ensure memory of his great dead). Next, Ovid weaves in the first rape story of the _Metamorphoses_:
+The Python is among the forms that are generated, and Ovid tells the tale of Apollo killing the Python (and establishing the Pythian games to ensure memory of his great dead). Next, Ovid weaves in the first rape story of the _Metamorphoses_:
 
 <blockquote class="poetry">
 <p>Daphne, the daughter of the river god</p>
@@ -409,9 +405,9 @@ The python is among the forms that are generated, and Ovid tells the tale of Apo
 <p>your glory is so much less than mine!” <cite>(1.628–46)</cite></p>
 </blockquote>
 
-Ovid’s ability to weave one story into the next makes the Metamorphoses a joy to read. Here, Apollo’s pride at defeating the Python causes him to foolishly boast, propelling us into the next story while also presenting a compelling example of overconfidence after accomplishment.
+Ovid’s ability to weave one story into the next makes the Metamorphoses a joy to read. Here, Apollo’s pride at defeating the Python causes him to foolishly boast, propelling us into the next story while also presenting a compelling example of overconfidence.
 
-Daphne escapes, but Io is less fortunate. After Jove rapes her he turns her into a cow to hider her from. Juno, knowing as much, convinces Jove to give her the cow and places Argus to watch over her:
+Daphne escapes, but Io is less fortunate. Jove rapes her, and then he turns her into a cow to hide her from Juno, who, knowing as much, convinces him to hand over the cow.  Juno places Argus to watch over her:
 
 <blockquote class="poetry">
 <p>… Argus, the watchman with a hundred eyes:</p>
@@ -430,7 +426,7 @@ While a cow, Io’s father makes an interesting comment:
 <p>and our sorrows must go on forever.” <cite>(1.916–9)</cite></p>
 </blockquote>
 
-Jove can not bear to watch her pain, so he sends Mercury to kill Argus. He tells Argus a tail to make him fall asleep:
+Jove can’t bear to watch her pain, so he sends Mercury to kill Argus. Mercury lulls Argus to sleep with a tale:
 
 <blockquote class="poetry">
 <p>Now Mercury was ready to continue [his story]</p>
@@ -438,7 +434,7 @@ Jove can not bear to watch her pain, so he sends Mercury to kill Argus. He tells
 <p>for all his eyes had been closed down by sleep.</p>
 <p>He silences himself and waves his wand</p>
 <p>above those languid orbs to fix the spell.</p>
-<p>Without delay he grasp the nodding head</p>
+<p>Without delay he grasps the nodding head</p>
 <p>and where it joins the neck, he severs it</p>
 <p>with his curved blade and flings it bleeding down</p>
 <p>the steep rock face, staining it with gore.</p>
@@ -452,7 +448,7 @@ Jove can not bear to watch her pain, so he sends Mercury to kill Argus. He tells
 
 Many of Ovid’s stories explain the origin of species (especially of birds), rivers, springs, and constellations.
 
-As an interesting note, the tale that Mercury tells Argus is about the rape of Syrinx; a commentator observed that rape is so common that the story was dull enough to put Argus to sleep (although his wand may have helped too).
+Note that the tale that Mercury tells Argus is about the rape of Syrinx; rape is so common that the story puts Argus to sleep (although his wand may have helped too).
 
 ## Book II
 
