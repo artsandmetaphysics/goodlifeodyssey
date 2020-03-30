@@ -99,17 +99,18 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
   - Tereus marries Procne, rapes her sister Philomela, eats his son
   - Boreas steals Orithya as his bride
 - Book VII
-  - Medea and Jason
-  - Medea and Aeson
-  - Medea and Pelias
-  - The flight of Medea
-  - Medea, Aegeus, and Theseus
-  - King Minos threatens ware
-  - Cephalus arrives at Aegina
-  - The plague at Aegina
-  - Cephalus, Procris, and Aurora
-  - The plague at Thebes
-  - Cephalus, Aura, and Procris
+  - Jason arrives; Medea’s monologue; Jason wins her and the fleece
+  - Medea’s potion of youth for Aeson
+  - Medea fools old Pelias’s daughters into killing him
+  - Story-filled flight of Medea; Jason’s betrayal; Medea’s revenge
+  - Aegeus marries Medea, who nearly poisons Theseus; celebrations
+  - King Minos builds a coalition; Aegina refuses to join
+  - Cephalus of Athens requests aid from Aeacus of Aegina
+    - The plague at Aegina
+  - The Myrmidons prepare for war
+    - Aurora rapes Cephalus; jealous, he unfairly tests Procris
+    - The plague at Thebes
+    - Cephalus accidentally kills Procris
 - Book VIII
   - Nisus and Scylla
   - Minos and Ariadne
@@ -926,7 +927,177 @@ He proceeds to cut out her tongue.
 
 ## Book VII
 
+Book VII begins with the story of Jason and the Golden Fleece.
 
+Medea’s monologues are brilliant.
+
+<blockquote class="poetry">
+<p>“All your resistance is in vain, Medea;</p>
+<p>what god opposes you, I do not know—</p>
+<p>I wonder if this isn’t love, so called,</p>
+<p>or something rather like it—for why else</p>
+<p>would these ordeals imposed upon the strangers</p>
+<p>by my own father seem too harsh to me?</p>
+<p>Because they _are_! Why do I fear that one</p>
+<p>whom I have only just now seen will die?</p>
+<p>What is the power that can cause such fear?</p>
+<p>There is a fire in your untried heart,</p>
+<p>poor wretched girl! Dislodge it if you can!</p>
+<p>I’d act more sanely, if I only could,</p>
+<p>but this new power overwhelms my will;</p>
+<p>reason advises this, and passion, that;</p>
+<p>I see the better way, and I approve it,</p>
+<p>while I pursue the worse.” <cite>(7.20–35)</cite></p>
+</blockquote>
+
+These lines remind me of Paul’s letter to the Romans, where he says:
+
+<blockquote>
+<p>I do not understand my own actions. For I do not do what I want, but I do the very thing I hate. Now if I do what I do not want, I agree that the law is good. But in fact it is no longer I that do it, but sin that dwells within me. For I know that nothing good dwells within me, that is, in my flesh. I can will what is right, but I cannot do it. For I do not do the good I want, but the evil I do not want is what I do. Now if I do what I do not want, it is no longer I that do it, but sin that dwells within me. <cite>(Romans 7.15–20)</cite></p>
+</blockquote>
+
+In Medea’s speech, we hear her grasp onto a small reason to wish Jason well, and slowly expand and rationalize her thoughts. She continues going back and forth. At some point, she weighs whether she can trust Jason, even if she betrays her father:
+
+<blockquote class="poetry">
+<p>“Will I betray the kingdom of my father,</p>
+<p>only to have the stranger whom I save</p>
+<p>set sail without me for another’s bed,</p>
+<p>leaving Medea to her punishment?</p>
+<p>If he could do that, leave me for another,</p>
+<p>let the ingrate die! But no: that isn’t in him,</p>
+<p>not in his face, not in his noble spirit,</p>
+<p>not in  a man as beautiful as he,</p>
+<p>that I should fear duplicity from him,</p>
+<p>or his neglecting what I am deserved.” <cite>(7.63–72)</cite></p>
+</blockquote>
+
+These lines may ironically refer to Euripides’ play, _Medea_. Note that beauty and goodness are thought to be correlated.
+
+The virgin princess weaves back and forth, but, upon seeing Jason again, decides to betray her family and flee with him.
+
+<blockquote class="poetry">
+<p>Here she was resolute, and her impulsive</p>
+<p>ardor would appear to be extinguished—</p>
+<p>but broke out once again at sight of Jason:</p>
+<p>her cheeks reddened, and a suffusing glow</p>
+<p>spread across her countenance completely,</p>
+<p>as when a spark that has been hidden under</p>
+<p>a crust of ash is nourished by a breeze</p>
+<p>and comes to life again as it’s stirred up,</p>
+<p>regaining all the vigor it once had;</p>
+<p>just so her smoldering love, which you’d have thought</p>
+<p>was almost out, came blazing up anew,</p>
+<p>to see the young man standing in her presence,</p>
+<p>and—as it happened—looking even better</p>
+<p>than usual. You would have understood</p>
+<p>and pardoned her for her infatuation. <cite>(7.117–31)</cite></p>
+</blockquote>
+
+After returning to Greece, Jason begs Medea to give his father a potion to lengthen his life. She complies:
+
+<blockquote class="poetry">
+<p>After nine days and nights had seen Medea</p>
+<p>in her dragon-drive chariot, traversing</p>
+<p>the skies above those regions, she returned</p>
+<p>to her own home; her reptiles had been touched</p>
+<p>only by the _odors_ of those herbs,</p>
+<p>and yet they shed the skins of their old age! <cite>(7.335–10)</cite></p>
+</blockquote>
+
+Ovid pokes fun at readers by not including the full list of ingredients:
+
+<blockquote class="poetry">
+<p>When, with these,</p>
+<p>and with a thousand other such ingredients</p>
+<p>(whose names we needn’t bother mentioning),</p>
+<p>the miracle to come had been arranged,</p>
+<p>the foreign woman took a long-dead branch</p>
+<p>from a fruitful olive tree and stirred her pot,</p>
+<p>mixing it thoroughly from top to bottom.</p>
+<p>But look! Almost at once, that stick turned green,</p>
+<p>and just a short time later put out leaves,</p>
+<p>and suddenly was loaded down with fruit! <cite>(7.387–99)</cite></p>
+</blockquote>
+
+As Medea flies from this gruesome scene, Ovid lists transformation stories. Then, in a few succinct lines, he tells the story of Jason’s betrayal and Medea’s revenge:
+
+<blockquote class="poetry">
+<p>But after the new bride that Jason took</p>
+<p>was poisoned by the old wife he forsook,</p>
+<p>and fisherfolk off Corinth glimpsed through haze</p>
+<p>the ruined palace of the king ablaze,</p>
+<p>the blade that dripped with her own children’s gore</p>
+<p>enraged their father, whom she fled before,</p>
+<p>her fatal vengeance leaving all undone! <cite>(7.555–61)</cite></p>
+</blockquote>
+
+After Aegeus discovers his unknown son, Theseus, there is a big celebration. Then Ovid gives us this pithy line:
+
+<blockquote class="poetry">
+<p>And yet, no joy is ever unalloyed,</p>
+<p>and worry worms its way into delight <cite>(7.648–9)</cite></p>
+</blockquote>
+
+Aegeus is worried about King Minos, who wants to revenge his dead son. Fortuneatly, Athens has a loyal ally ruling over Aegina. Cephalus seeks aid, and king Aeacus of Aegina recounts the story of the plague:
+
+<blockquote class="poetry">
+<p>“At first the animals</p>
+<p>alone succumbed: the plague confined itself</p>
+<p>to dogs, birds, sheep, cattle, and wild beasts:</p>
+<p>the luckless plowman is quite stunned to see</p>
+<p>his healthy bulls collapsing at their work,</p>
+<p>falling in midfurrow; woolly flocks</p>
+<p>give a few feeble bleats, then, without help,</p>
+<p>shed their thick coats, grow wasted and soon die;</p>
+<p>the stall-bound horse, once famous for his speed,</p>
+<p>but now unworthy of his victories,</p>
+<p>ignores his former honors, whinnying</p>
+<p>as death prepares to scratch him from the race.</p>
+<p>⋯</p>
+<p>The plague, grown stronger, now advances on</p>
+<p>the wretched country folk, then rules within</p>
+<p>the walls of the great city. Its first symptom</p>
+<p>is a fierce burning in the viscera,</p>
+<p>the hidden fire indicated by</p>
+<p>a flushed complexion, pain in drawing breath;</p>
+<p>the patient’s roughened tongue swells up with fever,</p>
+<p>and lips that have been parched by the hot winds</p>
+<p>gape widely, snatching at the torpid air—</p>
+<p>no bed nor covering is bearable;</p>
+<p>they fling themselves facedown upon the ground</p>
+<p>to cool their bodies off; but no: the heat</p>
+<p>of their poor bodies warms the earth instead!</p>
+<p>Ungovernable plague! The doctors die,</p>
+<p>their arts a harm to their practitioners,</p>
+<p>and those who are the closest to the sick,</p>
+<p>who serve most faithfully, are first to fall!</p>
+<p>⋯</p>
+<p>Can you imagine what my feelings were?</p>
+<p>Like those of anyone in such a case:</p>
+<p>I hated life and longed to share the fate</p>
+<p>of my own kind, for everywhere I looked</p>
+<p>the dead were strewn in heaps, without distinction,</p>
+<p>like rotten apples shaken from the bough</p>
+<p>or acorns that the wind strips from an oak.</p>
+<p>⋯</p>
+<p>Some freed themselves from the fear they had of death</p>
+<p>by taking their own lives—summoning Fate</p>
+<p>even as Fate prepared to summon them.</p>
+<p>No longer were the bodies of the dead</p>
+<p>carried in processions from the city</p>
+<p>for burial with the customary rites:</p>
+<p>no gates were wide enough for such a throng.</p>
+<p>Either they lay unburied on the ground</p>
+<p>or, without services, were stacked and burned;</p>
+<p>and now there are no honors for the dead;</p>
+<p>dying, men struggle over scraps of wood,</p>
+<p>and are cremated with a stranger’s flame.</p>
+<p>With none to mourn them, unlamented souls</p>
+<p>of parents and their children, the young, the old,</p>
+<p>wander about, their journey uncompleted:</p>
+<p>no wood is left to burn their bodies now,</p>
+<p>no bit of land where they may be interred.” <cite>(7.764–873)</cite></p>
+</blockquote>
 
 ## Epistemology
 
@@ -1054,6 +1225,18 @@ Procne carries of her son Itys, to murder him and feed him to her evil husband:
 <p>Now resolute, she carries Itys off,</p>
 <p>just as a tiger on the Ganges’ banks</p>
 <p>will drag a nursing fawn through the dense woods <cite>(6.922-4)</cite></p>
+</blockquote>
+
+## Rape
+
+Aeacus’s casual comment about his wife being worthy:
+
+<blockquote class="poetry">
+<p>“Her name was Procris: it’s likelier you’ve heard</p>
+<p>about her ravished sister, Orithyia,</p>
+<p>but were you to compare the two of them</p>
+<p>in looks and manner, Procris was more worthy</p>
+<p>of being ravished!” <cite>(6.990–5)</cite></p>
 </blockquote>
 
 *All quotations are taken from Charles Martin’s 2004 translation. Line numbers refer to the translation and not the original Latin.*
