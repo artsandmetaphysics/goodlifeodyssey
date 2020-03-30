@@ -829,7 +829,7 @@ This book continues the theme of divine revenge:
 > "we will be praised---and we will not permit
 > those who belittle our divinity
 > to go unpunished!"
-> (6.4--7)
+> ~ (6.4--7)
 
 Minerva contests the Arachne---an expert weaver. Although she loses, she turns her competitor into a spider.
 

@@ -861,12 +861,11 @@ Venus’ impulse leads to the rape of Persephone and (so they say) the rotation 
 
 This book continues the theme of divine revenge:
 
-<blockquote>
+<blockquote class="poetry">
 <p>“To praise is insufficient,” she [Minerva] reflected;</p>
 <p>“we will be praised—and we will not permit</p>
 <p>those who belittle our divinity</p>
-<p>to go unpunished!”</p>
-<p>(6.4–7)</p>
+<p>to go unpunished!” <cite>(6.4–7)</cite></p>
 </blockquote>
 
 Minerva contests the Arachne—an expert weaver. Although she loses, she turns her competitor into a spider.
