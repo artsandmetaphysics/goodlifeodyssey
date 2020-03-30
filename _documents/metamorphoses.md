@@ -917,7 +917,7 @@ After trapping Philomela in a house in the woods and raping her, she cries:
 <p>imprisoned here, my voice will fill the trees</p>
 <p>and wring great sobs of grief from senseless rocks!</p>
 <p>Heaven will hear me, and what gods there are,</p>
-<p>_if_ there are any gods in all of heaven!”</p>
+<p><em>if</em> there are any gods in all of heaven!”</p>
 <p>Such words provoke the savage tyrant’s wrath</p>
 <p>and fear in equal measure <cite>(6.781–792)</cite></p>
 </blockquote>
@@ -937,7 +937,7 @@ Medea’s monologues are brilliant.
 <p>or something rather like it—for why else</p>
 <p>would these ordeals imposed upon the strangers</p>
 <p>by my own father seem too harsh to me?</p>
-<p>Because they _are_! Why do I fear that one</p>
+<p>Because they <em>are</em>! Why do I fear that one</p>
 <p>whom I have only just now seen will die?</p>
 <p>What is the power that can cause such fear?</p>
 <p>There is a fire in your untried heart,</p>
@@ -999,7 +999,7 @@ After returning to Greece, Jason begs Medea to give his father a potion to lengt
 <p>in her dragon-drive chariot, traversing</p>
 <p>the skies above those regions, she returned</p>
 <p>to her own home; her reptiles had been touched</p>
-<p>only by the _odors_ of those herbs,</p>
+<p>only by the <em>odors</em> of those herbs,</p>
 <p>and yet they shed the skins of their old age! <cite>(7.335–10)</cite></p>
 </blockquote>
 
