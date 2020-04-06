@@ -112,15 +112,17 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
     - The plague at Thebes
     - Cephalus accidentally kills Procris
 - Book VIII
-  - Nisus and Scylla
-  - Minos and Ariadne
-  - Daedalus and Icarus
-  - Daedalus and Perdix
-  - Meleager and Althaea
-  - Acheloüs and Theseus
-  - The Echinades and Perimele
-  - Baucis and Philemon
-  - Erysicthon and his daughter
+  - Scylla betrays Nisus and her country to beautiful King Minos
+  - Minos places the Minotaur in Daedulus’s labyrinth
+  - Ariadne helps Theseus kill it, who betrays then her
+  - Daedalus constructs wings so he and Icarus can flee Crete
+  - Daedalus jealously murders his talented nephew Perdix
+  - Jealous Diana sends a boar; heroes gather and kill it
+  - Meleager kills his uncles; his mother kills him
+  - Theseus rests with river Acheloüs after the hunt
+    - The Echinades and Perimele islands
+    - Devout old Baucis and Philemon
+    - Erysicthon and his daughter
 - Book IX
   - Acheloüs and Hercules
   - Hercules, Deianira, and Nessus
@@ -1052,7 +1054,17 @@ Aegeus is worried about King Minos, who wants to revenge his dead son. Fortuneat
 <p>but now unworthy of his victories,</p>
 <p>ignores his former honors, whinnying</p>
 <p>as death prepares to scratch him from the race.</p>
-<p>⋯</p>
+<p>The boar does not remember how to rage,</p>
+<p>nor the deer to trust in swiftness, nor the bear</p>
+<p>to cull the great herds with his fierce attacks;</p>
+<p>a languor seizes all; in woods, in fields,</p>
+<p>along the roads, the fetid corpses lie</p>
+<p>until the air is blighted with the stench.</p>
+<p>I’ll tell you something quite astonishing:</p>
+<p>the greedy dogs and vultures—even wolves!—</p>
+<p>left them untouched; those bodies fell apart,</p>
+<p>sickening us with their apalling odor</p>
+<p>and spreading foul contagion everywhere.</p>
 <p>The plague, grown stronger, now advances on</p>
 <p>the wretched country folk, then rules within</p>
 <p>the walls of the great city. Its first symptom</p>
@@ -1096,6 +1108,171 @@ Aegeus is worried about King Minos, who wants to revenge his dead son. Fortuneat
 <p>wander about, their journey uncompleted:</p>
 <p>no wood is left to burn their bodies now,</p>
 <p>no bit of land where they may be interred.” <cite>(7.764–873)</cite></p>
+</blockquote>
+
+## Book VIII
+
+The book opens with the story of Scylla, who like Medea, betrays her family and country after falling in love with a man:
+
+<blockquote class="poetry">
+<p>“Love has led me</p>
+<p>into this betrayal; I am Scylla,</p>
+<p>the daughter of King Nisus; I surrender</p>
+<p>myself, my nation, and my gods as well,</p>
+<p>and seek no other recompense but you;</p>
+<p>receive this pledge that guarantees my love,</p>
+<p>this purple lock—which is no lock at all,</p>
+<p>but my father’s head!” She stretched out her foul hand</p>
+<p>with the proffered gift as Minos shrank away,</p>
+<p>shocked by the sight of this unholy act:</p>
+<p>“Shame of the age,” he said, “may the gods forbid you</p>
+<p>their kingdom, and may land and sea deny you!</p>
+<p>Be sure that I will never let so vile</p>
+<p>a monster into Crete” <cite>(8.119–32)</cite></p>
+</blockquote>
+
+It is hard to imagine a woman falling in love with a man she hasn’t met and cutting her head off. Ovid’s portrayal of women’s sexual passion feels like pornographic male fantasy.
+
+Ironically, when Minos returns to Crete, he realizes his wife had slept with a bull, letting a vile monster onto Crete.
+
+<blockquote class="poetry">
+<p>The scandal of his family had grown</p>
+<p>past all concealment; now the mother’s foul</p>
+<p>adultery was proven by the strange</p>
+<p>form of the Minotaur, half man, half bull.</p>
+<p>Minos determined to remove the cause</p>
+<p>of this opprobrium from his abode,</p>
+<p>enclosing it within a labyrinth</p>
+<p>devised and built by Daedalus, the most</p>
+<p>distinguished of all living architects,</p>
+<p>who framed confusion and seduced the eye</p>
+<p>into a maze of wandering passages.</p>
+<p>Not otherwise than when Maeander pays</p>
+<p>his liquid games in the Phrygian fields</p>
+<p>and flowing back and forth uncertainly,</p>
+<p>observes its own waves bearing down on it,</p>
+<p>and sends its doubtful waters on their ways</p>
+<p>back to their source of down to the open sea:</p>
+<p>so Daedalus provided numberless</p>
+<p>confusing corridors and was himself</p>
+<p>just barely able to find his way out,</p>
+<p>so utterly deceitful was that place. <cite>(8.212–32)</cite></p>
+</blockquote>
+
+Daedalus builds wings and flees Crete with his son Icarus, who famously dies because he flies too close to the sun. I love these lines, describing bystanders watching:
+
+<blockquote class="poetry">
+<p>Some fisherman whose line jerks with his catch,</p>
+<p>some idle shepherd leaning on his crook,</p>
+<p>some plowman at his plow, looks up and sees</p>
+<p>something astonishing, and thinks them gods,</p>
+<p>who have the power to pass through the air. <cite>(8.303–7)</cite></p>
+</blockquote>
+
+Daedalus is brilliant, but he also demonstrates terrible academic jealousy:
+
+<blockquote class="poetry">
+<p>For, as it happened, the inventor’s sister,</p>
+<p>quite unaware of what the Fates intended,</p>
+<p>entrusted her own son to his instruction,</p>
+<p>a likely lad of twelve, who had a mind</p>
+<p>with the capacity for principles and precepts;</p>
+<p>and from his observation of the spines</p>
+<p>of fishes, which he’d taken as his model,</p>
+<p>incised a row of teeth in an iron strip</p>
+<p>and thereby managed to invent the saw.</p>
+<p>Likewise, he was the first to bind two arms</p>
+<p>of iron at a joint, so one is fixed</p>
+<p>and the other, as it moves, inscribes a circle.</p>
+<p>Daedalus envied him, and headlong hurled</p>
+<p>this lad of precepts from a precipice,</p>
+<p>the steep acropolis Minerva loves,</p>
+<p>and lying, said the lad had slipped and fallen. <cite>(8.336–51)</cite></p>
+</blockquote>
+
+When the apostle Paul visits Athens, he stood in front of the Areopagus, and said “Athenians, I see how extremely religious you are in every way. For as I went through the city and looked carefully at the objects of your worship, I found among them an altar with the inscription, ‘To an unknown god.’” I wonder if pagans worshiped the unknown god to ensure they aren’t forgetting to sacrifice to a god they are not aware of. The jealous anger of the pagan gods is common, here is a nice example:
+
+<blockquote class="poetry">
+<p>Commencing with the rural deities,</p>
+<p>the gods all got the honors they desired;</p>
+<p>only Diana’s altar was ignored,</p>
+<p>and left, they say, without a gift of incense.</p>
+<p>Even the gods may be provoked to anger!</p>
+<p>“We will not let them get away with this,”</p>
+<p>Diana said, “Dishonored we may be;</p>
+<p>but none will say that we were unavenged!”</p>
+<p>And the spurned goddess sent her vengeful boar</p>
+<p>straightway onto the fields of Calydon:</p>
+<p>a beat as great as the bulls of Epirus,</p>
+<p>and mightier than those of Sicily,</p>
+<p>with blood and fire shining from his eyes</p>
+<p>and a neck stiff with bristles just like spear shafts;</p>
+<p>and as his chest heaved with his grating breast,</p>
+<p>his heavy shoulders dripped with seething spume;</p>
+<p>in length his tusks were like an elephant’s,</p>
+<p>and bolts of lightning issued from his mouth,</p>
+<p>and when he exhaled, trees turned black and died. <cite>(8.388–406)</cite></p>
+</blockquote>
+
+A band of heroes, including Nestor from the Iliad and Jason of the Golden Fleece, sets out the kill the boar. A few heroes die, and after a fortunate spear ends its life, the heroes bicker over the honors of the dead. One tragedy leads to another, and before long Diana has completed her revenge. Ovid says:
+
+<blockquote class="poetry">
+<p>Not even if some god had given me</p>
+<p>a hundred mouths, each fitted with a tongue,</p>
+<p>and genius suitable to the occasion,</p>
+<p>and all of Helicon for inspiration,</p>
+<p>not even then would I be able to</p>
+<p>describe the sad fate of his wretched sisters,</p>
+<p>who, careless of decorum, beat their breasts,</p>
+<p>and while his corpse was still displayed among them,</p>
+<p>caressed him constantly and gave him kisses,</p>
+<p>and even kissed the bier he was laid out on <cite>(8.760–9)</cite></p>
+</blockquote>
+
+Some of the heroes, upon their journey home from the hunt, are stopped at the overflowing river Acheloüs. They tell stories with the river to pass the time, including the story of some naiads turned into islands and my favourite story of Baucis and Philemon. Two gods in disguise look for a home to stay in. Many turn them down, but the old couple lets them in and, though pour, try to make them comfortable. The scene seems archetypal—disguised gods testing the devout (consider Abraham being visited by divine messengers).
+
+<blockquote class="poetry">
+<p>“The gods reclined. And with her skirts hitched up,</p>
+<p>the trembling old lady set the table,</p>
+<p>correcting its imbalance with a potsherd</p>
+<p>slipped underneath the shortest of its legs;</p>
+<p>and when the table had been stabilized,</p>
+<p>she scrubbed its surface clean with fragrant mint.” <cite>(8.931–6)</cite></p>
+</blockquote>
+
+The visitors magically refill the winebowl, and the couple realize they are gods.
+
+<blockquote>
+<p>“They had a single goose, the guardian</p>
+<p>of their small villa, whom they now prepared</p>
+<p>to sacrifice to their immortal guests;</p>
+<p>his swiftness, though, left the old pair exhausted.</p>
+<p>Time after time, he slipped out of their grasp,</p>
+<p>and then, it seemed, sought refuge with the gods,</p>
+<p>who would not let the couple do him in”</p>
+</blockquote>
+
+The small expressions Ovid uses, like “the guardian of their small villa,” let one imagine the scene with so few words.
+
+The gods destroy the town (similar to Sodom and Gomorrah), and ask the old couple what reward they want.
+
+<blockquote class="poetry">
+<p>“‘We ask to be allowed to guard your temple</p>
+<p>as its priests, and, since we have lived together</p>
+<p>so many years in harmony, we ask</p>
+<p>that the same hour take us both together,</p>
+<p>and that I should not live to see her tomb</p>
+<p>nor she survive to bury me in min.’” <cite>(8.989–99)</cite></p>
+</blockquote>
+
+Acheloüs tells the story of Erysichton, who chopped down a sacred tree of Ceres, who soon sent famine to enact her revenge. Erysichton was so hungry he sold his daughter into slavery and eventually ate himself to death:
+
+<blockquote class="poetry">
+<p>“But when at last his illness had consumed</p>
+<p>all that she brought him, and he still craved more,</p>
+<p>the wretched man began to tear his limbs</p>
+<p>asunder, mangling them in his maw,</p>
+<p>and fed his body as he shrank away.” <cite>(8.1232–6)</cite></p>
 </blockquote>
 
 ## Epistemology
