@@ -121,7 +121,7 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
   - Theseus rests with river Acheloüs after the hunt
     - The Echinades and Perimele islands
     - Devout old Baucis and Philemon
-    - Erysicthon and his daughter
+    - Erysichthon cuts Ceres' tree; sells daughter; eats himself
 - Book IX
   - Acheloüs and Hercules
   - Hercules, Deianira, and Nessus
