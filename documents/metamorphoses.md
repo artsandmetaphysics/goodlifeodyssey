@@ -123,15 +123,14 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
     - Devout old Baucis and Philemon
     - Erysichthon cuts Ceres' tree; sells daughter; eats himself
 - Book IX
-  - Acheloüs and Hercules
-  - Hercules, Deianira, and Nessus
-  - The passion of Hercules
-  - Lichas
-  - The death of Herules
-  - Jove and the apotheosis of Hercules
-  - Alcmena's tale
-  - Iole's tale of Dryope
-  - Iolaüs and Hebe's prophecy
+    - Acheloüs recounts wrestling with Hercules and losing his horn
+  - Hercules save Deianira; Nessus' revenge by poisoned bloody cloak
+  - Hercules' in pain; recounts deeds; climbs mountain
+  - Hercules throws Lichas into the sea; he becomes an island
+  - Hercules' death and apotheosis
+  - Alcmena delivers Hercules; tricky servant turned into weasel
+  - Dryope turned into a tree for picking berries
+  - Iolaüs and Hebe's prophecy; Zeus blames fate
   - Byblis and Caunus
   - Iphis and Isis
 - Book X
@@ -1214,6 +1213,43 @@ Acheloüs tells the story of Erysichton, who chopped down a sacred tree of Ceres
 > asunder, mangling them in his maw,
 > and fed his body as he shrank away."
 > ~ (8.1232--6)
+
+## Book IX
+
+Hercules' contempt of death, and the Greek ideal:
+
+> And as the eager flames began to spread,
+> you draped the pelt of the Nemean lion
+> over the top, and pillowing your head
+> upon your club, you lay there at your ease,
+> not otherwise than as you would have been
+> reclining at a banquet, flower-wreathed,
+> with wine to drink from cups always refilled.
+> Now spreading out in every direction,
+> the crackling flames came after Hercules,
+> whose carefree limbs received them with contempt.
+> ~ (9.345--54)
+
+## Metaphysics
+
+The _Metamorphoses_ were meant to be entertaining, thus it is dangerous to make any theological conclusions from them. Still, some metaphysical comments may represent widely held beliefs from Ovid's time. For example, the role of fate, present in Homer, is laid out:
+
+> Each of the gods there had a favorite,
+> and argued from a partisan position
+> against the others, until Jove spoke up:
+> "O gods! If you have any reverence
+> for us at all, why leap to such confusions?
+> Does anyone here imagine himself able
+> to overcome the limits set by Fate?
+> Iolaüs was given back the years
+> he was in need of by the will of Fate;
+> not by ambition, not by skill in combat
+> will Callirhoë's sons turn into men
+> from infancy, but by the will of Fate,
+> which governs even us; I tell you this
+> that you might put a better face on it---
+> yes, _you_ are ruled by Fate, and _I_ am too."
+> ~ (9.621--35)
 
 ## Epistemology
 

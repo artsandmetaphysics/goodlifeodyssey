@@ -124,15 +124,14 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
     - Devout old Baucis and Philemon
     - Erysichthon cuts Ceres’ tree; sells daughter; eats himself
 - Book IX
-  - Acheloüs and Hercules
-  - Hercules, Deianira, and Nessus
-  - The passion of Hercules
-  - Lichas
-  - The death of Herules
-  - Jove and the apotheosis of Hercules
-  - Alcmena’s tale
-  - Iole’s tale of Dryope
-  - Iolaüs and Hebe’s prophecy
+    - Acheloüs recounts wrestling with Hercules and losing his horn
+  - Hercules save Deianira; Nessus’ revenge by poisoned bloody cloak
+  - Hercules’ in pain; recounts deeds; climbs mountain
+  - Hercules throws Lichas into the sea; he becomes an island
+  - Hercules’ death and apotheosis
+  - Alcmena delivers Hercules; tricky servant turned into weasel
+  - Dryope turned into a tree for picking berries
+  - Iolaüs and Hebe’s prophecy; Zeus blames fate
   - Byblis and Caunus
   - Iphis and Isis
 - Book X
@@ -1273,6 +1272,45 @@ Acheloüs tells the story of Erysichton, who chopped down a sacred tree of Ceres
 <p>the wretched man began to tear his limbs</p>
 <p>asunder, mangling them in his maw,</p>
 <p>and fed his body as he shrank away.” <cite>(8.1232–6)</cite></p>
+</blockquote>
+
+## Book IX
+
+Hercules’ contempt of death, and the Greek ideal:
+
+<blockquote class="poetry">
+<p>And as the eager flames began to spread,</p>
+<p>you draped the pelt of the Nemean lion</p>
+<p>over the top, and pillowing your head</p>
+<p>upon your club, you lay there at your ease,</p>
+<p>not otherwise than as you would have been</p>
+<p>reclining at a banquet, flower-wreathed,</p>
+<p>with wine to drink from cups always refilled.</p>
+<p>Now spreading out in every direction,</p>
+<p>the crackling flames came after Hercules,</p>
+<p>whose carefree limbs received them with contempt. <cite>(9.345–54)</cite></p>
+</blockquote>
+
+## Metaphysics
+
+The _Metamorphoses_ were meant to be entertaining, thus it is dangerous to make any theological conclusions from them. Still, some metaphysical comments may represent widely held beliefs from Ovid’s time. For example, the role of fate, present in Homer, is laid out:
+
+<blockquote class="poetry">
+<p>Each of the gods there had a favorite,</p>
+<p>and argued from a partisan position</p>
+<p>against the others, until Jove spoke up:</p>
+<p>“O gods! If you have any reverence</p>
+<p>for us at all, why leap to such confusions?</p>
+<p>Does anyone here imagine himself able</p>
+<p>to overcome the limits set by Fate?</p>
+<p>Iolaüs was given back the years</p>
+<p>he was in need of by the will of Fate;</p>
+<p>not by ambition, not by skill in combat</p>
+<p>will Callirhoë’s sons turn into men</p>
+<p>from infancy, but by the will of Fate,</p>
+<p>which governs even us; I tell you this</p>
+<p>that you might put a better face on it—</p>
+<p>yes, <em>you</em> are ruled by Fate, and <em>I</em> am too.” <cite>(9.621–35)</cite></p>
 </blockquote>
 
 ## Epistemology
