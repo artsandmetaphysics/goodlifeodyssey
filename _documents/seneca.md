@@ -45,6 +45,10 @@ Seneca believes many activities are wasteful, as demonstrated by some of my favo
 </blockquote>
 
 <blockquote>
+<p>It is the mind which is tranquil and free from care which can roam through all the stages of its life: the minds of the preoccupied, as if harnessed in a yoke, cannot turn round and look behind them. So their lives vanish into an abyss; and just as it is no use pouring any amount of liquid into a container without a bottom to catch and hold it, so it does not matter how much time we are given if there is nowhere for it to settle; it escapes through the cracks and holes of the mind.</p>
+</blockquote>
+
+<blockquote>
 <p>They are not at leisure whose pleasures involve a serious commitment. For example, nobody will dispute that those people are busy about nothing who spend their time on useless literary studies: even among the Romans there is now a large company of these. It used to be a Greek failing to want to know how many oarsmen Ulysses had, whether the <em>Iliad</em> or the <em>Odyssey</em> was written first, and whether too they were by the same author, and other questions of this kind, which if you keep them to yourself in no way enhance your private knowledge, and if you publish them make you appear more a bore than a scholar. But now the Romans too have been afflicted by the pointless enthusiasm for useless knowledge.</p>
 </blockquote>
 
