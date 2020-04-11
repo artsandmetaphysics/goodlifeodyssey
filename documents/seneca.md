@@ -1,0 +1,69 @@
+---
+title: >
+  Seneca
+description: >
+  Notes on Senaca's Philosphy and Plays
+type: note
+---
+
+Lucius Annaeus Seneca, known as Seneca or Seneca the Younger, was born around 4 BCE and died 65 CE. He was a Roman Stoic philosopher, statesman, and dramatist.
+
+He was born in Corduba and raised in Rome, where he was trained in rhetoric and philosophy. In 41 CE, Seneca was exiled to the island of Corsica by the emperor Claudius, but was allowed to return in 49 to become a tutor to Nero. When Nero became emperor in 54, Seneca became his advisor and, together with the praetorian prefect Sextus Afranius Burrus, provided competent government for the first five years of Nero's reign. Seneca's influence over Nero declined with time, and in 65 Seneca was forced to take his own life for alleged complicity in the Pisonian conspiracy to assassinate Nero, in which he was likely to have been innocent.
+
+Seneca's letters were meant for public reading.
+
+This is my collection of quotes from his letters and plays along with my thoughts.
+
+## On The Shortness of Life
+
+Here is how I would summarize this letter:
+
+Many feel life is short, but it is long enough if---instead of wasting it laboring, drinking, lusting, sporting, studying trivia, accruing wealth, or chasing fame---you contemplate the past and study philosophy.
+
+> It is not that we have a short time to live, but that we waste a lot of it. Life is long enough, and a sufficiently generous amount has been given to us for the highest achievements if it were all well invested. But when it is wasted in heedless luxury and spent on no good activity, we are forced at last by death's final constraint to realize that it has passed away before we knew it was passing.
+
+Many activities are wasteful. Here are a few noteworthy quotes:
+
+> How many burst a blood vessel by their eloquence and their daily striving to show off their talents!
+
+> People are frugal in guarding their personal property; but as soon as it comes to squandering time they are most wasteful of the one thing in which it is right to be stingy.
+
+> You will hear many people saying "When I am fifty I shall retire into leisure; when I am sixty I shall give up public duties." And what guarantee do you have of a longer life? How stupid to forget our mortality, and put off sensible plans to our fiftieth and sixtieth years, aiming to begin life from a point at which few have arrived!
+
+> Assuredly your lives, even if they last more than a thousand years, will shrink into the tiniest span: those vices will swallow up any space of time. The actual time you have---which reason can prolong though it naturally passes quickly---inevitably escapes you rapidly: for you do not craps it or hold it back of try to delay that swiftest of all things, but you let it slip away as though it were something superfluous and replaceable.
+
+> They are not at leisure whose pleasures involve a serious commitment. For example, nobody will dispute that those people are busy about nothing who spend their time on useless literary studies: even among the Romans there is now a large company of these. It used to be a Greek failing to want to know how many oarsmen Ulysses had, whether the _Iliad_ or the _Odyssey_ was written first, and whether too they were by the same author, and other questions of this kind, which if you keep them to yourself in no way enhance your private knowledge, and if you publish them make you appear more a bore than a scholar. But now the Romans too have been afflicted by the pointless enthusiasm for useless knowledge.
+
+> Some men, after they having crawled thought a thousand indignities to the supreme dignity, have been assailed by the gloomy thought that all their labours were for the sake of an epitaph.
+
+I can imagine myself falling into this trap, pursuing fame and honour, only to realize you have spent your whole life. I have noticed that the opinion of others motivates me more than it should.
+
+> Even their pleasures are uneasy and made anxious by various fears, and at the very height of their rejoicing, the worrying thought steals over them 'how long will this last?' This feeling has caused kings to bewail their power, and they were not so much delighted by the greatness of their fortune as terrified by the fear of its inevitable end.
+
+So how should we act? We should live as if tomorrow is our last day:
+
+> But the man who spends all his time on his own needs, who organizes every day as though it were his last, neither longs for nor fears the next day. For what new pleasures can an hour now bring him? He has tried everything, and enjoyed everything to repletion. For the rest, Fortune can dispose as she likes: his life is now secure. Nothing can be taken from this life, and you can only add to it as if giving to a man who is already full and satisfied food which he does not want but can hold. So you must not think a man has lived long because he has white hair and wrinkles. He has only existed long.
+
+We should spend more time recalling the past.
+
+> Life is divided into three periods, past, present, and future. Of these, the present is short, the future is doubtful, the past is certain. For this last is the one over which Fortune has lost her power, which cannot be brought back to anyone's control. But this is what preoccupied people lose: for they have not time to look back at their past, and even if they did, it is not pleasant to recall activities they are ashamed of. So they are unwilling to cast their minds back to to times ill spent, which they dare not relive if their vices in recollection become obvious. 
+
+The past is durable, so we can enjoy it. Recollection helps us identify waste.
+
+We should also study philosophy:
+
+> Of all people only those are at leisure who make time for philosophy, only those are really alive. For they not only keep a good watch over their own lifetimes, but they annex every age to theirs. All the years that have passed before them are added to their own. Unless we are very ungrateful, all those distinguished founders of holy creeds were born for us and prepared for us a way of life. By the toil of others we are led into the presence of things which have been brought from darkness into light. We are excluded from no age, but we have access to them all; and if we are prepared to loftiness of mind to pass beyond the narrow confines of human weakness, there is a long period of time through which we can roam.
+
+Reading philosophy allows us to extend our years with the wisdom of great writers, who, unlike living friends, won't make demands of our precious time.
+
+Seneca believed philosophy could teach us:
+
+> the substance of god, and his will, his mode of life, his shape; what fate awaits your soul; where nature lays us to rest when released from our bodies; what is the force which supports all the heaviest elements of this world at the centre, suspends the light elements above, carries fire to the highest part, and sets the stars in motion with their proper changes---and learn other things in succession which are full of tremendous marvels
+
+I agree with most of Seneca's thoughts and advice in this letter. Most people do complain about the shortness of life while also spending their time poorly. I do. But I think Seneca's metaphysical beliefs in the soul and driving purpose of the universe lead him to dismissive to many of the good things in life. There may be an afterlife, but it seems unlikely, and so I am left to regard our earthly lives as more valuable than he. Based on the way Seneca acted, he may have had his doubts too.
+
+Due to _On the Shortness of Life_, I will
+
+- read more philosophy and less literature
+- contemplate my past more often to identify what is worth my time
+- spend less time pursuing these activities.
