@@ -6,13 +6,9 @@ description: >
 type: note
 ---
 
-Lucius Annaeus Seneca, known as Seneca or Seneca the Younger, was born around 4 BCE and died 65 CE. He was a Roman Stoic philosopher, statesman, and dramatist.
+Lucius Annaeus Seneca, known as Seneca or "Seneca the Younger," was born around 4 BCE in Corduba and raised in Rome, where he was trained in rhetoric and philosophy. In 41 CE, Seneca was exiled to the island of Corsica by the emperor Claudius, but was allowed to return in 49 to become a tutor to Nero. When Nero became emperor in 54, Seneca became his adviser. Seneca's influence over Nero declined with time, and in 65 Seneca was forced to take his own life for alleged complicity in a conspiracy to assassinate Nero, in which he was likely to have been innocent.
 
-He was born in Corduba and raised in Rome, where he was trained in rhetoric and philosophy. In 41 CE, Seneca was exiled to the island of Corsica by the emperor Claudius, but was allowed to return in 49 to become a tutor to Nero. When Nero became emperor in 54, Seneca became his adviser. Seneca's influence over Nero declined with time, and in 65 Seneca was forced to take his own life for alleged complicity in a conspiracy to assassinate Nero, in which he was likely to have been innocent.
-
-Seneca's letters were meant for public reading.
-
-This is my collection of quotes from his letters and plays along with my thoughts.
+Seneca wrote philosophical letters and tragedies.
 
 ## On The Shortness of Life
 
