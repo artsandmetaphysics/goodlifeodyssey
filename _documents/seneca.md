@@ -8,7 +8,7 @@ type: note
 
 Lucius Annaeus Seneca, known as Seneca or Seneca the Younger, was born around 4 BCE and died 65 CE. He was a Roman Stoic philosopher, statesman, and dramatist.
 
-He was born in Corduba and raised in Rome, where he was trained in rhetoric and philosophy. In 41 CE, Seneca was exiled to the island of Corsica by the emperor Claudius, but was allowed to return in 49 to become a tutor to Nero. When Nero became emperor in 54, Seneca became his advisor and, together with the praetorian prefect Sextus Afranius Burrus, provided competent government for the first five years of Nero’s reign. Seneca’s influence over Nero declined with time, and in 65 Seneca was forced to take his own life for alleged complicity in the Pisonian conspiracy to assassinate Nero, in which he was likely to have been innocent.
+He was born in Corduba and raised in Rome, where he was trained in rhetoric and philosophy. In 41 CE, Seneca was exiled to the island of Corsica by the emperor Claudius, but was allowed to return in 49 to become a tutor to Nero. When Nero became emperor in 54, Seneca became his advisor. Seneca’s influence over Nero declined with time, and in 65 Seneca was forced to take his own life for alleged complicity in a conspiracy to assassinate Nero, in which he was likely to have been innocent.
 
 Seneca’s letters were meant for public reading.
 
@@ -20,11 +20,13 @@ Here is how I would summarize this letter:
 
 Many feel life is short, but it is long enough if—instead of wasting it laboring, drinking, lusting, sporting, studying trivia, accruing wealth, or chasing fame—you contemplate the past and study philosophy.
 
+Here is the central idea, in Seneca’s words:
+
 <blockquote>
 <p>It is not that we have a short time to live, but that we waste a lot of it. Life is long enough, and a sufficiently generous amount has been given to us for the highest achievements if it were all well invested. But when it is wasted in heedless luxury and spent on no good activity, we are forced at last by death’s final constraint to realize that it has passed away before we knew it was passing.</p>
 </blockquote>
 
-Many activities are wasteful. Here are a few noteworthy quotes:
+Seneca believes many activities are wasteful, as demonstrated by some of my favourite quotes:
 
 <blockquote>
 <p>How many burst a blood vessel by their eloquence and their daily striving to show off their talents!</p>
@@ -59,10 +61,10 @@ I can imagine myself falling into this trap, pursuing fame and honour, only to r
 So how should we act? We should live as if tomorrow is our last day:
 
 <blockquote>
-<p>But the man who spends all his time on his own needs, who organizes every day as though it were his last, neither longs for nor fears the next day. For what new pleasures can an hour now bring him? He has tried everything, and enjoyed everything to repletion. For the rest, Fortune can dispose as she likes: his life is now secure. Nothing can be taken from this life, and you can only add to it as if giving to a man who is already full and satisfied food which he does not want but can hold. So you must not think a man has lived long because he has white hair and wrinkles. He has only existed long.</p>
+<p>Everyone hustles his life along, and is troubled by a longing for the future and a weariness of the present. But the man who spends all his time on his own needs, who organizes every day as though it were his last, neither longs for nor fears the next day. For what new pleasures can an hour now bring him? He has tried everything, and enjoyed everything to repletion. For the rest, Fortune can dispose as she likes: his life is now secure. Nothing can be taken from this life, and you can only add to it as if giving to a man who is already full and satisfied food which he does not want but can hold. So you must not think a man has lived long because he has white hair and wrinkles. He has only existed long.</p>
 </blockquote>
 
-We should spend more time recalling the past.
+We should spend more time recalling the past:
 
 <blockquote>
 <p>Life is divided into three periods, past, present, and future. Of these, the present is short, the future is doubtful, the past is certain. For this last is the one over which Fortune has lost her power, which cannot be brought back to anyone’s control. But this is what preoccupied people lose: for they have not time to look back at their past, and even if they did, it is not pleasant to recall activities they are ashamed of. So they are unwilling to cast their minds back to to times ill spent, which they dare not relive if their vices in recollection become obvious.</p>
