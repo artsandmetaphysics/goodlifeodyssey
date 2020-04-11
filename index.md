@@ -29,4 +29,5 @@ description: This website contains my writings about art, history, religion, and
   {% include li.html id='the-iliad' %}
   {% include li.html id='the-odyssey' %}
   {% include li.html id='homeric-hymns' %}
+  {% include li.html id='seneca' %}
 </ul>
