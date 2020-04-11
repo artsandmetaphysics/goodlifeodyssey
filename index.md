@@ -23,6 +23,7 @@ description: This website contains my writings about art, history, religion, and
 ## Notes
 
 <ul class="index">
+  {% include li.html id='ancient-greece' %}
   {% include li.html id='the-epic-of-gilgamesh' %}
   {% include li.html id='hesiod' %}
   {% include li.html id='the-iliad' %}
