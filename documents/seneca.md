@@ -2,7 +2,7 @@
 title: >
   Seneca
 description: >
-  Notes on Senaca's Philosphy and Plays
+  Notes on Seneca's Philosphy and Plays
 type: note
 ---
 
@@ -14,7 +14,7 @@ Seneca wrote philosophical letters and tragedies.
 
 Here is how I would summarize this letter:
 
-**Many feel life is short, but it is long enough if---instead of wasting it laboring, drinking, lusting, sporting, studying trivia, accruing wealth, or chasing fame---you study philosophy and contemplate the past.**
+Many feel life is short, but it is long enough if---instead of wasting it laboring, drinking, lusting, sporting, studying trivia, accruing wealth, or chasing fame---you study philosophy and contemplate the past.
 
 Here is the central idea, in Seneca's words:
 
