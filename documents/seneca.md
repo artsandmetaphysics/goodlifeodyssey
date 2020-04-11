@@ -69,5 +69,5 @@ I agree with most of Seneca's thoughts and advice in this letter. Most people do
 Due to _On the Shortness of Life_, I will
 
 - read more philosophy and less literature
-- contemplate my past more often to identify what is worth my time
+- contemplate my past to identify pointless activities
 - spend less time pursuing these activities.
