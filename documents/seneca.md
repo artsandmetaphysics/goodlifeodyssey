@@ -18,7 +18,7 @@ This is my collection of quotes from his letters and plays along with my thought
 
 Here is how I would summarize this letter:
 
-Many feel life is short, but it is long enough if---instead of wasting it laboring, drinking, lusting, sporting, studying trivia, accruing wealth, or chasing fame---you contemplate the past and study philosophy.
+**Many feel life is short, but it is long enough if---instead of wasting it laboring, drinking, lusting, sporting, studying trivia, accruing wealth, or chasing fame---you contemplate the past and study philosophy.**
 
 Here is the central idea, in Seneca's words:
 
