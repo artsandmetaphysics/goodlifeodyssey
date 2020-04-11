@@ -67,3 +67,5 @@ Seneca believed philosophy could teach us:
 I agree with most of Seneca's thoughts and advice in this letter. Most people do complain about the shortness of life while also spending their time poorly. I do. But Seneca's metaphysical beliefs---the existence of the soul and driving purpose of the universe, in particular---may make him dismiss the good things in life too quickly. There may be an afterlife, but it seems unlikely, and so I am left to regard our earthly lives as more valuable than he. Based on the way Seneca acted, he may have had his doubts about the unseen afterlife too.
 
 Due to _On the Shortness of Life_, I will read more philosophy and less literature, contemplate my past to identify pointless activities, spend less time pursuing these activities.
+
+*Quotations are taken from C.D.N Costa's 1997 translation.*
