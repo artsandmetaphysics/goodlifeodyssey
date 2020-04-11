@@ -8,7 +8,7 @@ type: note
 
 Lucius Annaeus Seneca, known as Seneca or Seneca the Younger, was born around 4 BCE and died 65 CE. He was a Roman Stoic philosopher, statesman, and dramatist.
 
-He was born in Corduba and raised in Rome, where he was trained in rhetoric and philosophy. In 41 CE, Seneca was exiled to the island of Corsica by the emperor Claudius, but was allowed to return in 49 to become a tutor to Nero. When Nero became emperor in 54, Seneca became his advisor. Seneca’s influence over Nero declined with time, and in 65 Seneca was forced to take his own life for alleged complicity in a conspiracy to assassinate Nero, in which he was likely to have been innocent.
+He was born in Corduba and raised in Rome, where he was trained in rhetoric and philosophy. In 41 CE, Seneca was exiled to the island of Corsica by the emperor Claudius, but was allowed to return in 49 to become a tutor to Nero. When Nero became emperor in 54, Seneca became his adviser. Seneca’s influence over Nero declined with time, and in 65 Seneca was forced to take his own life for alleged complicity in a conspiracy to assassinate Nero, in which he was likely to have been innocent.
 
 Seneca’s letters were meant for public reading.
 
@@ -26,10 +26,10 @@ Here is the central idea, in Seneca’s words:
 <p>It is not that we have a short time to live, but that we waste a lot of it. Life is long enough, and a sufficiently generous amount has been given to us for the highest achievements if it were all well invested. But when it is wasted in heedless luxury and spent on no good activity, we are forced at last by death’s final constraint to realize that it has passed away before we knew it was passing.</p>
 </blockquote>
 
-Seneca believes many activities are wasteful, as demonstrated by some of my favourite quotes:
+Seneca believes many activities are wasteful, as demonstrated by some of my favorite quotes:
 
 <blockquote>
-<p>How many burst a blood vessel by their eloquence and their daily striving to show off their talents!</p>
+<p>How many find riches a burden!  How many burst a blood vessel by their eloquence and their daily striving to show off their talents! How many are pale from constant pleasures!  How many are left no freedom by the crowd of clients surrounding them!</p>
 </blockquote>
 
 <blockquote>
@@ -51,10 +51,10 @@ Seneca believes many activities are wasteful, as demonstrated by some of my favo
 I doubt that Seneca thinks reading literature is useless, or even that analyzing it has no merit.  Why bother with a detailed outline of Ovid’s _Metamorphoses_? I write them to remember what I read. The act of selecting and transcribing my favorite quotes helps me remember and appreciate what I read. Perhaps this is useless, but its enjoyable and lets one follow other authors’ (including philosophers) and painters’ references to the literature that came before them. Non-fiction, like the Philosophy Seneca urges us to read, condenses experience into lessons. Fiction provides the raw experiences, and the reader is left to learn what they will from them. The _Iliad_ teaches you about war and how the ancient Greeks viewed it.
 
 <blockquote>
-<p>Some men, after they having crawled thought a thousand indignities to the supreme dignity, have been assailed by the gloomy thought that all their labours were for the sake of an epitaph.</p>
+<p>Some men, after they having crawled thought a thousand indignities to the supreme dignity, have been assailed by the gloomy thought that all their labors were for the sake of an epitaph.</p>
 </blockquote>
 
-I can imagine myself falling into this trap, pursuing fame and honour, only to realize you have spent your whole life. I have noticed that the opinion of others motivates me more than it should.
+I can imagine myself falling into this trap, pursuing fame and honor, only to realize you have spent your whole life. I have noticed that the opinion of others motivates me more than it should.
 
 <blockquote>
 <p>Even their pleasures are uneasy and made anxious by various fears, and at the very height of their rejoicing, the worrying thought steals over them ‘how long will this last?’ This feeling has caused kings to bewail their power, and they were not so much delighted by the greatness of their fortune as terrified by the fear of its inevitable end.</p>
@@ -85,7 +85,7 @@ Reading philosophy allows us to extend our years with the wisdom of great writer
 Seneca believed philosophy could teach us:
 
 <blockquote>
-<p>the substance of god, and his will, his mode of life, his shape; what fate awaits your soul; where nature lays us to rest when released from our bodies; what is the force which supports all the heaviest elements of this world at the centre, suspends the light elements above, carries fire to the highest part, and sets the stars in motion with their proper changes—and learn other things in succession which are full of tremendous marvels</p>
+<p>the substance of god, and his will, his mode of life, his shape; what fate awaits your soul; where nature lays us to rest when released from our bodies; what is the force which supports all the heaviest elements of this world at the center, suspends the light elements above, carries fire to the highest part, and sets the stars in motion with their proper changes—and learn other things in succession which are full of tremendous marvels</p>
 </blockquote>
 
 I agree with most of Seneca’s thoughts and advice in this letter. Most people do complain about the shortness of life while also spending their time poorly. I do. But I think Seneca’s metaphysical beliefs in the soul and driving purpose of the universe lead him to dismissive to many of the good things in life. There may be an afterlife, but it seems unlikely, and so I am left to regard our earthly lives as more valuable than he. Based on the way Seneca acted, he may have had his doubts too.
