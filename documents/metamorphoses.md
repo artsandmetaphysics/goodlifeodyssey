@@ -23,6 +23,7 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
 
 ## Outline
 
+- The Gods
 - Book I
   - Proem; forms changed into new bodies
   - The creation by organizing chaos
@@ -160,10 +161,11 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
   - Iphigenia sacrificed to appease Diana and the winds
   - The house of Rumor
   - Achilles after failed spearing, strangles invincible Cycnus 
-  - Caeneus raped; turned into a man
-  - Lapiths fight the centaurs; Caeneus burried
-  - Nestor recounts Hericles kill his brothers
-  - The death of Achilles
+  - Old Nestor tells stories
+    - Caeneus raped; turned into a man
+    - Lapiths fight the centaurs; Caeneus burried
+    - Hericles kill Nestor's brothers
+  - The death and glory of Achilles
 - Book XIII
   - Ajax versus Ulysses
   - The sorrows of Hecuba
@@ -1505,13 +1507,19 @@ Ovid includes the sequences of deaths, like Homer:
 > I don't recall the manner of their deaths,
 > for I took note just of the names and numbers."
 
+He pokes fun at the Greek's armor obsession:
+
+> Achilles very shield---that you should be aware
+> whose it once was---now instigates a battle,
+> and for his arms, arms are now taken up.
+
 He even makes fun of the role the gods played in Homer, perhaps questioning their existence:
 
 > "and when he saw the [thrown tree] coming, Theseus
 > moved out of range, upon advice of Pallas---
 > or so he would prefer us to believe."
 
-The death of Achilles:
+Many stories' central metamorphosis is physical, in the story of Achilles death, the change is of a living man into a legacy:
 
 > now he is ashes: and the little left
 > of great Achilles scarcely fills an urn,
