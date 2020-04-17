@@ -28,7 +28,7 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
   - The creation by organizing chaos
   - The four ages of man (gold, silver, bronze, iron)
   - War with the Giants
-  - Jove recounts Lycaon's evil at the divine assembly 
+  - Jove recounts Lycaon's evil at the divine assembly
   - The great flood from above and below
   - Devout Deucalion and Pyrrha create more humans from mud
   - The earth generates life from the muck
@@ -130,41 +130,39 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
   - Alcmena delivers Hercules; tricky servant turned into weasel
   - Dryope turned into a tree for picking berries
   - Iolaüs and Hebe's prophecy; Zeus blames fate
-  - Byblis desires her brother Caunus
-  - Iphis and Isis
+  - Byblis desires her brother Caunus is rejected
+  - Iphis, professed a boy at birth, becomes one on wedding night
 - Book X
-  - Orpheus and Eurydice
+  - Orpheus attempts to save Eurydice from the underworld
   - The catalogue of trees
-  - Cyparissus
-  - The songs of Orpheus
-  - Proem
-  - Gaynymede
-  - Hyacinthus
-  - The Propoetides and the Cerastae
-  - Pygmalion
-  - Myrrha
-  - Venus and Adonis (1)
-  - Atalanta and Hippomenes
-  - Venus and Adonis (2)
+  - Cyparissus accidentally kills the stag; becomes a cypress
+  - Songs of Orpheus about boys the gods love and lusting girls
+    - Trojan Ganymede becomes Jove's cupbearer
+    - Apollo's discuss kills his lover Hyacinthus
+    - The Propoetides and the Cerastae
+    - Pygmalion falls in love with his statue
+    - Myrrha fools her father into sleeping with her
+    - Venus falls in love with Myrrha's son Adonis
+      - Hippomenes thanklessly outraces Atalanta with Venus' apples
+    - Adonis impaled by a boar; Venus morphs him into an anemone
 - Book XI
-  - The death of Orpheus
-  - The transformation of the Maenads
-  - Midas
-  - The perfidy of Laomedon
-  - Peleus and Thetis
-  - Daedalion
-  - The wolf of Psamathe
-  - Ceyx and Alcyone (1)
-  - The house of Sleep
-  - Ceyx and Alcyone (2)
-  - Aesacus
+  - Orpheus murdered by the Maenads, who are then turned to tree
+  - Midas save Silenus; golden touch; Pan vs Apollo; asses' ears
+  - Apollo and Neptune build the Trojan walls for Laomedon
+  - Zeus ordains that Peleus will marry Thetis; rape leads to Achilles
+  - Apollo and Mercury rape Daedalion's daughter; Diana's jealousy
+  - The wolf of Psamathe and Peleus' flock
+  - Ceyx leaves against Alcyone wishes; drowns in an epic storm
+  - The house of Sleep; Juno requests Morpheus go to Alcyone in a dream
+  - Alcyone despairs; husbands floating body; both turned to birds
+  - Aesacus chases the nymph to her death; cliff jump; becomes bird
 - Book XII
-  - Iphigenia on Aulis
+  - Iphigenia sacrificed to appease Diana and the winds
   - The house of Rumor
-  - Cycnus
-  - Caeneus
-  - Lapiths and the centaurs
-  - Periclymenus
+  - Achilles after failed spearing, strangles invincible Cycnus 
+  - Caeneus raped; turned into a man
+  - Lapiths fight the centaurs; Caeneus burried
+  - Nestor recounts Hericles kill his brothers
   - The death of Achilles
 - Book XIII
   - Ajax versus Ulysses
@@ -851,7 +849,7 @@ He proceeds to cut out her tongue.
 
 Book VII begins with the story of Jason and the Golden Fleece.
 
-Medea's monologues are brilliant. 
+Medea's monologues are brilliant.
 
 > "All your resistance is in vain, Medea;
 > what god opposes you, I do not know---
@@ -1278,6 +1276,253 @@ Apparently, while male-male homosexuality was common in ancient Rome, female-fem
 
 Io turned Iphis into a boy at the last minute.
 
+## Book X
+
+Ovid economically relays the death of Orpheus' wife, and how he descends to the underworld to ask for her back. After playing a song:
+
+> These words, accompanied on the plucked strings,
+> so moved the bloodless spirits that they wept;
+> Tantalus did not seek the receding water,
+> and on his wheel lay Ixion, astounded;
+> the birds let go the liver, and the daughters
+> of Danaüs were resting by their urns,
+> while you, O Sisyphus, sat on your stone.
+
+When an author relies on their audience being well-read, they can paint with great depth and speed by borrowing the images of others.
+
+Hades allows Eurydice a second life, but tragically, Orpheus breaks the one condition and looks back at her before leaving the underworld. Ovid's description is haunting and beautiful, but he quickly dispels the epic aura around the tale with:
+
+> Three times the Sun had finished out the year
+> in Pisces of the waters. Orpheus
+> had fled completely from the love of women,
+> either because it hadn't worked for him
+> or else because the pledge that he had given
+> to his Eurydice was permanent;
+> no matter: women burned to have the bard,
+> and many suffered greatly from rejection.
+> Among the Thracians, he originated
+> the practice of transferring the affections
+> to youthful males, plucking the first flower
+> in the brief spring time of their early manhood.
+
+The antecedent of "it" must be Orpheus' penis, and Ovid casts doubt on motive for staying away from women, conjecturing that it wasn't of his own choice, and for this reason he turned to young boys. Ovid's lack of reverence is distasteful to me, even being so far separated from the cultural stories he denigrates---still, he is fun to read.
+
+Orpheus proceeds to tell a number of stories, about gods loving boys and girls with unnatural lusts.
+
+A quote from the story of Hyacinthus, makes light of a similar simile in the _Iliad_:
+
+> "As when a poppy or violet grown in a garden
+> among the lilies (whose tongues are thick yellow and bristly)
+> breaks, and the flower's head shrivels, droops, and collapses,
+> unable to hold itself up, with downcast demeanor,
+> just so the dying boy's head, now lacking all vigor,
+> unable to bear its own weight, lies flat on his shoulder."
+
+Here is the original:
+
+> As a garden poppy, burst into red bloom, bends,
+> drooping its head to one side, weighed down
+> by its full seeds and a sudden spring shower,
+> so Gorgythion's head fell limp over one shoulder,
+> weighed down by his helmet.
+> ~ Iliad 8.306-9
+
+In Homer, a great hero has died; in Ovid, a boy-lover dies in a discus accident. Furthermore, Apollo says he will speak about Hyacinthus in his poetry!
+
+> "'You will be present both in my songs and mu music,
+> and a flower will come into being, inscribed with my mourning;
+> later, a legend involving the boldest of heroes
+> will be conjoined to this flower and read in its markings.'"
+
+Orpheus then tells the story of Pygmallion, and how, after being repulsed by the "numerous defects of character Nature had given the feminine spirit," he falls in love with his statue. Is Ovid demeaning women, or men when he tells of the ridiculous gifts Pygmallion brought:
+
+> he seeks to win its affections with words and with presents
+> pleasing to girls, such as seashells and pebbles, tame birds,
+> armloads of flowers in thousands of different colors,
+> lilies, bright painted balls, curious insects in amber
+
+Perhaps Ovid is using the classic story to make fun of men, for helplessly chasing women, and women for being shallowly bought by gifts.
+
+Next Orpheus tells the story of Myrrha, who fell in love with her father and tricked him into sleeping with her. Ovid has the poet warn readers:
+
+> I sing of dire events: depart from me, daughters,
+> depart from me, fathers; or, if you find my poems charming,
+> believe that I lie, believe these events never happened;
+> or, if you believe they did, then believe they were punished.
+
+## Book XI
+
+After telling stories for most of Book X, Orpheus is torn to pieces by the Maenads. This scene is one of my favorite:
+
+> Meanwhile, as Orpheus compelled the tress
+> and beasts to follow him with suchlike songs,
+> and made the very stones skip in his wake,
+> behold: a raving mob of Thracian women
+> with the pelts of wild beasts draped across their breasts
+> observed him from the summit of a hill
+> setting the words to music on his lyre.
+> One of them tossed her hair in the light breeze:
+> "Look over there!" she cried. "The one who scorns us!"
+> And with no more ado, she cast her lance
+> at the vocalizing mouth of Apollo's seer;
+> it struck without wounding, being wreathed in leaves.
+> Another's weapon was the stone she cast,
+> that even in midflight was overwhelmed
+> by words and music joined in harmony,
+> and, as though begging pardon for its mad daring,
+> fell at the poet's feet.
+
+Ovid's commentary on Oracles:
+
+> His brother's transformation and some weird
+> portents that followed it left Ceyx perturbed
+> and eager to consult the oracles
+> that comfort men in their perplexity,
+> but on account of Phorbas and his brigands,
+> the road to Delphi was too dangerous,
+> so he prepared to undertake a journey
+> to Phoebus' shrine at Clarium instead
+
+Knowledge of the source of lightening:
+
+> for once they break loose and reach open seas,
+> the winds are wholly uncontrollable,
+> and earth and sea alike are unprotected;
+> indeed, they even vex the clouds in heaven,
+> and shake the lightnings from them by collision!
+
+I adore the story of Ceyx and Alcyone---a loving couple separated by death but both turned to birds. The description of Ceyx's death at sea is some of Ovid's most vivid. It includes a great simile:
+
+> Sails were rain-sodden, waters from above
+> were mixed in thoroughly with those below;
+> the stars were all put out, and blackest night
+> bore down with its own darkness and the storm's.
+> That darkness, nonetheless, was shattered by
+> the flickering thunderbolts that lit the sky
+> and made the raindrops glitter as they fell.
+> Boldly the flood now sprang onto the ship,
+> and like a solider, who, surpassing all
+> his many comrades, in the last assault
+> upon the walls of a beleaguered city,
+> after so many tries, achieves his aim,
+> and, fired by the love of praise, leaps over,
+> and one man holds the wall against a thousand;
+> just so, when nine successive waves have battered
+> the hull of that tall ship without success,
+> the tenth wave rushes in with greater force,
+> and does not end its struggle with the weary
+> vessel before it penetrates the wall
+> of the captured ship.
+
+## Book XII
+
+The characteristic abodes of Envy, Sleep, and Rumor are described in the _Metamorphoses_. Rumor's house is fun:
+
+> Crowds fill the entryway, a fickle mob
+> that comes and goes; and rumors everywhere,
+> thousands of fabrications mixed with fact,
+> wander the premises, while false reports
+> flit all about. Some fill their idle ears
+> with others' words, and some go bearing tales
+> elsewhere, while everywhere the fictions grow,
+> as everyone adds on to what he's heard.
+
+Ovid enjoys making fun of Homer's heroes. He begins withe Achilles'
+
+> The officers all took their ease, reclining
+> on couches where they stuffed themselves with meat
+> and drove away their cares and thirst with wine.
+> No lyres for this lot, no poetry,
+> no flutes of boxwood, pierced with many holes:
+> what pleases them is to extend the night
+> by telling stories of heroic deeds;
+> they reenact old wars, their own and others,
+> and are delighted to remember all
+> the dangers they've endured and gotten through:
+> what else has great Achilles to discuss?
+> What else is there to speak of in his presence?
+
+Next in line is Nestor, who even Homer seemed to poke fun at a bit:
+
+> Nestor replied: "Though my extreme old age
+> is something of an obstacle to me,
+> and much of what I witnessed in my youth
+> I have forgotten, still I remember much,
+> and nothing stands out more in memory,
+> among so many acts of war and peace,
+> than this does. But if great expanse of years
+> makes one a living witness of so much
+> that happened, I have lived two centuries
+> already, and am living in my third!"
+
+And then there is the ridiculous death descriptions:
+
+> "They eyes leapt forth
+> from the disfigured pudding of his face,
+> and his nose was driven back into his palate."
+
+> "He plunged the horns into Gryneus' eyes
+> and gouged them out; one to an antler clung,
+> the other dribbled down his beard and hung
+> suspended in a mass of clotting gore."
+
+> "and Dictys, as he fled Pirithoüs
+> in fearful haste, toppled over the edge
+> of a mountain with two peaks, plunging headlong
+> until a giant ash tree broke his fall,
+> and left its fractured branches decorated
+> with loops of his intestines.
+
+> "and used his sword to open up his belly;
+> that fierce, unbridled beast bounded forward
+> and spilled his entrails out upon the ground,
+> and what spilled out of him, he trod upon,
+> and what was trodden on was burst asunder
+> and tangled in his legs until he fell,
+> his belly emptied of its viscera."
+
+> "shattered the broad dome of his skull, and pressed
+> his fluid brains till they exuded through
+> his mouth, his sinuses, his eyes and ears,
+> as when the whey pours through the oaken basket
+> leaving the curds behind, or as when grapes
+> beneath the press drip through the slender sieve,
+> and juice is squeezed out through the narrow openings."
+
+Ovid includes the sequences of deaths, like Homer:
+
+> "And with that club, he flattened Nedymnus
+> and Lycopes, skilled with the javelin,
+> and Hippasos, whose breast was covered by
+> his uncut beard, and Ripheus, who loomed
+> above the tallest tress, and Thereus,
+> who caught bears on the peaks of Thessaly
+> and fetched them back still living and indignant."
+
+> "Caeneus had already slaughtered five:
+> Styphelus first, then Bromus, Antimachus,
+> Elymus, and axe-wielding Pyracmos;
+> I don't recall the manner of their deaths,
+> for I took note just of the names and numbers."
+
+He even makes fun of the role the gods played in Homer, perhaps questioning their existence:
+
+> "and when he saw the [thrown tree] coming, Theseus
+> moved out of range, upon advice of Pallas---
+> or so he would prefer us to believe."
+
+The death of Achilles:
+
+> now he is ashes: and the little left
+> of great Achilles scarcely fills an urn,
+> although his living glory fills the world.
+> That glory is the measure of the man,
+> and it is this that is Achilles' essence,
+> nor does he feel the emptiness of death.
+
+## Book XIII
+
+
 ## Metaphysics
 
 The _Metamorphoses_ were meant to be entertaining, thus it is dangerous to make any theological conclusions from them. Still, some metaphysical comments may represent widely held beliefs from Ovid's time. For example, the role of fate, present in Homer, is laid out:
@@ -1353,6 +1598,15 @@ Stories are often grouped together by family (the Cadmus stories in books III an
 
 Nested stories at two or three levels are common (on occasion, as with the Arethusa and Alpheus in book V, four levels are present).
 
+The connections between stories are often weak, for example:
+
+> Rumor might very well have spread the news
+> of this unprecedented transformation [of Byblis into a spring]
+> throughout the hundred towns of Crete, if they
+> had not just had a wonder of their own
+> to talk about---the change that came to Iphis.
+> ~ (9.960--4)
+
 ## Similes
 
 Apollo's sudden love for Daphne:
@@ -1426,5 +1680,20 @@ Aeacus's casual comment about his wife being worthy:
 > in looks and manner, Procris was more worthy
 > of being ravished!"
 > ~ (6.990--5)
+
+Sometimes the raped women are proud that they were---in the least due to their semi-divine offpsring:
+
+But, if their flights are not evidence enoough of their unwillingness, then Ovid makes it clear other times:
+
+> "And after Neptune had taken his delight
+> by ravishing the maiden, he announced,
+> 'Whatever you desire will be granted!
+> Fear no refusal; ask and it is given.'
+> Caenis replied: 'The injury you've done me
+> requires a great wish to be set right,
+> that I might never suffer this again,
+> allow that I may be no more a woman,
+> and you will have fulfilled me utterly.'"
+> ~ (12.292--301)
 
 *All quotations are taken from Charles Martin's 2004 translation. Line numbers refer to the translation and not the original Latin.*
