@@ -167,30 +167,31 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
     - Hericles kill Nestor's brothers
   - The death and glory of Achilles
 - Book XIII
-  - Ajax versus Ulysses
-  - The sorrows of Hecuba
-  - Memnon
-  - The daughters of Anius
-  - The daughters of Orion
-  - Polyphemus, Galatea, and Acis
-  - Scylla and Glaucus
+  - Ajax then Ulysses assert their claim on Achilles' shield
+  - Achille's ghost demands Hecuba's daughter
+  - Hecuba's revenges her son; transformed to a dog
+  - Aurora's son Memnon remembered with birds and dew
+  - The daughters of Anius make grain; turned to birds
+  - Precious goblet; the daughters of Orion
+    - Polyphemus, Galatea, and Acis
+  - Glaucas tells Scylla of magical grass morphing him into a fish
 - Book XIV
-  - Glaucus
-  - Aeneas wanders
-  - The Sibyl
-  - Cyclops revisited
-  - Circe revisited
-  - Circe and Picus
-  - Acmon transformed
-  - The wild olive tree
-  - The transformation of Aeneas' ships
-  - The Heron
+  - Glaucus asks Circe for help; she proposes; rejected, mutates Syclla
+  - Aeneas wanders; Dido kills herself
+  - The Sibyl helps Aeneas consult dead Anchises and tells her story
+    - Macareus escapes Polyphemus and joins Aeneas' crew
+    - Macareus recounts Circe's island with Ulysses
+      - Women tells of Circe spurned, then transforming Picus
+  - Impious Acmon transformed into a bird
+  - Shepard turned into a bitter olive tree
+  - Aeneas' ships transformed into water nymphs
+  - The Heron rises from the ashes of Rome's enemies
   - The deificiation of Aeneas
-  - Pomona and Vertumnus (1)
-  - Iphis and Anaxarete
-  - Pomona and Vertumnus (2)
+  - Vertumnus pursues gardening Pomona while disguised
+    - Anaxarete turns to stone after spurned Iphis suicides
+  - Pomona accepts Vertumnus
   - A Roman spring
-  - The deification of Romulus
+  - The deification of Romulus and his wife
 - Book XV
   - Numa (1)
   - Myscelus and the founding of Crotona
@@ -1530,6 +1531,150 @@ Many stories' central metamorphosis is physical, in the story of Achilles death,
 
 ## Book XIII
 
+Ajax and Ulysses proclaim to the Greek assembly why they should receive Achilles' shield.
+
+Ajax' has a few funny arguments:
+
+> "I realize I seek a great reward,
+> but having such a rival is demeaning
+> and cheats me of the honor I am due:
+> Ajax cannot be proud to win a prize,
+> no matter how substantial, that Ulysses
+> can have the expectation of receiving;
+> he has already gotten his reward,
+> for when his claim has been rejected, he
+> can boast that he and I were fairly matched!"
+
+> "In truth, if I may say so, it's the prize
+> that seeks association with _my_ glory,
+> and would be honored much more than would I---
+> for it's the armor would be given Ajax,
+> not Ajax the armor."
+
+Ulysses wins; his central argument is that his intellect is more important than fighting prowess. He also pulls the jury to his side by emotionally aligning them against Ajax:
+
+> "Nor should it shock us that his [Ajax'] stupid mouth
+> should so abuse me, for you also are
+> the targets of his indecent reproaches.
+> Can it be baseness for me to accuse
+> Palamedes unjustly, but correct
+> for you to find him guilty of the charges?"
+
+The story of the Cyclops, Polyphemus from the _Odyssey_, wooing Galatea is hilarious. Ovid, as he always does, masterfully ridicules without indulging too much. Thus, Polyphemus' advances are funny yet not crude. Here are a few of my favorite lines:
+
+> "'O Galatea, whiter than the snowy white
+> flowers that decorate the privet hedge,
+> richer in blossoms than the meadow is,
+> taller, more slender than an alder tree,
+> brighter than crystal, more skittish than a kid,
+> smoother than a seashell on the shore
+> worn by the ceaseless motion of the waves,
+> more pleasing than the shade in summertime
+> or sun in winter, swifter than the deer,
+> and even more remarkable to see,
+> far more conspicuous than the tall plane tree;
+> clearer than ice, sweeter than ripe grapes,
+> software than swans' down or the curdled milk,
+> and, of you would not always flee from me,
+> more beautiful than an irrigated garden.
+> Yet you, the very selfsame Galatea,
+> are fiercer than an untamed heifer is,
+> harder than oak, more feigning than the sea,
+> tougher than willow wands or bryony,
+> less movable than the rock I'm sitting on,
+> rougher than rapids, prouder than a peacock,
+> fiercer than fire, bitterer than thistles,
+> grumpier than a nursing mother-bear,
+> more unresponsive even than the ocean,
+> less apt to pity than a stepped-on snake'"
+
+> "'Just look how big I am! Not even Jove---
+> this Jupiter that you go on about,
+> who you say governs heaven---is as big!
+> Abundant hair hangs over my fierce face
+> and shoulders, shading me, just like a grove;
+> but don't think me unsightly just because
+> I am completely covered in dense bristles:
+> unsightly is the tree that has no leaves,
+> the horse without a mane; birds have their plumage
+> and sheep are most attractive in their wool,
+> so facial hair and a full body beard
+> are really most becoming in a man.
+> In the middle of my forehead is one eye,
+> as large in its appearance as a shield:
+> what of it, then? Does not the mighty Sun
+> see everything that happens here on earth?
+> And as for eyes, he too has only one!"
+
+The Metropolitan Museum of Art has an original Roman painting, one of the rare survivors, from around the time of Ovid (if I recall). The painting depicts a few scenes of the Polymphemus and Galatea story.
+
+The story about Glaucas eating magical grass which turns him into a fish is a bizarre (beside the teeth turning into men, in the Jason and Cadmus stories, who then fight one another, this may be the oddest story in the _Metamorphoses_, although I am not sure I could point out why. Perhaps many of the other stories in Ovid would sound odd too, if our culture had not appropriated them. When I read Chinese (or even some Egyptian) stories, they all sound as odd as this one. But the opposite is likely true too.
+
+Here is the especially odd part:
+
+> "Now comes what sounds like fiction, I admit,
+> but what advantage would I gain by feigning?
+> Lying on the grass, my plunder from the surf
+> began to stir, and flipped from side to side, 
+> as all at once, they strove to leave the earth
+> and get back to the water. While I watched,
+> dumbfounded and incapable of moving,
+> they fled, the lot of them, abandoning
+> the shore and their new master for the sea.
+> I stood stock-still in wonder a long time,
+> asking myself how such a thing could be;
+> was it some god---or something in the grass?
+> 'How could mere grass,' I asked, 'be strong as that?'
+> I plucked some and ground it in my teeth,
+> and scarcely had I gulped that unknown liquid,
+> when suddenly my heart began to pound,
+> and my whole sensibility was taken
+> with the desire for another element,
+> which I could not resist for long: 'Farewell,
+> O earth, which I will nevermore return to,'
+> I said, and plunged beneath the ocean's waves."
+
+## Book XIV
+
+Glaucus, in love with Scylla, asks Circe to help. Instead, she falls in love with him:
+
+> "I pray you will have me! Only spurn
+> the one who spurns your passion, and return
+> the love of one who loves you: let one deed serve
+> two women as they each of them deserve."
+> Glaucus responded to her proposition:
+> "The leaves of trees will spring out of the ocean,
+> and seaweed will be found on mountain ranges,
+> before my love for Scylla ever changes."
+
+And so, Circe transforms Syclla into a monster:
+
+> "her private parts deformed into the shapes
+> of barking dogs ...
+> Her lover Glaucus wept at this and fled
+> from having any more to do with Circe,
+> whose use of potent herbs was too aggressive."
+
+Diomedes recounting the woes of the returning Greeks:
+
+> "I will not long delay you, setting out
+> our woes in the order they occurred:
+> just say that even Priam would have wept
+> to see how Greece was fairing at that time!"
+
+Anaxarete, after spurning Iphis' advances, sees his body and is turned to stone:
+
+> "scarcely had she glimpsed
+> the corpse of Iphis laid out on his bier,
+> when her eyes hardened and he cold blood ran
+> in terror from her body: she attempted
+> to step back from the sight, but her feet froze;
+> when she attempted to avert her face,
+> she was unable to; and very soon
+> the stoniness that for so long a time
+> had been within her heart spread through her body."
+
+## Book XV
 
 ## Metaphysics
 
@@ -1550,6 +1695,40 @@ The _Metamorphoses_ were meant to be entertaining, thus it is dangerous to make 
 > which governs even us; I tell you this
 > that you might put a better face on it---
 > yes, _you_ are ruled by Fate, and _I_ am too."
+
+Mortals had "deficits" that needed to be purged before becoming immortal:
+
+> "The sea god welcomed me, pronounced me fit
+> to join their honorable company,
+> and asked the Ocean and his consort, Tethys,
+> to take away whatever still remained
+> of my mortality; and this they did
+> first, by the recital of a hymn, nine times,
+> to purge me of my evil; then they bade
+> me to immerse myself a hundred times
+> in just as many rivers"
+> ~ (13.1378--86)
+
+> She [Venus] bade the river god to take Aeneas
+> under the surface of his silent stream
+> and cleanse him of all mortal deficits;
+> he did as she commanded, bathing him,
+> and having purged him of this mortal dross,
+> restored his best, immortal part to him.
+> His mother purified Aeneas' body,
+> anointing it with heavenly perfumes,
+> and touched his lips with sweet ambrosia
+> and nectar both, so he became a god,
+> ~ (14.861--72)
+
+The gods are limited in a number of ways. Interestingly, Ovid mentions that gods can't undue actions of other gods:
+
+> Venus alone knew that the bolt had fallen
+> and would have put it back and locked the gates,
+> but one god is unable to rescind
+> the actions of another.
+
+This sort of question is unique to polytheism.
 
 ## Epistemology
 
@@ -1591,12 +1770,21 @@ In other places, he speculates about the gods motives:
 > (or by the insult to her own good name),
 > ~ (1.1055--64)
 
-He openly questions the plausibility of the stories:
+He openly questions the plausibility of the stories and the gods:
 
 > Her [Semele's] child was torn out of her womb unfinished
 > and---this part is scarcely credible---was sewn
 > into his father's thigh, where he was brought to term.
 > ~ (3.400-2)
+
+> She has a virgin's face, and, if our poets
+> are not to be completely disbelieved
+> ~ (13.1063--4)
+
+> "but war continued,
+> since both sides each had gods supporting them,
+> and courage, which is just as good as gods"
+> ~ (14.811--3)
 
 ## Structure
 
@@ -1645,6 +1833,32 @@ Apollo chasing Daphne, after being unable to woo her:
 > so he in hope and she in terror race.
 > ~ (1.732--44)
 
+## Rape
+
+Aeacus's casual comment about his wife being worthy:
+
+> "Her name was Procris: it's likelier you've heard
+> about her ravished sister, Orithyia,
+> but were you to compare the two of them
+> in looks and manner, Procris was more worthy
+> of being ravished!"
+> ~ (6.990--5)
+
+Sometimes the raped women are proud that they were---in the least due to their semi-divine offpsring:
+
+But, if their flights are not evidence enoough of their unwillingness, then Ovid makes it clear other times:
+
+> "And after Neptune had taken his delight
+> by ravishing the maiden, he announced,
+> 'Whatever you desire will be granted!
+> Fear no refusal; ask and it is given.'
+> Caenis replied: 'The injury you've done me
+> requires a great wish to be set right,
+> that I might never suffer this again,
+> allow that I may be no more a woman,
+> and you will have fulfilled me utterly.'"
+> ~ (12.292--301)
+
 ## Other Interesting Quotes
 
 Ovid's description of the heavens is humorous, as the gods themselves have household gods:
@@ -1678,30 +1892,5 @@ Procne carries of her son Itys, to murder him and feed him to her evil husband:
 > will drag a nursing fawn through the dense woods
 > ~ (6.922-4)
 
-## Rape
-
-Aeacus's casual comment about his wife being worthy:
-
-> "Her name was Procris: it's likelier you've heard
-> about her ravished sister, Orithyia,
-> but were you to compare the two of them
-> in looks and manner, Procris was more worthy
-> of being ravished!"
-> ~ (6.990--5)
-
-Sometimes the raped women are proud that they were---in the least due to their semi-divine offpsring:
-
-But, if their flights are not evidence enoough of their unwillingness, then Ovid makes it clear other times:
-
-> "And after Neptune had taken his delight
-> by ravishing the maiden, he announced,
-> 'Whatever you desire will be granted!
-> Fear no refusal; ask and it is given.'
-> Caenis replied: 'The injury you've done me
-> requires a great wish to be set right,
-> that I might never suffer this again,
-> allow that I may be no more a woman,
-> and you will have fulfilled me utterly.'"
-> ~ (12.292--301)
 
 *All quotations are taken from Charles Martin's 2004 translation. Line numbers refer to the translation and not the original Latin.*

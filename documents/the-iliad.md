@@ -330,6 +330,20 @@ Even Ares strips his fallen enemies' armor:
 
 The *Iliad* is almost exclusively focused on the heroes and commanders of the two armies. The "rank and file" are almost completely ignored.
 
+Here is an example from book 2, when Odysseus is turning back the soldiers after Agammemnon's test:
+
+> When he caught some common soldier shouting out,
+> he'd beat him with the scepter, dress him down:
+> "You _fool_---sit still! Obey the commands of others,
+> your superiors---you, you deserter, rank coward,
+> you count for nothing, neither in war nor council.
+> How can all Achaeans be masters here in Troy?
+> Too many kings can ruin an army---mob rule!
+> Let there be one commander, one master only,
+> endowed by the son of crooked-minded Cronus
+> with kingly scepter and royal rights of custom:
+> whatever one man needs to lead his people well."
+
 ## Similes
 
 Homer uses short and extended similes throughout the *Iliad.* Here are my favorite similes.
