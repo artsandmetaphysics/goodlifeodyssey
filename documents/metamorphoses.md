@@ -193,13 +193,12 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
   - A Roman spring
   - The deification of Romulus and his wife
 - Book XV
-  - Numa (1)
+  - Numa, Rome's wise second king
   - Myscelus and the founding of Crotona
-  - The teachings of Pythagoras
-  - Numa (2)
+    - Pythagoras; the transmigration of souls; change everywhere
   - Egeria and Hippolytus
   - Tages; The spear of Romulus; Cipus
-  - Aesculapius
+  - Apollo's son moves to Rome
   - The apotheosis of Julius Caesar
   - The poet of the future
 
@@ -1676,6 +1675,131 @@ Anaxarete, after spurning Iphis' advances, sees his body and is turned to stone:
 
 ## Book XV
 
+Pythagoras' pagan skepticism:
+
+> lightning is produced by Jove
+> or by the winds that tear apart the clouds;
+> what causes earthquakes and what keeps the stars
+> from flying off, and other hidden things
+
+Pythagoras on being vegetarian:
+
+> "Mortals, refrain from defiling your bodies with sinful
+> feasting, for you have the fruits of the earth and of arbors,
+> whose branches bow with their burden; for you the grapes ripen,
+> for you the delicious greens are made tender by cooking;
+> milk is permitted you too, and thyme-scented honey:
+> Earth is abundantly wealthy and freely provides you
+> her gentle sustenance, offered without any bloodshed.
+> Some of the beasts _do_ eat flesh to allay their own hunger,
+> although not all of them, for horses, sheep, and cattle
+> feed upon grasses; but those of untameable nature---
+> Armenian tigers, furious lions, wolves and bears, too---
+> these creatures take pleasure in feasting on what they have slaughtered.
+> What an indecency, mingling entrails with entrails,
+> fattening one on the flesh from another one's body,
+> saving the life of one by another's destruction!"
+
+Pythagoras on the afterlife and fear thereof:
+
+> "O people stunned with the icy terror of dying,
+> why do you fear the Styx? Why are you frightened of phantoms
+> and names that mean nothing, the empty blather of poets,
+> foolish hobgoblins of a world that never existed?
+> Here is what happens after you die: your body,
+> whether consumed on the pyre of slowly decaying,
+> suffers no evil; souls cannot perish, and always,
+> on leaving their prior abodes, they come to new ones,
+> living on, dwelling again in receptive bodies"
+
+Pythagoras on unending change:
+
+> "And since I am already embarked upon this great sea,
+> have given full sails to the wind, hear me out: nothing
+> endures in this world! The whole of it flows, and all is
+> formed with a changing appearance; even time passes,
+> constant in motion no different from a great river,
+> for neither a river nor a transitory hour
+> is able to stand still; but just as each wave is driven
+> ahead by another, urged on from behind, and urging
+> the next wave before it in an unbroken sequence,
+> so the times flee and at the same time they follow,
+> and always are new; for what has just been is no longer,
+> and what has not been will presently come into being,
+> and every moment's occasion is a renewal."
+
+Pythagoras on geology, and the changing planet:
+
+> "I truly believe that nothing may keep the same image
+> for a long time; the age of gold yields to iron,
+> and often places will know a reversal of fortune.
+> For with my own eyes, I have seen land that once was quite solid
+> change into water, and I have seen land made from ocean;
+> seashells have been discovered far from the seashore,
+> and rusty anchors right on the summits of mountains;
+> a former plain was converted into a valley
+> by rushing waters, whose force has leveled great mountains;
+> and a onetime marshland has been turned into a desert,
+> while thirsty sands have been transformed into marshland."
+
+Pythagoras on biological change:
+
+> "Mud contains seeds which generate frogs, at first legless,
+> though soon they develop limbs that equip them for swimming,
+> and so that these same limbs can be used for long-distance leaping,
+> their hind legs are always much greater in length than their forelegs.
+> Nor is the bear cub, when newly brought forth by the she-bear,
+> other than bear-pulp: by her own purposeful licking,
+> the mother bear shapes it and forms it in her own image.
+> Do you not see how the larva of bees, makers of honey,
+> so well protected within their hexagonal chambers
+> of wax, are born without any limbs on their bodies,
+> and only later develop legs and the wings used for flying?"
+
+Pythagoras on the shifts of power:
+
+> "as one nation gains in strength while another collapses:
+> once Troy was great, rich in its wealth and its heroes,
+> and able to go on bleeding both for ten years;
+> now brought to earth, she has nothing to show but her ruins,
+> no wealth besides that which lies in her burial chambers.
+> Sparta was famous, mighty Mycenae once flourished,
+> even as Athens, even as Thebes of the Towers;
+> Sparta is worthless now, lofty Mycenae has toppled,
+> what but the name remains of the Thebes of Oedipus?
+> What but the name remains of Pandion's Athens?"
+
+Ovid pandering to Augustus:
+
+> That one approached our altars as a stranger,
+> but Caesar is a god in his own city,
+> raised up to heaven, changed into a star
+> blazing so brilliantly, not by his own
+> remarkable success in war and peace,
+> not by the battles that were crowned in triumph,
+> nor by his service to the commonwealth,
+> nor yet by glory that hastened to his side;
+> but rather by his offspring, for no deed
+> has Caesar done that stands out more than this:
+> he is thew father of our own Augustus!
+
+Ovid predicts his enduring fame:
+
+> My work is finished now: no wrath of Jove
+> nor sword nor fire nor futurity
+> is capable of laying waste to it.
+> Let that day come then, when it wishes to,
+> which only has my body in its power,
+> and put an end to my uncertain years;
+> no matter, for in spirit I will be
+> borne up to soar beyond the distant stars,
+> immortal in the name I leave behind;
+> wherever Roman governance extends
+> over the subject nations of the world,
+> my words will be upon the people's lips,
+> and if there is truth in poets' prophesies,
+> then in my fame forever I will live.
+
 ## Metaphysics
 
 The _Metamorphoses_ were meant to be entertaining, thus it is dangerous to make any theological conclusions from them. Still, some metaphysical comments may represent widely held beliefs from Ovid's time. For example, the role of fate, present in Homer, is laid out:
@@ -1695,6 +1819,23 @@ The _Metamorphoses_ were meant to be entertaining, thus it is dangerous to make 
 > which governs even us; I tell you this
 > that you might put a better face on it---
 > yes, _you_ are ruled by Fate, and _I_ am too."
+> ~ (9.619--35)
+
+> Her [Venus'] father said, "My dear, are you preparing
+> to alter his [Ceasars'] inevitable fate
+> all by yourself? It is permitted you
+> to enter the Hall of Records kept by the Fates;
+> there you will find the labor of the ages,
+> the universal script, in bronze and iron,
+> which does not fear that clashes in the sky
+> or lightning's rage will bring it down to ruin,
+> for it will be eternally secure.
+> Here you will find, inscribed on adamant
+> that will not perish ever, your son's fate:
+> and I myself have read and noted it,
+> and I will now expound on it to you,
+> so you may understand what is to come.
+> ~ (15.1004--17)
 
 Mortals had "deficits" that needed to be purged before becoming immortal:
 
@@ -1844,9 +1985,9 @@ Aeacus's casual comment about his wife being worthy:
 > of being ravished!"
 > ~ (6.990--5)
 
-Sometimes the raped women are proud that they were---in the least due to their semi-divine offpsring:
+Sometimes the raped women are proud that they were---in the least due to their semi-divine offspring:
 
-But, if their flights are not evidence enoough of their unwillingness, then Ovid makes it clear other times:
+But, if their flights are not evidence enough of their unwillingness, then Ovid makes it clear other times:
 
 > "And after Neptune had taken his delight
 > by ravishing the maiden, he announced,
@@ -1892,5 +2033,4 @@ Procne carries of her son Itys, to murder him and feed him to her evil husband:
 > will drag a nursing fawn through the dense woods
 > ~ (6.922-4)
 
-
-*All quotations are taken from Charles Martin's 2004 translation. Line numbers refer to the translation and not the original Latin.*
+All quotations are taken from Charles Martin's 2004 translation. Line numbers refer to the translation and not the original Latin.*

@@ -69,3 +69,54 @@ I agree with most of Seneca's thoughts and advice in this letter. Most people do
 Due to _On the Shortness of Life_, I will read more philosophy and less literature, contemplate my past to identify pointless activities, spend less time pursuing these activities.
 
 *Quotations are taken from C.D.N Costa's 1997 translation.*
+
+## Consolation to Helvia
+
+Summary:
+
+Outline:
+
+- Why I hadn't written earlier
+- My approach: Enumerate past misfortune to toughen you
+- List of Helvia's past misfortunes
+- Don't worry about me: Exile hasn't been too bad; find happiness within
+  - It is part of our divine nature to move
+  - Historically, humans are always migrating
+  - We take universal nature and our individual virtue with us
+  - Barren Corsica focuses one on the spiritual over material
+  - Counter: You use philosophy to mask poverty; Rebuttal: many poor are happier
+  - If one trouble can be born, many can
+- Don't worry about lost protection
+- Don't miss me
+- Don't make excuses because you are a woman
+- Study philosophy, which is better than temporary diversions
+- Consolations, needed until you master philosophy
+  - Your other two sons
+  - Grandchildren
+  - Your father
+  - Your sister; respectable in Egypt; saved husband in shipwreck
+- Conclusion: I'm happy studying earth and heaven; don't miss me
+
+> Everlasting misfortune does have one blessing, that it ends up by toughening those whom it constantly afflicts.
+
+> We are born under circumstances that would be favorable if we did not abandon them. It was nature's intention that there should be no need of great equipment for a good life: every individual can make himself happy. External goods are of trivial importance and without much influence in either direction: prosperity does not elevate the sage and adversity does not depress him. For he has always made the effort to rely as much as possible on himself and to derive all delight from himself.
+
+> No man has been shattered by the blows of Fortune unless he was first deceived by her favors. Those who loved her gifts as if they were their own for ever, who wanted to be admired on account of them, are laid low and grieve when the false and transient pleasures desert their vain and childish minds, ignorant of every stable pleasure. But the man who is not puffed up in good times does not collapse either when they change.
+
+In this letter, Seneca makes a couple reasonable claims but provides, what we now know to be incorrect, natural explanations for them.
+
+For example, when discussing the pains of being deprived of Rome, he makes a statement about wanderlust:
+
+> I've come across people who say that there is a sort of inborn restlessness in the human spirit and an urge to change one's abode; for man is endowed with a mind which is changeable and unsettled: nowhere at rest, it darts about and directs its thoughts to all places known and unknown, a wanderer which cannot endure repose and delights chiefly in novelty.
+
+Observations of myself and my friends lead me to believe this is true, yet Seneca's explanation is certainly not true:
+
+> This will not surprise you if you consider its original source. It was not made from heavy, earthly material, but came down from that heavenly spirit: but heavenly things are by nature always in motion, fleeing and driven on extremely fast. Look at the planets which light up the world: not one is at rest ... How silly then to imagine that the human mind, which is formed of the same elements as divine beings, objects to movement and change of abode, while the divine nature finds delight and even self-preservation in continual and very rapid change.
+
+> For how little have we lost, when the two finest things of all will accompany us wherever we go, universal nature and our individual virtue. Believe me, this was the intention of whoever formed the universe, whether all-powerful god, or incorporeal reason creating mighty works, or divine spirit penetrating all things from greatest to smallest with even pressure, or fate and the unchanging sequence of causation---this, I say, was the intention, that only the most worthless of our possessions would come into the power of another. Whatever is best for a human being lies outside human control: it can be neither given nor taken away. The world you see, nature's greatest and most glorious creation, and the human mind which gazes and wonders at it, and is the most splendid part of it, these are our own everlasting possessions and will remain with us as long as we ourselves remain. So, eager and upright, let us hasten with bold steps wherever circumstances take us, and let us journey through any countries whatever: there can be no place of exile within the world since nothing within the world is alien to men.
+
+On the poor:
+
+> For how little is needed to support a man. And who can lack this if they have any virtue at all?  As far as I am concerned, I have not lost wealth but distractions.
+
+*Quotations are taken from C.D.N Costa's 1997 translation.*
