@@ -24,7 +24,6 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
 
 ## Outline
 
-- The Gods
 - Book I
   - Proem; forms changed into new bodies
   - The creation by organizing chaos
@@ -87,7 +86,7 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
       - Ascalphus spots Prserpina eating the pomegranate
       - The daughters of Acheloüs transformed into sirens
       - Prosperina's year divided between husband and mother
-        - Arethusa's recounts Alpheus' pursuit; becomes a fountain
+        - Arethusa's recounts Alpheus' pursuit; becomes fountain
       - Triptolemus scatters seeds; Lyncus of Scythia rejects them
     - The daughters of Pierus transformed into birds
 - Book VI
@@ -145,7 +144,7 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
     - Pygmalion falls in love with his statue
     - Myrrha fools her father into sleeping with her
     - Venus falls in love with Myrrha's son Adonis
-      - Hippomenes thanklessly outraces Atalanta with Venus' apples
+      - Hippomenes outraces Atalanta with Venus' apples
     - Adonis impaled by a boar; Venus morphs him into an anemone
 - Book XI
   - Orpheus murdered by the Maenads, who are then turned to tree
@@ -155,7 +154,7 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
   - Apollo and Mercury rape Daedalion's daughter; Diana's jealousy
   - The wolf of Psamathe and Peleus' flock
   - Ceyx leaves against Alcyone wishes; drowns in an epic storm
-  - The house of Sleep; Juno requests Morpheus go to Alcyone in a dream
+  - The house of Sleep; Juno has Alcyone visited in a dream
   - Alcyone despairs; husbands floating body; both turned to birds
   - Aesacus chases the nymph to her death; cliff jump; becomes bird
 - Book XII
@@ -166,7 +165,7 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
     - Caeneus raped; turned into a man
     - Lapiths fight the centaurs; Caeneus burried
     - Hericles kill Nestor's brothers
-  - The death and glory of Achilles
+  - The death by Paris' arrow, and glory, of Achilles
 - Book XIII
   - Ajax then Ulysses assert their claim on Achilles' shield
   - Achille's ghost demands Hecuba's daughter
@@ -201,7 +200,7 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
   - Tages; The spear of Romulus; Cipus
   - Apollo's son moves to Rome
   - The apotheosis of Julius Caesar
-  - The poet of the future
+  - Ovid's enduring fame
 
 ## Book I
 
@@ -2089,9 +2088,7 @@ Aeacus's casual comment about his wife being worthy:
 > of being ravished!"
 > ~ (6.990--5)
 
-Sometimes the raped women are proud that they were---in the least due to their semi-divine offspring:
-
-But, if their flights are not evidence enough of their unwillingness, then Ovid makes it clear other times:
+Sometimes the raped women seem to be proud that they attracted the gods and have semi-divine offspring, but, if their flights are not evidence enough of their unwillingness, then Ovid makes it clear other times:
 
 > "And after Neptune had taken his delight
 > by ravishing the maiden, he announced,
