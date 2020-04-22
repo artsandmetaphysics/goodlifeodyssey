@@ -1937,7 +1937,7 @@ The _Metamorphoses_ were meant to be entertaining, thus it is dangerous to make 
 > that will not perish ever, your son's fate:
 > and I myself have read and noted it,
 > and I will now expound on it to you,
-> so you may understand what is to come.
+> so you may understand what is to come."
 > ~ (15.1004--17)
 
 Mortals had "deficits" that needed to be purged before becoming immortal:

@@ -2048,7 +2048,7 @@ The _Metamorphoses_ were meant to be entertaining, thus it is dangerous to make 
 <p>that will not perish ever, your son’s fate:</p>
 <p>and I myself have read and noted it,</p>
 <p>and I will now expound on it to you,</p>
-<p>so you may understand what is to come. <cite>(15.1004–17)</cite></p>
+<p>so you may understand what is to come.” <cite>(15.1004–17)</cite></p>
 </blockquote>
 
 Mortals had “deficits” that needed to be purged before becoming immortal:
