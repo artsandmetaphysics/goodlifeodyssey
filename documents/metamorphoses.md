@@ -16,6 +16,7 @@ The *Metamorphoses* is Ovid's epic poem about change, which opens with these lin
 > this undertaking (which you've changed as well)
 > and guide my poem in its epic sweep
 > from the world's beginning to the present day.
+> ~
 
 The poem is about 12,000 lines of hexameter verse in Latin, and is split into 15 books. It was first published in 8 AD.
 
@@ -214,6 +215,7 @@ In Ovid's creation account, like Hesiod's, the world begins in Chaos:
 > and nothing more, with the discordant seeds
 > of disconnected elements all heaped
 > together in anarchic disarray.
+> ~
 
 However, unlike Hesiod's account---which focuses on the sexual creative acts of the gods and their genealogies---Ovid's ignores the gods almost entirely.
 
@@ -234,6 +236,7 @@ And unlike in the Genesis account, where God creates and separates, in Ovid matt
 > and liberated from the primal heap,
 > he bound the disentangled elements
 > each in its place and all in harmony.
+> ~
 
 He describes how the four winds are separated:
 
@@ -252,6 +255,7 @@ He describes how the four winds are separated:
 > by bristling Boreas; the lands opposite,
 > continually drenched by fog and rain,
 > are where the south wind, known as Auster, dwells.
+> ~
 
 After creation, Ovid describes the four ages of man. It is similar to Hesiod's ages of man in _Works and Days_. Here are the vices of the Iron Age:
 
@@ -275,6 +279,7 @@ After creation, Ovid describes the four ages of man. It is similar to Hesiod's a
 > and piety lies vanquished here below.
 > Virgin Astraea, the last immortal left
 > on the bloodstained earth, withdraws from it in horror.
+> ~
 
 Here is part of Hesiod's description of the Iron Age:
 
@@ -307,6 +312,7 @@ In response to the wickedness of the Iron Age, Jove calls for a great flood. Unl
 > and wondered what the future form of earth
 > could possibly be like, without men on it:
 > why, who would bring the incense to their altars?
+> ~
 
 Ovid's description of the flood is powerful:
 
@@ -335,6 +341,7 @@ Ovid's description of the flood is powerful:
 > and strange new waves beat at the mountaintops;
 > the greater part are drowned beneath the waves,
 > while those spared drowning perish of starvation.
+> ~
 
 Jove stops the flood when he realizes the two human survivors are devout. After describing how the floods recede, Ovid recounts what Deucalian, the last man alive, says to his wife Pyrrha:
 
@@ -354,6 +361,7 @@ Jove stops the flood when he realizes the two human survivors are devout. After 
 > For trust me, if the sea had taken you,
 > I would have followed then, my wife; the sea
 > would not have taken one of us, but two."
+> ~
 
 While few stories in the _Metamorphoses_ are original, Ovid gives the old characters a new psychological depth; Deucalion's terror at being the only human alive is vivid example of this.
 
@@ -362,6 +370,7 @@ Ovid explains how life was biogenerated from the muck (an accepted theory at the
 > It is when heat and moisture join as one
 > that life is generated; all living forms
 > originate from these opposing sources
+> ~
 
 The Python is among the forms that are generated, and Ovid tells the tale of Apollo killing the Python (and establishing the Pythian games to ensure memory of his great dead). Next, Ovid weaves in the first rape story of the _Metamorphoses_:
 
@@ -384,6 +393,7 @@ The Python is among the forms that are generated, and Ovid tells the tale of Apo
 > "Your arrow, Phoebus, may strike everything;
 > mine will strike you: as animals to gods,
 > your glory is so much less than mine!"
+> ~
 
 Ovid's ability to weave one story into the next makes the Metamorphoses a joy to read. Here, Apollo's pride at defeating the Python causes him to foolishly boast, propelling us into the next story while also presenting a compelling example of overconfidence.
 
@@ -394,6 +404,7 @@ Daphne escapes, but Io is less fortunate. Jove rapes her, and then he turns her 
 > while those that were not sleeping stayed on guard.
 > No matter where he stood, he looked at Io,
 > even when he had turned his back on her.
+> ~
 
 While a cow, Io's father makes an interesting comment:
 
@@ -401,6 +412,7 @@ While a cow, Io's father makes an interesting comment:
 > it is a hurtful thing to be a god,
 > for the gates of death are firmly closed against me,
 > and our sorrows must go on forever."
+> ~
 
 Jove can't bear to watch her pain, so he sends Mercury to kill Argus. Mercury lulls Argus to sleep with a tale:
 
@@ -419,6 +431,7 @@ Jove can't bear to watch her pain, so he sends Mercury to kill Argus. Mercury lu
 > But Saturn's daughter rescued them and set
 > those eyes upon the feathers of her bird,
 > filling his tail with constellated gems.
+> ~
 
 Many of Ovid's stories explain the origin of species (especially of birds), rivers, springs, and constellations.
 
@@ -438,12 +451,14 @@ The tale of Phaëthon's doomed journey is one of my favourite in Ovid. Here is t
 > and Summer, naked, bearing ripened grain,
 > and Autumn, stained from treading out her grapes,
 > and Winter with his grey and frosty locks.
+> ~
 
 When describing the burning Earth, Ovid's description alludes back to the _Iliad_ (20.60--67):
 
 > The soil cracks everywhere, and now the light
 > seeps to the underworld and terrifies
 > its ruler and his wife
+> ~
 
 After Zeus kills Phaëthon with lightening, Apollo mourns:
 
@@ -453,6 +468,7 @@ After Zeus kills Phaëthon with lightening, Apollo mourns:
 > the sun was quite put out. The conflagration
 > (for the world was still ablaze) provided light;
 > that was a time some good came out of evil.
+> ~
 
 The stories in the _Metamorphoses_ frequently refer to earlier incidents. For example:
 
@@ -461,6 +477,7 @@ The stories in the _Metamorphoses_ frequently refer to earlier incidents. For ex
 > the laurel resting on his brow slipped down;
 > in not as much time as it takes to tell,
 > his face, his lyre, his high color fell!
+> ~
 
 Also, when Juno is departing from Tethys and Oceanus in Book II, she rides up on "peacocks fitted out with Argus' eyes"---another reference to book I.
 
@@ -488,6 +505,7 @@ Almost all of the stories end with physical transformations. I like how Ovid des
 > became a mane that fell on her right side;
 > made over now in voice and form completely,
 > this transformation gave her a new name.
+> ~
 
 The story of Mercury stealing Apollo's cattle is also told in the Homeric Hymn to Dionysus. Ovid's version is shorter, and there are differences, but in both there is an old man who betrays the location of the cattle. (In Ovid's version the man is less devout and gives away the location confidentially and with little hesitation). It is intriguing to see the development of the story over several centuries.
 
@@ -523,6 +541,7 @@ Minerva visits the goddess Envy to have her enact revenge on irreverent follower
 > another's joy, she falls into decay,
 > and rips down only to be ripped apart,
 > herself the punishment for being her.
+> ~
 
 After Io and Callisto, Jove pursues Europa:
 
@@ -536,6 +555,7 @@ After Io and Callisto, Jove pursues Europa:
 > assuming the appearance of a bull
 > to mingle with the other cattle, lowing
 > as gorgeously he strolls in the new grass.
+> ~
 
 ## Book III
 
@@ -558,6 +578,7 @@ While founding Thebes, a great serpent kills many of Cadmus' men, and so he purs
 > drawn up in one unbroken wave until
 > the tiny figures stand erect onstage,
 > complete in all respects, from head to feet.
+> ~
 
 And then these men fight each other until Athena stops them. These so-called sown men (Spartoi) founded Thebes with Cadmus. I think this is the oddest story in the Metamorphoses, and I wonder what significance it had to the ancient Greeks.
 
@@ -571,6 +592,7 @@ And then these men fight each other until Athena stops them. These so-called sow
 > But "fortunate"? A judgment best reserved
 > for a man's last day: call no one blest, until
 > he dies and the last rites are said for him.
+> ~
 
 This reasoning is pervasive in Herodotus.
 
@@ -586,6 +608,7 @@ Actaeon is caught, and his dogs tear him to pieces.
 > while others considered them appropriate
 > to the defense of her austere virginity.
 > As usual, both parties had their reasons.
+> ~
 
 Throughout the _Metamorphoses_ Ovid playfully questions the god's morals, as in this quote.
 
@@ -601,6 +624,7 @@ After the Actaeon story, Jove falls for Semele---Cadmus' daughter. Semele become
 > all of the trappings of his high office
 > and embrace you, showing such almighty splendor
 > as when he is received by Lady Juno."
+> ~
 
 (It is difficult to imagine a woman being seduced by a man claiming to be a god.)
 
@@ -618,6 +642,7 @@ Tiresias' first prediction is that Narcissus, if he knows himself, will not live
 > "Why seek at all, when all that I desire
 > is mine already? Riches in such abundance
 > that I've been left completely without means!"
+> ~
 
 Ovid paints a compelling, yet humorous, picture of obsession with his description of Narcissus' death:
 
@@ -629,6 +654,7 @@ Ovid paints a compelling, yet humorous, picture of obsession with his descriptio
 > those eyes transfixed once by their master's beauty,
 > but on the ferry ride across the Styx,
 > his gaze into its current did not waver.
+> ~
 
 Acoetes' story is similar to the seventh Homeric Hymn to Dionysus.
 
@@ -653,6 +679,7 @@ The first of their stories, of the suicide of Pyramus and Thisbe, is the origina
 > splashed with his gore, the tree's pale fruit grow dark;
 > blood soaks its roots and surges up to dye
 > the hanging berries purple with its color."
+> ~
 
 The two lovers planned to meet at the tomb of Ninus, who was the king of Assyria and husband of Semiramis. Semiramis was a legendary queen of Assyria. She is often associated with the historical queen Sammurāmat who ruled from 811 - 808 BC.
 
@@ -677,6 +704,7 @@ The story of Hermaphroditus is a rare example of a woman (sort of) raping a man.
 > securely binds the prey that it has captured
 > with tentacles sent out in all directions;
 > yet still the boy denies the nymph her bliss'"
+> ~
 
 A description of the underworld:
 
@@ -689,6 +717,7 @@ A description of the underworld:
 > some make their way to the forum; others seek
 > the palace of the ruler of the dead,
 > or take up once again the crafts they lived by.
+> ~
 
 Juno's frustrated jealous rage fills much of the first four books of Ovid. She eventually drives Cadmus and Harmonia into ruin. Although Juno caused much of their suffering, the story of their transformation (which has may favourite imagery in the book) implies that it was Cadmus' killing of the serpent that lead to his woes:
 
@@ -738,6 +767,7 @@ Juno's frustrated jealous rage fills much of the first four books of Ovid. She e
 > and at once there were two serpents intertwined,
 > who presently went crawling off and found
 > a hiding place within a nearby grove.
+> ~
 
 Perseus turns Atlas into a mountain:
 
@@ -749,6 +779,7 @@ Perseus turns Atlas into a mountain:
 > Each part grew to extraordinary size
 > (as you immortals had ordained), until
 > the weight of heaven rested on his shoulders.
+> ~
 
 ## Book V
 
@@ -762,11 +793,13 @@ Perseus slays many men at his wedding to Andromeda, when her prior betrothed cas
 > and as he fell, his dying fingers struck
 > the lyre's strings, and on that plaintive note
 > the poet and his song came to an end.
+> ~
 
 After describing dying men, one after another, Ovid says:
 
 > It really would take far too long to name
 > the ordinary soldiers
+> ~
 
 Minerva visits the nine muses, who tell of the nine sisters who challenged their supremacy and of the contest between them, and retell the story by which they won the contest. As part of this story, Venus makes the following comment:
 
@@ -785,6 +818,7 @@ Minerva visits the nine muses, who tell of the nine sisters who challenged their
 > desires to do likewise---and will, if we let her!
 > But if you take pride in our alliance, advance it
 > by joining her to her uncle!"'"
+> ~
 
 Venus' impulse leads to the rape of Persephone and (so they say) the rotation of the seasons.
 
@@ -796,6 +830,7 @@ This book continues the theme of divine revenge:
 > "we will be praised---and we will not permit
 > those who belittle our divinity
 > to go unpunished!"
+> ~
 
 Minerva contests the Arachne---an expert weaver. Although she loses, she turns her competitor into a spider.
 
@@ -811,6 +846,7 @@ This simile from their contest is superb:
 > and another starts, so gradual the verging;
 > there in the middle, the colors look the same,
 > while, at the edges, they seem different.
+> ~
 
 The brief stories of Marsyas the Satyr and Pelops (Tantalus' son) feel undeveloped and seem to be included because merely due the transformations involved.
 
@@ -828,6 +864,7 @@ The story of Tereus, the marauder from Thrace, and the Athenian sister-princesse
 > Here Tereus achieves a reputation
 > for piety while plotting wickedness,
 > and criminal behavior wins him praise!
+> ~
 
 After trapping Philomela in a house in the woods and raping her, she cries:
 
@@ -844,6 +881,7 @@ After trapping Philomela in a house in the woods and raping her, she cries:
 > _if_ there are any gods in all of heaven!"
 > Such words provoke the savage tyrant's wrath
 > and fear in equal measure
+> ~
 
 He proceeds to cut out her tongue.
 
@@ -869,6 +907,7 @@ Medea's monologues are brilliant.
 > reason advises this, and passion, that;
 > I see the better way, and I approve it,
 > while I pursue the worse."
+> ~
 
 These lines remind me of Paul's letter to the Romans, where he says:
 
@@ -887,6 +926,7 @@ In Medea's speech, we hear her grasp onto a small reason to wish Jason well, and
 > not in  a man as beautiful as he,
 > that I should fear duplicity from him,
 > or his neglecting what I am deserved."
+> ~
 
 These lines may ironically refer to Euripides' play, _Medea_. Note that beauty and goodness are thought to be correlated.
 
@@ -907,6 +947,7 @@ The virgin princess weaves back and forth, but, upon seeing Jason again, decides
 > and---as it happened---looking even better
 > than usual. You would have understood
 > and pardoned her for her infatuation.
+> ~
 
 After returning to Greece, Jason begs Medea to give his father a potion to lengthen his life. She complies:
 
@@ -916,6 +957,7 @@ After returning to Greece, Jason begs Medea to give his father a potion to lengt
 > to her own home; her reptiles had been touched
 > only by the _odors_ of those herbs,
 > and yet they shed the skins of their old age!
+> ~
 
 Ovid pokes fun at readers by not including the full list of ingredients:
 
@@ -929,6 +971,7 @@ Ovid pokes fun at readers by not including the full list of ingredients:
 > But look! Almost at once, that stick turned green,
 > and just a short time later put out leaves,
 > and suddenly was loaded down with fruit!
+> ~
 
 As Medea flies from this gruesome scene, Ovid lists transformation stories. Then, in a few succinct lines, he tells the story of Jason's betrayal and Medea's revenge:
 
@@ -939,11 +982,13 @@ As Medea flies from this gruesome scene, Ovid lists transformation stories. Then
 > the blade that dripped with her own children's gore
 > enraged their father, whom she fled before,
 > her fatal vengeance leaving all undone!
+> ~
 
 After Aegeus discovers his unknown son, Theseus, there is a big celebration. Then Ovid gives us this pithy line:
 
 > And yet, no joy is ever unalloyed,
 > and worry worms its way into delight
+> ~
 
 Aegeus is worried about King Minos, who wants to revenge his dead son. Fortuneatly, Athens has a loyal ally ruling over Aegina. Cephalus seeks aid, and king Aeacus of Aegina recounts the story of the plague:
 
@@ -1013,6 +1058,7 @@ Aegeus is worried about King Minos, who wants to revenge his dead son. Fortuneat
 > wander about, their journey uncompleted:
 > no wood is left to burn their bodies now,
 > no bit of land where they may be interred."
+> ~
 
 ## Book VIII
 
@@ -1032,6 +1078,7 @@ The book opens with the story of Scylla, who like Medea, betrays her family and 
 > their kingdom, and may land and sea deny you!
 > Be sure that I will never let so vile
 > a monster into Crete"
+> ~
 
 It is hard to imagine a woman falling in love with a man she hasn't met and cutting her head off. Ovid's portrayal of women's sexual passion feels like pornographic male fantasy.
 
@@ -1058,6 +1105,7 @@ Ironically, when Minos returns to Crete, he realizes his wife had slept with a b
 > confusing corridors and was himself
 > just barely able to find his way out,
 > so utterly deceitful was that place.
+> ~
 
 Daedalus builds wings and flees Crete with his son Icarus, who famously dies because he flies too close to the sun. I love these lines, describing bystanders watching:
 
@@ -1066,6 +1114,7 @@ Daedalus builds wings and flees Crete with his son Icarus, who famously dies bec
 > some plowman at his plow, looks up and sees
 > something astonishing, and thinks them gods,
 > who have the power to pass through the air.
+> ~
 
 Daedalus is brilliant, but he also demonstrates terrible academic jealousy:
 
@@ -1085,6 +1134,7 @@ Daedalus is brilliant, but he also demonstrates terrible academic jealousy:
 > this lad of precepts from a precipice,
 > the steep acropolis Minerva loves,
 > and lying, said the lad had slipped and fallen.
+> ~
 
 When the apostle Paul visits Athens, he stood in front of the Areopagus, and said "Athenians, I see how extremely religious you are in every way. For as I went through the city and looked carefully at the objects of your worship, I found among them an altar with the inscription, 'To an unknown god.'" I wonder if pagans worshiped the unknown god to ensure they aren't forgetting to sacrifice to a god they are not aware of. The jealous anger of the pagan gods is common, here is a nice example:
 
@@ -1107,8 +1157,9 @@ When the apostle Paul visits Athens, he stood in front of the Areopagus, and sai
 > in length his tusks were like an elephant's,
 > and bolts of lightning issued from his mouth,
 > and when he exhaled, trees turned black and died.
+> ~
 
-A band of heroes, including Nestor from the Iliad and Jason of the Golden Fleece, sets out the kill the boar. A few heroes die, and after a fortunate spear ends its life, the heroes bicker over the honors of the dead. One tragedy leads to another, and before long Diana has completed her revenge. Ovid says:
+A band of heroes, including Nestor from the _Iliad_ and Jason of the Golden Fleece, sets out the kill the boar. A few heroes die, and after a fortunate spear ends its life, the heroes bicker over the honors of the dead. One tragedy leads to another, and before long Diana has completed her revenge. Ovid says:
 
 > Not even if some god had given me
 > a hundred mouths, each fitted with a tongue,
@@ -1120,6 +1171,7 @@ A band of heroes, including Nestor from the Iliad and Jason of the Golden Fleece
 > and while his corpse was still displayed among them,
 > caressed him constantly and gave him kisses,
 > and even kissed the bier he was laid out on
+> ~
 
 Some of the heroes, upon their journey home from the hunt, are stopped at the overflowing river Acheloüs. They tell stories with the river to pass the time, including the story of some naiads turned into islands and my favourite story of Baucis and Philemon. Two gods in disguise look for a home to stay in. Many turn them down, but the old couple lets them in and, though pour, try to make them comfortable. The scene seems archetypal---disguised gods testing the devout (consider Abraham being visited by divine messengers).
 
@@ -1129,6 +1181,7 @@ Some of the heroes, upon their journey home from the hunt, are stopped at the ov
 > slipped underneath the shortest of its legs;
 > and when the table had been stabilized,
 > she scrubbed its surface clean with fragrant mint."
+> ~
 
 The visitors magically refill the winebowl, and the couple realize they are gods.
 
@@ -1139,6 +1192,7 @@ The visitors magically refill the winebowl, and the couple realize they are gods
 > Time after time, he slipped out of their grasp,
 > and then, it seemed, sought refuge with the gods,
 > who would not let the couple do him in"
+> ~
 
 The small expressions Ovid uses, like "the guardian of their small villa," let one imagine the scene with so few words.
 
@@ -1150,6 +1204,7 @@ The gods destroy the town (similar to Sodom and Gomorrah), and ask the old coupl
 > that the same hour take us both together,
 > and that I should not live to see her tomb
 > nor she survive to bury me in min.'"
+> ~
 
 Acheloüs tells the story of Erysichton, who chopped down a sacred tree of Ceres, who soon sent famine to enact her revenge. Erysichton was so hungry he sold his daughter into slavery and eventually ate himself to death:
 
@@ -1158,6 +1213,7 @@ Acheloüs tells the story of Erysichton, who chopped down a sacred tree of Ceres
 > the wretched man began to tear his limbs
 > asunder, mangling them in his maw,
 > and fed his body as he shrank away."
+> ~
 
 ## Book IX
 
@@ -1173,6 +1229,7 @@ Hercules' contempt of death, and the Greek ideal:
 > Now spreading out in every direction,
 > the crackling flames came after Hercules,
 > whose carefree limbs received them with contempt.
+> ~
 
 Since its lines contain little advice or philosophical insight, I read the _Metamorphoses_ primarily for their beauty and to know the myths referenced so often in paintings and later literature. Ovid's psychological portrayals of tempted individuals, while maybe not realistic, have made me more empathetic. Media, Scylla, Byblis, and Myrrah---all lusting women, perhaps a weird obsession of Ovid---in particular are interesting. Here are a few quotes from the story of Byblis, who fell in love with her brother, demonstrating how her passion developed:
 
@@ -1187,6 +1244,7 @@ Since its lines contain little advice or philosophical insight, I read the _Meta
 > She calls him "Master" now, and now detests
 > the thought that they are siblings, and prefers
 > that he should call her "Byblis" and not "Sister."
+> ~
 
 > "But even if I keep them out of mind,
 > there is no wrong in _dreaming_ of such things
@@ -1199,6 +1257,7 @@ Since its lines contain little advice or philosophical insight, I read the _Meta
 > How pleasing to remember! But how brief
 > those pleasures were--the night, with breakneck speed,
 > snatched them away, when they had just begun!"
+> ~
 
 > "The sons of Aeolus were not afraid
 > to sleep with their sisters! How do I know this,
@@ -1206,6 +1265,7 @@ Since its lines contain little advice or philosophical insight, I read the _Meta
 > Where is this leading me? Depart, indecent thoughts,
 > and let me love my brother not at all,
 > unless my move is sisterly and lawful!"
+> ~
 
 When her brother avoids her advances by fleeing to found a colony, Byblis goes insane and, crying in despair, is morphed into a spring.
 
@@ -1239,6 +1299,7 @@ The last story in this chapter is relevant for me, since my wife is pregant with
 > the goddess Io stood (or seemed to sand)
 > before her troubled bed, accompanied
 > with solemn pomp by her mysteries.
+> ~
 
 The relationship between man and woman is, as is usual, unequal.
 
@@ -1273,6 +1334,7 @@ Io informs Telthusa to keep the baby, even if it is a girl. It is, and they keep
 > what could he do? Could all his learnèd arts
 > transform me from a girl into a boy?
 > Or could _you_ change into a boy, Ianthe?
+> ~
 
 Apparently, while male-male homosexuality was common in ancient Rome, female-female homosexuality was not.
 
@@ -1289,6 +1351,7 @@ Ovid economically relays the death of Orpheus' wife, and how he descends to the 
 > the birds let go the liver, and the daughters
 > of Danaüs were resting by their urns,
 > while you, O Sisyphus, sat on your stone.
+> ~
 
 When an author relies on their audience being well-read, they can paint with great depth and speed by borrowing the images of others.
 
@@ -1306,6 +1369,7 @@ Hades allows Eurydice a second life, but tragically, Orpheus breaks the one cond
 > the practice of transferring the affections
 > to youthful males, plucking the first flower
 > in the brief spring time of their early manhood.
+> ~
 
 The antecedent of "it" must be Orpheus' penis, and Ovid casts doubt on motive for staying away from women, conjecturing that it wasn't of his own choice, and for this reason he turned to young boys. Ovid's lack of reverence is distasteful to me, even being so far separated from the cultural stories he denigrates---still, he is fun to read.
 
@@ -1319,6 +1383,7 @@ A quote from the story of Hyacinthus, makes light of a similar simile in the _Il
 > unable to hold itself up, with downcast demeanor,
 > just so the dying boy's head, now lacking all vigor,
 > unable to bear its own weight, lies flat on his shoulder."
+> ~
 
 Here is the original:
 
@@ -1335,6 +1400,7 @@ In Homer, a great hero has died; in Ovid, a boy-lover dies in a discus accident.
 > and a flower will come into being, inscribed with my mourning;
 > later, a legend involving the boldest of heroes
 > will be conjoined to this flower and read in its markings.'"
+> ~
 
 Orpheus then tells the story of Pygmallion, and how, after being repulsed by the "numerous defects of character Nature had given the feminine spirit," he falls in love with his statue. Is Ovid demeaning women, or men when he tells of the ridiculous gifts Pygmallion brought:
 
@@ -1342,6 +1408,7 @@ Orpheus then tells the story of Pygmallion, and how, after being repulsed by the
 > pleasing to girls, such as seashells and pebbles, tame birds,
 > armloads of flowers in thousands of different colors,
 > lilies, bright painted balls, curious insects in amber
+> ~
 
 Perhaps Ovid is using the classic story to make fun of men, for helplessly chasing women, and women for being shallowly bought by gifts.
 
@@ -1351,6 +1418,7 @@ Next Orpheus tells the story of Myrrha, who fell in love with her father and tri
 > depart from me, fathers; or, if you find my poems charming,
 > believe that I lie, believe these events never happened;
 > or, if you believe they did, then believe they were punished.
+> ~
 
 ## Book XI
 
@@ -1373,6 +1441,7 @@ After telling stories for most of Book X, Orpheus is torn to pieces by the Maena
 > by words and music joined in harmony,
 > and, as though begging pardon for its mad daring,
 > fell at the poet's feet.
+> ~
 
 Ovid's commentary on Oracles:
 
@@ -1384,6 +1453,7 @@ Ovid's commentary on Oracles:
 > the road to Delphi was too dangerous,
 > so he prepared to undertake a journey
 > to Phoebus' shrine at Clarium instead
+> ~
 
 Knowledge of the source of lightening:
 
@@ -1392,6 +1462,7 @@ Knowledge of the source of lightening:
 > and earth and sea alike are unprotected;
 > indeed, they even vex the clouds in heaven,
 > and shake the lightnings from them by collision!
+> ~
 
 I adore the story of Ceyx and Alcyone---a loving couple separated by death but both turned to birds. The description of Ceyx's death at sea is some of Ovid's most vivid. It includes a great simile:
 
@@ -1415,6 +1486,7 @@ I adore the story of Ceyx and Alcyone---a loving couple separated by death but b
 > and does not end its struggle with the weary
 > vessel before it penetrates the wall
 > of the captured ship.
+> ~
 
 ## Book XII
 
@@ -1428,6 +1500,7 @@ The characteristic abodes of Envy, Sleep, and Rumor are described in the _Metamo
 > with others' words, and some go bearing tales
 > elsewhere, while everywhere the fictions grow,
 > as everyone adds on to what he's heard.
+> ~
 
 Ovid enjoys making fun of Homer's heroes. He begins withe Achilles'
 
@@ -1443,6 +1516,7 @@ Ovid enjoys making fun of Homer's heroes. He begins withe Achilles'
 > the dangers they've endured and gotten through:
 > what else has great Achilles to discuss?
 > What else is there to speak of in his presence?
+> ~
 
 Next in line is Nestor, who even Homer seemed to poke fun at a bit:
 
@@ -1456,17 +1530,20 @@ Next in line is Nestor, who even Homer seemed to poke fun at a bit:
 > makes one a living witness of so much
 > that happened, I have lived two centuries
 > already, and am living in my third!"
+> ~
 
 And then there is the ridiculous death descriptions:
 
 > "They eyes leapt forth
 > from the disfigured pudding of his face,
 > and his nose was driven back into his palate."
+> ~
 
 > "He plunged the horns into Gryneus' eyes
 > and gouged them out; one to an antler clung,
 > the other dribbled down his beard and hung
 > suspended in a mass of clotting gore."
+> ~
 
 > "and Dictys, as he fled Pirithoüs
 > in fearful haste, toppled over the edge
@@ -1474,6 +1551,7 @@ And then there is the ridiculous death descriptions:
 > until a giant ash tree broke his fall,
 > and left its fractured branches decorated
 > with loops of his intestines.
+> ~
 
 > "and used his sword to open up his belly;
 > that fierce, unbridled beast bounded forward
@@ -1482,6 +1560,7 @@ And then there is the ridiculous death descriptions:
 > and what was trodden on was burst asunder
 > and tangled in his legs until he fell,
 > his belly emptied of its viscera."
+> ~
 
 > "shattered the broad dome of his skull, and pressed
 > his fluid brains till they exuded through
@@ -1490,6 +1569,7 @@ And then there is the ridiculous death descriptions:
 > leaving the curds behind, or as when grapes
 > beneath the press drip through the slender sieve,
 > and juice is squeezed out through the narrow openings."
+> ~
 
 Ovid includes the sequences of deaths, like Homer:
 
@@ -1500,24 +1580,28 @@ Ovid includes the sequences of deaths, like Homer:
 > above the tallest tress, and Thereus,
 > who caught bears on the peaks of Thessaly
 > and fetched them back still living and indignant."
+> ~
 
 > "Caeneus had already slaughtered five:
 > Styphelus first, then Bromus, Antimachus,
 > Elymus, and axe-wielding Pyracmos;
 > I don't recall the manner of their deaths,
 > for I took note just of the names and numbers."
+> ~
 
 He pokes fun at the Greek's armor obsession:
 
 > Achilles very shield---that you should be aware
 > whose it once was---now instigates a battle,
 > and for his arms, arms are now taken up.
+> ~
 
 He even makes fun of the role the gods played in Homer, perhaps questioning their existence:
 
 > "and when he saw the [thrown tree] coming, Theseus
 > moved out of range, upon advice of Pallas---
 > or so he would prefer us to believe."
+> ~
 
 Many stories' central metamorphosis is physical, in the story of Achilles death, the change is of a living man into a legacy:
 
@@ -1527,6 +1611,7 @@ Many stories' central metamorphosis is physical, in the story of Achilles death,
 > That glory is the measure of the man,
 > and it is this that is Achilles' essence,
 > nor does he feel the emptiness of death.
+> ~
 
 ## Book XIII
 
@@ -1543,12 +1628,14 @@ Ajax' has a few funny arguments:
 > he has already gotten his reward,
 > for when his claim has been rejected, he
 > can boast that he and I were fairly matched!"
+> ~
 
 > "In truth, if I may say so, it's the prize
 > that seeks association with _my_ glory,
 > and would be honored much more than would I---
 > for it's the armor would be given Ajax,
 > not Ajax the armor."
+> ~
 
 Ulysses wins; his central argument is that his intellect is more important than fighting prowess. He also pulls the jury to his side by emotionally aligning them against Ajax:
 
@@ -1558,6 +1645,7 @@ Ulysses wins; his central argument is that his intellect is more important than 
 > Can it be baseness for me to accuse
 > Palamedes unjustly, but correct
 > for you to find him guilty of the charges?"
+> ~
 
 The story of the Cyclops, Polyphemus from the _Odyssey_, wooing Galatea is hilarious. Ovid, as he always does, masterfully ridicules without indulging too much. Thus, Polyphemus' advances are funny yet not crude. Here are a few of my favorite lines:
 
@@ -1586,6 +1674,7 @@ The story of the Cyclops, Polyphemus from the _Odyssey_, wooing Galatea is hilar
 > grumpier than a nursing mother-bear,
 > more unresponsive even than the ocean,
 > less apt to pity than a stepped-on snake'"
+> ~
 
 > "'Just look how big I am! Not even Jove---
 > this Jupiter that you go on about,
@@ -1604,6 +1693,7 @@ The story of the Cyclops, Polyphemus from the _Odyssey_, wooing Galatea is hilar
 > what of it, then? Does not the mighty Sun
 > see everything that happens here on earth?
 > And as for eyes, he too has only one!"
+> ~
 
 The Metropolitan Museum of Art has an original Roman painting, one of the rare survivors, from around the time of Ovid (if I recall). The painting depicts a few scenes of the Polymphemus and Galatea story.
 
@@ -1632,6 +1722,7 @@ Here is the especially odd part:
 > which I could not resist for long: 'Farewell,
 > O earth, which I will nevermore return to,'
 > I said, and plunged beneath the ocean's waves."
+> ~
 
 ## Book XIV
 
@@ -1645,6 +1736,7 @@ Glaucus, in love with Scylla, asks Circe to help. Instead, she falls in love wit
 > "The leaves of trees will spring out of the ocean,
 > and seaweed will be found on mountain ranges,
 > before my love for Scylla ever changes."
+> ~
 
 And so, Circe transforms Syclla into a monster:
 
@@ -1653,6 +1745,7 @@ And so, Circe transforms Syclla into a monster:
 > Her lover Glaucus wept at this and fled
 > from having any more to do with Circe,
 > whose use of potent herbs was too aggressive."
+> ~
 
 Diomedes recounting the woes of the returning Greeks:
 
@@ -1660,6 +1753,7 @@ Diomedes recounting the woes of the returning Greeks:
 > our woes in the order they occurred:
 > just say that even Priam would have wept
 > to see how Greece was fairing at that time!"
+> ~
 
 Anaxarete, after spurning Iphis' advances, sees his body and is turned to stone:
 
@@ -1672,6 +1766,7 @@ Anaxarete, after spurning Iphis' advances, sees his body and is turned to stone:
 > she was unable to; and very soon
 > the stoniness that for so long a time
 > had been within her heart spread through her body."
+> ~
 
 ## Book XV
 
@@ -1681,6 +1776,7 @@ Pythagoras' pagan skepticism:
 > or by the winds that tear apart the clouds;
 > what causes earthquakes and what keeps the stars
 > from flying off, and other hidden things
+> ~
 
 Pythagoras on being vegetarian:
 
@@ -1699,6 +1795,7 @@ Pythagoras on being vegetarian:
 > What an indecency, mingling entrails with entrails,
 > fattening one on the flesh from another one's body,
 > saving the life of one by another's destruction!"
+> ~
 
 Pythagoras on the afterlife and fear thereof:
 
@@ -1711,6 +1808,7 @@ Pythagoras on the afterlife and fear thereof:
 > suffers no evil; souls cannot perish, and always,
 > on leaving their prior abodes, they come to new ones,
 > living on, dwelling again in receptive bodies"
+> ~
 
 Pythagoras on unending change:
 
@@ -1727,6 +1825,7 @@ Pythagoras on unending change:
 > and always are new; for what has just been is no longer,
 > and what has not been will presently come into being,
 > and every moment's occasion is a renewal."
+> ~
 
 Pythagoras on geology, and the changing planet:
 
@@ -1741,6 +1840,7 @@ Pythagoras on geology, and the changing planet:
 > by rushing waters, whose force has leveled great mountains;
 > and a onetime marshland has been turned into a desert,
 > while thirsty sands have been transformed into marshland."
+> ~
 
 Pythagoras on biological change:
 
@@ -1755,6 +1855,7 @@ Pythagoras on biological change:
 > so well protected within their hexagonal chambers
 > of wax, are born without any limbs on their bodies,
 > and only later develop legs and the wings used for flying?"
+> ~
 
 Pythagoras on the shifts of power:
 
@@ -1768,6 +1869,7 @@ Pythagoras on the shifts of power:
 > Sparta is worthless now, lofty Mycenae has toppled,
 > what but the name remains of the Thebes of Oedipus?
 > What but the name remains of Pandion's Athens?"
+> ~
 
 Ovid pandering to Augustus:
 
@@ -1782,6 +1884,7 @@ Ovid pandering to Augustus:
 > but rather by his offspring, for no deed
 > has Caesar done that stands out more than this:
 > he is thew father of our own Augustus!
+> ~
 
 Ovid predicts his enduring fame:
 
@@ -1799,6 +1902,7 @@ Ovid predicts his enduring fame:
 > my words will be upon the people's lips,
 > and if there is truth in poets' prophesies,
 > then in my fame forever I will live.
+> ~
 
 ## Metaphysics
 
