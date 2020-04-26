@@ -1,6 +1,6 @@
 ---
 title: >
-  On Historical Laws
+  On Universal Historical Laws
 description: >
   Is history philosophically uninteresting because it can not provide universal laws?
 type: essay
