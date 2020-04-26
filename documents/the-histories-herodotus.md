@@ -26,11 +26,16 @@ He often adds his opinions after relaying the stories of others.  He is motivate
 > I have given a rather lengthy account of the Samians because they achieved the three greatest engineering works of all the Hellenes.  First, they dug a tunnel through a 900-foot-high mountain.
 > = (3.59)
 
+He, as do other ancient historians, avoid covering material covered by other well-known accounts:
+
+> Let that be the extent of what is said on this topic. For others have told of the deeds they performed to obtain their positions as kings over the Dorians, even though they were Egyptians, so I shall leave that subject alone. I shall, however, record what the accounts of others have not already covered.
+> = (6.55)
+
 His writing is conversational, and he does not have a strict sense of what sort of material belongs in his account and what does not.  I like the broad scope.  Herodotus discusses
 
 - Geography
 - Customs of various peoples
-- The causes of natural wonders (e.g., the cause of the Nile's flooding)
+- The causes of natural wonders
 
 Herodotus does not pander his readers with an outline, but expects them to keep track of his path themselves.
 
@@ -52,7 +57,10 @@ Herodotus does not pander his readers with an outline, but expects them to keep 
 - 4.83--144 Darius' Expedition to Scythia
 - 4.145--205 Libya and the Persians
 - 5.1--29 Darius' Campaign in the Hellespont and Thrace
-- 5.30--6.49 The Ionian Revolt
+- 5.30--6.33 The Ionian Revolt
+- 6.34--50
+- 6.50--93 Kleomenes King of Sparta, Aegina, Athens
+- 6.94--120
 
 ## Epistemology
 
@@ -92,7 +100,9 @@ The story of Gyges is entertaining. It is interesting that Gyges says "right and
 > Gyges gave a cry of horror.  "Master," he said "what an improper suggestion!  Do you tell me to look at the queen when she has no clothes on?  No, no: 'when she takes off her clothing, she does away with her shame'---you know what they say of women.  Let us learn from experience.  Right and wrong were distinguished long ago---and I'll tell you one thing that is right: a man should mind his own business.  I do not doubt that your wife is the most beautiful of women; so for goodness' sake do not ask me to behave contrary to custom."
 > = (1.8)
 
-Solon's description of the happy life requires that one know the manner of their death. It also begins with the prosperity of the person's polis:
+Ironically, the shamed queen soon forces Gyges to make a difficult ethical decision---die, or kill his friend the king.
+
+Solon's says a happy life requires a good death and the prosperity of the person's polis:
 
 > When Solon had made as thorough an inspection [of the royal treasuries] as opportunity allowed, Croesus said: "Well, my Athenian friend, I have heard a great deal about your knowledge.  I cannot resist my desire to ask you a question: who is the happiest man you have ever seen?"
 >
@@ -100,10 +110,16 @@ Solon's description of the happy life requires that one know the manner of their
 >
 > Croesus was taken aback.  "And what," he asked sharply, "is your reason for this choice?"
 >
-> "There are good reasons," said Solon; "first, his city was prosperous, and he had fine sons, and lived to see children born to each of them, and all these children surviving; secondly, he had wealth enough by our standards; and he had a glorious death.  In a battle with the neighboring town of Eleusis, he fought for his countrymen, routed the enemy, and died like a brave man; and the Athenians paid him the high honor of a public funeral on the spot where he fell."  ...
+> "There are good reasons," said Solon; "first, his city was prosperous, and he had fine sons, and lived to see children born to each of them, and all these children surviving; secondly, he had wealth enough by our standards; and he had a glorious death.  In a battle with the neighboring town of Eleusis, he fought for his countrymen, routed the enemy, and died like a brave man; and the Athenians paid him the high honor of a public funeral on the spot where he fell."
+> All these details about the happiness of Tellus, Solon doubtless intended as a moral lesson for the king; Croesus, however, thinking he would at least be awarded second prize, asked who was the next happiest person whom Solon had seen.
+> "Two young men of Argos," was the reply; "Cleobis and Biton. They had enough to live on comfortably; and their physical strength is proved not merely by their success in athletics, but much more by the following incident. The Argives were celebrating the fetival of Hera, and it was most important that the mother of the two young men should drive to the temple in her ox-caft; but it so happened that the oxen were late in coming back from the fields. Her two sons therefore, as there was no time to lose, harnessed themselves to the cart and dragged it along, with their mother inside, for a distace of nearly six miles, until they reached the temple. After this exploit, which was witnessed by the assembled crowd, they had a most enviable death---a heaven-sent proof of how much better it is to be dead than alive. Men kept crowding round them and congratulating them on their strength, and women kept telling the mother how lucky she was to have such sons, when, in sheer pleasure at this public recognition of her sons' act, she prayed the goddess Hera, before whose shrine she stood, to grant Gleobis and Biton, who ha dbrough her such honour, the greatest blessing that can fall to mortal man.
+> "After her prayer came the ceremonies of sacrifice and feasting; and the two lads, when all was over, fell asleep in the temple---and that was the end of them, for they never spoke again.
+> "The Argives, considering them to be the best of men, had statues made of them, which they sent to Delphi.
 >
 > "I know God is envious of human prosperity and likes to trouble us; and you question me about the lot of man.  Listen then: as the years lengthen out, there is much both to see and to suffer which one would wish otherwise. ... You seem to be very rich, and you rule a numerous people; but the question you asked me I will not answer, until I know that you have died happily.  Great wealth can make a man no happier than moderate means, unless he has the luck to continue in prosperity to the end.  Many very rich men have been unfortunate, and many with moderate competence have had good luck.  The former are better off than the latter in two respects only, whereas the poor but lucky man has the advantage in many ways; for though the rich have the means to satisfy their appetites and to bear calamities, and the poor have not, the poor, if they are lucky, are more likely to keep clear of trouble, and will have besides the blessings of a sound body, health, freedom from trouble, fine children, and good looks."
 > = (1.30--33)
+
+The value-system, which underlies Solon's stories, is quite different than our own. The overriding importance of the Polis, and the view of their fellow men, contrasts with our modern individualism. The view that death is the better than life is odd, and unusual (think of Achilles' ghosts' comments in the _Odyssey_). The importance of strength and of dieing in battle also seem peculiar to the times Herodotus lived.
 
 Emigrating after a famine:
 
@@ -113,9 +129,7 @@ Emigrating after a famine:
 Persian customs:
 
 > Of all days in the year a Persian most distinguishes his birthday, and celebrates it with a dinner of special magnificence.  A camel or a donkey baked whole in the oven and served up at table, and the poor some smaller beast.  The main dishes at their meals are few, but they have many sorts of dessert, the various courses being served separately.  It is this custom that has made them say that the Greeks leave the table hungry, because they never have anything worth mentioning after the first course: they think that if the Greeks did, they should go on eating.  They are very fond of wine, and no one is allowed to vomit or urinate in the presence of another person.
->
 > If an important decision is to be made, they discuss the question when they are drunk, and the following day the master of the house where the discussion was held submits their decision for reconsideration when they are sober.  If they still approve it, it is adopted; if not, it is abandoned. ...
->
 > No race is so ready to adopt foreign ways as the Persian; for instance, they wear the Median costume because they think it handsomer than their own, and their soldiers wear the Egyptian corslet.  Pleasures, too, of all sorts they are quick to indulge in when they get to know about them---a notable instance is pederasty, which they learned from the Greeks.  Every man has a number of wives, and a much greater number of concubines.  After prowess in fighting, the chief proof of manliness is to be the father of a large family of boys.  Those who have most sons receive an annual present from the king---on the principle that there is strength in numbers.  The period of a boy's education is between the ages of five and twenty, and they are taught three things only: to ride, to use the bow, and to speak the truth.  Before the age of five a boy lives with the women and never sees his father, the object being to spare the father distress if the child should die in the early stages of its upbringing.  In my view this is a sound practice.  I admire also the custom which forbids even the king himself to put a man to death for a single offense, and any Persian under similar circumstances to punish a servant by an irreparable injury.  Their way is to balance faults against services, and then, if the faults are greater and more numerous, anger may take its course.
 > = (1.133--137)
 
@@ -127,7 +141,6 @@ Fate of the Lycians of Xanthus:
 Babylonian engagement custom:
 
 > In every village once a year all the girls of marriageable age used to be collected together in one place, while the men stood round them in a circle; an auctioneer then called each one in turn to stand up and offered her for sale, beginning with the best-looking and going on to the second best a soon as the first had been sold for a good price.  Marriage was the object of the transaction.  The rich men who wanted wives bid against each other for the prettiest girls, while the humbler folk, who had no use for good looks in a wife, were actually paid to take the ugly ones, for when the auctioneer had got through all the pretty girls he would call upon the plain ones, or even perhaps a crippled one, to stand up, and then ask who was willing to take the least money to marry her---and she was offered to whoever accepted the smallest sum.  The money came from the sale of the beauties, who in this way provided dowries for their ugly or misshapen sisters. ...
->
 > This admirable practice has now fallen into disuse and they have of late years hit upon another scheme, namely the prostitution of all girls of the lower classes to provide some relief from the poverty which followed upon the conquest with its attendant hardship and general ruin.
 > = (1.196)
 
@@ -182,13 +195,15 @@ A bizarre story about cats:
 
 A comical story about a Pharaoh that simultaneously hints at the Greek (and perhaps also Egyptian) view of women:
 
-> They say that when Sesostris died, his son Pheros inherited the kingdom.  He performed no military feats, but was blinded in the following incident: during his reign the river flooded over the land to a greater extent than ever before; it rose to a height of twenty-seven feet, and when it overflowed the fields, the winds drove it to surge in waves like a sea.  They say that this kin, in reckless arrogance, took a spear and cast it into the eddies in the middle of the river, and that immediately afterward, his eyes were afflicted with disease and he became blind.  His blindness continued for ten years until, in the eleventh year, there came an oracular response from the city of Bouto stating that the duration of the his punishment was over now and that he would regain his sight by washing his eyes with the urine of a woman who had been with her husband alone, having had no experience of any other men.  And so he first tried this with the urine of his own wife, but this failed to restore his sight.  He then tried all other women, one after the other, and when he finally regained his sight, he bright together into one city---which is now called Red Soil--all the women he had tried except for the one whose urine had restored his sight.  When they were gathered together there, he set them all on fire along with the city itself.  But he took as his own wife the woman with whose urine he had washed his eyes and regained his sight.
+> They say that when Sesostris died, his son Pheros inherited the kingdom.  He performed no military feats, but was blinded in the following incident: during his reign the river flooded over the land to a greater extent than ever before; it rose to a height of twenty-seven feet, and when it overflowed the fields, the winds drove it to surge in waves like a sea.  They say that this kin, in reckless arrogance, took a spear and cast it into the eddies in the middle of the river, and that immediately afterward, his eyes were afflicted with disease and he became blind.  His blindness continued for ten years until, in the eleventh year, there came an oracular response from the city of Bouto stating that the duration of the his punishment was over now and that he would regain his sight by washing his eyes with the urine of a woman who had been with her husband alone, having had no experience of any other men.  And so he first tried this with the urine of his own wife, but this failed to restore his sight.  He then tried all other women, one after the other, and when he finally regained his sight, he brought together into one city---which is now called Red Soil--all the women he had tried except for the one whose urine had restored his sight.  When they were gathered together there, he set them all on fire along with the city itself.  But he took as his own wife the woman with whose urine he had washed his eyes and regained his sight.
 > = (2.111)
 
 According to the Egyptian priests, Helen never made it to Troy---violent winds pushed Paris off course, and after landing in Egypt and learning what had happened, they retained Helen:
 
 > That is what the Egyptian priests said, and I agree with their argument, considering that if Helen had been in Troy, the Trojans would certainly have returned her to the Hellenes, whether Paris concurred or not.  For neither Priam nor his kin could have been so demented that they would have willingly endangered their own persons, their children, and their city just so that Paris could have Hellen.  Surely the Trojans would have realized this even in the first years of the war and would have given her up.
 > = (2.120)
+
+It is astounding how influential Homer was in the ancient world; it is as if all the Greek writers thought in terms of Homer and the _Iliad_.
 
 There is a fantastical story about an architect, his two sons, the Pharaoh, and his daughter, in Book II fragment 121, but it is too long to transcribe.  I recommend reading it.
 
@@ -209,7 +224,7 @@ The Pharaoh Amasis' advice about working too much:
 
 ## Quotes From Book III
 
-Greek culture held these two, somewhat contradictory, beliefs: that men should compete and strive for excellence "be the best", but also that they should not strive with the gods.  Both beliefs are present in Homer (the former being especially clear in the *Iliad*, and the later perhaps more in the *Odyssey*), as well as Herodotus.  This story is a nice example of the latter belief:
+Greek culture held these two, somewhat contradictory, beliefs: that men should compete and strive for excellence "be the best," but also that they should not strive with the gods.  Both beliefs are present in Homer (the former being especially clear in the *Iliad*, and the later perhaps more so in the *Odyssey*), as well as Herodotus.  This story is a nice example of the latter belief:
 
 > Now Amasis did not fail to notice Polykrates' [a Greek tyrant] exceptionally good fortune, and it worried him; so when his luck continued to improve still further, Amasis wrote him a letter and sent it to Samos.  The letter said, "From Amasis to Polykrates: It is a pleasure to hear that a friend and ally is doing well, but I am not pleased by your exceptional good fortune, since I know that god is jealous.  Actually, what I sincerely want for both myself and for those I care about is good fortune in one matter but failure in another, and thus a life of continually alternating fortune rather than of success in everything.  For I have never yet heard of anyone enjoying good fortune in all things who did not ultimately die in total disaster.  And so now listen to me and deal with your perpetual good fortune as I advise.  You must think about what you have and select your most valuable possession, whatever would most break your heart were you to lose it; and then throw that object away so that it will never reach a human being again.  If, after this, your good fortune persists and does not alternate with suffering, apply the remedy I have suggested once again."
 > When Polykrates read this latter, he realized that Amasis had given him very good advice, so he searched for the one heirloom in his possession whose loss would most afflict his heart and selected a signet ring that he wore, an emerald set in gold which had been crafted by Theodoros of Samos son of Telekles.  And so when he decided that his ring was the object he should throw away, he manned a penteconter, got on board, and ordered the men to put out to sea.  When they had reached a distance far from Samos, he took off his ring and, as all the men sailing with him looked on, tossed it into the sea. That done, he sailed home and mourned his loss.
@@ -217,7 +232,7 @@ Greek culture held these two, somewhat contradictory, beliefs: that men should c
 > When Amasis read this letter, he realized that it was impossible for one person to rescue another from what he was destined to experience: he knew that Polykrates was not going to continue to enjoy good fortune in everything and come to a happy end, since even what he had attempted to throw away had been restored to him.  So Amasis sent a herald to Samos to announce that he was breaking off their alliance of friendship.
 > = (3.40--42)
 
-And Polykrates did meet a terrible end, in fact, his death was so gruesome Herodotus says he didn't want to describe it.  Most historians today believe that Polykrates broke off the relationship with Amasis when Cambyses conquered the Phoenicians (who had a great navy), and thus threatened Samos.  The provides insight into the Greek's beliefs about good fortune.
+And Polykrates did meet a terrible end, in fact, his death was so gruesome Herodotus says he didn't want to describe it.  Most historians today believe that Polykrates broke off the relationship with Amasis when Cambyses conquered the Phoenicians (who had a great navy), and thus threatened Samos.  The story provides insight into the Greek's beliefs about good fortune.
 
 The ethnic cleansing of the Magi, after over-throwing the short-lived conspiracy by the two Magi brothers to pose as Smerdis:
 
@@ -248,21 +263,21 @@ I think Herodotus' observation is clever, and it seems reasonable.  It is simila
 
 Fantastical thoughts about the end of the earth:
 
-> It is clear that gold exists in by far the greatest quantities to the north of Europe, but I cannot say with certainty how it comes to be there.  It is reported that there are one-eyed men called Arimaspians who snatch it away from griffins, but I cannot believe in the existence of one-eyed men who are born that way, and who would still have in all other respects a nature just like that of other humans.  In any case, these peripheral regions which surround and enclose the rest of the art on all sides quite reasonably contain the very things we value as most beautiful and rare.
+> It is clear that gold exists in by far the greatest quantities to the north of Europe, but I cannot say with certainty how it comes to be there.  It is reported that there are one-eyed men called Arimaspians who snatch it away from griffins, but I cannot believe in the existence of one-eyed men who are born that way, and who would still have in all other respects a nature just like that of other humans.  In any case, these peripheral regions which surround and enclose the rest of the Earth on all sides quite reasonably contain the very things we value as most beautiful and rare.
 > = (3.116)
 
-Note that Herodotus (inconsistently with his discussion of the number of continents in book II), applies reason to the deduction of geography.  This expectation that geography can be reasoned about is similar to the expectation that the laws of physics should act a certain way, although I believe we are right and they were wrong.  Still, when seen as a parallel like this, such arguments may feel less silly to us.
+Note that Herodotus (inconsistently with his discussion of the number of continents in Book II), applies deductive reasoning to geography, with poor results.  This expectation that geography can be reasoned about is similar to the expectation that the laws of physics should act a certain way, although I believe we are right and they were wrong.  Still, when seen as a parallel like this, such arguments may feel less silly to us.
 
 The Babylonians, when they revolted, killed many of their women:
 
-> After the navy sailed off to Samos, the Babylonians revolted.  They had prepared for this rebellion well in advance, for during the entire period of disorder when the Magus ruled and the Seven revolted, they were making preparations for a siege, and somehow no on noticed them doing it.  When they did revolt openly, each man set aside his mother and on woman he selected from his household to prepare his food.  These women were saved; all the other women were brought together and strangled in order to prevent them from consuming the supply of food.
+> After the navy sailed off to Samos, the Babylonians revolted.  They had prepared for this rebellion well in advance, for during the entire period of disorder when the Magus ruled and the Seven revolted, they were making preparations for a siege, and somehow no on noticed them doing it.  When they did revolt openly, each man set aside his mother and one woman he selected from his household to prepare his food.  These women were saved; all the other women were brought together and strangled in order to prevent them from consuming the supply of food.
 > = (3.150)
 
 ## Quotes From Book IV
 
 Sailing around Africa:
 
-> After he [king Nechos of Egypt] stopped excavation work on the canal, which extended from the Nile to the Arabian Gulf, he sent some Phoenicians off on boats with orders to sail around Libya and back through the Pillars of Herakles into the Mediterranean Sea and to return by that route to Egypt  And so the Phoenicians set out from the Erythraean Sea and sailed the Southern Sea.  Whenever autumn came, they would put in to shore at whatever region of Libya they happened to have reached in order to sow seeds.  There they would wait for the harvest, and after reaping their crops, they would sail on again.  This they did for two years, and in the third, they came around through the Pillars of Herakles and returned to Egypt.  They mentioned something else which I do not find credible, thought someone else may: that when they were sailing around Libya, the sun was on their right as they went.
+> After he [king Nechos of Egypt] stopped excavation work on the canal, which extended from the Nile to the Arabian Gulf, he sent some Phoenicians off on boats with orders to sail around Libya and back through the Pillars of Herakles into the Mediterranean Sea and to return by that route to Egypt  And so the Phoenicians set out from the Erythraean Sea and sailed the Southern Sea.  Whenever autumn came, they would put in to shore at whatever region of Libya they happened to have reached in order to sow seeds.  There they would wait for the harvest, and after reaping their crops, they would sail on again.  This they did for two years, and in the third, they came around through the Pillars of Herakles and returned to Egypt.  They mentioned something else which I do not find credible, though someone else may: that when they were sailing around Libya, the sun was on their right as they went.
 > = (4.42)
 
 An account of Scythian soothsayers:
@@ -270,12 +285,12 @@ An account of Scythian soothsayers:
 > Whenever the king of the Scythians falls ill, he sends for three of the most distinguished soothsayers, and they perform prophecies in the first way that I described.  What they generally report is that some person has sworn falsely by the royal hearth, and they accuse one of the townspeople by name.  In fact, it is the Scythian custom that when someone wants to swear the most solemn kind of oath, he most often does so by the royal hearth.  The man named by these prophets is immediately apprehended and brought to the soothsayers, who charge that their prophecy has revealed him to be a perjurer on the royal hearth and thus to be the cause of the king's present pain.  When the accused man protest vehemently and denies the charge, the king responds by sending for twice as many soothsayers.  If they, too, condemn the man as a perjurer through their prophecies, the man is immediately beheaded, and the first three prophets divide up his possessions by lot.  But if they recently summoned soothsayers in addition to the other three absolve him of the charge, then other soothsayers come, and again more besides.  If the majority of all these acquit the man, it is decreed that the first three prophets themselves must die.
 > = (4.68)
 
-The tradition implies skepticism of the soothsayers' ability and motives.  This description is an example of superstition leading to injustice.
+The tradition implies skepticism of the soothsayers' ability and motives.  This description is an example of superstition leading to injustice, although in this situation, the soothsayers take the role of judges.
 
-Here is an incredible story about the supposed development of the believe in immortality:
+Here is an incredible story about the supposed development of the belief in immortality:
 
 > As to immortality, the Getai believe that they do not really die, but that when one of them passes away, he goes to Salmoxis, a sort of divinity whom some of them also call Gebeleizis.  Every fifth year they send off one of their number, who has been selected by lot to serve as a messenger to Salmoxis, with instructions as to what they want at that particular time.  This is how they dispatch him. Three men who are appointed to the task each hold a javelin, while others seize the hands and feet of the man being sent to Salmoxis, swing him up in the air, and throw him onto the points of the javelins.  If the man dies from being impaled, they believe that the god is well disposed toward them; but if he does not die, they blame the messenger himself, accusing him of being a bad man, and seek another to send in his place.  They give the messenger instructions while he is still alive.  These same Thracians shoot their arrows up into the sky, aiming at thunder and lightning as they shout threats at the god, and they believe that no other god exists but their own.
-> I have heard from the Hellenes who inhabit the Hellespont and the Pontus, however, that this Salmoxis was actually a human being who had been enslaved and served Pythagoras son of Mnesarchos on Samos.  But he was eventually freed, and then he acquired abundant wealth there before returning to his own land.  Now while the Thracians live a crude life and are rather stupid, Salmoxis knew the Ionian way of life and character, which is more profound than that of the Thracians, and he had associated with Hellenes, including Pythagoras, certainly not the feeblest thinker of the Hellenes.  And so he had a banqueting hall built where he hosted and entertained the leading men of the town, and he taught them neither he nor they, his drinking companions, nor their descendants would die, but that they would come to a place where they would live on and have all good things.  And as he was composing these lessons and relating them to his guests, he was also constructing an underground chamber.  When it was completely finished, he vanished from the sight of the Thracians, by descending into the chamber and spending three years there.  The Thracians missed him and grieved for him as though he had died, but in the fourth year he appeared to them, and thus what Salmoxis had thought them became credible.  That, at least, is what they say he did.
+> I have heard from the Hellenes who inhabit the Hellespont and the Pontus, however, that this Salmoxis was actually a human being who had been enslaved and served Pythagoras son of Mnesarchos on Samos.  But he was eventually freed, and then he acquired abundant wealth there before returning to his own land.  Now while the Thracians live a crude life and are rather stupid, Salmoxis knew the Ionian way of life and character, which is more profound than that of the Thracians, and he had associated with Hellenes, including Pythagoras, certainly not the feeblest thinker of the Hellenes.  And so he had a banqueting hall built where he hosted and entertained the leading men of the town, and he taught them that neither he nor they, his drinking companions, nor their descendants would die, but that they would come to a place where they would live on and have all good things.  And as he was composing these lessons and relating them to his guests, he was also constructing an underground chamber.  When it was completely finished, he vanished from the sight of the Thracians, by descending into the chamber and spending three years there.  The Thracians missed him and grieved for him as though he had died, but in the fourth year he appeared to them, and thus what Salmoxis had thought them became credible.  That, at least, is what they say he did.
 > I myself do not believe this story about him and the underground chamber, although I don't discount it completely.  I do think, however, that this Salmoxis lived many years before Pythagoras.  But whether Salmoxis was born a human being or exists as some sort of native divinity among the Getai, let us bid him farewell.  At any rate, that is how the Getai were subdued by the Persians, and they were now following along with the rest of the army.
 > = (4.94--96)
 
@@ -344,5 +359,25 @@ Onesilos' head:
 > = (5.114)
 
 ## Quotes from Book VI
+
+Chios' bad omens:
+
+> It often happens that signs are given whenever great evils are about to fall upon a city or nation. And in fact remarkable signs had appeared to the Chians before these events occurred. First, they had sent a chorus of 100 youths to Delphi, and only two of them returned home; the other ninety-eight were struck down and carried off by plague. Secondly and simultaneously, just a short time before the naval battle, a roof in the city collapsed on a group of boys as they were learning their letters, with the result that out of 120 children, only one escaped with his life. Those were the signs sent by the go in advance. Then the naval battle overcame the city and brought it to its knees, and in addition to that, after the naval battle, Histiaios came leading his Lesbian troops, and as the Chians had recently been badly mauled, he vanquished them quite easily.
+> = (6.27)
+
+The Ionians defeated a third time:
+
+> At this point the Persians made good on the threats that they had voiced earlier against the Ionians when they were camped opposite them. For after they had completed their conquest of the cities, they picked out the most handsome boys and castrated them, making them eunuchs instead of males with testicles. And they dragged off the most beautiful of the virgins to the King. After they had carried out these threats, they also set fire to the cities and to their sanctuaries, too. Thus the Ionians were reduced to slavery for the third time, the first being at the hands of the Lydians, and then twice in succession by the Persians.
+> = (6.32)
+
+The funeral privileges granted to Spartan kings:
+
+> Those are the privileges granted by the Spartan community to the kings while they live; after their death they receive the following honors. Horse-men carry the news of the king's death throughout all of Laconia, and in every city, women walk about beating on cauldrons; and whenever this occurs, two free people from each household, a man and a woman, must defile themselves, otherwise they incur large fines. One custom observed by the Lacedaemonians at the death of their kings is the same as that practiced by a majority of the barbarians in Asia when their kings die: whenever a king of the Lacedaemonians dies, a fixed number of the _periokoi_ from all of Lacedaemon, in addition to the Spartans, must attend the funeral to grieve. And when many thousands of people have gathered there---_periokoi_, helots, and Spartans---men mingling together with women, all beating their heads vigorously, they wail continuously and loudly, proclaiming that this king who has just died had proved himself to be the best.
+> = (6.58)
+
+The Oracle at Delphi was widely respected, yet understood to be plagued by human foibles:
+
+> The controversy continued until finally the Spartans decided to ask the oracle at Delphi whether Demaratos was or was not the son of Ariston. It was Kleomenes who had come up with the idea to refer this question to the Pythia, and he next gained the support of Kobon son of Aristophantos, who wielded the greatest influence at Delphi and who then persuaded Periallos the Pythia thus, when the sacred delegates presented their question, the Pythia asserted that Demaratos was not the son of Ariston. Later, however, these intrigues became known, and as a result, <obon was exiled from Delphi, while Periallos the Pythia was ousted from her position of honor.
+> = (6.66)
 
 *Quotations are taken from Andrea L. Purvis's 2007 translation of* The Histories*, published by Anchor Books.*
