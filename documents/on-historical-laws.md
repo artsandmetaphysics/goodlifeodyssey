@@ -1,17 +1,19 @@
 ---
 title: >
-  On Universal Historical Laws
+  Universal Historical Laws
 description: >
   Is history philosophically uninteresting because it can not provide universal laws?
 type: essay
 status: complete
+redirect_from:
+  - /on-historical-laws
 ---
 
 Some philosophers think history is uninteresting because it can not provide laws, or law-like explanations, and thus its inferences can't be rationally evaluated.
 
 I agree that the historian, like the social scientist, can't produce laws. By law I mean a universally true, conditional statement about reality. (Defining a law to be a _conditional_ statement distinguishes it from particular statements like "Julius Caesar was murdered on the 15th of March, 44 BC.") The objects of historical study---people, nations, wars, governments, etc.---are too complex to universally define, let alone deduce universally true conditional statements about.
 
-Even if one agrees that the historian can't discover universal laws, one may believe they exist. I hope to demonstrate that historical laws---laws pertaining to historical subjects---can't exist. Furthermore I will show that, despite this epistemic limitation, history remains useful and open to rational evaluation.
+Even if one agrees that the historian can't discover universal laws, one may believe they exist. I hope to demonstrate that historical laws---laws pertaining to historical subjects---as distinct from scientific laws, can't exist. Furthermore I will show that, despite this epistemic limitation, history remains useful and open to rational evaluation.
 
 Consider this statement: When a ruling power's dominance is threatened by a growing neighbor, they will go to war. This, like all simple historical statements, isn't universally true and is thus not a law. There are instances of nations peacefully eclipsing their once-dominant neighbors. To convert such a statement into a law one may be amend it with conditionals. For example, one may add "when the existing nation isn't distracted by other wars" to account for certain exceptions. It may be possible, after adding three or four such conditions, to make the law fit all available historical examples. Yet there is no reason to believe it is now universally true.
 

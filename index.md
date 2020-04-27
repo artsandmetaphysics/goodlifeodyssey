@@ -11,10 +11,11 @@ description: This website contains my writings about art, history, religion, and
   {% include li.html id='definitions' %}
   {% include li.html id='justification-via-others-beliefs' %}
   {% include li.html id='my-epistemology' %}
-  {% include li.html id='on-historical-laws' %}
+  {% include li.html id='universal-historical-laws' %}
   {% include li.html id='meaning-and-purpose' %}
   {% include li.html id='a-definition-of-faith' %}
   {% include li.html id='faith-and-reason' %}
+  {% include li.html id='faith-and-righteousness' %}
   {% include li.html id='fear-of-death' %}
   {% include li.html id='ethical-progress' %}
   {% include li.html id='justice' %}
