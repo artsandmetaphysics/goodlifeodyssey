@@ -380,4 +380,36 @@ The Oracle at Delphi was widely respected, yet understood to be plagued by human
 > The controversy continued until finally the Spartans decided to ask the oracle at Delphi whether Demaratos was or was not the son of Ariston. It was Kleomenes who had come up with the idea to refer this question to the Pythia, and he next gained the support of Kobon son of Aristophantos, who wielded the greatest influence at Delphi and who then persuaded Periallos the Pythia thus, when the sacred delegates presented their question, the Pythia asserted that Demaratos was not the son of Ariston. Later, however, these intrigues became known, and as a result, <obon was exiled from Delphi, while Periallos the Pythia was ousted from her position of honor.
 > = (6.66)
 
+The Greeks and Romans believed that gods would come down and sleep with their women. One wonders if this was a protective excuse used by dishonest wives. Here is such an example from Herodotus:
+
+> "On the third night after the night on which Ariston had brought me to his home, an apparition in the likeness of Ariston came to me, and after lying with me, put the garlands it had been wearing on me. The apparition left, and then Ariston came; when he saw me wearing the garlands, he asked who had given them to me. I told him it was he himself, but he refused to admit it. Then I swore an oath and said that it was not right for him to deny it, since only a short time before, he had come in and given me the garlands after lying with me. Seeing that I had sworn to it on oath, Ariston realized that this had been the act of a divinity. For the garlands had evidently come from the shrine of the hero called Astrabakos which is set up at the doors of the courtyard, and the prophets had proclaimed this very Astrabakos to be a hero."
+> = (6.69)
+
+The Greeks drank their wine diluted with water, and believe that not doing so could be harmful:
+
+> The Spartans, however, say that Kleomenes became deranged not because of any divine force, but because he had become, through his association with Scythians, a drinker of undiluted wine.
+> = (6.84)
+
+Darius seemed like a reasonable and civiized king:
+
+> Datis and Artaphrenes sailed to Asia and brought the captive Eretrian slaves to Susa. Darius the King had been nursing a bitter grudge against the Eretrians before they were brought to him as slaves, because they had struck first and been the aggressors. But when he saw them delivered up to him as his subjects, he did them no further harm but instead settled them at his royal station in the land of the Kissians called Arderikka
+> = (6.119)
+
+Clearly sports were very important in Greece; Herodotus frequently mentions the athletic accomplishments of individuals in Book 6.
+
+Views on marriage and the choice of women:
+
+> Furthermore, he treated his daughters in the following exceptional way: when they came of age, he generously granted them the most extravagant gift by giving them in marriage to the man whom each of them had selected for herself from among all Athenian men.
+> = (6.122)
+
+A fanciful story about Croesus' wealth:
+
+> When Alkmeon arrived there, Croesus offered him a gift of as much gold as he could carry away on his person at one time. So Alkmeon devised and carried out an effective way to deal with such a gift. He put on a large tunic, leaving a deep fold hanging down from it, and high boots, the widest he could find, then entered the treasury to which he was led. Diving into the heap of gold dust, he first packed as much gold along his shins as his boots could hold; next, he filled the entire fold forming a pocket with gold, sprinkled the hair on his head with gold dust, put some more into his mouth, and finally left the treasury, barely able to drag his boots along with him, resembling anything but a human being, with his mouth full and puffed out! When Croesus saw him, he was overcome with laughter and offered to give Alkmeon not only all that he had with him but an additional amount equal to that which he was now carrying. That is how the house of the Alkmeonids became extremely wealthy, and in this way Alkmeon became rich enough to keep a four-horse chariot and team, with which he won an Olympic victory.
+> = (6.125)
+
+A story of the leading suitor break-dancing away his marriage:
+
+> When the day came that had been appointed for the wedding feast and for Kleisthenes to declare which man he had chosen out of all of them, Kleisthenes sacrificed 100 cattle and served a feast to the suitors and to all the people of Sicyon. After the meal, the suitors participated in a competition in music and in speeches delivered to everyone there. As the drinking progressed, Hippokleides, who was already commanding much attention from the others, ordered the flute player to play a dance tune for him. The flute player complied, and while I suppose Hippokleides pleased himself with his dancing, Kleisthenes, as he watched, was annoyed at everything he saw. After pausing for a moment, Hippokleides ordered that a table be brought to him; then he stepped up on the table and first danced some Laconian steps, and then some Attic ones, too. But the third thing he did was to turn upside down and, with his head resting on the table, gesticulate with his legs waving in the air. Now during the first and second of these dances, Kleisthenes restrained himself and did not blurt out his thoughts, although he felt somewhat disgusted at the thought that Hippokleides might still become his son-in-law, but when he saw him waving his legs around, he could no longer contain himself and said, "Son of Teisandros, you have just danced away your marriage!" And the young man replied, "For Hippokleides, no problem!"
+> = (6.129)
+
 *Quotations are taken from Andrea L. Purvis's 2007 translation of* The Histories*, published by Anchor Books.*
