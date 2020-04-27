@@ -74,6 +74,8 @@ Due to _On the Shortness of Life_, I will read more philosophy and less literatu
 
 Summary:
 
+
+
 Outline:
 
 - Why I hadn't written earlier
@@ -84,7 +86,7 @@ Outline:
   - Historically, humans are always migrating
   - We take universal nature and our individual virtue with us
   - Barren Corsica focuses one on the spiritual over material
-  - Counter: You use philosophy to mask poverty; Rebuttal: many poor are happier
+  - Counter: masking poverty with philosophy; Rebuttal: poor are happier
   - If one trouble can be born, many can
 - Don't worry about lost protection
 - Don't miss me
@@ -94,7 +96,7 @@ Outline:
   - Your other two sons
   - Grandchildren
   - Your father
-  - Your sister; respectable in Egypt; saved husband in shipwreck
+  - Your sister; respectable in Egypt; save husband in shipwreck
 - Conclusion: I'm happy studying earth and heaven; don't miss me
 
 > Everlasting misfortune does have one blessing, that it ends up by toughening those whom it constantly afflicts.
@@ -118,5 +120,9 @@ Observations of myself and my friends lead me to believe this is true, yet Senec
 On the poor:
 
 > For how little is needed to support a man. And who can lack this if they have any virtue at all?  As far as I am concerned, I have not lost wealth but distractions.
+
+Righteousness is tied to the size of the sacrifice:
+
+> All the poets have given renown to the woman who offered to die in place of her husband. But this is nobler, to risk one's life to bury one's husband for that love is greater which wins less through equal danger.
 
 *Quotations are taken from C.D.N Costa's 1997 translation.*
