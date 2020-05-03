@@ -48,7 +48,7 @@ Many of these notes were taken from _Ancient Greece_ by Thomas R. Martin.
 - Stopped writing in Linear B; no literary sources
 - Myceneaen culture and religion passed down orally
 - Art has geometric patterns
-- c. 900–800 Population growth and adoption of Iron tools and weapons
+- c. 900–800 Population growth and adoption of iron tools and weapons
 - c. 800 Adopt the Phoenician alphabet
 - c. 776 First Olympics—competition between individual naked athletes
 - Later Greeks did not know much about their Mycenaean past

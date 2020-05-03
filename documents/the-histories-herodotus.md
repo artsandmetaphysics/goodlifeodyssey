@@ -49,18 +49,28 @@ Herodotus does not pander his readers with an outline, but expects them to keep 
 - 2.1--34 Egyptian Geography
 - 2.35--98 Egyptian Customs
 - 2.99--182 Egyptian History
-- 3.1--38 Cambyses' Reign and Conquest of Egypt
+- 3.1--38 Cambyses' reign and conquest of Egypt
 - 3.39--60 Spartans vs Polykrates of Samos
-- 3.61--87 Magi Revolt and Darius' Accession
+- 3.61--87 Magi revolt and Darius' accession
 - 3.88--160 Reign of Darius
-- 4.1--82 Scythian Geography and Customs
-- 4.83--144 Darius' Expedition to Scythia
+- 4.1--82 Scythian geography and customs
+- 4.83--144 Darius' expedition to Scythia
 - 4.145--205 Libya and the Persians
-- 5.1--29 Darius' Campaign in the Hellespont and Thrace
-- 5.30--6.33 The Ionian Revolt
+- 5.1--29 Darius' campaign in the Hellespont and Thrace
+- 5.30--6.33 The Ionian revolt
 - 6.34--50
 - 6.50--93 Kleomenes King of Sparta, Aegina, Athens
-- 6.94--120
+- 6.94--120 Marathon campaign
+- 6.121--7.7
+- 7.8--177 Xerxes' preparation and march to Greece
+- 7.178--239 Battle of Thermopylae
+- 8.1--26 Battles of Atemision
+- 8.40--125 Battle of Salamis
+- 8.126--9.24
+- 9.25--89 Battle of Plataea
+- 9.90--92
+- 9.93--107 Battle of Mycale
+- 9.108--122
 
 ## Epistemology
 
@@ -412,4 +422,157 @@ A story of the leading suitor break-dancing away his marriage:
 > When the day came that had been appointed for the wedding feast and for Kleisthenes to declare which man he had chosen out of all of them, Kleisthenes sacrificed 100 cattle and served a feast to the suitors and to all the people of Sicyon. After the meal, the suitors participated in a competition in music and in speeches delivered to everyone there. As the drinking progressed, Hippokleides, who was already commanding much attention from the others, ordered the flute player to play a dance tune for him. The flute player complied, and while I suppose Hippokleides pleased himself with his dancing, Kleisthenes, as he watched, was annoyed at everything he saw. After pausing for a moment, Hippokleides ordered that a table be brought to him; then he stepped up on the table and first danced some Laconian steps, and then some Attic ones, too. But the third thing he did was to turn upside down and, with his head resting on the table, gesticulate with his legs waving in the air. Now during the first and second of these dances, Kleisthenes restrained himself and did not blurt out his thoughts, although he felt somewhat disgusted at the thought that Hippokleides might still become his son-in-law, but when he saw him waving his legs around, he could no longer contain himself and said, "Son of Teisandros, you have just danced away your marriage!" And the young man replied, "For Hippokleides, no problem!"
 > = (6.129)
 
-*Quotations are taken from Andrea L. Purvis's 2007 translation of* The Histories*, published by Anchor Books.*
+## Quotes from Book VII
+
+The good advice Xerxes' uncle Atrabanos affords him, among the assembly of Persian nobles:
+
+> "For I find that the greatest profit comes from planning with care and deliberation. Then, if you should be impeded by any adversity, your plan is still a good one but fails only because of bad luck. On the other hand, one who has done a poor job of planning, even if good luck attends him, nonetheless eventually discovers that his plan was a bad one."
+> = (7.10.delta)
+
+A possible natural cause of the Greek belief in the jealousy of the gods:
+
+> "Further, you see how the god strikes with his thunderbolt those creatures that tower above the rest, and does not permit them to be so conspicuous, while those who are small do not at all provoke him. And you see how he always hurls his missiles at those houses and tress that are the largest and tallest. For the god likes to lop off whatever stands out above the rest; and so, on a similar principle, a huge army is destroyed by a small one; for whenever the god has become resentful toward an army, he casts panic or lightning into it, and it is thus completely destroyed through no fault of its own. For the god will not tolerate pride in anyone but himself."
+> = (7.10.epislon)
+
+An interesting comment about slander:
+
+> "For slander is a most terrible crime, one in which two people commit the injustice and a third is the victim of it. The one who slanders commits and injustice against the one who is not present, while the person who listens to him does wrong by believing him before learning if his claims are accurate. And the man who is absent from their talk is wronged, being slandered by the one and assumed to be bad by the other."
+> = (7.10.eta)
+
+Artabanos educates Xerxes as to the nature of dreams:
+
+> "I, being much older than you, shall teach you what sorts of things these dreams which make their way to humans actually are. Most of the visions visiting our dreams tend to be what one is thinking about during the day. During the days before this dream our minds have been engaged in dealing with this military campaign more than anything else. Now, if this dream is not what I judge it to be after all, but something divine whose meaning you yourself have found and summarized, then let it appear and instruct me as it has you. But if it really wants to appear, it should not be more likely to appear to me just because I am wearing your clothes rather than my own, or resting in your bed instead of min. For whatever it is that appears to you in your sleep could not possibly be so stupid as to see me and think that I am you on the evidence of clothing."
+> = (7.16.beta--gamma)
+
+Herodotus' expounds on the great size of the Persian expedition:
+
+> During four full years following the conquest of Egypt, Xerxes prepared his army and gathered provisions for it. Then, in the course of the fifth year, he set out on his campaign with an enormous body of troops. In fact, of all the expeditions we know of, this was by far the largest. Darius' expedition against the Scythians looks like nothing in comparison with that of Xerxes, and the same is true of the Scythian expedition when the Scythians chased the Cimmerians into Media and then subjugated and occupied almost the whole interior of Asia, which was the reason Darius later attempted to punish them. Nor can we compare the expedition of the sons of Atreus against Troy, according to the traditional account, nor that of the Mysians and Teukrians before the Trojan Ware, when they had crossed over to Europe at the Bosporus, subjugated all the Thracians, advanced down to the Ionian Sea, and marched as far south as the Peneios River. All these expeditions combined, even with others added to them, could not possibly equal the size of the expedition of Xerxes, for what nation of Asia did Xerxes not lead to Hellas? What body of water did his forces not drink dry except for the greatest rivers?
+> = (7.20--1)
+
+An interesting story while traveling to Greece:
+
+> While Xerxes was traveling along this road he discovered a plane tree that so impressed him with its beauty that he endowed it with golden ornaments and entrusted it to one of the Immortals as its guardian.
+> = (7.31)
+
+Xerxes reviewing the army at Abydos:
+
+> Atrabanos his uncle, the man who in the first instance had spoken his mind so freely in trying to dissuade Xerxes from undertaking the campaign, was by his side; and when he saw how Xerxes wept, he said to him: "My lord, surely there is a strange contradiction in what you do now and what you did a moment ago. Then you called yourself a happy man---and now you weep."
+> "I was thinking," Xerxes replied; "and it came into my mind how pitifully short human life is---for of all these thousands of men not one will be alive in a hundred years' time."
+> "Yet," said Atrabanos, "we suffer sadder things in life even than that. Short as it is, there is not a main in the world, either here or elsewhere, who is happy enough not to wish---not once only but again and again---to be dead rather than alive. Troubles come, diseases afflict us; and this makes life, despite its brevity, seem all too long. So heavy is the burden of it that death is a refuge which we all desire, and it is common proof amongst us that God who gave us a taste of this world's sweetness has been jealous in his giving."
+> = (7.46)
+
+Life is short, but technology saves many today from the troubles Atrabanos enumerated. I, for one, have not yet wished I were dead.
+
+Xerxes' comments to Atrabanos about taking risks:
+
+> "There is good sense," Xerxes answered, "in everything you have said; nevertheless you ought not to be so timid always, or to think of every accident which might possibly overtake us. If upon the proposal of a plan you were always to weight equally all possible chances, you would never do anything. I would much rather take a risk and run into trouble half the time than keep out of any trouble through being afraid of everything."
+> "If you dispute whatever is said to you, but can never prove your objections, you are as likely to be wrong as the other man---indeed there is nothing to choose between you. And as for proof---how can a man ever be certain? Certainty, surely, is beyond human grasp. But however that may be, the usual thing is that profit comes to those who are willing to act, not to the precautious and hesitant. Just think how the power of Persia has grown: if my predecessors had felt as you do---or even if they
+ had not, but had taken the advice of men who did----you would have never seen our country in its present glory."
+> = (7.50)
+
+The deposed Spartan king Demaratus' comments to Xerxes, when asked whether the Greeks would fight such a great army:
+
+> "I think highly of all Greeks of the Dorian lands, but what I am about to say will apply not to all Dorians, but to the Spartans only. First then, they will not under any circumstances accept terms from you which would mean slavery for Greece; secondly, they will fight you even if the rest of Greece submits. Moreover, there is no use in asking if their numbers are adequate to enable them to do this; suppose a thousand of them take the field---then that thousand will fight you; and so will any number, greater than this or less."
+> = (7.102)
+
+Geological formations attributed to Poseidon:
+
+> The natives of Thessaly have a tradition that the gorge which forms the outlet for the river was made by Poseidon, and the story is a reasonable one; for if one believes that it is Poseidon who shakes the Earth and that chasms caused by earthquake are attributable to him, then the mere sight of this place would be enough to make one say that it is Poseidon's handiwork. It certainly appears to me that the cleft in the mountains had been caused by an earthquake.
+> = (7.129)
+
+The Spartan's and Athenian kill the Persian ambassadors:
+
+> To Athens and Sparta Xerxes sent no demand for submission because of what happened to the messengers whom Darius had sent on a previous occasion: at Athens they were thrown into the pit like criminals, at Sparta they were pushed into a well and told that if they wanted earth and water for the king, to get them from there.
+
+The Spartans believed they were cursed for doing this, and so sent two ambassadors to Persia to be killed as a reparation.
+
+> On their way to Susa they visited Hydarnes, a Persian by birth who was in command of the whole Asiatic seaboard; and by him they were given a hospitable welcome and invited to dinner. During the meal Hydarnes said: "Why is it, Lacedaemonians, that you refuse to be friends with the king? You have only to look at me and the position I enjoy to see that he knows how to reward merit. Now Xerxes believes that you, too, are men of merit; and both of you, if only you would submit, might find yourselves in authority over lands in Greece which he would give you."
+> "Hydarnes," came the answer, "the advice you give us does not spring from a full knowledge of the situation. You know one half of what is involved, but not the other half. You understand well enough what slavery is, but freedom you have never experienced, so you do not know if it tastes sweet or bitter. If you ever did come to experience it, you would advice us to fight for it not with spears only, but with axes too."
+> After this they continued their journey to Susa, and the first thing that happened when they entered the presence of the king was that the men of the royal bodyguard ordered---and, indeed, attempted to compel---them to bow down to the ground in the act of worship. The two Spartans, however, declared that they would never do such a thing, even though the guards should push their heads down on to the floor. It was not, they said, the custom in Sparta to worship a mere man like themselves, and it was not for that purpose that they had come to Persia. So they persisted in their refusal, adding words to the following effect: "King of the Medes, the Spartans sent us here to suffer punishment in reparation for the murder of the Persian messengers in Sparta"; to which Xerxes with truly noble generosity replied that he would not behave like the Spartans, who by murdering the ambassadors of a foreign power had broken the law which all the world holds sacred. He had no intention of doing the very thing for which he blamed them, or, by taking reprisals, of freeing the Spartans from the burden of their crime.
+> = (7.135--6)
+
+Herodotus' devout comment about human initiative, vs the gods:
+
+> It was the Athenians who---after the gods---drove back the Persian king. Not even the terrifying warnings of the oracle at Delphi could persuade them to abandon Greece; they stood firm and had the courage to meet the invader.
+> = (7.139)
+
+The Greeks uniting against a common enemy:
+
+> At a conference of the Greek states who were loyal to the general cause guarantees were exchanged, and the decision was reached that the first thing to be done was to patch up their own quarrels and stop any fighting which happened to be going on amongst members of the confederacy. There were a number of such disputes at the time, the most serious being the quarrel between Athens and Aegina.
+> = (7.145)
+
+Herodotus' skepticism about the Magi's magic:
+
+> The storm lasted three days, after which the Magi brought it to an end by sacrificial offerings, and by further offerings to Thetis and the sea-nymphs---or, of course, it may be that the wind just dropped naturally.
+> = (7.192)
+
+Herodotus' comments, after the Greek poli send their troops to Thermopylae:
+
+> The other Greeks had induced these two towns to send troops by a message to the effect that they themselves were merely and advance force, and that the main body of the allies was daily expected; the sea, moreover, was strongly held by the fleet of Athens and Aegina and the other naval forces. Thus there was no cause for alarm---for, after all, it was not a god who threatened Greece, but a man, and there neither was nor would ever be a man not born with a good chance of misfortune---and the greater the man, the greater the misfortune. The present enemy was no exception; he too was human, and was sure to be disappointed of his great expectations.
+> = (7.203)
+
+Leonidas' genealogy:
+
+> The contingents of the various states were under their own officers, but the most respected was Leonidas the Spartan, who was in command of the whole army. Leonidas traced his descent directly back to Heracles, through Anaxandrides and Leon (his father and grandfather), Eurycratides, Anaxander, Eurycrates, Polydorus, Alcamenes, Telechles, Archelaus, Agesilaus, Doryssus, Leobotas, Echestratus, Agis, Eurysthenes, Aristodemus, Aristomachus, Cleodaeus---and so to Hyllus, who was Heracles' son.
+> = (7.204)
+
+The last stand of the Spartans:
+
+> As the Persian army advanced to the assault, the Greeks under Leonidas, knowing that they were going to their deaths, went out into the wider part of the pass much further than they had done before; in the previous days' fighting they had been holding the wall and making sorties from behind it into the narrow neck, but now they fought outside the narrows. Many of the barbarians fell; behind them the company commanders plied their whips indiscriminately, driving the men on. Many fell into the sea and were drowned, and still more were trampled to death by one another. No one could count the number of dead. The Greeks, who knew that the enemy were on their way round the mountain track and that death was inevitable, put forth all their strength and fought with fury and desperation. By this time most of their spears were broken, and they were killing Persians with their swords.
+> In the course of that fight Leonidas fell, having fought most gallantly, and many distinguished Spartans with him---their names I have learned, as those of men who deserve to be remembered...
+> There was a bitter struggle over the body of Leonidas; four times the Greeks drove the enemy off, and at last by their valour rescued it. So it went on, until the troops with Ephialtes were close at hand; and then, when the Greeks knew that they had come, the character of the fighting changed. They withdrew again into the narrow neck of the pass, behind the wall, and took up a position in a single compact body... Here they resisted to the last, with their swords if they had them, and, if not, with their hands and teeth, until the Persians, coming on from the front over the ruins of the wall and closing in from behind, finally overwhelmed them with missile weapons.
+> = (7.223--5)
+
+## Quotes from Book VIII
+
+Themistocles' clever attempts and swaying the Ionians:
+
+> Themistocles took the fastest ships and called on the way at all the places where drinking water was to be found, and cut notices on the rocks near by for the Ionians to read---as they did when they moved up on the following day. "Men of Ionian"---his messages ran---"it is wrong that you should make ware upon your fathers and help to bring Greeks into subjection. The best thing you can do is to join our side; if this is impossible, you might at least remain neutral, and ask the Carians to do the same. If you are unable to do either, but are held by a compulsion so strong that it puts desertion out of the question, there is still another course open to you: in the next battle, remember that you and we are of the same blood, that our quarrel with Persian arose originally on your account---and fight badly."
+> In leave this message Themistocles probably had two possibilities in mind: in the first place, it might, if the kings did not get to know of it, induce the Ionians to come over to the Greeks, and, secondly, if it were reported to Xerxes and made the ground of an accusation against the Ionians, they would be distrusted and now allowed, in consequence, to take part in engagements at sea.
+> = (8.22)
+
+Comments about the Persian's fighting at Salamis:
+
+> The greater part of the Persian fleet suffered severely in the battle, the Athenians and Aeginetans accounting for a great many of their ships. Since the Greek fleet worked together as a whole, while the Persians had lost formation and were no longer fighting on an plan, that was what was bound to happen. None the less they fought well that day--far better than in the actions of off Euboea. Every man of them did his best for fear of Xerxes, feeling that the king's eye was on him.
+> = (8.86)
+
+Herodotus' description of the Persian courier system:
+
+> No mortal thing travels faster than these Persian couriers. The whole idea is a Persian invention, and works like this: riders are stationed along the road, equal in number to the number of days the journey takes---a man and a horse for each day. Nothing stops these couriers from covering their allotted stage in the quickest possible time---neither snow, rain, heat, nor darkness. The first, and the end of his stage, passes the dispatch to the second, the second to the third, and so on along the line, as in the Greek torch-race which is held in honour of Hephaestus.
+> = (8.98)
+
+Themistocles' takes credit for the Athenians not pursuing Xerxes:
+
+> At dawn the following day the Greeks, seeing that the Persian army had not moved, thought that the fleet would still be lying at Phalerum; so they prepared to defend themselves in expectation of another attach by sea. But the moment they learned that the fleet was gone, they resolved to give chase, and did actually sail in pursuit as far as Andros, but without getting a sight of any enemy ships. At Andros they brought up and held a conference, at which Themistocles proposed that they should carry on through the islands direct for the Hellespont, and break the bridges. ...
+> Themistocles, finding the majority against him, suddenly shifted his ground and addressed himself to the Athenians---who of all the confederates were the most vexed at the enemy's escape, and were anxious to go on to the Hellespont alone, if the others refused to accompany them. "From my own experience," Themistocles began, "and still more from what others have told me, I know very well that people who are beaten and cornered will often hit out again and make amends for their previous failure to play the man. Now we've had the luck to save ourselves and our country by the repulse of this great force, which seemed, like a cloud, to darken the sea. That force is now in flight---let it go,. Indeed it was not we who performed this exploit; it was the gods and the heroes, who were jealous that one man in his godless pride should be king of Asia and of Europe too--a man who does not know the difference between the sacred and profane, who burns and destroys the statues of the gods, and dared to lash the sea with whips and bid it with fetters ..."
+> Once he had persuaded them to accept his proposal, Themistocles lost no time in getting a message through to Xerxes. The men he chose for this purpose were all people he could trust to keep his instructions secret, even under torture. The party crossed to Attica, and then, while the others waited by the boat, Sicinnus went to find Xerxes, and deliver this message. "I have come," he said, "on behalf of Themistocles, son of Necles and the confederacy. I am to inform you that Themistocles of Athens, in his desire to server your interests, has stopped the Greeks from pursuing your navy and destroying the bridges on the Hellespont, which is what they wished to do. You may now, therefore, march your army home without danger of interference."
+> = (8.108--10)
+
+Xerxes retreat:
+
+> Xerxes now left Mardonius in Thessaly and made his way with all speed to the Hellespont. He reached the crossing in forty-five days, but with hardly a fraction of his army intact. During the march the troops lived off the country as best they could, eating grass where they found no grain, and stripping the bark and leaves off trees of all sorts, cultivated or wild, to stay their hunger. They left nothing anywhere, so hard were the put to it for supplies. Plague and dysentery attacked them; many died, and others who fell sick were left behind in the various town along the route.
+> = (8.115)
+
+## Quotes from Book IX
+
+The Athenians demonstrate that their ethical system centered on groups, and not individuals (also, Herodotus' sexism is subtly portrayed by his surprise that the women took their own initiative):
+
+> One of the councilors, a man named Lycidas, expressed the opinion that the best course would be to admin the proposals which Murchides brought, and to submit them for approval to the general assembly of the people. This was his expressed opinion---whether he had been bribed by Mardonius to express it or really thought so. In any case, the Athenians, both those in the council and those outside, were so enraged when they heard it that they surrounded Lycidas and stoned him to death. Murchides they allowed to depart unharmed. With all the uproar in Salamis over Lycidas, the Athenian women soon found out what had happened; whereupon, without a word from the men, they got together, and, each one urging on her neighbor and taking her along with the crowd, flocked to Lycidas' house and stoned his wife and children.
+> = (9.5)
+
+Pausanias compares a royal Persian meal with a Spartan meal, after the battle of Plataea:
+
+> It is said that Xerxes on his retreat from Greece left his tent with Mardonius. When Pausanias saw it, with its embroidered hangings and gorgeous decorations in silver and gold, he summoned Mardonius' bakers and cooks and told them to prepare a meal of the same sort as they were accustomed to prepare for their former master. The order was obeyed; and when Pausanias saw gold and silver couches all beautifully draped, and gold and silver tables, and everything prepared for the feast with great magnificence, he could hardly believe his eyes for the good things set before him, and, just for a joke, ordered his own servants to get read an ordinary Spartan dinner. The difference between the two meals was indeed remarkable, and, when both were ready, Pausanias laughed and sent for the Greek commanding officers. When they arrived, he invited them to take a look at the two tables, saying, "Men of Greece, I asked you here in order to show you the folly of the Persians, who, living in this style, came to Greece to rob us of our poverty."
+> = (9.82)
+
+The fake tombs at the battle of Plataea:
+
+> Unlike these tombs, which were real ones containing the bodies of the dead, all the other funeral mounds which are to be seen at Plataea were, so far as my information goes, erected merely for show: they are empty, and were put up to impress posterity by the various states who were ashamed of having taken no part in the battle.
+> = (9.85)
+
+Herodotus' justification for believing gods are involved in human affairs:
+
+> Many things make plain to me that the hand of God is active in human affairs---for how else could it be, when the Persian defeat at Mycale was about to take place on the same day as his defeat at Plataea, that a rumor of this kind should reach the Greek army, giving every man greater courage for the coming battle and a fiercer determination to risk his life for his country?
+> = (9.100)
+
+*Some quotations are taken from Andrea L. Purvis's 2007 translation of* The Histories*, published by Anchor Books, others are taken from Aubrey de Sélincourt's translation.*
