@@ -1,8 +1,6 @@
 ---
-title: >
-  "The Histories" by Herodotus
-description: >
-  Notes on "The Histories" by Herodotus
+title: "The Histories" by Herodotus
+description: Notes on "The Histories" by Herodotus
 type: note
 ---
 
@@ -466,8 +464,7 @@ Life is short, but technology saves many today from the troubles Atrabanos enume
 Xerxes' comments to Atrabanos about taking risks:
 
 > "There is good sense," Xerxes answered, "in everything you have said; nevertheless you ought not to be so timid always, or to think of every accident which might possibly overtake us. If upon the proposal of a plan you were always to weight equally all possible chances, you would never do anything. I would much rather take a risk and run into trouble half the time than keep out of any trouble through being afraid of everything."
-> "If you dispute whatever is said to you, but can never prove your objections, you are as likely to be wrong as the other man---indeed there is nothing to choose between you. And as for proof---how can a man ever be certain? Certainty, surely, is beyond human grasp. But however that may be, the usual thing is that profit comes to those who are willing to act, not to the precautious and hesitant. Just think how the power of Persia has grown: if my predecessors had felt as you do---or even if they
- had not, but had taken the advice of men who did----you would have never seen our country in its present glory."
+> "If you dispute whatever is said to you, but can never prove your objections, you are as likely to be wrong as the other man---indeed there is nothing to choose between you. And as for proof---how can a man ever be certain? Certainty, surely, is beyond human grasp. But however that may be, the usual thing is that profit comes to those who are willing to act, not to the precautious and hesitant. Just think how the power of Persia has grown: if my predecessors had felt as you do---or even if they had not, but had taken the advice of men who did----you would have never seen our country in its present glory."
 > = (7.50)
 
 The deposed Spartan king Demaratus' comments to Xerxes, when asked whether the Greeks would fight such a great army:
@@ -483,6 +480,7 @@ Geological formations attributed to Poseidon:
 The Spartan's and Athenian kill the Persian ambassadors:
 
 > To Athens and Sparta Xerxes sent no demand for submission because of what happened to the messengers whom Darius had sent on a previous occasion: at Athens they were thrown into the pit like criminals, at Sparta they were pushed into a well and told that if they wanted earth and water for the king, to get them from there.
+> = (7.133)
 
 The Spartans believed they were cursed for doing this, and so sent two ambassadors to Persia to be killed as a reparation.
 
@@ -576,3 +574,4 @@ Herodotus' justification for believing gods are involved in human affairs:
 > = (9.100)
 
 *Some quotations are taken from Andrea L. Purvis's 2007 translation of* The Histories*, published by Anchor Books, others are taken from Aubrey de Sélincourt's translation.*
+
