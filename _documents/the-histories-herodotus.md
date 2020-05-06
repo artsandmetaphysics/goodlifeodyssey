@@ -60,20 +60,17 @@ Herodotus does not pander his readers with an outline, but expects them to keep 
 - 4.83–144 Darius’ expedition to Scythia
 - 4.145–205 Libya and the Persians
 - 5.1–29 Darius’ campaign in the Hellespont and Thrace
-- 5.30–6.33 The Ionian revolt
-- 6.34–50
+- 5.30–6.41 The Ionian revolt
+- 6.41–50 Darius’ campaign begins
 - 6.50–93 Kleomenes King of Sparta, Aegina, Athens
-- 6.94–120 Marathon campaign
-- 6.121–7.7
+- 6.94–7.7 Darius’ campaign; Marathon; Aftermath
 - 7.8–177 Xerxes’ preparation and march to Greece
 - 7.178–239 Battle of Thermopylae
 - 8.1–26 Battles of Atemision
 - 8.40–125 Battle of Salamis
-- 8.126–9.24
+- 8.126–9.24 Events during Winter
 - 9.25–89 Battle of Plataea
-- 9.90–92
-- 9.93–107 Battle of Mycale
-- 9.108–122
+- 9.90–122 Battle of Mycale; Aftermath
 
 ## Epistemology
 
@@ -492,7 +489,7 @@ The good advice Xerxes’ uncle Atrabanos affords him, among the assembly of Per
 A possible natural cause of the Greek belief in the jealousy of the gods:
 
 <blockquote class="prose">
-<p>“Further, you see how the god strikes with his thunderbolt those creatures that tower above the rest, and does not permit them to be so conspicuous, while those who are small do not at all provoke him. And you see how he always hurls his missiles at those houses and tress that are the largest and tallest. For the god likes to lop off whatever stands out above the rest; and so, on a similar principle, a huge army is destroyed by a small one; for whenever the god has become resentful toward an army, he casts panic or lightning into it, and it is thus completely destroyed through no fault of its own. For the god will not tolerate pride in anyone but himself.” <cite>(7.10.epislon)</cite></p>
+<p>“Further, you see how the god strikes with his thunderbolt those creatures that tower above the rest, and does not permit them to be so conspicuous, while those who are small do not at all provoke him. And you see how he always hurls his missiles at those houses and trees that are the largest and tallest. For the god likes to lop off whatever stands out above the rest; and so, on a similar principle, a huge army is destroyed by a small one; for whenever the god has become resentful toward an army, he casts panic or lightning into it, and it is thus completely destroyed through no fault of its own. For the god will not tolerate pride in anyone but himself.” <cite>(7.10.epislon)</cite></p>
 </blockquote>
 
 An interesting comment about slander:

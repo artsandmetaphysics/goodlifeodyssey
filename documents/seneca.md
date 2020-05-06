@@ -99,6 +99,8 @@ Outline:
   - Your sister; respectable in Egypt; save husband in shipwreck
 - Conclusion: I'm happy studying earth and heaven; don't miss me
 
+Quotes:
+
 > Everlasting misfortune does have one blessing, that it ends up by toughening those whom it constantly afflicts.
 
 > We are born under circumstances that would be favorable if we did not abandon them. It was nature's intention that there should be no need of great equipment for a good life: every individual can make himself happy. External goods are of trivial importance and without much influence in either direction: prosperity does not elevate the sage and adversity does not depress him. For he has always made the effort to rely as much as possible on himself and to derive all delight from himself.
@@ -124,5 +126,60 @@ On the poor:
 Righteousness is tied to the size of the sacrifice:
 
 > All the poets have given renown to the woman who offered to die in place of her husband. But this is nobler, to risk one's life to bury one's husband for that love is greater which wins less through equal danger.
+
+*Quotations are taken from C.D.N Costa's 1997 translation.*
+
+## On Tranquillity of Mind
+
+Summary:
+
+Outline:
+
+- Serenus seeks advice
+  - Apparent, hidden, and intermittent vices
+  - Wavering desire for material wealth
+  - Wavering desire to contribute to others
+  - Wavering desire for lasting language
+  - Worry about wavering mind; seek Seneca's advice
+- Seneca's response:
+
+
+Quotes:
+
+Serenus asks Seneca for help with problems of the mind. He opens with:
+
+> When I look at myself, Seneca, some of my vices appeared clearly on the surface, so that I could lay my hands on them; some were more hidden away in the depths; some were not there all the time but return at intervals.
+
+What apparent, hidden, and intermittent vices do you have?
+
+Serenus next provides three examples where his mind wavers between good and poor states. I relate to all three. The first is simplicity vs wealth. It is difficult, when in the presence of others, to not waver in one's desire for simple material things. It is easy to let go of the sensory desires, but more difficult to relax the desire for social validation. One asks, "do my dinner guests think I am poor, unmotivated, or inept?"
+
+> After being long given up to frugality I have found myself surrounded by the lavish splendor of luxury echoing all about me. My vision wavers somewhat, for I can raise my mind to face it more easily than my eyes. And so I come back not a worse but a sadder man; I don't move with my head so high among my trivial possessions; and a secret gnawing doubt undermines me whether that life is superior.
+
+I also relate to the second source of Serenus' doubts---helping others. Serenus waivers between a monastic inward focus and an external interest in humankind. The ripples in his resolve for the public good originate in the time-consuming and mundane nature of the endeavor; most of my attempts to volunteer are abandoned for the same reasons. One feels that the time is poorly spent.:
+
+> I decide to achieve public office---not, of course, because of the purple robe and the lictors' rods, but so that I can be more ready with help for my friends and relations, for all my fellow-citizens, and then for all mankind. But when something has assailed my mind, which is not used to being battered; when something has happened which either is unworthy of me or cannot easily be dealt with; when unimportant things become time-consuming; I take refuge in leisure and make my way more quickly home. I decide to restrict my life within its walls, saying, "Let no one rob me of a single day who is not going to make me an adequate return for such a loss. Let my mind be fixed on itself, cultivate itself, have no external interest---nothing that seeks the approval of another; let it cherish the tranquility that has no part in public or private concerns." But when my mind is excited by reading a convincing account of something and spurred on by noble examples, I long to rush into the forum, to speak on behalf of one man and offer help to another, which will at least be an attempt to assist even if it does not succeed, or to curb the pride of someone else grown arrogant by success.
+
+Like Serenus, emotive movies and stories push back my desire to contribute to others.
+
+Finally, I strongly feel the impulse to write for posterity. Fame is a powerful force.
+
+> "Where is the need," I ask, "to compose something to last for ages? Why not stop trying to prevent posterity being silent about you? You were born to dies, and a silent funeral is less bothersome. So if you must fill your time, write something in a simple style for your own use and not for publication: less toil is needed if you study only for the day."
+
+Seneca, as seems typical, provides a general response:
+
+> But what you are longing for is great and supreme and nearly divine---not to be shaken.  We are, therefore, seeking how the mind can follow a smooth and steady course, well disposed to itself, happily regarding its own condition and with no interruption to this pleasure, but remaining in a state of peace with no ups and downs: that will be tranquility. Let us consider in general how this can be achieved: you will then extract what you like from the communal remedy.
+
+I find it somewhat annoying that he does not recognize the particulars of Serenus' questions, but instead provides general advice and tells him to "extract what you like" from it.
+
+> You must consider whether your nature is more suited to practical activity or to quiet study and reflection, and incline in the direction your natural faculty and disposition take you.
+
+> It is not possible that all the manifold and unfair disasters of life can be so repelled so that storm winds will not still assail those who spread their sails ambitiously.
+
+> He who fears death will never do anything worthy of a living man.
+
+> Even in our studies, where expenditure is most worth while, its justification depends on its moderation. What is the point of having countless books and libraries whose titles the owner could scarcely read through in his whole lifetime? The mass of books burdens the student without instructing him, and it is far better to devote yourself to a few authors than to get lost among many.
+
+> In any situation in life you will find delights and relaxations and pleasures if you are prepared to make light of your troubles and not let them distress you.
 
 *Quotations are taken from C.D.N Costa's 1997 translation.*
