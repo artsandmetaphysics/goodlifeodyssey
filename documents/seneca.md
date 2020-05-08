@@ -72,11 +72,11 @@ Due to _On the Shortness of Life_, I will read more philosophy and less literatu
 
 ## Consolation to Helvia
 
-Summary:
+Here is how I would summarize this letter:
 
+You are grieving over my son's death, but recall the challenges you have overcome. I, though exiled, am happy. You should be happy too; liberal studies will make you happy forever, but in the interim your family can.
 
-
-Outline:
+Here is an outline of the letter:
 
 - Why I hadn't written earlier
 - My approach: Enumerate past misfortune to toughen you
@@ -99,7 +99,7 @@ Outline:
   - Your sister; respectable in Egypt; save husband in shipwreck
 - Conclusion: I'm happy studying earth and heaven; don't miss me
 
-Quotes:
+Here are several interesting quotes:
 
 > Everlasting misfortune does have one blessing, that it ends up by toughening those whom it constantly afflicts.
 
@@ -119,6 +119,10 @@ Observations of myself and my friends lead me to believe this is true, yet Senec
 
 > For how little have we lost, when the two finest things of all will accompany us wherever we go, universal nature and our individual virtue. Believe me, this was the intention of whoever formed the universe, whether all-powerful god, or incorporeal reason creating mighty works, or divine spirit penetrating all things from greatest to smallest with even pressure, or fate and the unchanging sequence of causation---this, I say, was the intention, that only the most worthless of our possessions would come into the power of another. Whatever is best for a human being lies outside human control: it can be neither given nor taken away. The world you see, nature's greatest and most glorious creation, and the human mind which gazes and wonders at it, and is the most splendid part of it, these are our own everlasting possessions and will remain with us as long as we ourselves remain. So, eager and upright, let us hasten with bold steps wherever circumstances take us, and let us journey through any countries whatever: there can be no place of exile within the world since nothing within the world is alien to men.
 
+Seneca's suggests his mother read philosophy:
+
+> Return now to these studies and they will keep you safe. They will comfort you, they will delight you; and if they genuinely penetrate your mind, never again will grief enter there, or anxiety, or the distress caused by futile and pointless suffering. Your heart will have room for none of these, for to all other failings it has long been closed. Those studies are your most dependable protection, and they alone can snatch you from Fortune's grip.
+
 On the poor:
 
 > For how little is needed to support a man. And who can lack this if they have any virtue at all?  As far as I am concerned, I have not lost wealth but distractions.
@@ -130,21 +134,6 @@ Righteousness is tied to the size of the sacrifice:
 *Quotations are taken from C.D.N Costa's 1997 translation.*
 
 ## On Tranquillity of Mind
-
-Summary:
-
-Outline:
-
-- Serenus seeks advice
-  - Apparent, hidden, and intermittent vices
-  - Wavering desire for material wealth
-  - Wavering desire to contribute to others
-  - Wavering desire for lasting language
-  - Worry about wavering mind; seek Seneca's advice
-- Seneca's response:
-
-
-Quotes:
 
 Serenus asks Seneca for help with problems of the mind. He opens with:
 
@@ -168,18 +157,42 @@ Finally, I strongly feel the impulse to write for posterity. Fame is a powerful 
 
 Seneca, as seems typical, provides a general response:
 
-> But what you are longing for is great and supreme and nearly divine---not to be shaken.  We are, therefore, seeking how the mind can follow a smooth and steady course, well disposed to itself, happily regarding its own condition and with no interruption to this pleasure, but remaining in a state of peace with no ups and downs: that will be tranquility. Let us consider in general how this can be achieved: you will then extract what you like from the communal remedy.
+> We are, therefore, seeking how the mind can follow a smooth and steady course, well disposed to itself, happily regarding its own condition and with no interruption to this pleasure, but remaining in a state of peace with no ups and downs: that will be tranquility. Let us consider in general how this can be achieved: you will then extract what you like from the communal remedy.
 
 I find it somewhat annoying that he does not recognize the particulars of Serenus' questions, but instead provides general advice and tells him to "extract what you like" from it.
 
 > You must consider whether your nature is more suited to practical activity or to quiet study and reflection, and incline in the direction your natural faculty and disposition take you.
 
-> It is not possible that all the manifold and unfair disasters of life can be so repelled so that storm winds will not still assail those who spread their sails ambitiously.
+> Let us learn to increase our self-restraint, to curb luxury, to moderate ambition, to soften anger, to regard poverty without prejudice, to practise frugality, even if many are ashamed of it, to apply to nature's needs the remedies that are cheaply available, to curb as if in fetters unbridled hopes and a mind obsessed with the future., and to aim to acquire our riches from ourselves rather than from Fortune. It is not possible that all the manifold and unfair disasters of life can be so repelled so that storm winds will not still assail those who spread their sails ambitiously.
 
 > He who fears death will never do anything worthy of a living man.
 
 > Even in our studies, where expenditure is most worth while, its justification depends on its moderation. What is the point of having countless books and libraries whose titles the owner could scarcely read through in his whole lifetime? The mass of books burdens the student without instructing him, and it is far better to devote yourself to a few authors than to get lost among many.
 
 > In any situation in life you will find delights and relaxations and pleasures if you are prepared to make light of your troubles and not let them distress you.
+
+Seneca's comments sound religious:
+
+> So what you need is not those more radical remedies which we have now finished with---blocking yourself here, being angry with yourself there, threatening yourself sternly somewhere else---but the final treatment, confidence in yourself and the belief that you are on the right path, and not lead astray by the many tracks which cross yours of people who are hopelessly lost, though some are wandering not far from the truth path. But what you are longing for is great and supreme and nearly divine---not to be shaken.
+
+On picking friends:
+
+> Still, you must especially avoid those who are gloomy and always lamenting, and who grasp at every pretext for complaint. Though a man's loyalty and kindness may not be in doubt, a companion who is agitated and groaning about everything is an enemy to peace of mind.
+
+On the certainty of troubles:
+
+> But he who knows that this was the condition laid down for him at the moment of his conception will live on those terms, and at the same time he will guarantee with a similar strength of mind that no events take him by surprise. For by foreseeing anything that can happen as though it will happen he will soften the onslaught of all his troubles, which present no surprises to those who are ready and waiting for them, but fall heavily on those who are careless in the expectation that all will be well. There is disease, imprisonment, disaster, fire: none of these is unexpected---I did know in what riotous company Nature had enclosed me.
+
+On resting the mind:
+
+> The mind should not be kept continuously at the same pitch of concentration, but given amusing diversions. Socrates did not blush to play with small children; Cato soothed his mind with wine when it was tired from the cares of state ... Our minds must relax: they will rise better and keener after a rest.
+
+On occasional intoxication:
+
+> Occasionally we should even come to the point of intoxication, sinking into drink but not being totally flooded by it; for it does wash away cares, and stirs the mind to its depths, and heals sorrow just as it heals certain diseases. Liber was not named because he loosens the tongue, but because he liberates the mind from its slavery to cares, emancipates it, invigorates it, and emboldens it for all its undertakings. But there is a healthy moderation in wine, as in liberty.
+
+On living a fake life:
+
+> There is also another not inconsiderable source of anxieties, if you are too concerned to assume a pose and do not reveal yourself openly to anyone, like many people whose lives are false and aimed only at outward show. For it is agonizing always to be watching yourself in fear of being caught when your usual mask has slipped.
 
 *Quotations are taken from C.D.N Costa's 1997 translation.*
