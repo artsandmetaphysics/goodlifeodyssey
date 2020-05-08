@@ -204,7 +204,7 @@ Like Serenus, emotive movies and stories push back my desire to contribute to ot
 Finally, I strongly feel the impulse to write for posterity. Fame is a powerful force.
 
 <blockquote>
-<p>“Where is the need,” I ask, “to compose something to last for ages? Why not stop trying to prevent posterity being silent about you? You were born to dies, and a silent funeral is less bothersome. So if you must fill your time, write something in a simple style for your own use and not for publication: less toil is needed if you study only for the day.”</p>
+<p>“Where is the need,” I ask, “to compose something to last for ages? Why not stop trying to prevent posterity being silent about you? You were born to die, and a silent funeral is less bothersome. So if you must fill your time, write something in a simple style for your own use and not for publication: less toil is needed if you study only for the day.”</p>
 </blockquote>
 
 Seneca, as seems typical, provides a general response:
@@ -259,6 +259,12 @@ On resting the mind:
 <p>The mind should not be kept continuously at the same pitch of concentration, but given amusing diversions. Socrates did not blush to play with small children; Cato soothed his mind with wine when it was tired from the cares of state … Our minds must relax: they will rise better and keener after a rest.</p>
 </blockquote>
 
+On pulling inward:
+
+<blockquote>
+<p>The mind must be recalled from external objects into itself: it must trust in itself, rejoice in itself, admire its own things; it must withdraw as much as possible from the affairs of others and devote its attention to itself; it must not feel losses and should take a kindly view even of misfortunes.</p>
+</blockquote>
+
 On occasional intoxication:
 
 <blockquote>
@@ -269,6 +275,12 @@ On living a fake life:
 
 <blockquote>
 <p>There is also another not inconsiderable source of anxieties, if you are too concerned to assume a pose and do not reveal yourself openly to anyone, like many people whose lives are false and aimed only at outward show. For it is agonizing always to be watching yourself in fear of being caught when your usual mask has slipped.</p>
+</blockquote>
+
+On despairing of immorality:
+
+<blockquote>
+<p>But there is no point in banishing the causes of private sorrow, for sometimes we are gripped by a hatred of the human race. When you consider how rare is simplicity and how unknown is innocence, how you scarcely ever find loyalty except when it is expedient, what a host of successful crimes you come across, and all the things equally hateful that men gain and lose through lust, and how ambition is now so far from setting limits to itself that it acquires a lustre from viciousness—all this drives the mind into a darkness whose shadows overwhelm it, as though those virtues were overturned which is not possible for and not useful to possess. We must therefore school ourselves to regard all commonly held vices as not hateful by ridiculous, and we should imitate Democritus rather than Heraclitus. For whenever these went out in public, the latter used to weep and the former to laugh; the latter thought all our activities sorrows, the former, follies. So we should make light of all things and endure them with tolerance: it is more civilized to make fun of life than to bewail it. Bear in mind too that he deserves better of the human race as well who laughs at it than he who  grieves over it; since the one allows it a fair prospect of hope, while the other stupidly laments over things he cannot hope will be put right. And, all things considered, it is the mark of a greater mind not to restrain laughter than not to restrain tears, since laughter expresses the gentlest of our feelings, and reckons that nothing is great or serious or even wretched in all the trappings of our existence.</p>
 </blockquote>
 
 *Quotations are taken from C.D.N Costa’s 1997 translation.*
