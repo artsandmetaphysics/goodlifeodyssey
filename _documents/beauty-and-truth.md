@@ -15,7 +15,7 @@ We don’t usually follow blindly. To decide whether someone is malicious or mis
 
 It is this last tendency—trusting the crowd—that connects beauty and truth. Beauty gets attention for its own sake, becomes widespread, and gathers authority. An author’s words are beautiful, so they are repeated. Decades pass and the words become ubiquitous. Many will question and disagree—but most will not have the time to critique the author’s words, and will put faith in its ubiquity.
 
-The _Iliad_, and its central position in Greek and Roman thought, exemplifies the connection between beauty and truth. (It is also the origin of this essay.) Homer’s writing is beautiful, and occasionally profound, and its influence can only be understood as originating from its beauty.
+The _Iliad_, and its central position in Greek and Roman thought, exemplifies the connection between beauty and truth. (It is also the origin of this essay.) Homer’s writing is beautiful and occasionally profound. I believe its influence can only be understood as originating from its beauty.
 
 {% comment %}
 Add more details about the Iliad.
