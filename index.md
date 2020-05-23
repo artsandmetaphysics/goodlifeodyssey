@@ -10,6 +10,7 @@ description: This website contains my writings about art, history, religion, and
 <ul class="index">
   {% include li.html id='definitions' %}
   {% include li.html id='justification-via-others-beliefs' %}
+  {% include li.html id='beauty-and-truth' %}
   {% include li.html id='my-epistemology' %}
   {% include li.html id='universal-historical-laws' %}
   {% include li.html id='meaning-and-purpose' %}
