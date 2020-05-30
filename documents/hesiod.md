@@ -52,7 +52,7 @@ Hesiod does not presume that the Muses tell him the truth, but he does presume t
 
 We get another glimpse into Hesiod's views of the Muses and truth in *Works and Days*, when he is giving advice to his brother.  Hesiod distinguishes between his experience and what the Muses have taught him:
 
-> So if you [Hesiod's lazy brother] ever turn your addled wits to trade
+> So if you [my lazy brother] ever turn your addled wits to trade
 > To rid yourself of debt and gnawing hunger,
 > I can teach you the rhythms of the churning sea,
 > Though sailing's not my line. As far as ships go,

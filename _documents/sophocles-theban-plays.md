@@ -176,5 +176,36 @@ This metric for judging the happy life is in Herodotus’ fable of Solon meeting
 <p>so long as we find joy in every hour. <cite>(909–11)</cite></p>
 </blockquote>
 
+Oedipus declaring his innocence to Creon, in front of Theseus and the Athenians:
+
+<blockquote class="poetry">
+<p>Unctuous, shameless—where do you think your insults</p>
+<p>do more damage, my old age or yours? Bloodshed</p>
+<p>incest, misery, all your mouth lets fly at me,</p>
+<p>I have suffered it all, and all against my will!</p>
+<p>Such was the pleasure of the gods, raging,</p>
+<p>perhaps, against our race from ages past.</p>
+<p>But as for me alone—</p>
+<p>say my unwilling crimes against myself</p>
+<p>and against my own were payment from the gods</p>
+<p>for something criminal deep inside me…no, look hard,</p>
+<p>you’ll find no guilt to accuse me of—I am innocent!</p>
+<p>⋯</p>
+<p>And my mother…</p>
+<p>wretched man, have you no shame? Your own sister!</p>
+<p>Her marriage—forcing me to talk of that marriage!</p>
+<p>Oh I’ll tell it all, I won’t be silent, not now,</p>
+<p>you and your blasphemous mouth have gone so far.</p>
+<p>She was my mother, yes, she bore me—</p>
+<p>oh the horror—I knew nothing, she knew nothing!—</p>
+<p>and once she’d born me then she bore me children,</p>
+<p>her disgrace. But at least I know one thing:</p>
+<p>you slander her and me of your own free will,</p>
+<p>but I made her my bride against my will,</p>
+<p>I repeat this to the world againnst my will. No,</p>
+<p>I’ll not be branded guilty, not in that marriage,</p>
+<p>not in the murder of my father, all those crimes</p>
+<p>you heap on me relentlessly, harrowing my heart. <cite>(1095–1131)</cite></p>
+</blockquote>
 
 *Quotations are taken from Robert Fagles’ 1982 translation of* The Three Theban Plays*, published by Penguin Classics.*

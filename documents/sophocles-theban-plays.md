@@ -163,5 +163,35 @@ This metric for judging the happy life is in Herodotus' fable of Solon meeting C
 > so long as we find joy in every hour.
 > ~ (909--11)
 
+Oedipus declaring his innocence to Creon, in front of Theseus and the Athenians:
+
+> Unctuous, shameless---where do you think your insults
+> do more damage, my old age or yours? Bloodshed
+> incest, misery, all your mouth lets fly at me,
+> I have suffered it all, and all against my will!
+> Such was the pleasure of the gods, raging,
+> perhaps, against our race from ages past.
+> But as for me alone---
+> say my unwilling crimes against myself
+> and against my own were payment from the gods
+> for something criminal deep inside me...no, look hard,
+> you'll find no guilt to accuse me of---I am innocent!
+> ...
+> And my mother...
+> wretched man, have you no shame? Your own sister!
+> Her marriage---forcing me to talk of that marriage!
+> Oh I'll tell it all, I won't be silent, not now,
+> you and your blasphemous mouth have gone so far.
+> She was my mother, yes, she bore me---
+> oh the horror---I knew nothing, she knew nothing!---
+> and once she'd born me then she bore me children,
+> her disgrace. But at least I know one thing:
+> you slander her and me of your own free will,
+> but I made her my bride against my will,
+> I repeat this to the world againnst my will. No,
+> I'll not be branded guilty, not in that marriage,
+> not in the murder of my father, all those crimes
+> you heap on me relentlessly, harrowing my heart.
+> ~ (1095--1131)
 
 *Quotations are taken from Robert Fagles' 1982 translation of* The Three Theban Plays*, published by Penguin Classics.*
