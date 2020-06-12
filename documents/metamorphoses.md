@@ -1971,6 +1971,7 @@ The gods are limited in a number of ways. Interestingly, Ovid mentions that gods
 > and would have put it back and locked the gates,
 > but one god is unable to rescind
 > the actions of another.
+> ~
 
 This sort of question is unique to polytheism.
 

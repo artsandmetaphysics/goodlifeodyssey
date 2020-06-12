@@ -2080,7 +2080,7 @@ Mortals had “deficits” that needed to be purged before becoming immortal:
 
 The gods are limited in a number of ways. Interestingly, Ovid mentions that gods can’t undue actions of other gods:
 
-<blockquote>
+<blockquote class="poetry">
 <p>Venus alone knew that the bolt had fallen</p>
 <p>and would have put it back and locked the gates,</p>
 <p>but one god is unable to rescind</p>
