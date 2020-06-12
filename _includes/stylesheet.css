@@ -258,3 +258,39 @@ ul, ol {
     display: none;
   }
 }
+
+@media (max-width: 320px) {
+  input[type="email"] {
+    margin-right: 0 !important;
+  }
+
+  input[type="submit"] {
+    flex-grow: 1;
+  }
+}
+
+form {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+input[type="email"],
+input[type="submit"] {
+  margin: 1rem 0 0 0;
+  font-size: 0.9rem;
+  padding: 0.5rem;
+}
+
+input[type="email"] {
+  border: 1px solid #AAA;
+  flex-grow: 1;
+  margin-right: 0.5rem;
+}
+
+input[type="submit"] {
+  background-color: #4CAF50;
+  border: 1px solid #4CAF50;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+}

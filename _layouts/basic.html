@@ -19,7 +19,7 @@
   <body>
     <header>
       {% if page.url != '/' %}
-      <p class="hidden-print"><a href="/">← other writings</a></p>
+      <p class="hidden-print"><a href="/">← other works</a></p>
       {% endif %}
       <hr>
     </header>
@@ -29,12 +29,15 @@
     </main>
     <footer>
       <hr>
+      <form action="https://formspree.io/xqkyblqg" method="POST">
+        <input type="email" placeholder="Email" name="email">
+        <input type="submit" value="Sign up for monthly emails">
+      </form>
       <p>
       {% if page.url != '/' %}
-        Read <a href="{{ site.url }}">other writings</a>.
+        Read <a href="{{ site.url }}">other works</a>.
       {% endif %}
-        If you have questions, notice a factual or grammatical mistake, disagree
-        with my logic, or want to suggest a counter-argument, please <a href="mailto:{{ site.email }}">contact me</a>.
+        Please <a href="mailto:{{ site.email }}">email me</a> if you have questions, comments, or notice a factual or grammatical mistake.
       </p>
     </footer>
   </body>
