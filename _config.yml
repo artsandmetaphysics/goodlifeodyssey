@@ -6,6 +6,7 @@ url: "http://artsandmetaphysics.com"
 
 markdown: kramdown
 theme: minima
+permalink: /meditations/:title
 config:
   - jekyll-feed
 exclude:
@@ -21,10 +22,13 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: documents
     values:
       layout: basic
-      status: complete
+  - scope:
+      path: ""
+      type: posts
+    values:
+      is_post: true
 plugins_dir:
   - jekyll-redirect-from
 whitelist:

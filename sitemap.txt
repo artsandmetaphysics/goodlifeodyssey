@@ -1,4 +1,5 @@
 ---
 ---
 {{ site.url }}{% for d in site.documents %}
-{{ site.url }}{{ d.url }}{% endfor %}
+{{ site.url }}{{ d.url }}{% endfor %}{% for m in site.meditations %}
+{{ site.url }}{{ m.url }}{% endfor %}

@@ -25,6 +25,7 @@
     </header>
     <main>
       <h1>{{ page.title | normalize_whitespace }}</h1>
+      {% if page.is_post %}<small>{{ page.date | date: "%d %B %Y" }}</small>{% endif %}
       {{ content }}
     </main>
     <footer>
