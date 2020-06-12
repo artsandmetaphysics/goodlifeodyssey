@@ -257,14 +257,8 @@ ul, ol {
   .hidden-sm {
     display: none;
   }
-}
 
-@media (max-width: 320px) {
-  input[type="email"] {
-    margin-right: 0 !important;
-  }
-
-  input[type="submit"] {
+  button {
     flex-grow: 1;
   }
 }
@@ -275,19 +269,18 @@ form {
 }
 
 input[type="email"],
-input[type="submit"] {
+button {
   margin: 1rem 0 0 0;
-  font-size: 0.9rem;
+  font-size: 16px;
   padding: 0.5rem;
 }
 
 input[type="email"] {
   border: 1px solid #AAA;
   flex-grow: 1;
-  margin-right: 0.5rem;
 }
 
-input[type="submit"] {
+button {
   background-color: #4CAF50;
   border: 1px solid #4CAF50;
   color: white;
