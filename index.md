@@ -1,11 +1,11 @@
 ---
 layout: basic
 title: Arts & Metaphysics
-description: Writings about literature, history, religion, and philosophy.
+description: Essays, commentaries, and meditations about literature, history, religion, and philosophy.
 ---
 {{ page.description }}
 
-## Essays
+<h2 id="essays">Essays</h2>
 
 <ul class="index">
   {% include li.html id='definitions' %}
@@ -23,7 +23,7 @@ description: Writings about literature, history, religion, and philosophy.
   {% include li.html id='love-thy-neighbor-as-thyself' %}
 </ul>
 
-## Notes
+<h2 id="notes">Notes and Commentary</h2>
 
 <ul class="index">
   {% include li.html id='ancient-greece' %}
@@ -35,4 +35,15 @@ description: Writings about literature, history, religion, and philosophy.
   {% include li.html id='the-histories-herodotus' %}
   {% include li.html id='metamorphoses' %}
   {% include li.html id='seneca' %}
+</ul>
+
+<h2 id="meditations">Meditations</h2>
+
+<ul class="index">
+  {% for p in site.posts %}
+  <li>
+    <a title="{{ p.description | xml_escape | normalize_whitespace }}"
+       href="{{ p.url }}">{{ p.title }}</a>
+  </li>
+  {% endfor %}
 </ul>
