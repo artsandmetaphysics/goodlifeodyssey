@@ -1,6 +1,6 @@
 ---
 title: >
-  Wonder Chorus from Antigone
+  Sophocles’ Ode to Man
 description: >
   Many a wonder lives and moves, but the wonder of all is man …
 ---
@@ -49,6 +49,6 @@ While we now know Earth was not the “eldest of the gods,” humanity can still
 
 Athens had defeated the Persian empire, and their empire was steadily growing, when Antigone was written. How much was his optimism tied to the success of his state?
 
-Why did Sophocles include this Chorus, and why is it located where it is in the play?
+Why did Sophocles include this Chorus, and why is it located where it is in the play? Is it ironic?
 
-*The translation is modernized from* The Seven Plays in English Verse *by Lewis Campbell.*
+*The translation is modernized from “The Seven Plays in English Verse” by Lewis Campbell.*
