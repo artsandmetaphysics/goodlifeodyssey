@@ -8,7 +8,7 @@
     <title>{{ page.title | xml_escape | normalize_whitespace | replace: "_", '"' }}</title>
     <meta name="description" content="{{ page.description | xml_escape | normalize_whitespace }}">
     <meta name="twitter:card" value="summary">
-    <meta property="og:title" content="{{ page.title | xml_escape | replace: "_", '"' | normalize_whitespace }}">
+    <meta property="og:title" content="{{ page.title | xml_escape | normalize_whitespace | replace: "_", '"' }}">
     <meta property="og:type" content="article">
     <meta property="og:url" content="{{ page.url }}">
     <meta property="og:image" content="/favicon.png">
