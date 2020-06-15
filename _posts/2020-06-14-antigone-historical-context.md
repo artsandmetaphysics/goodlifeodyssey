@@ -73,7 +73,9 @@ Who is justified? Tiresias, the blind prophet, sides with Antigone and berates C
 <p>you have forced upon the heavens</p>
 </blockquote>
 
-A modern reader may think of Tiresias as a magician, and thus understand his prophecies, within the play, to be certain—initially I did. But the ancient Greeks believed in oracles and augury, and thus, ironically, understood prophets were political, and could lie and cheat. This is apparent even in the first book of the _Iliad_ and throughout Herodotus. It also explains how Creon’s first response is to call Tiresias a “fortuneteller” (although shortly after he follows his advice).
+It seems unclear whether the Athenians would have expected the gods to be on Creon’s side or Antigone’s.
+
+The role of prophecy is another cultural norm which, if misunderstood, could alter our understanding of _Antigone_. Since we no longer believe in the Greek gods, we may view Tiresias as a story device and his prophecies as certain. But the ancient Greeks _believed_ in oracles and augury. They were a part of their worldview. Ironically, this means they understood that prophets were political. They could lie and cheat, as is apparent throughout Herodotus and even in the first book of the _Iliad_. It also explains why Creon’s reacts to Tiresias’ prophecy by calling him a “fortuneteller” and dismissing him (although soon he follows his advice). We know how the Greek’s viewed prophecy, so in this case we can envision how Sophocles’ audience understood Tiresias. What if there are other norms we are not aware of?
 
 Is it a foregone conclusion that the gods side with Antigone, or is Sophocles making a religious or political statement? Could some Athenian audience members have sided with Creon? I think it is difficult for us to be sure.
 
