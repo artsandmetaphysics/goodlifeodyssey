@@ -6,7 +6,6 @@ description: Essays, commentaries, and meditations about literature, history, re
 {{ page.description }}
 
 <h2 id="essays">Essays</h2>
-
 <ul class="index">
   {% include li.html id='definitions' %}
   {% include li.html id='justification-via-others-beliefs' %}
@@ -24,7 +23,6 @@ description: Essays, commentaries, and meditations about literature, history, re
 </ul>
 
 <h2 id="notes">Notes and Commentary</h2>
-
 <ul class="index">
   {% include li.html id='ancient-greece' %}
   {% include li.html id='the-epic-of-gilgamesh' %}
@@ -38,12 +36,11 @@ description: Essays, commentaries, and meditations about literature, history, re
 </ul>
 
 <h2 id="meditations">Meditations</h2>
-
 <ul class="index">
-  {% for p in site.posts %}
+  {%- for p in site.posts -%}
   <li>
     <a title="{{ p.description | xml_escape | normalize_whitespace }}"
        href="{{ p.url }}">{{ p.title | replace_first: "_", "<em>" | replace: " _", " <em>" | replace: "_", "</em>" | normalize_whitespace }}</a>
   </li>
-  {% endfor %}
+  {%- endfor -%}
 </ul>
