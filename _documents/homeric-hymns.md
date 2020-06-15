@@ -1,8 +1,8 @@
 ---
 title: >
-  “The Homeric Hymns”
+  _The Homeric Hymns_
 description: >
-  Notes on “The Homeric Hymns”
+  Notes on _The Homeric Hymns_
 type: note
 ---
 

@@ -183,7 +183,7 @@ ul, ol {
    * Make sure that URLs are available to people that print the page.
    */
   a:after {
-    content: " [" attr(href) "] ";
+    content: " [" attr(href) "]";
   }
 
   .hidden-print {

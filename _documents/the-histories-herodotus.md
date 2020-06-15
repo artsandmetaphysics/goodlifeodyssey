@@ -1,7 +1,7 @@
 ---
 title: |
-  “The Histories” by Herodotus
-description: Notes on “The Histories” by Herodotus
+  _The Histories_ by Herodotus
+description: Notes on _The Histories_ by Herodotus
 type: note
 ---
 

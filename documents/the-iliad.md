@@ -1,8 +1,8 @@
 ---
 title: >
-  The "Iliad"
+  The _Iliad_
 description: >
-  Notes on the "Iliad"
+  Notes on the _Iliad_
 type: note
 ---
 

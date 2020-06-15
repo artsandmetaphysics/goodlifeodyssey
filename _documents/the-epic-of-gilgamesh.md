@@ -1,8 +1,8 @@
 ---
 title: >
-  “The Epic of Gilgamesh”
+  _The Epic of Gilgamesh_
 description: >
-  A commentary on “The Epic of Gilgamesh”
+  A commentary on _The Epic of Gilgamesh_
 type: note
 status: incomplete
 ---

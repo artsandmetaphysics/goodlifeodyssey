@@ -43,7 +43,7 @@ description: Essays, commentaries, and meditations about literature, history, re
   {% for p in site.posts %}
   <li>
     <a title="{{ p.description | xml_escape | normalize_whitespace }}"
-       href="{{ p.url }}">{{ p.title }}</a>
+       href="{{ p.url }}">{{ p.title | replace_first: "_", "<em>" | replace: " _", " <em>" | replace: "_", "</em>" | normalize_whitespace }}</a>
   </li>
   {% endfor %}
 </ul>

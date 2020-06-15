@@ -1,8 +1,8 @@
 {% for d in site.documents %}
 {% if d.url contains include.id %}
   <li>
-    <a title="{{ d.description | xml_escape | normalize_whitespace }}"
-       href="{{ d.url }}">{{ d.title }}</a>
+    <a title="{{ d.description | replace: "_", '"' | xml_escape | normalize_whitespace }}"
+       href="{{ d.url }}">{{ d.title | replace_first: "_", "<em>" | replace: " _", " <em>" | replace: "_", "</em>" | normalize_whitespace }}</a>
   </li>
 {% endif %}
 {% endfor %}

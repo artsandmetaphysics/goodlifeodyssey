@@ -5,7 +5,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ page.title | normalize_whitespace }}</title>
+    <title>{{ page.title | xml_escape | normalize_whitespace | replace: "_", '"' }}</title>
     <meta name="description" content="{{ page.description | xml_escape | normalize_whitespace }}">
     <meta name="twitter:card" value="summary">
     <meta property="og:title" content="{{ page.title | xml_escape | normalize_whitespace }}">
@@ -24,7 +24,7 @@
       <hr>
     </header>
     <main>
-      <h1>{{ page.title | normalize_whitespace }}</h1>
+      <h1>{{ page.title | replace_first: "_", "<em>" | replace: " _", " <em>" | replace: "_", "</em>" | normalize_whitespace }}</h1>
       {% if page.is_post %}<small>{{ page.date | date: "%d %B %Y" }}</small>{% endif %}
       {{ content }}
     </main>
@@ -32,13 +32,23 @@
       <hr>
       <form class="hidden-print" action="https://formspree.io/xqkyblqg" method="POST">
         <input type="email" placeholder="Email" name="email" required>
+        <input type="hidden" name="secondsOnPage">
+        <script>
+          var input = document.getElementsByName("secondsOnPage")[0]
+          var secondsOnPage = 0
+          setInterval(function() {
+            input.value = secondsOnPage.toString();
+            secondsOnPage++;
+          }, 1000)
+        </script>
         <button type="submit">Sign up for <span class="hidden-sm">monthly</span> emails</button>
       </form>
       <p>
-      {% if page.url != '/' %}
+        {% if page.url != '/' %}
         Read my <a href="{{ site.url }}">other works</a>.
-      {% endif %}
-        Learn <a href="/about">about the author</a>. Please <a href="mailto:{{ site.email }}">email me</a> if you have questions, comments, or notice a factual or grammatical mistake.
+        {% endif %}
+        <span class="hidden-print">Learn <a href="/about">about the author</a>.</span>
+        Please <a href="mailto:{{ site.email }}">email me</a> if you have questions, comments, or notice a factual or grammatical mistake.
       </p>
     </footer>
   </body>

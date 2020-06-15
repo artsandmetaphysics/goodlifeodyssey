@@ -1,8 +1,8 @@
 ---
 title: >
-  Ovid’s “Metamorphoses”
+  Ovid’s _Metamorphoses_
 description: >
-  Notes on Ovid’s “Metamorphoses”
+  Notes on Ovid’s _Metamorphoses_
 type: note
 status: incomplete
 ---

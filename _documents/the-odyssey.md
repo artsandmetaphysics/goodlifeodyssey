@@ -1,8 +1,8 @@
 ---
 title: >
-  The “Odyssey”
+  The _Odyssey_
 description: >
-  Notes on the “Odyssey”
+  Notes on the _Odyssey_
 type: note
 status: incomplete
 ---
