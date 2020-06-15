@@ -1,23 +1,19 @@
 ---
 title: >
-  Can We Understand _Antigone_ as Its Audience Would?
+  Can We Understand _Antigone_ in Context?
 description: >
    We know the political and military context in which Sophocles wrote. Is this enough to interpret his plays as his audience would?
 ---
 
-{{ page.description }}
+{{ page.description }} Since they are long dead we can’t know for certain. Some say we can’t know at all, but I think this is too pessimistic. The past was different, but not so different we can’t reason about it.  For example, imagine how our ancestors, with similarly limited context, would understand our art. What barriers would time raise for their understanding?
 
-Since Sophocles’ audience is long dead, we can’t know for certain. Some would say we can’t know at all, but I think this is too pessimistic. One helpful exercise is to imagine how our ancestors, with similarly limited context, would understand our art. What barriers would time raise for their understanding?
-
-Missing contemporary references would be problem. A comedy show, joking about the absurdities in our politics and every day, would become difficult to follow. An epic historical drama, filled with themes of war, justice, love, and duty, would remain relevant.
+The most immediate source of confusion would be unknown contemporary references. A comedy show, joking about the absurdities in our politics and every day, would become difficult to follow. An epic historical drama, filled with universal themes of war, justice, love, and duty, less so.
 
 I think _Antigone_ has few contemporary references that would impact the play’s meaning; it is more like the historical epic than the comedy. There are a few; the choral ode after Antigone departs to her death compares her to Danaë, recounts Lycurgus’ death, and then tells a story about a Thracian queen who killed her two sons. The connection between the latter two is unclear, but would have been understood by the Athenian audience.
 
-Implicit cultural norms and values are a second confounding factor. Both the comedy and the epic would assume their audience shares certain values and outlook. For example, a movie may expect its audience to understand and emotionally connect with Christianity a certain way.
+Implicit cultural norms and values are a second confounding factor. Both the comedy and the epic would assume their audience shares certain values and outlook. For example, a movie may expect its audience to understand and emotionally connect with Christianity a certain way. Unlike missing references, it would be difficult to detect whether cultural norms had shifted significantly.
 
-I think a misinterpretation of the values and religion of the Athenians is more likely to result in a misinterpretation than the few missing references.
-
-How would exposing a traitor’s corpse be understood by Sophocles’ audience, as newly kinged Creon dictates:
+For example, how would exposing a traitor’s corpse be understood by Sophocles’ audience? Newly kinged Creon dictates:
 
 <blockquote class="poetry">
 <p>But as for his blood brother, Polynices,</p>
@@ -79,7 +75,7 @@ Who is justified? Tiresias, the blind prophet, sides with Antigone and berates C
 
 A modern reader may think of Tiresias as a magician, and thus understand his prophecies, within the play, to be certain—initially I did. But the ancient Greeks believed in oracles and augury, and thus, ironically, understood prophets were political, and could lie and cheat. This is apparent even in the first book of the _Iliad_ and throughout Herodotus. It also explains how Creon’s first response is to call Tiresias a “fortuneteller” (although shortly after he follows his advice).
 
-While it appears the gods side with Antigone, is this a foregone conclusion, or is Sophocles making a statement? I think it is difficult for us to be sure. Could some Athenian audience members have sided with Creon?
+While it appears the gods side with Antigone, is this a foregone conclusion, or is Sophocles making a religious or political statement? I think it is difficult for us to be sure. Could some Athenian audience members have sided with Creon?
 
 How much should we care? If _Antigone_ is beautiful and prompts one to meditate on duty and justice, does it matter if I am layering it with new meanings?
 
