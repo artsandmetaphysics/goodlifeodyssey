@@ -5,13 +5,13 @@ description: >
    We know the political and military context in which Sophocles wrote. Is this enough to interpret his plays as his audience would?
 ---
 
-{{ page.description }} Since they are long dead we can’t know for certain. Some say we can’t know at all, but I think this is too pessimistic. The past was different, but not so different we can’t reason about it.  For example, imagine how our ancestors, with similarly limited context, would understand our art. What barriers would time raise for their understanding?
+{{ page.description }} Since they are long dead, we can’t know for sure. Some say we can’t know at all, but I think this is too pessimistic. The past was different, but not so different we can’t reason about it.  For example, imagine how our ancestors, with similarly limited context, would understand our art. What barriers would time raise for their understanding?
 
-The most immediate source of confusion would be unknown contemporary references. A comedy show, joking about the absurdities in our politics and every day, would become difficult to follow. An epic historical drama, filled with universal themes of war, justice, love, and duty, less so.
+The most immediate source of confusion would be unknown contemporary references. A comedy show, joking about the absurdities in our politics and every day, would become difficult to follow. An epic historical drama, filled with universal themes of war, justice, love, and duty, would remain relatable.
 
-I think _Antigone_ has few contemporary references that would impact the play’s meaning; it is more like the historical epic than the comedy. There are a few; the choral ode after Antigone departs to her death compares her to Danaë, recounts Lycurgus’ death, and then tells a story about a Thracian queen who killed her two sons. The connection between the latter two is unclear, but would have been understood by the Athenian audience.
+I think _Antigone_ has few contemporary references that would impact the play’s meaning; it is more like the historical epic than the comedy. There are a few; the choral ode after Antigone departs to her death compares her to Danaë, recounts Lycurgus’ death, and then tells a story about a Thracian queen who killed her two sons. The connection between the latter two and _Antigone_ is unclear to us but would have been understood by the Athenian audience.
 
-Implicit cultural norms and values are a second confounding factor. Both the comedy and the epic would assume their audience shares certain values and outlook. For example, a movie may expect its audience to understand and emotionally connect with Christianity a certain way. Unlike missing references, it would be difficult to detect whether cultural norms had shifted significantly.
+Implicit cultural norms and values are a second confounding factor. Both the comedy and the epic would assume their audience shares certain values and outlook. For example, a movie may expect its audience to understand and emotionally connect with Christianity in a certain way. Unlike missing references, it would be difficult to detect whether cultural norms had shifted significantly.
 
 For example, how would exposing a traitor’s corpse be understood by Sophocles’ audience? Newly kinged Creon dictates:
 
@@ -75,7 +75,7 @@ Who is justified? Tiresias, the blind prophet, sides with Antigone and berates C
 
 It seems unclear whether the Athenians would have expected the gods to be on Creon’s side or Antigone’s.
 
-The role of prophecy is another cultural norm which, if misunderstood, could alter our understanding of _Antigone_. Since we no longer believe in the Greek gods, we may view Tiresias as a story device and his prophecies as certain. But the ancient Greeks _believed_ in oracles and augury. They were a part of their worldview. Ironically, this means they understood that prophets were political. They could lie and cheat, as is apparent throughout Herodotus and even in the first book of the _Iliad_. It also explains why Creon’s reacts to Tiresias’ prophecy by calling him a “fortuneteller” and dismissing him (although soon he follows his advice). We know how the Greek’s viewed prophecy, so in this case we can envision how Sophocles’ audience understood Tiresias. What if there are other norms we are not aware of?
+The role of prophecy is another cultural norm which, if misunderstood, could alter our understanding of _Antigone_. Since we no longer believe in the Greek gods, we may view Tiresias as a story device and his prophecies as certain. But the ancient Greeks _believed_ in oracles and augury. They were a part of their worldview. Ironically, this means they understood that prophets were political. They could lie and cheat, as is apparent throughout Herodotus and even in the first book of the _Iliad_. It also explains why Creon’s reaction to Tiresias’ prophecy is to call him a “fortuneteller” and dismiss him (although soon he follows his advice). We know how the Greek’s viewed prophecy, so in this case we can envision how Sophocles’ audience understood Tiresias. What if there are other norms we are not aware of?
 
 Is it a foregone conclusion that the gods side with Antigone, or is Sophocles making a religious or political statement? Could some Athenian audience members have sided with Creon? I think it is difficult for us to be sure.
 
