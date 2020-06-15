@@ -6,7 +6,7 @@ url: "http://artsandmetaphysics.com"
 
 markdown: kramdown
 theme: minima
-permalink: /meditations/:year/:i_month/:title
+permalink: /meditations/:title
 config:
   - jekyll-feed
 exclude:

@@ -25,7 +25,7 @@
     </header>
     <main>
       <h1>{{ page.title | replace_first: "_", "<em>" | replace: " _", " <em>" | replace: "_", "</em>" | normalize_whitespace }}</h1>
-      {% if page.is_post %}<small>{{ page.date | date: "%B %Y" }}</small>{% endif %}
+      {% if page.is_post %}<small>{{ page.date | date: "%d %B %Y" }}</small>{% endif %}
       {{ content }}
     </main>
     <footer>
