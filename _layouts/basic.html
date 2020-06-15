@@ -37,9 +37,9 @@
           var input = document.getElementsByName("secondsOnPage")[0]
           var secondsOnPage = 0
           setInterval(function() {
+            secondsOnPage = secondsOnPage + 10;
             input.value = secondsOnPage.toString();
-            secondsOnPage++;
-          }, 1000)
+          }, 10000)
         </script>
         <button type="submit">Sign up for <span class="hidden-sm">monthly</span> emails</button>
       </form>
