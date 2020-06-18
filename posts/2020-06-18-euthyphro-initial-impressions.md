@@ -25,18 +25,18 @@ The second passage that impressed me shows that Socrates thinks a mathematically
 > SOCRATES: Try in this way to tell me what part of the just the pious is ...
 > = (12d)
 
-I think Socrates is mistaken and no simple definition is possible due to how language is produced and used. Euthyphro likely agrees, since after Socrates refutes several definitions, he says:
+I think Socrates is mistaken, and no simple definition is possible due to how language is produced and used. Euthyphro likely agrees, since after Socrates refutes several definitions, he says:
 
 > EUTHYPHRO: I told you a short while ago, Socrates, that it is a considerable task to acquire any precise knowledge of these things, but, to put it simply, I say that if a man knows how to say and do what is pleasing to the gods at prayer and sacrifice, those are pious actions such as preserve both private houses and public affairs of state. The opposite of these pleasing actions are impious and overturn and destroy everything.
 > = (14b)
 
-Plato probably was aware of the counter argument that _piety_ can not be defined. Given his belief in ideal forms, he must believe such definitions are possible, or, if he doesn't, then why he thinks they exist.
+Plato probably was aware of the counter-argument that _piety_ can not be defined. Given his belief in ideal forms, he must believe such definitions are possible, or, if he doesn't, then why he thinks they exist.
 
-Although I don't believe he means it, Socrates' earnest and self-degrading dialogue is ironically insulting:
+Although I don't believe he means it, Socrates' earnest and self-degrading comments are ironically insulting:
 
 > SOCRATES: Yet you are younger than I by as much as you are wiser. As I say, you are making difficulties because of your wealth of wisdom. Pull yourself together, my dear sir, what I am saying is not difficult to grasp.
 > = (12a)
 
-Early in the book Euthyphro says he has never foretold something that did not happen. How can such sophisticated thinkers also believe they can predict the future if (as seems to be the case) they couldn't? As father evidence that the divine pervaded their thoughts, Euthyphro knows off hand, as if it were public knowledge, that Socrates has "divine signs" that keep coming to him. What is this about? It is also strange that they seem distinct from the prophecy that Euthyphro believes he can perform.
+Early in the book Euthyphro says he has never foretold something that did not happen. How can such sophisticated thinkers also believe they can predict the future if (as seems to be the case) they couldn't? As father evidence that the divine pervaded their thoughts, Euthyphro knows off-hand, as if it were public knowledge, that Socrates has "divine signs" that keep coming to him. What is this about? It is also strange that they seem distinct from the prophecy that Euthyphro believes he can perform.
 
 I look forward to reading more of Plato's works.
