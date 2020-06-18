@@ -39,3 +39,4 @@ Throughout the dialogue, Socrates' earnest and self-degrading comments feel iron
 
 Early in the book Euthyphro says he has never foretold something that did not happen. How can such sophisticated thinkers also believe they can predict the future if (as seems to be the case) they couldn't? As father evidence that the divine pervaded their thoughts, Euthyphro knows off-hand, as if it were public knowledge, that Socrates has "divine signs" that keep coming to him. What is this about? It is also strange that they seem distinct from the prophecy that Euthyphro believes he can perform.
 
+_Quotes are taken from G. M. A. Grube's "Plato - Five Dialogues: Euthyphro, Apology, Crito, Meno, Phaedo, 2nd Ed." published by Hackett Classics in 2002._
