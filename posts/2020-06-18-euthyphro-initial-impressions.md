@@ -18,7 +18,7 @@ Two passages stuck out. I believe the first is famous:
 
 It is an important question, for if piety (or righteousness generally) exists apart from the gods, then one can imagine an absolute moral standard apart from the gods.
 
-The second passage implies that Socrates believes there is a mathematically simple definition of complex word such as "piety:"
+The second passage implies that Socrates believes there is a mathematically simple definition of complex word such as _piety_:
 
 > SOCRATES: If the pious is part of the just, we must, it seems, find out what part of the just it is. Now if you asked me something of what we mentioned just now, such as what part of number is the even, and what number that is, I would say it is the number that is divisible into two equal, not unequal, parts. Or do you not think so?
 > EUTHYPHRO: I do.
@@ -30,7 +30,7 @@ I think Socrates is mistaken and no simple definition is possible due to how lan
 > EUTHYPHRO: I told you a short while ago, Socrates, that it is a considerable task to acquire any precise knowledge of these things, but, to put it simply, I say that if a man knows how to say and do what is pleasing to the gods at prayer and sacrifice, those are pious actions such as preserve both private houses and public affairs of state. The opposite of these pleasing actions are impious and overturn and destroy everything.
 > = (14b)
 
-Plato probably was aware of the counter argument that _piety_ can not be defined. Given his belief in ideal forms, he must believe such definitions are possible, or, if he doesn't, then why he thinks they "exist."
+Plato probably was aware of the counter argument that _piety_ can not be defined. Given his belief in ideal forms, he must believe such definitions are possible, or, if he doesn't, then why he thinks they exist.
 
 Although I don't believe he means it, Socrates' earnest and self-degrading dialogue is ironically insulting:
 
