@@ -5,7 +5,7 @@ description: >
   I connect _Euthyphro_'s first two definitions of piety to the belief in a universal moral standard among religions.
 ---
 
-Euthyphro's first defines _piety_ as "something dear to the gods."  Socrates proceeds to pick at it. He observes that the gods quarrel; Zeus says to help Hercules, while Hera says to hinder him. This definition produces conflicting demands and must be wrong. In response, Euthyphro revises his definition: _piety_ is "what all the gods love."
+Euthyphro first defines _piety_ as "something dear to the gods."  Socrates proceeds to pick at it. He observes that the gods quarrel; Zeus says to help Hercules, while Hera says to hinder him. This definition produces conflicting demands and must be wrong. In response, Euthyphro revises his definition: _piety_ is "what all the gods love."
 
 A monotheist would not be convinced by Socrates' rebuke since a single god could provide a clear definition of piety. With polytheists going extinct, is Socrates' rebuttal, and Euthyphro's response, still relevant?
 
