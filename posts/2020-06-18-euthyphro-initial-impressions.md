@@ -7,7 +7,7 @@ description: >
 
 I just finished reading _Euthyphro_ and would like to collect my first impressions. It is the first of Plato's dialogues that I have read, besides bits of the _Republic_ in college.  It is amazing.
 
-Socrates runs into Euthyphro, a priest and prophet, at an Athenian courts. He is suing his father for murdering someone who in turn murdered their slave. Socrates asks him what piety is, for surely he must know if he suing his own father! In the remainder of the dialogue they discuss the nature of piety. After attempting several definitions of the word, all of which Socrates dismantles, Euthyphro must leave since he is "in a hurry."
+Socrates runs into Euthyphro, a priest and prophet, at an Athenian court. He is suing his father for murdering someone who in turn murdered their slave. Socrates asks him what piety is, for surely he must know if he suing his own father! In the remainder of the dialogue they discuss the nature of piety. After attempting several definitions of the word, all of which Socrates dismantles, Euthyphro must leave since he is "in a hurry."
 
 Throughout the discussion Socrates is very analytical. After they become stuck, having rejected a few definitions, he approaches the problem from a new angle by comparing piety and justice; if you can not solve a problem, compare it to other related problems. He also uses many examples and analogies; to understand what is meant by "caring for the gods" he considers horse breeders, hunters caring for their dogs, and "cattle-raisers."
 
