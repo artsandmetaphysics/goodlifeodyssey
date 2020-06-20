@@ -50,3 +50,4 @@ Book names which are present in the titles of document are surrounded by quotes,
 ## Known Issues
 
 - Quoted poetry has extra new lines in Safari "Reader Mode."
+- Dialogue is not formatted properly.
