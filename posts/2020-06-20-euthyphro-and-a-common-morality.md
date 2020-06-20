@@ -1,8 +1,8 @@
 ---
 title: >
-  _Euthyphro_ a Common Moral Standard Between Religions
+  _Euthyphro_ and a Universal Religious Morality
 description: >
-  I connect _Euthyphro_'s first two definitions to the belief in a common moral standard among religions.
+  I connect _Euthyphro_'s first two definitions of piety to the belief in a common moral standard among religions.
 ---
 
 Euthyphro's first defines _piety_ as "something dear to the gods."
@@ -11,11 +11,9 @@ Socrates' proceeds to pick at it. He observes that the gods quarrel; Zeus says t
 
 Euthyphro next defines _piety_ as "what all the gods love."
 
-Socrates' rebuke depends on their being multiple gods, so a monotheist may rest content with this first definition.
+Socrates' initial rebuke depends on their being multiple gods, so is this discussion still relevant? A monotheists may be rest content with the first definition. Although polytheists are going extinct, there are people who hope all religion's can be combined to a central core. These people share some of the problems of the polytheists, since religions, like gods, have conflicting demands.
 
-Is this discussion still relevant?  Although polytheists are going extinct, there are people who hope all religion's can be combined to a central core. The religions, like the gods, have conflicting requirements.
-
-Euthyphro and his humanist ancestors have two difficulties: First, what if there is no common ground? Second, who are you to decide what is essential? How can you discard the pilgrimage to the Mecca, or neuter Christianity of baptism and communion? Perhaps it is not possible to be a pious Zeus-worshiper and Kronos-worshiper.
+The second definition is appealing, but Euthyphro and his humanist ancestors must face two difficulties: What if there is no common ground? And who are you to decide what is essential? How can you discard the pilgrimage to the Mecca, or neuter Christianity of baptism and communion? Perhaps it is not possible to be a pious Zeus-worshiper and Kronos-worshiper.
 
 When Socrates is considering why the god's quarrel, he says:
 
