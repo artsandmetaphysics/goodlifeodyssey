@@ -37,6 +37,8 @@ Throughout the dialogue, Socrates' earnest and self-degrading comments feel iron
 > SOCRATES: Yet you are younger than I by as much as you are wiser. As I say, you are making difficulties because of your wealth of wisdom. Pull yourself together, my dear sir, what I am saying is not difficult to grasp.
 > = (12a)
 
-Early in the book Euthyphro says he has never foretold something that did not happen. How can such sophisticated thinkers also believe they can predict the future if (as seems to be the case) they couldn't? As father evidence that the divine pervaded their thoughts, Euthyphro knows off-hand, as if it were public knowledge, that Socrates has "divine signs" that keep coming to him. What is this about? It is also strange that they seem distinct from the prophecy that Euthyphro believes he can perform.
+Early in the book Euthyphro says he has never foretold something that did not happen. How can such sophisticated thinkers also believe they can predict the future if (as seems to be the case) they couldn't? It is unclear whether Socrates, like the doubting crowd Euthyphro complains about, is skeptical.
+
+It is interesting that Euthyphro knows off-hand, as if it were public knowledge, that Socrates has "divine signs" that keep coming to him. What is this about? It is also strange that they seem distinct from Euthyphro's prophecy.
 
 _Quotes are from G. M. A. Grube's "Plato - Five Dialogues: Euthyphro, Apology, Crito, Meno, Phaedo, 2nd Ed." published by Hackett Classics in 2002._
