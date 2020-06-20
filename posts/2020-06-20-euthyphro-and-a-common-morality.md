@@ -1,6 +1,6 @@
 ---
 title: >
-  _Euthyphro_ and a Universal Religious Morality
+  _Euthyphro_ and a Universal Morality
 description: >
   I connect _Euthyphro_'s first two definitions of piety to the belief in a universal moral standard among religions.
 ---
