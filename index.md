@@ -1,7 +1,7 @@
 ---
 layout: basic
-title: Arts & Metaphysics
-description: Essays, commentaries, and meditations about literature, history, religion, and philosophy.
+title: Good Life Odyssey
+description: My search for the good life in philosophy, religion, literature, and history.
 ---
 {{ page.description }}
 
@@ -20,6 +20,17 @@ description: Essays, commentaries, and meditations about literature, history, re
   {% include li.html id='ethical-progress' %}
   {% include li.html id='justice' %}
   {% include li.html id='love-thy-neighbor-as-thyself' %}
+  {% include li.html id='the-future-of-art' %}
+</ul>
+
+<h2 id="meditations">Meditations</h2>
+<ul class="index">
+  {%- for p in site.posts -%}
+  <li>
+    <a title="{{ p.description | xml_escape | normalize_whitespace }}"
+       href="{{ p.url }}">{{ p.title | replace_first: "_", "<em>" | replace: " _", " <em>" | replace: "_", "</em>" | normalize_whitespace }}</a>
+  </li>
+  {%- endfor -%}
 </ul>
 
 <h2 id="notes">Notes and Commentary</h2>
@@ -33,14 +44,4 @@ description: Essays, commentaries, and meditations about literature, history, re
   {% include li.html id='the-histories-herodotus' %}
   {% include li.html id='metamorphoses' %}
   {% include li.html id='seneca' %}
-</ul>
-
-<h2 id="meditations">Meditations</h2>
-<ul class="index">
-  {%- for p in site.posts -%}
-  <li>
-    <a title="{{ p.description | xml_escape | normalize_whitespace }}"
-       href="{{ p.url }}">{{ p.title | replace_first: "_", "<em>" | replace: " _", " <em>" | replace: "_", "</em>" | normalize_whitespace }}</a>
-  </li>
-  {%- endfor -%}
 </ul>
