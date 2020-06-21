@@ -42,6 +42,12 @@ References are in pseudo form of the Oxford Style.  I prune some stuff that isn'
 
 Book names which are present in the titles of document are surrounded by quotes, instead of italics.  This is due to how browsers and search engines treat the `<title>` tag and meta data.
 
+## Style
+
+- Write predominantly in the present tense
+- Use mostly first-person
+- My usual mood is earnest and optimistic
+
 ## Open Issues
 
 - Test RSS feed
