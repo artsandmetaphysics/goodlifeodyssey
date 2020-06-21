@@ -1,11 +1,11 @@
 html {
   /*
-   * Set a reasonable font-size, such that at 32rem we have ~70 characters on a
+   * Set a reasonable font-size, such that at 34rem we have ~70 characters on a
    * line.
    */
   line-height: 1.5625;
   font-size: 20px;
-  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-family: Palatino, 'Times New Roman', serif;
   color: #222;
 
   -ms-text-size-adjust: 100%;
@@ -24,7 +24,7 @@ body {
 }
 
 header, main, footer {
-  max-width: 32rem;
+  max-width: 34rem;
 
   padding: 0;
 
@@ -154,10 +154,6 @@ blockquote > p:last-of-type {
   margin-bottom: 0.3rem;
 }
 
-blockquote > p:first-child {
-  margin-top: 0;
-}
-
 ul, ol {
   padding-left: 2rem;
 }
@@ -197,27 +193,27 @@ ul, ol {
 }
 
 /*
- * 680px = (1rem body padding + 32rem main + 1rem body padding)*20px
+ * 576px = (1rem body padding + 34rem main + 1rem body padding)*20px
  */
-@media (max-width: 680px) {
+@media (max-width: 720px) {
   html {
     font-size: 18px;
   }
 }
 
 /*
- * (1rem body padding + 32rem main + 1rem body padding)*18px
+ * 576px = (1rem body padding + 34rem main + 1rem body padding)*18px
  */
-@media (max-width: 576px) {
+@media (max-width: 648px) {
   html {
     font-size: 16px;
   }
 }
 
 /*
- * (1rem body padding + 32rem main + 1rem body padding)*16px
+ * 576px = (1rem body padding + 34rem main + 1rem body padding)*16px
  */
-@media (max-width: 544px) {
+@media (max-width: 576px) {
   html {
     font-size: 14px;
 
@@ -231,18 +227,18 @@ ul, ol {
 }
 
 /*
- * (1rem body padding + 32rem main + 1rem body padding)*14px
+ * 504px = (1rem body padding + 34rem main + 1rem body padding)*14px
  */
-@media (max-width: 476px) {
+@media (max-width: 490px) {
   html {
     font-size: 13px;
   }
 }
 
 /*
- * (1rem body padding + 32rem main + 1rem body padding)*13px
+ * 468px = (1rem body padding + 34rem main + 1rem body padding)*13px
  */
-@media (max-width: 442px) {
+@media (max-width: 468px) {
 
   /*
    * At very small screen sizes, remove unnecessary padding in block quotes
