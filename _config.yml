@@ -1,8 +1,8 @@
 title: Art, History, Religion, and Philosophy
-email: artsandmetaphysics@gmail.com
+email: author@goodlifeodyssey.com
 description: Essays and notes about literature, history, religion, and philosophy.
 baseurl: ""
-url: "http://artsandmetaphysics.com"
+url: "http://goodlifeodyssey.com"
 
 markdown: kramdown
 theme: minima
