@@ -20,7 +20,6 @@ description: My search for the good life in philosophy, religion, literature, an
   {% include li.html id='ethical-progress' %}
   {% include li.html id='justice' %}
   {% include li.html id='love-thy-neighbor-as-thyself' %}
-  {% include li.html id='the-future-of-art' %}
 </ul>
 
 <h2 id="meditations">Meditations</h2>
