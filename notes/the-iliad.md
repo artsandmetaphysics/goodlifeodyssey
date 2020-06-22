@@ -343,6 +343,7 @@ Here is an example from book 2, when Odysseus is turning back the soldiers after
 > endowed by the son of crooked-minded Cronus
 > with kingly scepter and royal rights of custom:
 > whatever one man needs to lead his people well."
+> ~
 
 ## Similes
 

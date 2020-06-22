@@ -351,7 +351,7 @@ The *Iliad* is almost exclusively focused on the heroes and commanders of the tw
 
 Here is an example from book 2, when Odysseus is turning back the soldiers after Agammemnon’s test:
 
-<blockquote>
+<blockquote class="poetry">
 <p>When he caught some common soldier shouting out,</p>
 <p>he’d beat him with the scepter, dress him down:</p>
 <p>“You <em>fool</em>—sit still! Obey the commands of others,</p>
