@@ -1,8 +1,8 @@
 ---
 title: >
-  "Gulliver's Travels" by Jonathan Swift
+  _Gulliver's Travels_ by Jonathan Swift
 description: >
-  Notes on "Gulliver's Travels" by Jonathan Swift
+  Notes on _Gulliver's Travels_ by Jonathan Swift
 type: note
 ---
 

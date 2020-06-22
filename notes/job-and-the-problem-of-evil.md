@@ -1,9 +1,8 @@
 ---
 title: >
-  "Job" and the Problem of Evil
+  _Job_ and the Problem of Evil
 description: >
-  "Job" and the Problem of Evil
-type: note
+  Notes on _Job_ and the Problem of Evil
 ---
 
 ## Outline

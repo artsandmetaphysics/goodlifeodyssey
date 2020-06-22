@@ -1,8 +1,8 @@
 ---
 title: >
-  "The Old Testament"
+  The Old Testament
 description: >
-  Notes on "The Old Testament"
+  Notes on The Old Testament
 type: note
 ---
 

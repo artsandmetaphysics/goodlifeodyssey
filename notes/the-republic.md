@@ -1,8 +1,8 @@
 ---
 title: >
-  Plato's "Republic"
+  Plato's _Republic_
 description: >
-  Notes on Plato's "Republic"
+  Notes on Plato's _Republic_
 type: note
 status: incomplete
 ---

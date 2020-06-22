@@ -1,8 +1,8 @@
 ---
 title: >
-  "The Big Picture" by Sean Carroll
+  _The Big Picture_ by Sean Carroll
 description: >
-  Notes on "The Big Picture" by Sean Carroll
+  Notes on _The Big Picture_ by Sean Carroll
 type: note
 ---
 

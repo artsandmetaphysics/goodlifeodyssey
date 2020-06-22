@@ -1,6 +1,11 @@
 ---
 layout: null
 ---
-{{ site.url }}{% for d in site.documents %}
-{{ site.url }}{{ d.url }}{% endfor %}{% for m in site.meditations %}
-{{ site.url }}{{ m.url }}{% endfor %}
+{{ site.url }}
+{{ site.url }}/about
+{{ site.url }}/all
+{%- for c in site.collections -%}
+{%- for d in c.docs %}
+{{ site.url }}{{ d.url }}
+{%- endfor -%}
+{%- endfor -%}

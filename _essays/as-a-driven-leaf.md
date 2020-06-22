@@ -1,15 +1,15 @@
 ---
 title: >
-  Critique of “As a Driven Leaf”
+  Critique of _As a Driven Leaf_
 description: >
-  A philosophical critique of “As a Driven Leaf,” the story of a 1st century rabbi searching for truth in a Roman world.
+  A philosophical critique of _As a Driven Leaf_, the story of a 1st century rabbi searching for truth in a Roman world.
 type: essay
 status: complete
 ---
 
 ## Introduction
 
-Rabbi Milton Steinberg wrote *As a Driven Leaf* and published it in 1939.  It is a novel about Elisha ben Ayubah’s exploration of faith and reason, leading to his excommunication and tragic end as he fails to resolve the questions that haunted him.   According to the foreword by Chaim Potok, Elisha’s struggles paralleled Steinberg’s, who was considered a heretic by some.
+Rabbi Milton Steinberg wrote _As a Driven Leaf_ and published it in 1939.  It is a novel about Elisha ben Ayubah’s exploration of faith and reason, leading to his excommunication and tragic end as he fails to resolve the questions that haunted him.   According to the foreword by Chaim Potok, Elisha’s struggles paralleled Steinberg’s, who was considered a heretic by some.
 
 The book is a tragedy within a tragedy—Elisha’s story is set in Palestine and Syria during the Jewish-Roman wars.
 

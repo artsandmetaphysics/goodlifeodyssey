@@ -1,8 +1,8 @@
 ---
 title: >
-  "History of the Peloponnesian War" by Thucydides
+  _History of the Peloponnesian War_ by Thucydides
 description: >
-  Notes on "History of the Peloponnesian War" by Thucydides
+  Notes on _History of the Peloponnesian War_ by Thucydides
 type: note
 ---
 

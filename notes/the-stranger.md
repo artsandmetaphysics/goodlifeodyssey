@@ -1,8 +1,8 @@
 ---
 title: >
-  "The Stranger" by Albert Camus
+  _The Stranger_ by Albert Camus
 description: >
-  Notes on the "The Stranger" by Albert Camus
+  Notes on the _The Stranger_ by Albert Camus
 type: note
 status: incomplete
 ---

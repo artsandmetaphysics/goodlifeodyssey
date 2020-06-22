@@ -1,9 +1,9 @@
 ---
 title: >
-  “Nausea” by Jean-Paul Sartre
+  _Nausea_ by Jean-Paul Sartre
 type: note
 description: >
-  Notes on “Nausea”
+  Notes on _Nausea_
 ---
 
 ## Quotes
