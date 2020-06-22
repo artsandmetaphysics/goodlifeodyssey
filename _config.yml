@@ -6,7 +6,6 @@ url: "http://goodlifeodyssey.com"
 
 markdown: kramdown
 theme: minima
-permalink: /meditations/:title
 config:
   - jekyll-feed
 exclude:
@@ -16,7 +15,16 @@ exclude:
 include:
   - sitemap.txt
 collections:
-  documents:
+  essays:
+    output: true
+    permalink: /:path
+  meditations:
+    output: true
+    permalink: /:path
+  notes:
+    output: true
+    permalink: /:path
+  poetry:
     output: true
     permalink: /:path
 defaults:
@@ -24,11 +32,6 @@ defaults:
       path: ""
     values:
       layout: basic
-  - scope:
-      path: ""
-      type: posts
-    values:
-      is_post: true
 plugins_dir:
   - jekyll-redirect-from
 whitelist:

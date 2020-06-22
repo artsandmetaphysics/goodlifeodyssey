@@ -4,18 +4,26 @@ SHELL := /bin/bash -o pipefail -e
 CSSMIN_BIN := node_modules/clean-css-cli/bin/cleancss
 IMGMIN_BIN := node_modules/imagemin-cli/cli.js imagemin --plugin=pngquant --plugin=svgo
 
-documents=$(patsubst documents/%.md,_documents/%.md,$(wildcard documents/*.md))
-posts=$(patsubst posts/%.md,_posts/%.md,$(wildcard posts/*.md))
+essays=$(patsubst essays/%.md,_essays/%.md,$(wildcard essays/*.md))
+meditations=$(patsubst meditations/%.md,_meditations/%.md,$(wildcard meditations/*.md))
+poems=$(patsubst poems/%.md,_poems/%.md,$(wildcard poems/*.md))
+notes=$(patsubst notes/%.md,_notes/%.md,$(wildcard notes/*.md))
 
-all: _includes/stylesheet.min.css $(documents) $(posts)
+all: _includes/stylesheet.min.css $(essays) $(meditations) $(poems) $(notes)
 
 _includes/stylesheet.min.css: _includes/stylesheet.css
 	$(CSSMIN_BIN) $< -o $@
 
-_documents/%.md: documents/%.md ./scripts/process.py ./scripts/typography.sed
+_essays/%.md: essays/%.md ./scripts/process.py ./scripts/typography.sed
 	 cat $< | sed -E -f ./scripts/typography.sed | ./scripts/process.py > $@
 
-_posts/%.md: posts/%.md ./scripts/process.py ./scripts/typography.sed
+_meditations/%.md: meditations/%.md ./scripts/process.py ./scripts/typography.sed
+	 cat $< | sed -E -f ./scripts/typography.sed | ./scripts/process.py > $@
+
+_poems/%.md: poems/%.md ./scripts/process.py ./scripts/typography.sed
+	 cat $< | sed -E -f ./scripts/typography.sed | ./scripts/process.py > $@
+
+_notes/%.md: notes/%.md ./scripts/process.py ./scripts/typography.sed
 	 cat $< | sed -E -f ./scripts/typography.sed | ./scripts/process.py > $@
 
 .PHONY: clean
@@ -23,4 +31,4 @@ _posts/%.md: posts/%.md ./scripts/process.py ./scripts/typography.sed
 clean:
 	rm -rf _includes/stylesheet.min.css
 	rm -rf _site
-	rm _documents/*
+	rm _essays/* _meditations/* _poems/* _notes/*

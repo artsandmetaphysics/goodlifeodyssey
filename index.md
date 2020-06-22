@@ -7,40 +7,43 @@ description: My search for the good life in philosophy, religion, literature, an
 
 <h2 id="essays">Essays</h2>
 <ul class="index">
-  {% include li.html id='definitions' %}
-  {% include li.html id='justification-via-others-beliefs' %}
-  {% include li.html id='beauty-and-truth' %}
-  {% include li.html id='my-epistemology' %}
-  {% include li.html id='universal-historical-laws' %}
-  {% include li.html id='meaning-and-purpose' %}
-  {% include li.html id='a-definition-of-faith' %}
-  {% include li.html id='faith-and-reason' %}
-  {% include li.html id='faith-and-righteousness' %}
-  {% include li.html id='fear-of-death' %}
-  {% include li.html id='ethical-progress' %}
-  {% include li.html id='justice' %}
-  {% include li.html id='love-thy-neighbor-as-thyself' %}
+  {% include li_by_id.html id='definitions' %}
+  {% include li_by_id.html id='justification-via-others-beliefs' %}
+  {% include li_by_id.html id='beauty-and-truth' %}
+  {% include li_by_id.html id='my-epistemology' %}
+  {% include li_by_id.html id='universal-historical-laws' %}
+  {% include li_by_id.html id='meaning-and-purpose' %}
+  {% include li_by_id.html id='a-definition-of-faith' %}
+  {% include li_by_id.html id='faith-and-reason' %}
+  {% include li_by_id.html id='faith-and-righteousness' %}
+  {% include li_by_id.html id='fear-of-death' %}
+  {% include li_by_id.html id='ethical-progress' %}
+  {% include li_by_id.html id='justice' %}
+  {% include li_by_id.html id='love-thy-neighbor-as-thyself' %}
 </ul>
 
 <h2 id="meditations">Meditations</h2>
 <ul class="index">
-  {%- for p in site.posts -%}
-  <li>
-    <a title="{{ p.description | xml_escape | normalize_whitespace }}"
-       href="{{ p.url }}">{{ p.title | replace_first: "_", "<em>" | replace: " _", " <em>" | replace: "_", "</em>" | normalize_whitespace }}</a>
-  </li>
-  {%- endfor -%}
+  {% include li_by_id.html id='antigone-historical-context' %}
+  {% include li_by_id.html id='euthyphro-and-a-universal-morality' %}
+  {% include li_by_id.html id='euthyphro-initial-impressions' %}
+  {% include li_by_id.html id='sophocles-ode-to-man' %}
+</ul>
+
+<h2 id="poetry">Poetry</h2>
+<ul class="index">
+  {% include li_by_id.html id='questioning-poem' %}
 </ul>
 
 <h2 id="notes">Notes and Commentary</h2>
 <ul class="index">
-  {% include li.html id='ancient-greece' %}
-  {% include li.html id='the-epic-of-gilgamesh' %}
-  {% include li.html id='hesiod' %}
-  {% include li.html id='the-iliad' %}
-  {% include li.html id='the-odyssey' %}
-  {% include li.html id='homeric-hymns' %}
-  {% include li.html id='the-histories-herodotus' %}
-  {% include li.html id='metamorphoses' %}
-  {% include li.html id='seneca' %}
+  {% include li_by_id.html id='ancient-greece' %}
+  {% include li_by_id.html id='the-epic-of-gilgamesh' %}
+  {% include li_by_id.html id='hesiod' %}
+  {% include li_by_id.html id='the-iliad' %}
+  {% include li_by_id.html id='the-odyssey' %}
+  {% include li_by_id.html id='homeric-hymns' %}
+  {% include li_by_id.html id='the-histories-herodotus' %}
+  {% include li_by_id.html id='metamorphoses' %}
+  {% include li_by_id.html id='seneca' %}
 </ul>

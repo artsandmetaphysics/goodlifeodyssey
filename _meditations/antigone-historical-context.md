@@ -3,6 +3,7 @@ title: >
   Can We Understand _Antigone_ in Context?
 description: >
    We know the political and military context in which Sophocles wrote. Is this enough to interpret his plays as his audience would?
+date: 2020-06-14
 ---
 
 {{ page.description }} Since they are long dead, we can’t know for sure. Some say we can’t know at all, but I think this is too pessimistic. The past was different, but not so different we can’t reason about it.  For example, imagine how our ancestors, with similarly limited context, would understand our art. What barriers would time raise for their understanding?

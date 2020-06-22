@@ -3,6 +3,7 @@ title: >
   Sophocles’ Ode to Man
 description: >
   Many a wonder lives and moves, but the wonder of all is man …
+date: 2020-06-12
 ---
 
 This chorus, my favorite in *Antigone*, is sung after the Theban king unjustly threatens a messenger with unwelcome news:

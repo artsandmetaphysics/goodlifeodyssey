@@ -25,7 +25,7 @@
     </header>
     <main>
       <h1>{{ page.title | replace_first: "_", "<em>" | replace: " _", " <em>" | replace: "_", "</em>" | normalize_whitespace }}</h1>
-      {% if page.is_post %}<small>{{ page.date | date: "%d %B %Y" }}</small>{% endif %}
+      {% if page.date %}<small>{{ page.date | date: "%d %B %Y" }}</small>{% endif %}
       {{ content }}
     </main>
     <footer>
@@ -48,7 +48,7 @@
         Read my <a href="{{ site.url }}">other works</a>.
         {% endif %}
         <span class="hidden-print">Learn <a href="/about">about the author</a>.</span>
-        Please <a href="mailto:{{ site.email }}">email me</a> if you have questions, comments, or notice a factual or grammatical mistake.
+        Please <a href="mailto:{{ site.email }}">email me</a> if you have thoughts, questions, comments, or notice a factual or grammatical mistake.
       </p>
     </footer>
   </body>

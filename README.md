@@ -1,4 +1,4 @@
-# Arts and Metaphysics
+# Good Life Odyssey
 
 ## Design Goals
 

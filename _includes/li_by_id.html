@@ -1,0 +1,7 @@
+{%- for collection in site.collections -%}
+{%- for d in collection.docs -%}
+{%- if d.url contains include.id -%}
+{% include li.html doc=d %}
+{%- endif -%}
+{%- endfor -%}
+{%- endfor -%}

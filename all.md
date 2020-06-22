@@ -1,22 +1,18 @@
 ---
 layout: basic
-title: All Pieces
-description: Here is the full list of my writing, most of them are incomplete.
+title: All Writings
+description: The full list of my written works, many incomplete or off topic.
 ---
 {{ page.description }}
 
-## All Writings
-
-{% assign groups = site.documents | group_by: 'type' | sort: 'name' %}
-{% for group in groups %}
-  <h2>{{ group.name | capitalize }}s</h2>
-  <ul class="index">
-  {% assign documents = group.items | sort: 'title' %}
-  {% for d in documents  %}
-    <li>
-      <a title="{{ d.description | xml_escape | normalize_whitespace }}"
-         href="{{ d.url }}">{{ d.title }}</a>
-    </li>
-  {% endfor %}
-  </ul>
-{% endfor %}
+{% assign collections = site.collections | sort: 'name' %}
+{%- for collection in collections -%}
+{%- assign name = collection.label -%}
+{%- unless name contains 'posts' %}
+<h2>{{ name | capitalize }}</h2>
+<ul class="index">
+{%- for d in collection.docs -%}
+{% include li.html doc=d %}
+{%- endfor -%}
+{%- endunless -%}
+{%- endfor -%}
