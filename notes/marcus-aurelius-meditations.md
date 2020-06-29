@@ -19,39 +19,27 @@ All twelve books of George Long's translation of _The Meditations_ are presented
 
 ## Epistemological Beliefs
 
-<ol>
 {% for belief in site.data.meditations.epistemology -%}
-<li>
-  {{ belief.label }} (<a href="#top" onclick="showOnly([
+  {{ forloop.index }}. {{ belief.label }} (<a href="#top" onclick="showOnly([
 {%- for j in belief.justification %}[{{ j[0]|minus:1 }}, {{ j[1]|minus:1 }},],{%- endfor -%}
-])">{{ belief.justification|size }}</a>)
-</li>
-{%- endfor %}
-</ol>
+])">{{ belief.justification|size }}</a>).
+{% endfor %}
 
 ## Metaphysical Beliefs
 
-<ol>
 {% for belief in site.data.meditations.metaphysics -%}
-<li>
-  {{ belief.label }} (<a href="#top" onclick="showOnly([
+  {{ forloop.index }}. {{ belief.label }} (<a href="#top" onclick="showOnly([
 {%- for j in belief.justification %}[{{ j[0]|minus:1 }}, {{ j[1]|minus:1 }},],{%- endfor -%}
-])">{{ belief.justification|size }}</a>)
-</li>
-{%- endfor %}
-</ol>
+])">{{ belief.justification|size }}</a>).
+{% endfor %}
 
 ## Ethical Beliefs
 
-<ol>
 {% for belief in site.data.meditations.ethics -%}
-<li>
-  {{ belief.label }} (<a href="#top" onclick="showOnly([
+  {{ forloop.index }}. {{ belief.label }} (<a href="#top" onclick="showOnly([
 {%- for j in belief.justification %}[{{ j[0]|minus:1 }}, {{ j[1]|minus:1 }},],{%- endfor -%}
-])">{{ belief.justification|size }}</a>)
-</li>
-{%- endfor %}
-</ol>
+])">{{ belief.justification|size }}</a>).
+{% endfor %}
 
 <p><a href="#top" onclick="showExcept([])">Show all sections.</a></p>
 <p><a href="#top" onclick="showNonMapped()">Show sections not referring to any belief.</a></p>

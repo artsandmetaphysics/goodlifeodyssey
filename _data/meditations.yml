@@ -3,28 +3,27 @@ epistemology:
     justification:
     - [6, 21, "p"]
     - [8, 43, "p"]
-    - [8, 48, "n"]
+      # - [8, 48, "n"]
     - [9, 38, "p"]
-  - label: How do we know the gods exist?
+  - label: The gods exist, although there are some doubts
     justification:
     - [12, 28, "p"]
-  - label: Unsure about the nature of the universe
+    - [2, 11, "p"]
+  - label: We don't know for certain that the universe is directed with reason
     justification:
     - [6, 10, "p"]
     - [6, 24, "p"]
     - [6, 30, "p"]
 metaphysics:
   - label: |
-      There is an all-pervading Reason (sometimes referred to as the Logos), that
-      directs the entire material universe. The material universe and its
-      directing reason together are referred to as the _Whole_.
+      The entire material universe is directed by _reason_, or the _Logos_
     justification:
     - [5, 30, "p"]
     - [8, 35, "p"]
     - [8, 54, "p"]
   - label: |
-      We are all part of the Whole, being formed out of it, and
-      coalescing with it as it perpetually changes.
+      We are all part of Nature, being formed out of it, and
+      coalescing with it as it perpetually changes
     justification:
     - [2, 1, "p"]
     - [4, 14, "p"]
@@ -36,7 +35,7 @@ metaphysics:
     - [7, 9, "p"]
     - [8, 6, "p"]
     - [8, 18, "p"]
-  - label: The Logos is purely good and everything that happens is good.
+  - label: The Logos is purely good and everything that happens is good
     justification:
     - [4, 10, "p"]
     - [8, 46, "p"]
@@ -44,27 +43,27 @@ metaphysics:
   - label: The Logos has a plan and a purpose
     justification:
     - [8, 52, "p"]
-  - label: Anything that is good for the Whole is good for its parts (including us), regardless of how bad they may seem.
+  - label: Anything that is good for the Whole is good for its parts (including us), regardless of how bad they may seem
     justification:
     - [10, 20, "p"]
-  - label: The gods exist and are higher forms of beings made purely of _soul_.
+  - label: The gods exist and are higher forms of beings made purely of _soul_
     justification:
     - [7, 53, "p"]
-  - label: "We consist of three parts: the body, the life breath, and the directing-reason."
+  - label: "We consist of three parts: the body, the life breath, and the directing-reason"
     justification:
     - [2, 2, "p"]
-  - label: The lower parts of us are meant to serve the higher parts.
+  - label: The lower parts of us are meant to serve the higher parts
     justification: []
-  - label: There is a hierarchy of beings too, and lower beings serve higher beings.
+  - label: There is a hierarchy of beings too, and lower beings serve higher beings
     justification:
     - [3, 16, "p"]
     - [5, 30, "p"]
-    - [6, 32, "n"]
+      # - [6, 32, "n"]
     - [7, 55, "p"]
     - [9, 9, "p"]
     - [10, 2, "p"]
     - [12, 3, "p"]
-  - label: '"Soul" is a sort of substance---a sort of rarified fire'
+  - label: '_Soul_ is a sort of substance---a sort of rarified fire'
     justification:
     - [4, 21, "p"]
     - [8, 54, "p"]
@@ -73,16 +72,16 @@ metaphysics:
     - [9, 9, "pp"]
     - [12, 30, "p"]
     - [12, 32, "p"]
-  - label: Matter can not touch the soul; the soul directs matter.
+  - label: Matter can't touch the soul, but soul directs matter
     justification:
     - [5, 19, "p"]
     - [6, 1, "p"]
-  - label: Death is necessary in order to keep the Universe young and renewed.
+  - label: Death is necessary in order to keep the Universe young and renewed
     justification:
     - [2, 3, "wp"]
     - [6, 15, "p"]
     - [12, 23, "p"]
-  - label: There is nothing that is ever new.
+  - label: Nothing is ever new
     justification:
     - [2, 14, "p"]
     - [4, 32, "p"]
@@ -91,7 +90,7 @@ metaphysics:
     - [7, 1, "p"]
     - [9, 14, "p"]
     - [10, 27, "p"]
-  - label: Animals contribute to the order of the universe.
+  - label: Animals contribute to the order of the universe
     justification:
     - [5, 1, "p"]  # a
 
@@ -100,7 +99,7 @@ ethics:
     justification:
     - [3, 9, "p"]
     - [5, 3, "p"]
-  - label: What doesn't affect the mind can't be evil, but should be viewed as an exercise; this must be true because God(s) wouldn't let evil happen to us.
+  - label: What doesn't affect the mind can't be evil, but should be viewed as an exercise
     justification:
     - [2, 11, "p"]
     - [4, 1, "p"]
@@ -126,7 +125,7 @@ ethics:
     justification:
     - [5, 8, "ppp"]
     - [12, 5, "p"]
-  - label: Wickedness only harms the person performing it
+  - label: Wicked actions only harm the perpetrator
     justification:
     - [8, 55, "p"]
   - label: Act for the benefit of the group---for other men---for we are born for one another
@@ -161,27 +160,25 @@ ethics:
     - [9, 28, "p"]
     - [12, 2, "p"]
     - [12, 33, "p"]
-  - label: Life is short, then we will be forgotten. Act accordingly.
+  - label: Life is short, then we will be forgotten, so act accordingly
     justification:
     - [2, 12, "p"]
     - [3, 10 , "p"]
     - [3, 11, "p"]
     - [4, 17, "p"]
+    - [4, 18, "p"]
+    - [4, 19, "p"]
+    - [5, 3, "p"]
     - [7, 21, "p"]
     - [8, 44, "p"]
+    - [8, 56, "p"]
     - [9, 30, "p"]
-  - label: We should always act with a purpose; don't act at random
+  - label: We should always act with a purpose---don't act at random
     justification:
     - [2, 16, "p"]
     - [4, 2, "p"]
     - [4, 22, "p"]
     - [12, 20, "p"]
-  - label: Do not be concerned with what other men think now or of later fame
-    justification:
-    - [4, 18, "p"]
-    - [4, 19, "p"]
-    - [5, 3, "p"]
-    - [8, 56, "p"]
   - label: It is foolish to think a bad person won't be bad
     justification:
     - [5, 17, "p"]
@@ -1225,7 +1222,7 @@ book:
     - |
       Constantly bring to your recollection those who have complained greatly about anything, those who have been most conspicuous by the greatest fame or misfortunes or enmities or fortunes of any kind: then think where are they all now? Smoke and ash and a tale, or not even a tale. And let there be present to your mind also everything of this sort, how Fabius Catellinus lived in the country, and Lucius Lupus in his gardens, and Stertinius at Briae, and Tiberius at Capreae, and Velius Rufus or Rufus at Velia; and in fine think of the eager pursuit of anything conjoined with pride; and how worthless everything is after which men violently strain; and how much more philosophical it is for a man in the opportunities presented to him to show himself just, temperate, obedient to the gods, and to do this with all simplicity: for the pride which is proud of its want of pride is the most intolerable of all.
     - |
-      To those who ask, Where have you seen the gods, or how do you comprehend that they exist and so worshippest them, I answer, in the first place, they may be seen even with the eyes; in the second place, neither have I seen even my own soul, and yet I honor it. Thus then with respect to the gods, from what I constantly experience of their power, from this I comprehend that they exist, and I venerate them.
+      To those who ask, where have you seen the gods, or how do you comprehend that they exist and so worship them, I answer, in the first place, they may be seen even with the eyes; in the second place, neither have I seen even my own soul, and yet I honor it. Thus then with respect to the gods, from what I constantly experience of their power, from this I comprehend that they exist, and I venerate them.
     - |
       The safety of life is this, to examine everything all through, what it is itself, that is its material, what the formal part; with all your soul to do justice and to say the truth. What remains, except to enjoy life by joining one good thing to another so as not to leave even the smallest intervals between?
     - |

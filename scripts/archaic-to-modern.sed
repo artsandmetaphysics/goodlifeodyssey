@@ -17,6 +17,7 @@ s/\bgoest\b/went/g
 s/\bwouldst\b/would/g
 s/\blovest\b/love/g
 s/\bvaluest\b/value/g
+s/\bworshippest\b/worship/g
 
 s/\bThee\b/You/g
 s/\bThou\b/You/g
@@ -37,6 +38,7 @@ s/\bGoest\b/Went/g
 s/\bWouldst\b/Would/g
 s/\bLovest\b/Love/g
 s/\bValuest\b/Value/g
+s/\bWorshippest\b/Worship/g
 
 # tricky words due to them still being used in modern english:
 
