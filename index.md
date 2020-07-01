@@ -24,6 +24,7 @@ description: My search for the good life in philosophy, religion, literature, an
 
 <h2 id="meditations">Meditations</h2>
 <ul class="index">
+  {% include li_by_id.html id='the-mission-driven-life' %}
   {% include li_by_id.html id='antigone-historical-context' %}
   {% include li_by_id.html id='euthyphro-and-a-universal-morality' %}
   {% include li_by_id.html id='euthyphro-initial-impressions' %}
