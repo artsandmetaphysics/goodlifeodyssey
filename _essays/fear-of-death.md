@@ -40,3 +40,10 @@ Does the fear of death keep us trudging along?
 <p>That makes calamity of so long life.</p>
 <cite>— Hamlet III.1</cite>
 </blockquote>
+
+Is it reasonable to fear death?
+
+<blockquote>
+<p>Let us reflect in this way, too, that there is good hope that death is a blessing, for it is one of two things: either the dead are nothing and have no perception of anything, or it is, as we are told, a change and a relocating for the soul from here to another place. If it is complete lack of perception, like a dreamless sleep, then death would be a great advantage… for all eternity would then seem to be no more than a single night. If, on the other hand, death is a change from here to another place, and what we are told is true and all who have died are there, what greater blessing could there be?</p>
+<cite>— Apology 40d–e</cite>
+</blockquote>
