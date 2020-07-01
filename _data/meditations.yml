@@ -8,13 +8,20 @@ epistemology:
     - [9, 38, "p"]
   - label: The gods exist, although there are some doubts
     justification:
-    - [12, 28, "p"]
     - [2, 11, "p"]
-  - label: We don't know for certain that the universe is directed with reason
+    - [12, 28, "p"]
+  - label: It is unclear whether the universe is directed by reason or random chance
     justification:
+    - [4, 3, "p", "either there is providence or atoms fortuitous concurrence of things"]
     - [6, 10, "p"]
-    - [6, 24, "p"]
-    - [6, 30, "p"]
+    - [6, 24, "p", "either they were received among the same seminal principles of the universe, or they were alike dispersed among the atoms"]
+    - [7, 32, "p", "About death: whether it is a dispersion, or a resolution into atoms, or annihilation, it is either extinction or change."]
+    - [7, 50, "p", "This is either a dissolution of the mutual involution of the atoms, or a similar dispersion of the unsentient elements."]
+    - [8, 17, "p", "the atoms chance or the gods"]
+    - [9, 28, "p", "And either the universal intelligence puts itself in motion for every separate effect, and if this is so, be you content with that which is the result of its activity; or it puts itself in motion once, and everything else comes by way of sequence in a manner"]
+    - [9, 39, "p"]
+    - [10, 6, "p"]
+    - [11, 18, "p"]
 metaphysics:
   - label: |
       The entire material universe is directed by _reason_, or the _Logos_
@@ -64,6 +71,7 @@ metaphysics:
     - [7, 55, "p"]
     - [9, 9, "p"]
     - [10, 2, "p"]
+    - [11, 18, "p", "in another respect I was made to be set over them, as a ram over the flock or a bull over the herd. But examine the matter from first principles, from this. If all things are not mere atoms, it is nature which orders all things: if this is so, the inferior things exist for the sake of the superior, and these for the sake of one another."]
     - [12, 3, "p"]
   - label: '_Soul_ is a sort of substance---a sort of rarified fire'
     justification:
@@ -77,6 +85,7 @@ metaphysics:
     - [12, 32, "p"]
   - label: Matter can't touch the soul, but soul directs matter
     justification:
+    - [4, 3, "p", "One is that things do not touch the soul, for they are external and remain immovable; but our perturbations come only from the opinion which is within."]
     - [5, 19, "p"]
     - [6, 1, "p"]
   - label: Death is necessary in order to keep the Universe young and renewed
@@ -92,6 +101,7 @@ metaphysics:
     - [7, 49, "p"]
     - [7, 1, "p"]
     - [9, 14, "p"]
+    - [9, 28, "p", "The periodic movements of the universe are the same, up and down from age to age."]
     - [10, 27, "p"]
   - label: Animals contribute to the order of the universe
     justification:
@@ -137,11 +147,12 @@ ethics:
   - label: Act for the benefit of the group---for other men---for we are born for one another
     justification:
     - [2, 1, "p", "For we are made for co-operation, like feet, like hands, like eyelids, like the rows of the upper and lower teeth."]
-    - [4, 3, "p"] # b
+    - [4, 3, "p", "Recall to your mind this conclusion, that rational animals exist for one another"]
     - [7, 19, "p"]
     - [8, 59, "p"]
     - [9, 1, "p"]
     - [9, 23, "p"]
+    - [11, 18, "p", "we are made for one another"]
   - label: Death shouldn't be feared since life isn't worth living
     justification:
     - [10, 29, "p"]
@@ -159,6 +170,7 @@ ethics:
     justification:
     - [2, 2, "p", "despise the flesh; it is blood and bones and network, a contexture of nerves, veins, and arteries. See the breath also, what kind of a thing it is; air, and not always the same, but every moment sent out and again sucked in. The third, then, is the ruling part"]
     - [5, 26, "p"]
+    - [4, 3, "p", "Men seek retreats for themselves, houses in the country, sea-shores, and mountains; and you too are wont to desire such things very much. But this is altogether a mark of the most common sort of men, for it is in your power whenever you shalt choose to retire into yourself."]
     - [6, 2, "p"]
     - [9, 28, "p"]
     - [12, 2, "p"]
@@ -182,15 +194,16 @@ ethics:
     - [3, 14, "p", "No longer wander at hazard"]
     - [4, 2, "p"]
     - [4, 22, "p"]
+    - [4, 24, "p", "Now a man should take away not only unnecessary acts, but also unnecessary thoughts, for thus superfluous acts will not follow after."]
     - [12, 20, "p"]
   - label: It is foolish to think a bad person won't be bad
     justification:
     - [5, 17, "p"]
     - [5, 28, "p"]
     - [12, 16, "p"]  # b
-  - label: Focus on the true nature, the position within the whole and connection to the whole, the substance, and the cause
+  - label: "Focus on the true nature, the position within the whole and connection to the whole, the substance, and the cause"
     justification:
-     - [3, 11, "p", "To the aids which have been mentioned let this one still be added: Make for yourself a definition or description of the thing which is presented to you, so as to see distinctly what kind of a thing it is in its substance, in its nudity, in its complete entirety, and tell yourself its proper name, and the names of the things of which it has been compounded, and into which it will be resolved. For nothing is so productive of elevation of mind as to be able to examine methodically and truly every object which is presented to you in life, and always to look at things so as to see at the same time what kind of universe this is, and what kind of use everything performs in it, and what value everything has with reference to the whole, and what with reference to man, who is a citizen of the highest city, of which all other cities are like families; what each thing is, and of what it is composed, and how long it is the nature of this thing to endure which now makes an impression on me, and what virtue I have need of with respect to it, such as gentleness, manliness, truth, fidelity, simplicity, contentment, and the rest."]
+    - [3, 11, "p", "To the aids which have been mentioned let this one still be added: Make for yourself a definition or description of the thing which is presented to you, so as to see distinctly what kind of a thing it is in its substance, in its nudity, in its complete entirety, and tell yourself its proper name, and the names of the things of which it has been compounded, and into which it will be resolved. For nothing is so productive of elevation of mind as to be able to examine methodically and truly every object which is presented to you in life, and always to look at things so as to see at the same time what kind of universe this is, and what kind of use everything performs in it, and what value everything has with reference to the whole, and what with reference to man, who is a citizen of the highest city, of which all other cities are like families; what each thing is, and of what it is composed, and how long it is the nature of this thing to endure which now makes an impression on me, and what virtue I have need of with respect to it, such as gentleness, manliness, truth, fidelity, simplicity, contentment, and the rest."]
     - [6, 13, "p"]
     - [6, 38, "p"]
     - [8, 11, "p"]
@@ -318,7 +331,12 @@ book:
     - |
       Let no act be done without a purpose, nor otherwise than according to the perfect principles of art.
     - |
-      Men seek retreats for themselves, houses in the country, sea-shores, and mountains; and you too are wont to desire such things very much. But this is altogether a mark of the most common sort of men, for it is in your power whenever you shalt choose to retire into yourself. For nowhere either with more quiet or more freedom from trouble does a man retire than into his own soul, particularly when he has within him such thoughts that by looking into them he is immediately in perfect tranquillity; and I affirm that tranquillity is nothing else than the good ordering of the mind. Constantly then give to yourself this retreat, and renew yourself; and let your principles be brief and fundamental, which, as soon as you shalt recur to them, will be sufficient to cleanse the soul completely, and to send you back free from all discontent with the things to which you returnest. For with what are you discontented? With the badness of men? Recall to your mind this conclusion, that rational animals exist for one another, and that to endure is a part of justice, and that men do wrong involuntarily; and consider how many already, after mutual enmity, suspicion, hatred, and fighting, have been stretched dead, reduced to ashes; and be quiet at last.—But perhaps you are dissatisfied with that which is assigned to you out of the universe.—Recall to your recollection this alternative; either there is providence or atoms fortuitous concurrence of things; or remember the arguments by which it has been proved that the world is a kind of political community and be quiet at last.—But perhaps corporeal things will still fasten upon you.—Consider then further that the mind mingles not with the breath, whether moving gently or violently, when it has once drawn itself apart and discovered its own power, and think also of all that you have heard and assented to about pain and pleasure and be quiet at last.—But perhaps the desire of the thing called fame will torment you.—See how soon everything is forgotten, and look at the chaos of infinite time on each side of the present, and the emptiness of applause, and the changeableness and want of judgment in those who pretend to give praise, and the narrowness of the space within which it is circumscribed and be quiet at last. For the whole earth is a point, and how small a nook in it is this your dwelling, and how few are there in it, and what kind of people are they who will praise you.
+      Men seek retreats for themselves, houses in the country, sea-shores, and mountains; and you too are wont to desire such things very much. But this is altogether a mark of the most common sort of men, for it is in your power whenever you shalt choose to retire into yourself. For nowhere either with more quiet or more freedom from trouble does a man retire than into his own soul, particularly when he has within him such thoughts that by looking into them he is immediately in perfect tranquillity; and I affirm that tranquillity is nothing else than the good ordering of the mind. Constantly then give to yourself this retreat, and renew yourself; and let your principles be brief and fundamental, which, as soon as you shalt recur to them, will be sufficient to cleanse the soul completely, and to send you back free from all discontent with the things to which you returnest.
+
+      For with what are you discontented? With the badness of men? Recall to your mind this conclusion, that rational animals exist for one another, and that to endure is a part of justice, and that men do wrong involuntarily; and consider how many already, after mutual enmity, suspicion, hatred, and fighting, have been stretched dead, reduced to ashes; and be quiet at last. But perhaps you are dissatisfied with that which is assigned to you out of the universe. Recall to your recollection this alternative; either there is providence or atoms fortuitous concurrence of things; or remember the arguments by which it has been proved that the world is a kind of political community and be quiet at last. But perhaps corporeal things will still fasten upon you. Consider then further that the mind mingles not with the breath, whether moving gently or violently, when it has once drawn itself apart and discovered its own power, and think also of all that you have heard and assented to about pain and pleasure and be quiet at last.
+
+      But perhaps the desire of the thing called fame will torment you. See how soon everything is forgotten, and look at the chaos of infinite time on each side of the present, and the emptiness of applause, and the changeableness and want of judgment in those who pretend to give praise, and the narrowness of the space within which it is circumscribed and be quiet at last. For the whole earth is a point, and how small a nook in it is this your dwelling, and how few are there in it, and what kind of people are they who will praise you.
+
       This then remains: Remember to retire into this little territory of your own, and above all do not distract or strain yourself, but be free, and look at things as a man, as a human being, as a citizen, as a mortal. But among the things readiest to your hand to which you shalt turn, let there be these, which are two. One is that things do not touch the soul, for they are external and remain immovable; but our perturbations come only from the opinion which is within. The other is that all these things, which you see, change immediately and will no longer be; and constantly bear in mind how many of these changes you have already witnessed. The universe is transformation: life is opinion.
     - |
       If our intellectual part is common, the reason also, in respect of which we are rational beings, is common: if this is so, common also is the reason which commands us what to do, and what not to do; if this is so, there is a common law also; if this is so, we are fellow-citizens; if this is so, we are members of some political community; if this is so, the world is in a manner a state. For of what other common political community will any one say that the whole human race are members? And from thence, from this common political community, comes also our very intellectual faculty and reasoning faculty and our capacity for law; or whence do they come? For as my earthly part is a portion given to me from certain earth, and that which is watery from another element, and that which is hot and fiery from some peculiar source (for nothing comes out of that which is nothing, as nothing also returns to non-existence), so also the intellectual part comes from some source.
@@ -360,9 +378,9 @@ book:
     - |
       Do not be whirled about, but in every movement have respect to justice, and on the occasion of every impression maintain the faculty of comprehension or understanding.
     - |
-      Everything harmonizes with me, which is harmonious to you, O Universe. Nothing for me is too early nor too late, which is in due time for you. Everything is fruit to me which your seasons bring, O Nature: from you are all things, in you are all things, to you all things return. The poet says, Dear city of Cecrops; and will not you say, Dear city of Zeus?
+      Everything harmonizes with me, which is harmonious to you, O Universe. Nothing for me is too early nor too late, which is in due time for you. Everything is fruit to me which your seasons bring, O Nature: from you are all things, in you are all things, to you all things return. The poet says "Dear city of Cecrops," and will not you say "Dear city of Zeus?"
     - |
-      Occupy yourself with few things, says the philosopher, if you would be tranquil.—But consider if it would not be better to say, Do what is necessary, and whatever the reason of the animal which is naturally social requires, and as it requires. For this brings not only the tranquillity which comes from doing well, but also that which comes from doing few things. For the greatest part of what we say and do being unnecessary, if a man takes this away, he will have more leisure and less uneasiness. Accordingly, on every occasion a man should ask himself, Is this one of the unnecessary things? Now a man should take away not only unnecessary acts, but also unnecessary thoughts, for thus superfluous acts will not follow after.
+      "Occupy yourself with few things," says the philosopher, "if you would be tranquil." But consider if it would not be better to say, "Do what is necessary, and whatever the reason of the animal which is naturally social requires, and as it requires." For this brings not only the tranquillity which comes from doing well, but also that which comes from doing few things. For the greatest part of what we say and do being unnecessary, if a man takes this away, he will have more leisure and less uneasiness. Accordingly, on every occasion a man should ask himself, "is this one of the unnecessary things?" Now a man should take away not only unnecessary acts, but also unnecessary thoughts, for thus superfluous acts will not follow after.
     - |
       Try how the life of the good man suits you, the life of him who is satisfied with his portion out of the whole, and satisfied with his own just acts and benevolent disposition.
     - |
@@ -718,15 +736,16 @@ book:
     - |
       Consider the past,—such great changes of political supremacies; you may foresee also the things which will be. For they will certainly be of like form, and it is not possible that they should deviate from the order of the things which take place now; accordingly to have contemplated human life for forty years is the same as to have contemplated it for ten thousand years. For what more will you see?
     - |
-      That which has grown from the earth to the earth,
-      ⁠But that which has sprung from heavenly seed,
-      ⁠Back to the heavenly realms returns.
+      > That which has grown from the earth to the earth,
+      > ⁠But that which has sprung from heavenly seed,
+      > ⁠Back to the heavenly realms returns.
+
       This is either a dissolution of the mutual involution of the atoms, or a similar dispersion of the unsentient elements.
     - |
-      With food and drinks and cunning magic arts
-      ⁠Turning the channel's course to 'scape from death.
-      ⁠The breeze which heaven has sent
-      ⁠We must endure, and toil without complaining.
+      > With food and drinks and cunning magic arts
+      > ⁠Turning the channel's course to 'scape from death.
+      > ⁠The breeze which heaven has sent
+      > ⁠We must endure, and toil without complaining.
     - |
       Another may be more expert in casting his opponent; but he is not more social, nor more modest, nor better disciplined to meet all that happens, nor more considerate with respect to the faults of his neighbors.
     - |
@@ -810,7 +829,7 @@ book:
     - |
       Remember that to change your opinion and to follow him who corrects your error is as consistent with freedom as it is to persist in your error. For it is your own, the activity which is exerted according to your own movement and judgment, and indeed according to your own understanding too.
     - |
-      If a thing is in your own power, why do you do it? but if it is in the power of another, whom do you blame,—the atoms chance or the gods? Both are foolish. You must blame nobody. For if you can't, correct that which is the cause; but if you can't not do this, correct at least the thing itself; but if you can't not do even this, of what use is it to you to find fault? for nothing should be done without a purpose.
+      If a thing is in your own power, why do you do it? But if it is in the power of another, whom do you blame---the atoms chance or the gods? Both are foolish. You must blame nobody. For if you can't, correct that which is the cause; but if you can't not do this, correct at least the thing itself; but if you can't not do even this, of what use is it to you to find fault? For nothing should be done without a purpose.
     - |
       That which has died falls not out of the universe. If it stays here, it also changes here, and is dissolved into its proper parts, which are elements of the universe and of yourself. And these too change, and they murmur not.
     - |
@@ -981,11 +1000,11 @@ book:
     - |
       If a man has done wrong the harm is his own. But perhaps he has not done wrong.
     - |
-      Either all things proceed from one intelligent source and come together as in one body, and the part ought not to find fault with what is done for the benefit of the whole; or there are only atoms, and nothing else than mixture and dispersion. Why, then, are you disturbed? Say to the ruling faculty, Art you dead, are you corrupted, are you playing the hypocrite, are you become a beast, do you herd and feed with the rest?
+      Either all things proceed from one intelligent source and come together as in one body, and the part ought not to find fault with what is done for the benefit of the whole; or there are only atoms, and nothing else than mixture and dispersion. Why, then, are you disturbed? Say to the ruling faculty, "Art you dead, are you corrupted, are you playing the hypocrite, are you become a beast, do you herd and feed with the rest?"
     - |
       Either the gods have no power or they have power. If, then, they have no power, why do you pray to them? But if they have power, why do you not pray for them to give you the faculty of not fearing any of the things which you fearest, or of not desiring any of the things which you desirest, or not being pained at anything, rather than pray that any of these things should not happen or happen? for certainly if they can co-operate with men, they can co-operate for these purposes. But perhaps you will say the gods have placed them in your power. Well, then, is it not better to use what is in your power like a free man than to desire in a slavish and abject way what is not in your power? And who has told you that the gods do not aid us, even in the things which are in our power? Begin, then, to pray for such things, and you will see. One man prays thus: How shall I be able to lie with that woman? Do you pray thus: How shall I not desire to lie with her? Another prays thus: How shall I be released from this? Pray you: How shall I not desire to be released? Another thus: How shall I not lose my little son? You thus: How shall I not be afraid to lose him? In fine, turn your prayers this way, and see what comes.
     - |
-      Epicurus says, In my sickness my conversation was not about my bodily sufferings, nor, says he, did I talk on such subjects to those who visited me; but I continued to discourse on the nature of things as before, keeping to this main point, how the mind, while participating in such movements as go on in the poor flesh, shall be free from perturbations and maintain its proper good. Nor did I, he says, give the physicians an opportunity of putting on solemn looks, as if they were doing something great, but my life went on well and happily. Do, then, the same that he did both in sickness, if you are sick, and in any other circumstances; for never to desert philosophy in any events that may befall us, nor to hold trifling talks either with an ignorant man or with one unacquainted with nature, is a principle of all schools of philosophy; but to be intent only on that which you are now doing and on the instrument by which you do it.
+      Epicurus says, "In my sickness my conversation was not about my bodily sufferings, nor did I talk on such subjects to those who visited me; but I continued to discourse on the nature of things as before, keeping to this main point, how the mind, while participating in such movements as go on in the poor flesh, shall be free from perturbations and maintain its proper good. Nor did I give the physicians an opportunity of putting on solemn looks, as if they were doing something great, but my life went on well and happily." Do, then, the same that he did both in sickness, if you are sick, and in any other circumstances; for never to desert philosophy in any events that may befall us, nor to hold trifling talks either with an ignorant man or with one unacquainted with nature, is a principle of all schools of philosophy; but to be intent only on that which you are now doing and on the instrument by which you do it.
     - |
       When you are offended with any man's shameless conduct, immediately ask yourself, Is it possible, then, that shameless men should not be in the world? It is not possible. Do not, then, require what is impossible. For this man also is one of those shameless men who must of necessity be in the world. Let the same considerations be present to your mind in the case of the knave, and the faithless man, and of every man who does wrong in any way. For at the same time that you do remind yourself that it is impossible that such kind of men should not exist, you will become more kindly disposed towards every one individually. It is useful to perceive this, too, immediately when the occasion arises, what virtue nature has given to man to oppose to every wrongful act. For she has given to man, as an antidote against the stupid man, mildness, and against another kind of man some other power. And in all cases it is possible for you to correct by teaching the man who is gone astray; for every man who errs misses his object and is gone astray. Besides, wherein have you been injured? For you will find that no one among those against whom you are irritated has done anything by which your mind could be made worse; but that which is evil to you and harmful has its foundation only in the mind. And what harm is done or what is there strange, if the man who has not been instructed does the acts of an uninstructed man? Consider whether you shall not rather blame yourself, because you did not expect such a man to err in such a way. For you hadst means given you by your reason to suppose that it was likely that he would commit this error, and yet you have forgotten and are amazed that he has erred. But most of all when you blamest a man as faithless or ungrateful, turn to yourself. For the fault is manifestly your own, whether you did trust that a man who had such a disposition would keep his promise, or when conferring your kindness you did not confer it absolutely, nor yet in such way as to have received from your very act all the profit. For what more do you want when you have done a man a service? Are you not content that you have done something conformable to your nature, and do you seek to be paid for it? just as if the eye demanded a recompense for seeing, or the feet for walking. For as these members are formed for a particular purpose, and by working according to their several constitutions obtain what is their own; so also as man is formed by nature to acts of benevolence, when he has done anything benevolent or in any other way conducive to the common interest, he has acted conformably to his constitution, and he gets what is his own.
   -
@@ -1116,15 +1135,25 @@ book:
       Consider whence each thing is come, and of what it consists, and into what it changes, and what kind of a thing it will be when it has changed, and that it will sustain no harm.
     - |
       If any have offended against you, consider first: What is my relation to men, and that we are made for one another; and in another respect I was made to be set over them, as a ram over the flock or a bull over the herd. But examine the matter from first principles, from this. If all things are not mere atoms, it is nature which orders all things: if this is so, the inferior things exist for the sake of the superior, and these for the sake of one another.
+
       Second, consider what kind of men they are at table, in bed, and so forth; and particularly, under what compulsions in respect of opinions they are; and as to their acts, consider with what pride they do what they do.
+
       Third, that if men do rightly what they do, we ought not to be displeased: but if they do not right, it is plain that they do so involuntarily and in ignorance. For as every soul is unwillingly deprived of the truth, so also is it unwillingly deprived of the power of behaving to each man according to his deserts. Accordingly men are pained when they are called unjust, ungrateful, and greedy, and in a word wrong-doers to their neighbors.
+
       Fourth, consider that you also do many things wrong, and that you are a man like others; and even if you do abstain from certain faults, still you have the disposition to commit them, though either through cowardice, or concern about reputation, or some such mean motive, you do abstain from such faults.
+
       Fifth, consider that you do not even understand whether men are doing wrong or not, for many things are done with a certain reference to circumstances. And in short, a man must learn a great deal to enable him to pass a correct judgment on another man's acts.
+
       Sixth, consider when you are much vexed or grieved, that man's life is only a moment, and after a short time we are all laid out dead.
+
       Seventh, that it is not men's acts which disturb us, for those acts have their foundation in men's ruling principles, but it is our own opinions which disturb us. Take away these opinions then, and resolve to dismiss your judgment about an act as if it were something grievous, and your anger is gone. How then shall I take away these opinions? By reflecting that no wrongful act of another brings shame on you: for unless that which is shameful is alone bad, you also must of necessity do many things wrong, and become a robber and everything else.
+
       Eighth, consider how much more pain is brought on us by the anger and vexation caused by such acts than by the acts themselves, at which we are angry and vexed.
+
       Ninth, consider that a good disposition is invincible if it be genuine, and not an affected smile and acting a part. For what will the most violent man do to you, if you continuest to be of a kind disposition towards him, and if, as opportunity offers, you gently admonishest him and calmly correctest his errors at the very time when he is trying to do you harm, saying, Not so, my child: we are constituted by nature for something else: I shall certainly not be injured, but you are injuring yourself, my child.—And show him with gentle tact and by general principles that this is so, and that even bees do not do as he does, nor any animals which are formed by nature to be gregarious. And you must do this neither with any double meaning nor in the way of reproach, but affectionately and without any rancor in your soul; and not as if you wert lecturing him, nor yet that any bystander may admire, but either when he is alone, and if others are present . . .
+
       Remember these nine rules, as if you hadst received them as a gift from the Muses, and begin at last to be a man while you livest. But you must equally avoid nattering men and being vexed at them, for both are unsocial and lead to harm. And let this truth be present to you in the excitement of anger, that to be moved by passion is not manly, but that mildness and gentleness, as they are more agreeable to human nature, so also are they more manly; and he who possesses these qualities possesses strength, nerves, and courage, and not the man who is subject to fits of passion and discontent. For in the same degree in which a man's mind is nearer to freedom from all passion, in the same degree also is it nearer to strength: and as the sense of pain is a characteristic of weakness, so also is anger. For he who yields to pain and he who yields to anger, both are wounded and both submit.
+
       But if you will, receive also a tenth present from the leader of the Muses Apollo, and it is this,—that to expect bad men not to do wrong is madness, for he who expects this desires an impossibility. But to allow men to behave so to others, and to expect them not to do you any wrong, is irrational and tyrannical.
     - |
       There are four principal aberrations of the superior faculty against which you shall be constantly on your guard, and when you have detected them, you shall wipe them out and say on each occasion thus: This thought is not necessary: this tends to destroy social union: this which you are going to say comes not from the real thoughts; for you shall consider it among the most absurd of things for a man not to speak from his real thoughts. But the fourth is when you shalt reproach yourself for anything, for this is an evidence of the diviner part within you being overpowered and yielding to the less honorable and to the perishable part, the body, and to its gross pleasures.
