@@ -10,11 +10,12 @@ What do we owe wider humanity? Can a good person focus only on oneself, family, 
 
 For example, my career has been rewarding---our children are fed, educated, and even entertained. We own a house. We saved, so we won't need to work until we are bent. But we would like to travel, own art, and buy a summer home. 
 
-Would it be selfish to continue spending nearly all our wealth on ourselves? I think it would be. We owe our surplus wealth and, what is more difficult, time, to others. What is a surplus? And how should we help?
+Would it be selfish to continue spending nearly all our wealth on ourselves? I think it would be, and that we owe our surplus wealth and, what is more difficult, time, to others. But two difficult questions remain: What is surplus? And _how_ should we help others?
 
-I read philosophy to help answer these questions, and this week I read Plato's _Apology_---Socrates speech to the jury.
+I read philosophy to try and answer these questions, and this week I read Plato's _Apology_---Socrates speech to the jury explaining that his annoying questions were his duty to his fellow Athenians.
 
-Socrates neglects his personal affairs, living in poverty, to approach the men of the city "like a father or an elder brother" and persuade them to prize virtue more than their body or wealth. Thus he exemplifies sacrifice for others. Socrates admits that such neglect goes against human nature, and that if he were condemned, Athens would not easily replace him. So does Socrates expect others to act as he does?
+
+Socrates' life exemplifies sacrifice for others. He neglects his personal affairs, living in poverty, so he can approach the men of the city "like a father or an elder brother" and persuade them to prize virtue more than their body or wealth. Socrates concedes that such neglect goes against human nature, and that if he were condemned, Athens would not easily replace him. So does Socrates expect others to act as he does?
 
 {% comment %}
 - Viewed himself as a special case; gadfly on the horse
