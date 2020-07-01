@@ -8,7 +8,7 @@ date: 2020-07-01
 
 What do we owe wider humanity? Can a good person focus only on oneself, family, and friends?
 
-For example, my career has been rewarding---our children are fed, educated, and even entertained. We own a house. We saved, so we won't need to work until we bend. But we would like to travel, own art, and buy a summer home. 
+For example, my career has been rewarding---our children are fed, educated, and even entertained. We own a house. We saved, so we won't need to work until we are bent. But we would like to travel, own art, and buy a summer home. 
 
 Would it be selfish to continue spending nearly all our wealth on ourselves? I think it would be. We owe our surplus wealth and, what is more difficult, time, to others. What is a surplus? And how should we help?
 
