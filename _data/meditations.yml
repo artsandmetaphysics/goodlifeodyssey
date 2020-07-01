@@ -1,6 +1,7 @@
 epistemology:
   - label: Be open minded
     justification:
+    - [3, 6, "p", "If you findest in human life anything better than justice, truth, temperance, fortitude, and, in a word, anything better than your own mind’s self-satisfaction in the things which it enables you to do according to right reason, and in the condition that is assigned to you without your own choice; if, I say, you see anything better than this, turn to it with all your soul, and enjoy that which you have found to be the best."]
     - [6, 21, "p"]
     - [8, 43, "p"]
       # - [8, 48, "n"]
@@ -49,9 +50,10 @@ metaphysics:
   - label: The gods exist and are higher forms of beings made purely of _soul_
     justification:
     - [7, 53, "p"]
-  - label: "We consist of three parts: the body, the life breath, and the directing-reason"
+  - label: "We consist of three parts: the body, the soul, and reason"
     justification:
-    - [2, 2, "p"]
+    - [2, 2, "p", "Whatever this is that I am, it is a little flesh and breath, and the ruling part."]
+    - [3, 16, "p", "Body, soul, intelligence: to the body belong sensation, to the soul appetites, to the intelligence principles."]
   - label: The lower parts of us are meant to serve the higher parts
     justification: []
   - label: There is a hierarchy of beings too, and lower beings serve higher beings
@@ -65,6 +67,7 @@ metaphysics:
     - [12, 3, "p"]
   - label: '_Soul_ is a sort of substance---a sort of rarified fire'
     justification:
+    - [2, 1, "p", "it participates in the same intelligence and the same portion of the divinity"]
     - [4, 21, "p"]
     - [8, 54, "p"]
     - [8, 57, "p"]
@@ -99,8 +102,9 @@ ethics:
     justification:
     - [3, 9, "p"]
     - [5, 3, "p"]
-  - label: What doesn't affect the mind can't be evil, but should be viewed as an exercise
+  - label: Nothing outside of your control can be evil
     justification:
+    - [2, 1, "p", "I can neither be injured by any of them, for no one can fix on me what is ugly"]
     - [2, 11, "p"]
     - [4, 1, "p"]
     - [4, 7, "p"]
@@ -120,6 +124,8 @@ ethics:
     - [8, 56, "p"]
     - [9, 1, "p"]
     - [9, 13, "p"]
+    - [9, 26, "p"]
+    - [9, 38, "p"]
     - [12, 22, "p"]
   - label: In general, anything that appears evil, is not, for the Whole would not do anything evil
     justification:
@@ -130,16 +136,12 @@ ethics:
     - [8, 55, "p"]
   - label: Act for the benefit of the group---for other men---for we are born for one another
     justification:
-    - [2, 1, "p"]
+    - [2, 1, "p", "For we are made for co-operation, like feet, like hands, like eyelids, like the rows of the upper and lower teeth."]
     - [4, 3, "p"] # b
     - [7, 19, "p"]
     - [8, 59, "p"]
     - [9, 1, "p"]
     - [9, 23, "p"]
-  - label: Any pain is inflicted by your own mind
-    justification:
-    - [9, 26, "p"]
-    - [9, 38, "p"]
   - label: Death shouldn't be feared since life isn't worth living
     justification:
     - [10, 29, "p"]
@@ -153,8 +155,9 @@ ethics:
     - [9, 42, "p"]
     - [10, 30, "p"]
     - [12, 16, "p"]  # b
-  - label: The body and its desires should be despised, or at least treated as mere
+  - label: The body and its desires should be despised, or at least treated as mere distractions
     justification:
+    - [2, 2, "p", "despise the flesh; it is blood and bones and network, a contexture of nerves, veins, and arteries. See the breath also, what kind of a thing it is; air, and not always the same, but every moment sent out and again sucked in. The third, then, is the ruling part"]
     - [5, 26, "p"]
     - [6, 2, "p"]
     - [9, 28, "p"]
@@ -176,6 +179,7 @@ ethics:
   - label: We should always act with a purpose---don't act at random
     justification:
     - [2, 16, "p"]
+    - [3, 14, "p", "No longer wander at hazard"]
     - [4, 2, "p"]
     - [4, 22, "p"]
     - [12, 20, "p"]
@@ -186,6 +190,7 @@ ethics:
     - [12, 16, "p"]  # b
   - label: Focus on the true nature, the position within the whole and connection to the whole, the substance, and the cause
     justification:
+     - [3, 11, "p", "To the aids which have been mentioned let this one still be added: Make for yourself a definition or description of the thing which is presented to you, so as to see distinctly what kind of a thing it is in its substance, in its nudity, in its complete entirety, and tell yourself its proper name, and the names of the things of which it has been compounded, and into which it will be resolved. For nothing is so productive of elevation of mind as to be able to examine methodically and truly every object which is presented to you in life, and always to look at things so as to see at the same time what kind of universe this is, and what kind of use everything performs in it, and what value everything has with reference to the whole, and what with reference to man, who is a citizen of the highest city, of which all other cities are like families; what each thing is, and of what it is composed, and how long it is the nature of this thing to endure which now makes an impression on me, and what virtue I have need of with respect to it, such as gentleness, manliness, truth, fidelity, simplicity, contentment, and the rest."]
     - [6, 13, "p"]
     - [6, 38, "p"]
     - [8, 11, "p"]

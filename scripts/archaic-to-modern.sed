@@ -18,6 +18,12 @@ s/\bwouldst\b/would/g
 s/\blovest\b/love/g
 s/\bvaluest\b/value/g
 s/\bworshippest\b/worship/g
+s/\bfindest\b/find/g
+s/\bworkest\b/work/g
+s/\bshouldst\b/shall/g
+s/\butterest\b/say/g
+s/\bholdest\b/hold/g
+s/\bcarest\b/care/g
 
 s/\bThee\b/You/g
 s/\bThou\b/You/g
@@ -39,6 +45,11 @@ s/\bWouldst\b/Would/g
 s/\bLovest\b/Love/g
 s/\bValuest\b/Value/g
 s/\bWorshippest\b/Worship/g
+s/\bFindest\b/Find/g
+s/\bWorkest\b/Work/g
+s/\bShouldst\b/Shall/g
+s/\bUtterest\b/Say/g
+s/\bHoldest\b/Hold/g
 
 # tricky words due to them still being used in modern english:
 

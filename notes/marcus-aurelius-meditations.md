@@ -11,16 +11,18 @@ description: >
 
 Marcus Aurelius was a Roman emperor and a philosopher. _The Meditations_, as they are commonly referred too, were his personal journal. He likely wrote them between 161 and 180 AD, and probably did not plan on publishing them. Thus, they provide a sincere view into the thoughts and daily struggles of a practicing stoic.
 
-After the first chapter, which is a list of influential people in Marcus' life, _The Meditations_ are unstructured and repetitive. While it may be a foolish endeavor, since they were not meant to be systematic, I have attempted to identify and categorize Marcus' core beliefs. Many other divisions are possible.
+After the first chapter, which is a list of influential people in Marcus' life, _The Meditations_ are unstructured. They are also somewhat repetitive, as may be expected in a journal (I find a good deal of repitition in mine).
 
-Marcus writes little about how he knows what he knows (epistemology). His focus is how he should act (ethics), but often he explains why he should act a certain way, and in so doing he tells us how he viewed reality (metaphysics). I present his beliefs within these three domains.
+While it may be a foolish endeavor, since they were not meant to be systematic, I have attempted to identify and categorize Marcus' core beliefs. Many alternate divisions are possible.  Marcus writes little about how he knows what he knows (epistemology). His focus is how he should act (ethics), but often he explains why he should act a certain way, and in so doing he tells us how he viewed reality (metaphysics). I categorize his beliefs within these three domains.
 
-All twelve books of George Long's translation of _The Meditations_ are presented below. (I have lightly modernized the English.) After each belief in parenthesis is listed the number of sections relating to this belief. Click on the number to filter out all unrelated sections. Many sections are connected to multiple beliefs. There are also links which show all the sections and (more interestingly) the sections which I was unable to categorize.
+After each belief in parenthesis is listed the number of sections relating to this belief. Click on the number to filter out all unrelated sections. Many sections are connected to multiple beliefs. You can also show all the sections which I was unable to relate to one of my beliefs.
+
+All quotes are from a modernized version of George Long's translation.
 
 ## Epistemological Beliefs
 
 {% for belief in site.data.meditations.epistemology -%}
-  {{ forloop.index }}. {{ belief.label }} (<a href="#top" onclick="showOnly([
+  {{ forloop.index }}. {{ belief.label }}&nbsp;(<a href="#top" onclick="showOnly([
 {%- for j in belief.justification %}[{{ j[0]|minus:1 }}, {{ j[1]|minus:1 }},],{%- endfor -%}
 ])">{{ belief.justification|size }}</a>).
 {% endfor %}
@@ -28,7 +30,7 @@ All twelve books of George Long's translation of _The Meditations_ are presented
 ## Metaphysical Beliefs
 
 {% for belief in site.data.meditations.metaphysics -%}
-  {{ forloop.index }}. {{ belief.label }} (<a href="#top" onclick="showOnly([
+  {{ forloop.index }}. {{ belief.label }}&nbsp;(<a href="#top" onclick="showOnly([
 {%- for j in belief.justification %}[{{ j[0]|minus:1 }}, {{ j[1]|minus:1 }},],{%- endfor -%}
 ])">{{ belief.justification|size }}</a>).
 {% endfor %}
@@ -36,7 +38,7 @@ All twelve books of George Long's translation of _The Meditations_ are presented
 ## Ethical Beliefs
 
 {% for belief in site.data.meditations.ethics -%}
-  {{ forloop.index }}. {{ belief.label }} (<a href="#top" onclick="showOnly([
+  {{ forloop.index }}. {{ belief.label }}&nbsp;(<a href="#top" onclick="showOnly([
 {%- for j in belief.justification %}[{{ j[0]|minus:1 }}, {{ j[1]|minus:1 }},],{%- endfor -%}
 ])">{{ belief.justification|size }}</a>).
 {% endfor %}
@@ -47,9 +49,9 @@ All twelve books of George Long's translation of _The Meditations_ are presented
 <span id="top"></span>
 
 {% for book in site.data.meditations.book %}
-<h2 class="book-header">Book {{ forloop.index }}</h2>
+<h2 class="book-header" style="display:none;">Book {{ forloop.index }}</h2>
 
-<ol class="book">
+<ol class="book" style="display:none;">
 {%- for section in book -%}
 <li value="{{ forloop.index }}">{{ section|markdownify }}</li>
 {% endfor %}
