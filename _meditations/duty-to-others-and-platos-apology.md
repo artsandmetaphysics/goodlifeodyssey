@@ -8,7 +8,7 @@ date: 2020-07-03
 
 Can a person be good yet spend all their time and money on themselves, their family, and their friends?
 
-For example, my children are fed, educated, and even entertained. We own a house. We saved, so we won’t need to work until we are bent. But there is always more. We want to travel, own art, and buy a summer home. Would it be selfish to continue spending mostly on ourselves?
+For example, my children are fed, educated, and even entertained. We own a house. We saved, so we won’t need to work until we are bent. But there is always more. We want to travel, own art, and buy a summer home. Would we be selfish to continue spending mostly on ourselves?
 
 I think so. But where does our _duty to others_ begin? And _how_ should we help?
 
@@ -18,9 +18,9 @@ Socrates fulfilled his duty to others by urging the men of the city “like a fa
 
 Socrates sacrificed to fulfill his duty to others. He neglected his personal affairs, even subjecting his wife and children to poverty. While he concedes that such neglect goes against human nature, he clearly was willing to sacrifice to fulfill his duty.  His commitment is further illustrated when, facing a death sentence, he refuses to grovel or reject his past behavior.
 
-Socrates considered the impact of his actions. For example, he avoided political discourse because he knew it was dangerous. If I engaged in public affairs, “I should have died long ago, and benefited neither you nor myself.” So although he didn’t overvalue his life, he also didn’t uselessly dispose of it. We should also think about how best to help others.
+Socrates considered the impact of his actions. For example, he avoided political discourse because he thought it was dangerous, saying if he engaged in public affairs “I should have died long ago, and benefited neither you nor myself.” So although he didn’t overvalue his life, he also didn’t uselessly dispose of it. We should also think about how best to help others.
 
-Socrates thought life and wealth were good, but virtue and piety were better. Thus, teaching the ignorant should be preferred to helping the poor or healing the sick. If we agree, our philanthropy should emphasize moral education over wealth distribution or medical research. But is it presumptuous to think we can make people better, or that we know what _excellence_ is? Socrates says he did not know what virtue or piety is, yet he strived to find it. As he says in the _Apology_, “we should discuss virtue every day.” Maybe we can emphasize virtue while not claiming to know what is best for everyone.
+Socrates thought life and wealth were good, but virtue and piety were better. Thus, teaching the ignorant should be preferred to helping the poor or healing the sick. If we agree, our philanthropy should emphasize moral education over wealth distribution or medical research. But are we presumptuous to think we can make people better, or that we know what _excellence_ is? Socrates says he did not know what virtue or piety is, yet he strived to find it. As he says in the _Apology_, “we should discuss virtue every day.” Maybe we can emphasize virtue while not claiming to know what is best for everyone.
 
 Even so, I think Socrates, as depicted by Plato, over-emphasizes the mind. Should we really discuss virtue every day? And is the unexamined life really “not worth living?” After being sentenced to death, he says that if he were to go to heaven, he would spend his time “testing and examining people there, as I do here, as to who among them is wise, and who thinks he is but is not.” While I don’t begrudge Socrates enjoying his work—after all, we will be more effective if we do—this comment suggests his love of discourse led him to overvalue it.
 
