@@ -12,7 +12,7 @@
     <meta property="og:type" content="article">
     <meta property="og:url" content="{{ page.url }}">
     <meta property="og:image" content="/favicon.png">
-    <meta property="og:description" content="{{ page.description | xml_escape | normalize_whitespace }}">
+    <meta property="og:description" content="{{ page.description | xml_escape | normalize_whitespace | replace: "_", '"' }}">
     <link rel="apple-touch-icon-precomposed" href="/favicon.png">
     <style>{% include stylesheet.min.css %}</style>
   </head>
