@@ -1,24 +1,22 @@
 ---
 title: >
-  Justification via Other’s Beliefs
+  Justification via Other People’s Beliefs
 description: >
-  When is it appropriate to justify one’s own beliefs with another’s beliefs?
-type: essay
-status: complete
+  When is it appropriate to justify our beliefs using other people’s beliefs?
 ---
 
-We justify our beliefs using a combination of intuition, emotion, reasoning, sensory perception, and other means.
+We may justify our beliefs using intuition, reason, emotion, and our senses.
 
-We may also justify our beliefs using other’s beliefs.  For example, someone may believe that the sun’s light comes from nuclear reactions because their teacher believes it.  Alternatively, one could listen to why their teacher believes the sun’s light comes from nuclear reactions, study the requisite math and physics, and judge for themselves whether their teacher’s justification was valid.
+We may also justify our beliefs using other people’s beliefs. For example, someone may believe sunlight originates from nuclear reactions _because their teacher believes it_. Alternatively, one could listen to why their teacher believes sunlight originates from nuclear reactions, study the requisite math and physics, and justify the same belief directly.
 
-In the first case, we are justifying our belief using another’s belief.  In the second case, we are adopting another’s justification for ourselves without relying on their belief.
+In the first case, we justify our belief using another’s belief. In the second case, we adopt another’s justification for ourselves, without relying on their belief.
 
-Frequently, we combine these approaches; for example, we may study enough nuclear physics to feel comfortable accepting our teacher’s opinion.  In this case, we are justifying our belief partially on our knowledge and reasoning, and partly on our teacher’s belief.
+Often, we combine these approaches; we may know enough nuclear physics to accept our teacher’s opinion, and so we justify our belief partially with our knowledge and reasoning and partly with our teacher’s belief.
 
-When we justify our beliefs using other’s beliefs, we open ourselves up to two problems:
+There are two problems with justifying our beliefs using other people’s beliefs:
 
-1. The other person is deceiving us.
-2. The other person is mistaken.
+1. The other person may be lying.
+2. The other person may be wrong.
 
 Given these problems, when is it appropriate to justify our beliefs using other’s beliefs?
 
