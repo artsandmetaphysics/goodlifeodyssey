@@ -19,7 +19,7 @@
   <body>
     <header>
       {% if page.url != '/' %}
-      <p class="hidden-print"><a href="/">← other works</a></p>
+      <p class="hidden-print"><a href="/">← other entries</a></p>
       {% endif %}
       <hr>
     </header>
@@ -45,10 +45,10 @@
       </form>
       <p>
         {% if page.url != '/' %}
-        Read my <a href="{{ site.url }}">other works</a>.
+        Read my <a href="{{ site.url }}">other entries</a>.
         {% endif %}
         <span class="hidden-print">Learn <a href="/about">about the author</a>.</span>
-        Please <a href="mailto:{{ site.email }}">email me</a> if you have thoughts, questions, comments, or notice a factual or grammatical mistake.
+        <a href="mailto:{{ site.email }}">Email me</a>—I would love to hear your thoughts, questions, corrections, or comments.
       </p>
     </footer>
   </body>

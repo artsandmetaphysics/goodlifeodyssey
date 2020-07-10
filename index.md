@@ -2,8 +2,11 @@
 layout: basic
 title: Good Life Odyssey
 description: My search for the good life in philosophy, religion, literature, and history.
+
 ---
-{{ page.description }}
+We are on a long journey to find and live the _good life_. For most of us, our destination is behind a haze, and we must navigate while traveling.
+
+This website is my logbook of landings within philosophy, religion, literature, and history.
 
 <h2 id="essays">Essays</h2>
 <ul class="index">
