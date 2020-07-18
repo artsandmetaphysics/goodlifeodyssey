@@ -41,6 +41,7 @@ This website is my logbook of landings within philosophy, religion, literature, 
 
 <h2 id="notes">Notes and Commentary</h2>
 <ul class="index">
+  {% include li_by_id.html id='how-to-read' %}
   {% include li_by_id.html id='ancient-greece' %}
   {% include li_by_id.html id='the-epic-of-gilgamesh' %}
   {% include li_by_id.html id='hesiod' %}
