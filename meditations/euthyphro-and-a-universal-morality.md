@@ -21,7 +21,6 @@ Socrates' explanation of what the gods disagree about also remains relevant:
 > SOCRATES: Again, if we differed about the larger and the smaller, we would turn to measurement and soon cease to differ.
 > EUTHYPHRO: That is so ...
 > SOCRATES: What subject of difference would make us angry and hostile to each other if we were unable to come to a decision? ... These subjects are the just and the unjust, the beautiful and the ugly, the good and the bad. Are these not the subjects of difference about which, when we are unable to come to a satisfactory decision, you and I and other men become hostile to each other whenever we do?
-> = (7b--d)
 
 While I agree that it is easier to disagree about subjective measures, like justice and beauty, religions also disagree about truth. Not all facts can be verified with measurements, as Socrates implies. Was Muhammad a prophet? Did Jesus rise from the dead?
 

@@ -16,12 +16,12 @@ This definition may be appealing, but Euthyphro and his humanist ancestors face 
 
 Socrates’ explanation of what the gods disagree about also remains relevant:
 
-<blockquote class="prose">
+<blockquote>
 <p>SOCRATES: What are the subjects that cause hatred and anger? Let us look at it this way. If you and I were to differ about numbers as to which is the greater, would this difference make us enemies and angry with each other, or would we proceed to count and soon resolve our difference about them?</p>
 <p>EUTHYPHRO: We would certainly do so.</p>
 <p>SOCRATES: Again, if we differed about the larger and the smaller, we would turn to measurement and soon cease to differ.</p>
 <p>EUTHYPHRO: That is so …</p>
-<p>SOCRATES: What subject of difference would make us angry and hostile to each other if we were unable to come to a decision? … These subjects are the just and the unjust, the beautiful and the ugly, the good and the bad. Are these not the subjects of difference about which, when we are unable to come to a satisfactory decision, you and I and other men become hostile to each other whenever we do? <cite>(7b–d)</cite></p>
+<p>SOCRATES: What subject of difference would make us angry and hostile to each other if we were unable to come to a decision? … These subjects are the just and the unjust, the beautiful and the ugly, the good and the bad. Are these not the subjects of difference about which, when we are unable to come to a satisfactory decision, you and I and other men become hostile to each other whenever we do?</p>
 </blockquote>
 
 While I agree that it is easier to disagree about subjective measures, like justice and beauty, religions also disagree about truth. Not all facts can be verified with measurements, as Socrates implies. Was Muhammad a prophet? Did Jesus rise from the dead?
