@@ -21,7 +21,7 @@ The yogi and the dancer are constrained by the range of motion allowed by our ph
 
 Combinations of the senses allow for even higher bandwidths. Silent films vs audio films. Stereo audio. There was a brief fad when movie theaters incorporated smells into the story by coordinating the release of chemicals into the air while the video unfolded—a modest increase in bandwidth. Three-dimensional movies increase the bandwidth of movies. This increases the space of sensory experiences the artist can explore.
 
-Books rely on our imagination to bring all our senses into the artistic experience—”the old man smelled of cigars.”
+Books rely on our imagination to bring all our senses into the artistic experience—“the old man smelled of cigars.”
 
 Until now, we have been focused on our senses, but what about our motor control? A being can be viewed as a having senses (to learn about their environment), a control system (to remember and decide and react) and motor controls (to affect the environment).
 

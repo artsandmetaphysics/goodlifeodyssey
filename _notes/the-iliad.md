@@ -194,7 +194,7 @@ During most of the *Iliad,* Achilles wrath is directed at Agamemnon because he d
 
 <blockquote class="poetry">
 <p>“Then let me die at once”—</p>
-<p>Achilles burst out, despairing—”since it was not my fate</p>
+<p>Achilles burst out, despairing—“since it was not my fate</p>
 <p>to save my dearest comrade from his death! Look,</p>
 <p>a world away from his fatherland he’s perished,</p>
 <p>lacking me, my fighting strength, to defend him.</p>
@@ -452,7 +452,7 @@ I like this simile, because it makes me think of my wife—she likes to imagine 
 
 <blockquote class="poetry">
 <p>Quick as a thought goes flashing through a man</p>
-<p>who’s traveled the world—”Ah to be there, or there!”—</p>
+<p>who’s traveled the world—“Ah to be there, or there!”—</p>
 <p>as his mind swarms with journeys, fresh desires—</p>
 <p>so quick in her eager flight flew noble Hera now</p>
 <p>and scaling steep Olympus went among the gods. <cite>(15.79–83)</cite></p>

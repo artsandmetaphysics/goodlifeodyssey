@@ -727,7 +727,7 @@ Juno's frustrated jealous rage fills much of the first four books of Ovid. She e
 > If that is what the gods have been avenging
 > by their unwavering wrath for all these years,
 > why then, I pray that I might be extended
-> into a serpent with a gut-like shape---"
+> into a serpent with a gut-like shape---”
 > And as he said it he became a serpent
 > with a gut-like shape. At once he felt the scales
 > begin to grow out on his thickened skin,

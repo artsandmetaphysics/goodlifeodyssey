@@ -39,7 +39,7 @@ Recursive definitions are especially problematic during abstract philosophical d
 
 I think this is one of the reasons why many philosophical treatises begin by defining their terms.  Philosophical definitions are different than the definitions we find in a dictionary.  A formal definition is an intended equivalence between a word and other words.
 
-The definition of the word _definition_ has two uses.  The first is what I will refer to as the standard definition—”what people usually mean.”  The second is a formal equivalence between a word and other words.
+The definition of the word _definition_ has two uses.  The first is what I will refer to as the standard definition—“what people usually mean.”  The second is a formal equivalence between a word and other words.
 
 A standard definition is wrong when it is not what people usually mean.  For example, the word _book_ does not mean _yellow fruit_.  On the other hand, a formal definition can not be wrong—it can only be useless.  We can formally define the word _book_ to mean _yellow fruit_ if we like, but it is not very useful.  This distinction between standard definitions and formal definitions is often obscured because, to aid our memory, we often provide formal definitions for words that are very similar to that same word’s standard definition.
 
