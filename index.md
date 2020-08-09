@@ -27,6 +27,7 @@ This website is my logbook of landings within philosophy, religion, literature, 
 
 <h2 id="meditations">Meditations</h2>
 <ul class="index">
+  {% include li_by_id.html id='dialogue-on-reading-vs-watching-the-news' %}
   {% include li_by_id.html id='what-causes-generation-gaps' %}
   {% include li_by_id.html id='duty-to-others-and-platos-apology' %}
   {% include li_by_id.html id='antigone-historical-context' %}
