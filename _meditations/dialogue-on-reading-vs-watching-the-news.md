@@ -106,7 +106,7 @@ TES: Your view is very idealistic, who has the time or energy to intensively stu
 
 I appreciate you explaining why you prefer reading the news over watching it, although I still prefer watching the news, partly because it is more entertaining and thus better holds my attention.
 
-Should we wrap up our conversation so Aurelie can eat before she has to feed Eloise again?
+Should we wrap up our conversation so Aurelie can eat before she has to feed Elanor again?
 
 DIJON: Good idea. Thank you for the discussion, and for the insight that one can watch the news actively. Perhaps we should _read_ and _watch_ the news, to take advantage of the benefits of each medium.
 
