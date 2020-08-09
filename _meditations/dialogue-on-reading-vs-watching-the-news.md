@@ -82,9 +82,9 @@ TES: I don’t know. Sometimes a friend will recommend a book that I have alread
 
 DIJON: I have also forgotten many books, although when I read actively, by pausing to think and question the author, and to write my thoughts, I remember more and my understanding deepens.
 
-Since a television show progresses automatically, you don’t typically pause to think or critique. Thus, the medium of television encourages the viewer to be passive, which in turn leads to pre-made opinions that can easily be repeated, but that the repeater has not thought through.
+Since a television show progresses automatically, you don’t typically pause to think or critique it. Thus, the medium of television encourages the viewer to be passive, which in turn leads to pre-made opinions that can easily be repeated, but that the repeater has not thought through.
 
-TES: Perhaps most people may watch shows passively, but most people also read passively! Why couldn’t someone watch the news actively too? It is important to think critically, but this is not a problem with television per se, but rather is a problem with _how_ people watch television.
+TES: Perhaps most people watch shows passively, but most people also read passively! Why couldn’t someone watch the news actively too? It is important to think critically, but this is not a problem with television per se, but rather is a problem with _how_ people watch television.
 
 To actively watch television, you can use the same strategies you use when reading actively. Pause the video, think about what the host is saying, and whether you agree. Write down your thoughts. Watch parts of the show twice, if needed.
 
