@@ -7,7 +7,8 @@ date: 2020-08-09
 ---
 
 TES: I am enjoying our visit, and especially meeting our beautiful granddaughter Elanor.
-  I have been wondering, as I sat here the past several days at your apartment: do you watch the news? Don’t you want to know what is going on in the world?
+
+I have been wondering, as I sat here the past several days at your apartment: do you watch the news? Don’t you want to know what is going on in the world?
 
 DIJON: Not usually—I prefer to read about current events.
 
@@ -18,8 +19,10 @@ DIJON: There are several reasons. First, reading is faster.
 TES: Really? Videos can show you things that are difficult to portray with words, and news shows are quite good at selecting and summarizing stories. Also, many shows interview famous people and authors, effectively summarizing their ideas. Why do you think reading the news lets you gather information more quickly?
 
 DIJON: I agree videos are better than text at conveying certain types of information, but I think most news stories don’t benefit from this. For example, a transcript of talk show hosts debating is nearly as good as the original video, while a video of flood damage is difficult to reproduce with text.
-  When I watch the news, I can’t easily hone in on the stories that are relevant to me. For example, within an hour of news, I may only care about ten minutes of it. Since I can’t skim through it to find the information that is useful for me, I am stuck watching the full hour.
-  When I read the news, I can skim a summary of current events, and then read only the stories that are useful for me.
+
+When I watch the news, I can’t easily hone in on the stories that are relevant to me. For example, within an hour of news, I may only care about ten minutes of it. Since I can’t skim through it to find the information that is useful for me, I am stuck watching the full hour.
+
+When I read the news, I can skim a summary of current events, and then read only the stories that are useful for me.
 
 TES: Some shows will give a preview of the stories at the beginning, so you can skip to the part you care about. Also, there are many shows, so you can only watch relevant ones. Finally, you can fast forward or stop watching a show if it is really irrelevant.
 
@@ -48,7 +51,8 @@ DIJON: I don’t know for sure, but I think it is likely. The media focuses on s
 TES: I agree that some stories are unimportant, but you picked extreme cases. I still think being informed by more than mere summaries is important; it helps you connect with the world and the people around you.
 
 DIJON: Many people would agree with you. But there are other ways to connect with people, like watching sports, and we don’t think people are obligated to watch sports. Why are we obligated to watch the news?
-  As citizens of a democracy, I think it is our duty to form opinions about public policy to vote for the candidates we think are best, and maybe donate our time and money to causes and candidates we believe in. We can also discuss the issues with our fellow citizens. But it is not clear that watching the news is the best way to form these opinions.
+
+As citizens of a democracy, I think it is our duty to form opinions about public policy to vote for the candidates we think are best, and maybe donate our time and money to causes and candidates we believe in. We can also discuss the issues with our fellow citizens. But it is not clear that watching the news is the best way to form these opinions.
 
 TES: How else are you going to form these opinions? After all, how better to form an opinion about politicians than to watch them in interviews on TV?
 

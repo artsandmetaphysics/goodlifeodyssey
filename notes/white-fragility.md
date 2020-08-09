@@ -7,9 +7,9 @@ description: >
 
 ## Scope
 
-The focus of the book is on why its hard to talk to white people about race.
+The main subject of the book is why its hard to talk to white people about race.
 
-It doesn't discuss the evidence and extent of racism in America.
+It only briefly discusses the evidence and extent of racism in America.
 
 It assumes there is no "true biological race." I.e., the external, visual characteristics that we "use to define race are unreliable indicators of genetic variation between any two people."
 
@@ -18,6 +18,8 @@ It assumes there is no "true biological race." I.e., the external, visual charac
 
 
 ## Terms
+
+DiAngelo defines words in non-standard ways, so if you read a quotation without knowing her definitions,  In a couple of instances, friends
 
 > The term _identity politics_ refers to the focus on the barriers specific groups face in their struggle for equality.
 

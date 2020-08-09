@@ -7,7 +7,7 @@ description: >
 
 One may read for entertainment, information, or understanding. Here I consider how to read non-fiction books with the goal of gaining understanding about a topic. These approaches may apply to shorter works, but few will apply to fiction.
 
-Most non-fiction books are repetitive, disorganized, incorrect, inconsistent, or merely irrelevant. Thus the first step of reading a book is to deduce how worthwhile it is.
+Many non-fiction books are repetitive, disorganized, incorrect, inconsistent, or merely irrelevant. Thus the first step of reading a book is to deduce how worthwhile it is.
 
 Start by skimming the preface, introduction, and concluding chapters. Study the table of contents. If available, use the index can help locate passages relevant to the topic you wish to understand.
 
@@ -25,7 +25,7 @@ You can ask these of an entire book as well as for parts of the book.
 
 How often has someone asked you what a book is about and you have been unable to provide a good summary? Identifying and succinctly stating a book’s key points is difficult. If you can do so, you have answered the first question. (Many bad books have little structure, and are thus difficult to outline.)
 
-When answering the second question, be careful not to form an opinion too quickly—especially if you are predisposed to agree or disagree. Be aware that authors may define words differently than you expect. As in conversation, authors may oversimplify yet be correct in a bigger sense.
+Once you are really sure you understand the author, one must critique them. When answering the second question, be careful not to form an opinion too quickly—especially if you are predisposed to agree or disagree. Be aware that authors may define words differently than you expect. As in conversation, authors may oversimplify yet be correct in a bigger sense.
 
 The last question helps one decide how the contents of the book affect you own life.
 
