@@ -12,7 +12,7 @@ I have been wondering, as I sat here the past several days at your apartment: do
 
 Dijon:: Not usually---I prefer to read about current events.
 
-Tes:: Why do you prefer reading the news to watching it?
+Tes:: Why?
 
 Dijon:: There are several reasons. First, reading is faster.
 

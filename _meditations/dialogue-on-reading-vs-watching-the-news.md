@@ -12,7 +12,7 @@ I have been wondering, as I sat here the past several days at your apartment: do
 
 <span class="sc">Dijon:</span> Not usually—I prefer to read about current events.
 
-<span class="sc">Tes:</span> Why do you prefer reading the news to watching it?
+<span class="sc">Tes:</span> Why?
 
 <span class="sc">Dijon:</span> There are several reasons. First, reading is faster.
 
