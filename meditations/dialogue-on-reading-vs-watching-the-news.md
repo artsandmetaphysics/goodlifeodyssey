@@ -8,7 +8,7 @@ date: 2020-08-09
 
 Tes:: I am enjoying our visit, and especially meeting our beautiful granddaughter Elanor.
 
-I have been wondering, as I sat here the past several days at your apartment: do you watch the news? Don't you want to know what is going on in the world?
+As I sat here the past several days at your apartment, I have been wondering: do you watch the news? Don't you want to know what is going on in the world?
 
 Dijon:: Not usually---I prefer to read about current events.
 
@@ -58,7 +58,7 @@ Tes:: How else are you going to form these opinions? After all, how better to fo
 
 Dijon:: I will answer your second question first: I agree that watching interviews of politicians on TV is useful and effective---the non-verbal information can help you assess a person. Thus I do watch interviews.
 
-Also, I don't have any problems with watching television. I want you to know, since I am your son-in-law, why I don't watch television. I don't want you to think I am not fulfilling my civic-duty, since I respect your opinion.
+Also, I don't have any problems with watching television. I want you to know since I am your son-in-law, why I don't watch television. I don't want you to think I am not fulfilling my civic-duty, since I respect your opinion.
 
 Tes:: Thank you for saying that.
 
@@ -88,7 +88,7 @@ To actively watch television, you can use the same strategies you use when readi
 
 Dijon:: I had not considered this, but you are correct. I should try these strategies. I think my belief that reading produces more understanding, then watching is misguided, and what matters more is how actively you engage with the material, regardless of the medium.
 
-Tes:: Earlier, you said there are alternative, superior ways to form political opinions, other than the news. How does your discussion of active vs. passive consumption relate to this.
+Tes:: Earlier, you said there are alternative, superior ways to form political opinions, other than the news. How does your discussion of active vs. passive consumption relate to this?
 
 Dijon:: Ah, yes! I had lost my train of thought. As I had mentioned, the key to actively reading or watching is to ask questions. What is the author saying? Do I agree? Who cares? Inevitably, when I ask these questions, I want to know more than the news story can give. For example, while I am not interested in the surface details surrounding the Beirut explosion, I want to know _why_ the explosive stockpile had been neglected.
 
@@ -98,9 +98,9 @@ The experts on television shows attempt to provide this sort of analysis. But th
 
 Furthermore, it is easier to analyze after-the-fact than in the moment. People like to know what is going on right now---it's new and exciting. However, the principles that can be learned from particular events are more easily identified by a historian with all the evidence available. Also, political biases tend to soften over time. Thus, I could form a better opinion about the Iraq war by reading one book today, as compared to years of watching the news about it. And so, I think reading history books fulfill your civic duty better than watching the news does.
 
-Clearly, this strategy can not always be applied! If you need to decide whether to vote for a politician that wants to pull out of the war, you must be familiar with the events. Thus, some news is important when your opinions are actionable, but I don't believe watching the news is a good way to form an analytical basis for making the opinions.
+Clearly, this strategy can not always be applied! If you need to decide whether to vote for a politician that wants to pull out of the war, you must be familiar with the events. Thus, some news is important when your opinions are actionable, but I don't believe watching the news is a good way to form an analytical basis for making opinions.
 
-Tes:: Your view is idealistic. Who has the time or energy to intensively study these issues. We can't all be experts!
+Tes:: Your view is idealistic. Who has the time or energy to intensively study these issues? We can't all be experts in everything!
 
 I appreciate you explaining why you prefer reading the news over watching it, although I still prefer watching the news, partly because it is more entertaining and thus better holds my limited attention.
 
