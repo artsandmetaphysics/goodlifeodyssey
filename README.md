@@ -21,6 +21,7 @@ Start a test server using `run`.
 - `--` is replaced with an "en dash"
 - `...` at the start of a line is replaced with "centered triple dots"
 - Straight quotes are replaced with curly quotes everywhere
+- Lines that start with a single word, followed by two colons (e.g., "Don::") will have have the word styled in small caps; this is useful for dialogues
 
 ## Citations
 

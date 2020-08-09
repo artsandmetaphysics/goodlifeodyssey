@@ -12,6 +12,7 @@ def translate_markdown(lines, printer):
     for line in lines:
         line = line.rstrip()
         quote_line = line.startswith('> ') or line == '>'
+        dialogue_line = re.match(r'^\S+:: ', line)
         if not in_quote and quote_line:
             in_quote = True
         elif in_quote and not quote_line:
@@ -27,6 +28,10 @@ def translate_markdown(lines, printer):
             quote.append(line)
         elif in_poem:
             printer(line + '<br>')
+        elif dialogue_line:
+            name, remainder, *other = line.split('::')
+            assert len(other) == 0
+            printer(f'<span class="sc">{name}:</span>{remainder}')
         else:
             printer(line)
 
