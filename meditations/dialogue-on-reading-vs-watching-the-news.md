@@ -7,9 +7,9 @@ date: 2020-08-09
 ---
 
 TES: I am enjoying our visit, and especially meeting our beautiful granddaughter Elanor.
-  I have been wondering, as I sit here the past several days at your apartment, do you watch the news? Don't you want to know what is going on in the world?
+  I have been wondering, as I sat here the past several days at your apartment: do you watch the news? Don't you want to know what is going on in the world?
 
-DIJON: We don't watch the news on television---I prefer reading about current events.
+DIJON: Not usually---I prefer to read about current events.
 
 TES: Why do you prefer reading the news to watching it?
 
