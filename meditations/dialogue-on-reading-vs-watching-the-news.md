@@ -94,15 +94,15 @@ Dijon:: Ah, yes! I had lost my train of thought. As I had mentioned, the key to 
 
 By actively questioning you move from the particulars to abstract principles---you move from the news to political philosophy and history. These principles can be used to better fulfill the civic duties we discussed.
 
-The experts on television shows attempt to provide this sort of analysis. But they aren't given enough time, partly because most of the audience doesn't care to explore the issues too deeply. A quick and easy analysis is more enjoyable than an in-depth study. Furthermore, since you move from story to story, you never focus on one area long enough to really understand it.
+The experts on television shows attempt to provide this sort of analysis. But they aren't given enough time, partly because most of the audience doesn't care to explore the issues too deeply. A quick and easy analysis is more entertaining than an in-depth study.
 
-Furthermore, it is easier to analyze history after-the-fact than in the moment. People like to know what is going on right now---it's new and exciting. However, the abstract principles that can be learned from particular events can more easily be identified by a historian who has all of the evidence available to them. Furthermore, political biases tend to soften over time. Thus, I could watch the news about the Iraq War for several years, or I can wait until the war ends and read a history book written with the full evidence available. I think the history book is more likely to produce good opinions, and so I think reading history tends to fulfill your civic duty more than watching the news does.
+Furthermore, it is easier to analyze after-the-fact than in the moment. People like to know what is going on right now---it's new and exciting. However, the principles that can be learned from particular events are more easily identified by a historian with all the evidence available. Also, political biases tend to soften over time. Thus, I could form a better opinion about the Iraq war by reading one book today, as compared to years of watching the news about it. And so, I think reading history books fulfill your civic duty better than watching the news does.
 
-Clearly, this strategy can not always be applied. Some events truly are important, and opinions must be made while events unfold.
+Clearly, this strategy can not always be applied! If you need to decide whether to vote for a politician that wants to pull out of the war, you must be familiar with the events. Thus, some news is important when your opinions are actionable, but I don't believe watching the news is a good way to form an analytical basis for making the opinions.
 
-Tes:: Your view is very idealistic, who has the time or energy to intensively study these issues. We can't all be experts!
+Tes:: Your view is idealistic. Who has the time or energy to intensively study these issues. We can't all be experts!
 
-I appreciate you explaining why you prefer reading the news over watching it, although I still prefer watching the news, partly because it is more entertaining and thus better holds my attention.
+I appreciate you explaining why you prefer reading the news over watching it, although I still prefer watching the news, partly because it is more entertaining and thus better holds my limited attention.
 
 Should we wrap up our conversation so Aurelie can eat before she has to feed Elanor again?
 
