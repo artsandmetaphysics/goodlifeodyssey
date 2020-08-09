@@ -41,7 +41,7 @@ DIJON: Why be informed about something that isn't useful? I'm curious about the 
 
 TES: How do you know?
 
-DIJON: I don't know for sure, but I think it is likely. The media focus on stories that people are interested in, not the stories that matter. For example, in 2005, the news shows obsessed about the disappearance of a pretty high school girl on the island Aruba. Another example is the O.J. Simpson murder trial, where every detail was picked apart for months in the news. This problem affects written news too, but its easier to avoid the fluff because you can skim.
+DIJON: I don't know for sure, but I think it is likely. The media focuses on stories that people are interested in, not on stories that matter. For example, in 2005, the news shows obsessed about the disappearance of a pretty high school girl on the island Aruba. Another example is the O.J. Simpson murder trial, where every detail was picked apart for months in the news. This problem affects written news too, but its easier to avoid the fluff because you can skim.
 
 TES: I agree that some stories are unimportant, but you picked extreme cases. I still think being informed by more than mere summaries is important; it helps you connect with the world and the people around you.
 
