@@ -35,6 +35,8 @@ A dictionary contains these two definitions recursive definitions:
 
 If our language is also recursive, where does meaning come from in our language?  I think that the meaning of abstract words like consciousness is built up from more concrete words in a huge web of definitions.  At the lowest level, the meaning of words comes directly from association with our sensory inputs and motor outputs.  Thus, meaning bubbles up from the concrete uses at the bottom, to their more abstract uses at the top.
 
+The more abstract a word is—that is, the more separate from material reality a word is—the less likely a precise definition can be given for the word. {% comment %}are you sure this is true?{% endcomment %}
+
 Recursive definitions are especially problematic during abstract philosophical discussions.  I have had heated conversations resolve after someone defines their words and we realize we had been agreeing all along!
 
 I think this is one of the reasons why many philosophical treatises begin by defining their terms.  Philosophical definitions are different than the definitions we find in a dictionary.  A formal definition is an intended equivalence between a word and other words.
@@ -43,7 +45,15 @@ The definition of the word _definition_ has two uses.  The first is what I will 
 
 A standard definition is wrong when it is not what people usually mean.  For example, the word _book_ does not mean _yellow fruit_.  On the other hand, a formal definition can not be wrong—it can only be useless.  We can formally define the word _book_ to mean _yellow fruit_ if we like, but it is not very useful.  This distinction between standard definitions and formal definitions is often obscured because, to aid our memory, we often provide formal definitions for words that are very similar to that same word’s standard definition.
 
-Words that are too broad or too narrow are not useful for making distinctions.  Everyday words make distinctions that are useful in everyday life.  Specialists develop lingo to make finer distinctions.
+The recursive nature of language is also unavoidable. Legal documents and technical standards often include formal definitions, but they are written using words with standard definitions.
+
+It would not be possible to provide formal definitions for all words used, since how could one provide the first formal definition before any other words were written? This unavoidable recursion ties back to how we learn language—by examples! Once we have learned the core of the language by examples as a child, we may learn new words by only definitions, but the foundation of the language is not formally defined.
+
+Similarly, mathematical texts use words to provide meaning to their axiomatic symbols.
+
+Words are like mathematical models used by engineers and scientists. The simplest model that accurately describes the portion of reality that is of interest is often the best. Analogously, we often use words in ways that are precise enough to accomplish the task we need them too. Everyday conversations tend to use simpler grammar and vocabulary because simpler tasks are being accomplished.
+
+Words that are too broad or too narrow are not useful. When no common words provide detailed enough models for the area of interest, specialists develop lingo.
 
 What people _usually mean_ by a word varies in time and place, but it is essentially an empirical question.
 
