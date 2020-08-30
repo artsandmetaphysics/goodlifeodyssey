@@ -6,7 +6,25 @@ redirect_from:
  - /on-definitions
 ---
 
-When two people converse, each assumes the other is using words like themself. Yet frequently, neither person could define the words they are using.
+## Types of Definitions
+
+There are different types of definitions. One type describes how a word is typically used. The _New Oxford American Dictionary_ is filled with these. Since they describe the standard way a word is used, I will call them _standard definitions_. Another type, which I will call _formal definitions_, states what a word means in a particular context.
+
+Philosophical treatises, technical standards, and legal contracts use formal definitions. For example, a legal contract may define a _person_ to be "a natural person, partnership, corporation, or any legal entity." Unlike the standard definition of _person_ in the dictionary, the contract is not claiming that _person_ is usually used this way; it only wants the reader to equate _person_ with its definition when reading the contract.
+
+Formal definitions are used in other writing, but they tend to be less explicit than in legal contracts. A book author may state, near the end of chapter two, that racism is "when a racial group's prejudice is backed by legal authority and institutional control." A quote from this book read without the author's formal definition will be misunderstood because the reader will assume _racism_ is used in the standard way: "discrimination or antagonism directed against a person on the basis of their membership in a particular racial group."
+
+This confusion would be avoided if, instead of redefining _racism_, the author formally defined a new word or used a longer, more precise phrase, such as _systemic racism_. Both alternatives have shortcomings. New words are hard to remember, and phrases get tiresome. The latter problem may be evident in my use of _formal definition_ and _standard definition_.
+
+A standard definition is _wrong_ when it is not what people usually mean. What people _usually mean_ changes, which is why reason Shakespeare is hard to understand. It also varies geographically, which is why there are British dictionaries and American dictionaries. Despite these complexities, whether a standard definition is correct is an empirical question. People who compile dictionaries, lexicographers, compile massive databases to study how, and how often, words are used. They also track how word use changes, and update the dictionary definitions.
+
+Formal definition, on the other hand, can't be _wrong_. They can only be _useless_. 
+
+## Precise Definitions
+
+Inconsiderate authors will use words in a non-standard way without giving a formal definition to their readers. And, since standard definitions changes over time, old books may not use words like you expect them to.
+
+When two people converse, each assumes the other is using words like themself; if Yet frequently, neither person could define the words they are using.
 
 It is difficult to define words.  recursive, and only as precise as they need to be for their common uses.
 
@@ -29,12 +47,7 @@ Recursive definitions are especially problematic during abstract philosophical d
 
 I think this is one of the reasons why many philosophical treatises begin by defining their terms. Philosophical definitions are different than the definitions we find in a dictionary. A formal definition is an intended equivalence between a word and other words.
 
-There are two types of definitions. The first type describes what people usually mean by the word. The dictionary is filled with these. I will call them _standard definitions_. The second is a formal equivalence between a word and other words. These are found in legal contracts, philosophical treatises, and technical standards. They 
-
-A standard definition is wrong when it is not what people usually mean. For example, the word _book_ does not mean _yellow fruit_. On the other hand, a formal definition can not be wrong---it can only be useless. We can formally define the word _book_ to mean _yellow fruit_ if we like, but it is not very useful. This distinction between standard definitions and formal definitions is often obscured because, to aid our memory, we often provide formal definitions for words that are very similar to that same word's standard definition.
-
-What people _usually mean_ by a word varies in time and place. Since standard definitions change, it is clear some words will have multiple standard definitions
-Despite these complexities, whether a standard definition is true is an empirical question. 
+## Circular Definitions and How We Learn
 
 The recursive nature of language is also unavoidable. Legal documents and technical standards often include formal definitions, but they are written using words with standard definitions.
 
@@ -45,6 +58,8 @@ Similarly, mathematical texts use words to provide meaning to their axiomatic sy
 Words are like mathematical models used by engineers and scientists. The simplest model that accurately describes the portion of reality that is of interest is often the best. Analogously, we often use words in ways that are precise enough to accomplish the task we need them too. Everyday conversations tend to use simpler grammar and vocabulary because simpler tasks are being accomplished.
 
 Words that are too broad or too narrow are not useful. When no common words provide detailed enough models for the area of interest, specialists develop lingo.
+
+## Definitions and Politics
 
 Words and their definitions do not exist in isolation; definitions can have ethical and political implications. When this is the case, people often will say a definition is _wrong_ even though it may be what people _usually mean_ by the word. For example, people say things like "we should change how we define beauty to be more inclusive." This statement is not saying the definition of beauty is wrong because it is, empirically, not what people usually mean by the word beauty. Rather, they are saying the word is wrong because it leads to unethical behavior.
 
@@ -61,5 +76,11 @@ Shared definitions are only as precise as they need to be for how they are used
   Many traditional philosophical problems appear to be caused when definitions are pushed too far
 Words are recursively defined
   Concrete meaning stems from underlying reality
+
+Does language dictate how we think, or does how we think dictate language? Are the categories defined by words as such because the categories exist in reality, or do we project the (arbitrary) categories in our words onto the world? Likely, dictation occurs in both directions in differing degrees for different words; more concrete words would seem to be more tied to reality, and our language thus more dictated by thought, while abstract ideas may be more dictated by our words.
+
+For example, what is the distinction between a _philosophy_ and a _religion_? Since I considered stoicism to be a philosophy, it took me a while to notice and comprehend the religious components of Marcus Aurelius' work. If the categories in my head, of philosophy and religion, were different, my understanding of stoicism may not have taken so long to acquire.
+
+Formal definitions tend to introduce central ideas in a new work, since they are used for new ideas, new ideas for which there are no existing words. The author could repeat the definition each time it is needed, but that would make the work hard to understand. Words are abstractions, like functions in a program. They let us "fit more in our head."
 
 {% endcomment %}
