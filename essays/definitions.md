@@ -8,23 +8,23 @@ redirect_from:
 
 ## Types of Definitions
 
-There are different types of definitions. One type describes how a word is typically used. The _New Oxford American Dictionary_ is filled with these. Since they describe the standard way a word is used, I will call them _standard definitions_. Another type, which I will call _formal definitions_, states what a word means in a particular context.
+There are different types of definitions. One type tries to describe how a word is typically used. The _New Oxford American Dictionary_ is filled with these. Since they describe the standard way a word is used, I will call them _standard definitions_.
 
-Philosophical treatises, technical standards, and legal contracts use formal definitions. For example, a legal contract may define a _person_ to be "a natural person, partnership, corporation, or any legal entity." Unlike the standard definition of _person_ in the dictionary, the contract is not claiming that _person_ is usually used this way; it only wants the reader to equate _person_ with its definition when reading the contract.
+Legal contracts use another type of definition---for example, a _person_ may be defined to be "a natural person, partnership, corporation, or any legal entity." The contract is not claiming that _person_ usually means this, but only that the reader should equate _person_ with its definition while reading the contract. I will call this second type of definition a _local definition_.
 
-Formal definitions are used in other writing, but they tend to be less explicit than in legal contracts. A book author may state, near the end of chapter two, that racism is "when a racial group's prejudice is backed by legal authority and institutional control." A quote from this book read without the author's formal definition will be misunderstood because the reader will assume _racism_ is used in the standard way: "discrimination or antagonism directed against a person on the basis of their membership in a particular racial group."
+Considerate authors give local definitions when introducing new terms or using words in non-standard ways, but not as explicitly as legal contracts do. For example, an author may state, near the end of chapter two, that racism is "when a racial group's prejudice is backed by legal authority and institutional control." The rest of the book must be read with this definition substituted for the standard one: "discrimination or antagonism directed against a person on the basis of their membership in a particular racial group."
 
-This confusion would be avoided if, instead of redefining _racism_, the author formally defined a new word or used a longer, more precise phrase, such as _systemic racism_. Both alternatives have shortcomings. New words are hard to remember, and phrases get tiresome. The latter problem may be evident in my use of _formal definition_ and _standard definition_.
+Formal definitions, especially ones that redefine existing words, can lead to misunderstanding. An unaware reader will substitute the standard definition for the author's intended local one when reading a quotation. This confusion can be avoided by using new word, or longer, more precise phrases, instead. But both alternatives have shortcomings. New words are hard to remember, and phrases get tiresome. The latter problem may be evident in my use of the phrases _local definition_ and _standard definition_.
 
-A standard definition is _wrong_ when it is not what people usually mean. What people _usually mean_ changes, which is why reason Shakespeare is hard to understand. It also varies geographically, which is why there are British dictionaries and American dictionaries. Despite these complexities, whether a standard definition is correct is an empirical question. People who compile dictionaries, lexicographers, compile massive databases to study how, and how often, words are used. They also track how word use changes, and update the dictionary definitions.
+Unlike the local definitions in legal contracts, which are not meant to graduate into standard definitions, ambitious authors want their definitions to become standard. They want to claim a new concept. Once they do, they can stop giving local definitions in their books since readers will know what they mean.
 
-Formal definition, on the other hand, can't be _wrong_. They can only be _useless_. 
+A standard definition is _wrong_ when it is not what people usually mean. What people _usually mean_ changes, which is one reason Shakespeare is hard to understand (". It also varies geographically, which is why there are British dictionaries and American dictionaries. Despite these complexities, whether a standard definition is correct is an empirical question. People who compile dictionaries, lexicographers, compile massive databases to study how, and how often, words are used. They also track how word use changes, and update the dictionary definitions.
+
+Formal definition, on the other hand, can't be _wrong_. They can only be _useless_. A word can be too precise or too general to be needed, or an author's favorite abstraction is superfluous or confusing.
 
 ## Precise Definitions
 
-Inconsiderate authors will use words in a non-standard way without giving a formal definition to their readers. And, since standard definitions changes over time, old books may not use words like you expect them to.
-
-When two people converse, each assumes the other is using words like themself; if Yet frequently, neither person could define the words they are using.
+When two people converse, each assumes the other is using the same standard definitions; if they aren't, they may not understand each other. While true, every day communication works well most of the time despite people being unable to precisely define the words they use. Why is this?
 
 It is difficult to define words.  recursive, and only as precise as they need to be for their common uses.
 
@@ -82,5 +82,9 @@ Does language dictate how we think, or does how we think dictate language? Are t
 For example, what is the distinction between a _philosophy_ and a _religion_? Since I considered stoicism to be a philosophy, it took me a while to notice and comprehend the religious components of Marcus Aurelius' work. If the categories in my head, of philosophy and religion, were different, my understanding of stoicism may not have taken so long to acquire.
 
 Formal definitions tend to introduce central ideas in a new work, since they are used for new ideas, new ideas for which there are no existing words. The author could repeat the definition each time it is needed, but that would make the work hard to understand. Words are abstractions, like functions in a program. They let us "fit more in our head."
+
+---
+
+Inconsiderate authors will use words in a non-standard way without giving a formal definition to their readers. And, since standard definitions changes over time, old books may not use words like you expect them to.
 
 {% endcomment %}
