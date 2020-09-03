@@ -34,11 +34,7 @@ This website is my logbook of landings within philosophy, religion, literature, 
   {% include li_by_id.html id='euthyphro-and-a-universal-morality' %}
   {% include li_by_id.html id='euthyphro-initial-impressions' %}
   {% include li_by_id.html id='sophocles-ode-to-man' %}
-</ul>
-
-<h2 id="poetry">Poetry</h2>
-<ul class="index">
-  {% include li_by_id.html id='questioning-poem' %}
+  {% include li_by_id.html id='as-a-driven-leaf' %}
 </ul>
 
 <h2 id="notes">Notes and Commentary</h2>
@@ -53,4 +49,11 @@ This website is my logbook of landings within philosophy, religion, literature, 
   {% include li_by_id.html id='the-histories-herodotus' %}
   {% include li_by_id.html id='metamorphoses' %}
   {% include li_by_id.html id='seneca' %}
+  {% include li_by_id.html id='the-master-and-margarita' %}
+  {% include li_by_id.html id='gullivers-travels' %}
+</ul>
+
+<h2 id="poetry">Poetry</h2>
+<ul class="index">
+  {% include li_by_id.html id='questioning-poem' %}
 </ul>

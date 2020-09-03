@@ -20,6 +20,4 @@ The notes and commentary are likely less interesting to a general audience; they
 
 The meditations are short pieces, that reflect my thoughts and questions on a given day. I only rarely edit these once written, and I provide the date when they were primarily written.
 
-I hope that the occasional visitor to this site will contact me and provide new thoughts about the topics I am writing about.
-
-I have set up a basic email list to try and stay in touch with visitors who are interested in the content.
+I hope that the occasional visitor will contact me and perhaps give me new ideas. The purpose of the email list is to try and stay in touch with visitors who are interested in the content, to facilitate this.
