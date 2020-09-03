@@ -18,7 +18,7 @@ Dijon:: There are several reasons. First, reading is faster.
 
 Tes:: Really? Videos can show you things that are difficult to portray with words, and news shows are quite good at selecting and summarizing stories. Also, many shows interview famous people and authors, effectively summarizing their ideas. Why do you think reading the news lets you gather information more quickly?
 
-Dijon:: I agree videos are better than text at conveying certain types of information, but I think most news stories don't benefit from this. For example, a transcript of talk show hosts debating is nearly as good as the original, while a video of flood damage is irreplaceable. But this strength doesn't outweighs its weaknesses.
+Dijon:: I agree videos are better than text at conveying certain types of information, but I think most news stories don't benefit from this. For example, a transcript of talk show hosts debating is nearly as good as the original, while a video of flood damage is irreplaceable. But in most cases this strength doesn't outweighs its weaknesses.
 
 When I watch the news, I can't easily hone in on the stories that are relevant to me. For example, within an hour of news, I may only care about ten minutes of it. Since I can't skim through it to find the information that is useful for me, I am stuck watching the full hour.
 
@@ -28,11 +28,11 @@ Tes:: Some shows will give a preview of the stories at the beginning, so you can
 
 Dijon:: Since I don't watch television often, I am not a good television watcher, but I doubt even the most proficient television watcher could gather information as quickly as a reader can.
 
-A magazine I read has a one-page summary of business events and a one-page summary of the political events from the previous week. I can read through these pages in a few minutes. The rest of the magazine contains more detailed articles about the events. If there are any events that would be useful for me to know more about, I can then read more detailed articles. If an event is very relevant for me, I can then go online and read even more articles about it. In this way, I can often catch up on a full week's worth of news in an hour or so.
+A weekly magazine I read has a one-page summary of business events and a one-page summary of political events. I can read through these in a few minutes. The rest of the magazine has detailed articles about the summarized events. If any would be useful for me to know more about, I can read the detailed articles. If an event is very relevant for me, I can then go online and read even more articles about it. In this way, I can often catch up on a full week's worth of news in an hour or so.
 
 Tes:: Maybe you are right that reading can be faster. But you can't possibly read much news in an hour! That is certainly much less time than I spend watching the news.
 
-Dijon:: You are correct that I don't gather much information in an hour. But I can hone in on only what is useful for me. If I were watching television, I would have to wade through several hours of shows to pinpoint just want I want to learn.
+Dijon:: You are correct that I don't gather much information in an hour. But I can hone in on what is useful for me. If I were watching television, I would have to wade through several hours of shows to pinpoint just want I want to learn.
 
 For example, there was an explosion in Beirut last week. Here is the summary from my magazine:
 
