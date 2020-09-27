@@ -16,7 +16,7 @@ Do you think he's right?
 
 Paul:: In part. I could think more if I worked less, and I could work less if I didn't live in New York City. If not for its food, shows, and museums, I might not live in New York City. As he says, "it is the body and the care of it, to which we are enslaved, which compels us to acquire wealth, and all this makes us too busy to practice philosophy."
 
-Thomas:: In your case, is the body to blame? You could afford to move to the countryside, eat simple foods, and spend most of your days reading. I think it's your soul's lack of will that makes you too busy to practice philosophy.
+Thomas:: In your case, is the body to blame? You could afford to move to the countryside, eat simple foods, and spend most of your days reading. I think it's your soul's lack of willpower that keeps you in the city, siphoning away your time from philosophy.
 
 Paul:: You are a good friend and speak harshly but truly---at least of my soul. But in ancient Athens, the body must have been to blame more often than the soul. Our technological progress has made the body's needs easier to meet.
 
@@ -34,11 +34,11 @@ Socrates surely thought the soul would reason differently than the body. The sou
 
 Thomas:: It is not clear from the text that Socrates believed these things, but assuming he did, how could he justify such mystical beliefs?
 
-Paul:: He had justifications, but they may not convince non-believers. Socrates knew what he wanted to be true, and he found reasons to justify it. He says this himself when he narrates young Socrates' turn from the natural sciences to ethics: "I heard someone reading from a book of Anaxagoras, and saying that it is Mind that directs and is the cause of everything. I was delighted with this cause and it seemed to me good ... This wonderful hope was dashed as I went on reading and saw that the man made no use of Mind, nor gave it any responsibility for the management of things, but mentioned as causes air and either and water and many other strange things ... since I was deprived and could neither discover it myself nor learn it from another, as a second best, I busied myself with the search for the cause."
+Paul:: He had justifications, but they may not convince non-believers. Socrates knew what he wanted to be true, and he found reasons to justify it. He says this himself when he narrates young Socrates' turn from the natural sciences to ethics: "I heard someone reading from a book of Anaxagoras, and saying that it is Mind that directs and is the cause of everything. I was delighted with this cause and it seemed to me good ... This wonderful hope was dashed as I went on reading and saw that the man made no use of Mind, nor gave it any responsibility for the management of things, but mentioned as causes air and ether and water and many other strange things ... since I was deprived and could neither discover it myself nor learn it from another, as a second best, I busied myself with the search for the cause."
 
-So Socrates exchanges the senses and induction for words and deduction: "I feared my soul would be altogether blinded if I looked at things with my eyes and tried to grasp them with each of my senses. So I thought I must take refuge in discussions and investigate the truth of things by means of words."
+Socrates then exchanges the senses and induction for words and deduction. As he said: "I feared my soul would be altogether blinded if I looked at things with my eyes and tried to grasp them with each of my senses. So I thought I must take refuge in discussions and investigate the truth of things by means of words."
 
-Plato recounts Socrates' investigations with words in his early dialogues.
+The Plato recounts Socrates' investigations with words in his early dialogues.
 
 Socrates, or maybe Plato projecting onto Socrates, finds the forms---the ideal versions of things. I have not yet found a clear definition of the forms. Perhaps there isn't one or can't be one. "I assume the existence of a Beautiful, itself by itself, of a Good and a Great and all the rest. If you grant me these and agree that they exist, I hope to show you the cause as a result, and to find the soul to be immortal."
 
@@ -48,21 +48,27 @@ The forms are the metaphysical foundation of Plato's worldview. His belief in th
 
 Thomas:: So Socrates didn't have justifications for his mystical beliefs. He posits the forms to fulfill what he wanted to believe.
 
-Paul:: I wouldn't characterize it that way. As I said, he provides tangential reasons to believe the forms exist. You may not accept them, but we all must begin building our worldviews with assumptions. We are thrown into the world at birth and need to reason about the world from within the world. How we reason, be it with the senses or with words, is dictated by what we believe to be the nature of the world. But we must reason to form our beliefs about the nature of the world. Therefore, epistemology depends on metaphysics and metaphysics on epistemology. This circular dependency requires us to pick a starting place---to make an assumption. The assumption you choose may decide where you end up. You may not like Socrates' assumption, but such assumptions are unavoidable.
+Paul:: I wouldn't characterize it that way. As I said, he provides tangential reasons to believe the forms exist. You may not accept them, but we all must begin building our worldviews with assumptions. We are thrown into the world at birth and need to reason about the world from within the world. How we reason, be it with the senses or with words, is dictated by what we believe to be the nature of the world. But we must use reason to form our beliefs about the nature of the world. Therefore, epistemology depends on metaphysics and metaphysics on epistemology. This circular dependency requires us to pick a starting place---to make an assumption. Where you start may determine where you end.
 
-Thomas:: It seems like you are using fancy philosophical words to let mystics believe what they want. The scientific method is clearly effective, as can be seen by our great technological progress, and so, Socrates was wrong to abandon the senses and the body. If he lived today, his reasoning would have led him to abandon the forms.
+You may not like Socrates' assumption, but such assumptions are unavoidable.
 
-It is also ironic that empirical science disproved some of the ideas expressed near the end of the _Phaedo_. Socrates thought humans lived below a sea of air, and that other beings lived on the true surface of the earth. "We, who dwell in the hollows of it, are unaware of this and we think that we live above, on the surface of the earth. It is as if someone who lived deep down in the middle of the ocean thought he was living on its surface."
+Thomas:: Your analysis lets mystics believe whatever they want and equates reason with madness. Not all starting assumptions are equivalent. The scientific method's effectiveness is made evident by humanity's technological progress. In light of this, we can only say that Socrates was wrong to abandon the senses and the body. If he lived today, he would have abandoned the forms.
 
-It is a beautiful and clever vision, and fits with his theory of ethics, since true surface dwellers are "pure, not eaten away or spoiled by decay and brine or corroded by the water and air which have flowed into the hollows here and bring ugliness and disease upon earth, stones, the other animals and plants." However clever and beautiful, this vision is entirely wrong. The armchair philosopher succeeded in fooling themselves into believing what they wanted using deduction. Induction and the senses are the surest way to correct such misguided thoughts.
+Paul:: Are you so sure? What do you mean when you say, "it's not rational?" What is this reason you speak of? Materialists assume there is only matter. Then you say the idea or form of a circle must only exist in the mind. Why? Because there is only matter, and this is more reasonable than positing an actual ideal circle! Then you claim that simpler ideas are more likely than complex ones. One can't reason about how to reason.
 
-Paul:: Socrates made mistakes, and his final vision of the world---with the pure surface dwellers---was wrong in detail, but perhaps right in other ways.
+Thomas:: Why not? Your statement does what it says one can't do! Besides, Socrates says the senses don't lead to pure knowledge, but he ends the Phaedo with a mythical description of earth, filled with empirical claims. He says humans live below a sea of air, and that other beings live on the _true_ surface of the earth. "We, who dwell in the hollows of it, are unaware of this and we think that we live above, on the surface of the earth. It is as if someone who lived deep down in the middle of the ocean thought he was living on its surface."
+
+It's a beautiful and clever vision, and fits with his theory of ethics, since true surface dwellers are "pure, not eaten away or spoiled by decay and brine or corroded by the water and air which have flowed into the hollows here and bring ugliness and disease upon earth, stones, the other animals and plants." However clever and beautiful, this vision is entirely wrong.
+
+The armchair philosopher succeeded in fooling themselves into believing what they wanted using deduction. Induction and the senses are the surest way to correct such misguided thoughts.
+
+Paul:: Socrates made mistakes, and his final vision of the world---with the pure surface dwellers---was wrong in its details, but perhaps right in other ways.
 
 He deserves credit for loving the truth and inviting correction. He was mystical, but not dogmatic. After his final vision, he said: "No sensible man would insist that these things are as I have described them, but I think it is fitting for a man to risk the belief---for the risk is a noble one---that this, or something like this, is true about our souls and their dwelling places, since the soul is evidently immortal, and a man should repeat this to himself as if it were an incantation."
 
-Is it such a great philosophical sin to desire a particular truth? Is Troy erased by an archaeologists' hope? Or is the law of gravity true because Newton thought action-at-a-distance was absurd? No, Troy and gravity are what they are. The scientist can no better divest hope or fear than can a judge legal sentiment.
+Is it such a great philosophical sin to desire a particular truth? Is Troy erased by an archaeologists' hope? Or, contrarily, is the law of gravity true because Newton thought action-at-a-distance absurd? No, Troy and gravity are what they are. The scientist can no better divest hope or fear than can a judge legislative sentiments.
 
-Thomas:: You are right to challenge my views---conversation is a great aid to reason. I may judge Socrates' ideas, but I shouldn't judge Socrates the person. Our superior understanding of the world may make ideas seem silly, which once were convincing. Nobody can deny that Socrates deserves our respect.
+Thomas:: You are right to challenge my views---conversation is a great aid to reason. I may have judged Socrates too harshly. Our superior understanding of the world may make ideas seem silly, which once were convincing. Nobody can deny that Socrates deserves our respect.
 
 Paul:: I'm glad the discussion has been useful. I enjoyed it, although I need to go to make dinner. Shall we read _Ion_ next?
 
