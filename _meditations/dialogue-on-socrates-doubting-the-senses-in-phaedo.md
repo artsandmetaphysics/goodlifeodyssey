@@ -10,11 +10,11 @@ date: 2020-08-22
 
 <span class="sc">Thomas:</span> I did. It is filled with ideas, most mentioned in passing. For example, Socrates, after sitting up in bed, says pain and pleasure are tied together like two creatures sharing a head. This, and many such comments, make it fun to read.
 
-As a scientist, it struck me that Socrates—or Plato speaking as Socrates—thought true knowledge couldn’t come from the senses. He says: “The soul reasons best when none of the senses troubles it, neither hearing nor sight, nor pain nor pleasure, but when it is most by itself … if we are ever to pure knowledge we must escape from the body and observe things in themselves with the soul by itself.”
+As a scientist, it struck me that Socrates—or Plato speaking as Socrates—thought true knowledge couldn’t come from the senses. He says: “The soul reasons best when none of the senses troubles it, neither hearing nor sight, nor pain nor pleasure, but when it is most by itself … if we are ever to have pure knowledge we must escape from the body and observe things in themselves with the soul by itself.”
 
 Do you think he’s right?
 
-<span class="sc">Paul:</span> In part. I could think more if I worked less, and I could work less if I didn’t live in New York City. If not for its food, shows, and museums, I might not live in New York City. As he says, “it is the body and the care of it, to which we are enslaved, which compels us to acquire wealth, and all this makes us too busy to practice philosophy.”
+<span class="sc">Paul:</span> In part. I could philosophize more if I worked less, and I could work less if I didn’t live in New York City. If not for its food, shows, and museums, I might not live in New York City. As he says, “it is the body and the care of it, to which we are enslaved, which compels us to acquire wealth, and all this makes us too busy to practice philosophy.”
 
 <span class="sc">Thomas:</span> In your case, is the body to blame? You could afford to move to the countryside, eat simple foods, and spend most of your days reading. I think it’s your soul’s lack of willpower that keeps you in the city, siphoning away your time from philosophy.
 
