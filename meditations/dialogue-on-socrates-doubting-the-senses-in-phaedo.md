@@ -66,7 +66,7 @@ Paul:: Socrates made mistakes, and his final vision of the world---with the pure
 
 He deserves credit for loving the truth and inviting correction. He was mystical, but not dogmatic. After his final vision, he said: "No sensible man would insist that these things are as I have described them, but I think it is fitting for a man to risk the belief---for the risk is a noble one---that this, or something like this, is true about our souls and their dwelling places, since the soul is evidently immortal, and a man should repeat this to himself as if it were an incantation."
 
-Is it such a great philosophical sin to desire a particular truth? Is Troy erased by an archaeologists' hope? Or, contrarily, is the law of gravity true because Newton thought action-at-a-distance absurd? No, Troy and gravity are what they are. The scientist can no better divest hope or fear than can a judge legislative sentiments.
+Is it such a great philosophical sin to desire a particular truth? Is Troy erased by an archaeologists' hope? Or, contrarily, is the law of gravity true because Newton thought action-at-a-distance absurd? No, Troy and gravity are what they are. The scientist can no better divest their hopes and fears than can a judge their legislative sentiments.
 
 Thomas:: You are right to challenge my views---conversation is a great aid to reason. I may have judged Socrates too harshly. Our superior understanding of the world may make ideas seem silly, which once were convincing. Nobody can deny that Socrates deserves our respect.
 
