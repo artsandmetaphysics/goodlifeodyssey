@@ -464,6 +464,8 @@ The description of Nestor's cup, and strange food:
 > then invited them to drink when she had mulled it all.
 > ~ (11.626--41)
 
+According to Plato's dialogue, _Ion_, this drink was a sort of medicine.
+
 The Olympian trinity:
 
 > "Three brothers we are, sprung from Cronus,

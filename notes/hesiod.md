@@ -119,6 +119,18 @@ Herodotus' appears to view Hesiod similarly:
 > But the origin of each of the gods, or whether they always existed, and what they look like: all of this was unknown until just recently---only yesterday, so to speak.  For I believe that Hesiod and Homer were contemporaries who lived no more than 400 years before my time.  These were the poets who composed for the Hellenes the theogony, assigned to the gods their epithets, defined their particular honors and skills, and described what they look like.
 > - The Histories, 2.53
 
+Socrates, in Plato's dialogue _Ion_, says:
+
+> For of course poets tell us that they gather songs at honey-flowing springs, from glades and gardens of the Muses, and that they bear songs to us as bees carry honey, flying like bees. And what they say is true. For a poet is an airy thing, winged and holy, and he is not able to make poetry until he becomes inspired and goes out of his mind and his intellect is no longer with him. As long as a human being has his intellect in his possession he will always lack the power to make poetry or sing prophecy. Therefore because it's not by mastery that they make poems or say many lovely things about their subjects---but because it's a divine gift---each poet is able to compose beautifully only that for which the Muse has aroused him.
+> - Ion, 534b
+
+Ploto provides an example to justify his belief:
+
+> The best evidence for this account is Tynnichus from Chalcis, who never made a poem anyone would think worth mentioning, _except_ for this praise-song everyone sings, almost the most beautiful lyric-poem there is, and simply, as he says himself, "an invention of the Muses." In this more than anything, then, I think, the go is showing us, so that we should be in no doubt about it, that these beautiful poems are not human, not even _from_ human beings, but are divine and from gods; that poets are nothing but representatives of the gods, possessed by whoever possesses them. To show _that_, the god deliberately sang the most beautiful lyric poem through the most worthless poet.
+> - Ion, 534e
+
+For a long time I couldn't believe that a poet could believe their own made up stories. Sometime later, I noticed myself righteous mind making up reasons to believe what I thought or wanted to think. This awareness has made me accept that poets could believe their own stories.
+
 ## Genealogies and Creation
 
 Hesiod uses genealogy as an organizational and explanatory scheme for the gods.
