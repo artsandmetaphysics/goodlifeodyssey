@@ -129,6 +129,22 @@ Herodotus’ appears to view Hesiod similarly:
 <cite>— The Histories, 2.53</cite>
 </blockquote>
 
+Socrates, in Plato’s dialogue _Ion_, says:
+
+<blockquote>
+<p>For of course poets tell us that they gather songs at honey-flowing springs, from glades and gardens of the Muses, and that they bear songs to us as bees carry honey, flying like bees. And what they say is true. For a poet is an airy thing, winged and holy, and he is not able to make poetry until he becomes inspired and goes out of his mind and his intellect is no longer with him. As long as a human being has his intellect in his possession he will always lack the power to make poetry or sing prophecy. Therefore because it’s not by mastery that they make poems or say many lovely things about their subjects—but because it’s a divine gift—each poet is able to compose beautifully only that for which the Muse has aroused him.</p>
+<cite>— Ion, 534b</cite>
+</blockquote>
+
+Plato provides an example to justify his belief:
+
+<blockquote>
+<p>The best evidence for this account is Tynnichus from Chalcis, who never made a poem anyone would think worth mentioning, <em>except</em> for this praise-song everyone sings, almost the most beautiful lyric-poem there is, and simply, as he says himself, “an invention of the Muses.” In this more than anything, then, I think, the go is showing us, so that we should be in no doubt about it, that these beautiful poems are not human, not even <em>from</em> human beings, but are divine and from gods; that poets are nothing but representatives of the gods, possessed by whoever possesses them. To show <em>that</em>, the god deliberately sang the most beautiful lyric poem through the most worthless poet.</p>
+<cite>— Ion, 534e</cite>
+</blockquote>
+
+For a long time I couldn’t believe that a poet could believe their own made up stories. Sometime later, I noticed myself righteous mind making up reasons to believe what I thought or wanted to think. This awareness has made me accept that poets could believe their own stories.
+
 ## Genealogies and Creation
 
 Hesiod uses genealogy as an organizational and explanatory scheme for the gods.

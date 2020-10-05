@@ -493,6 +493,8 @@ The description of Nestor’s cup, and strange food:
 <p>then invited them to drink when she had mulled it all. <cite>(11.626–41)</cite></p>
 </blockquote>
 
+According to Plato’s dialogue, _Ion_, this drink was a sort of medicine.
+
 The Olympian trinity:
 
 <blockquote class="poetry">
