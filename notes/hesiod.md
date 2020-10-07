@@ -10,7 +10,7 @@ Hesiod was a famous Greek poet---the ancients often mention him in the same sent
 
 ## The Evolution of Myths
 
-Unlike most of the ancient Greeks, I don't believe that Zeus, Athena, or their other gods existed.  But why did the Greeks believe?  And where did their myths come from, if they are not true?
+Unlike most of the ancient Greeks, I don't believe that Zeus, Athena, or their other gods existed.  But if none of these gods existed, where did the myths come from?
 
 Some of Hesiod's myths are similar to Babylonian and Hittite myths.  This continuity is not surprising because new religious ideas usually evolve from older religious ideas.  But how did this evolution occur?  And where did the earlier myths come from?  We don't have enough evidence to answer either question with certainty, but Hesiod's poetry provides some small insight into each of them.
 
