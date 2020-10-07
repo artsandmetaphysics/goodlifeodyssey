@@ -10,7 +10,7 @@ This website is my logbook of landings within philosophy, religion, literature, 
 
 <h2 id="essays">Essays</h2>
 <ul class="index">
-  {% include li_by_id.html id='definitions' %}
+  {% include li_by_id.html id='types-of-definitions' %}
   {% include li_by_id.html id='justification-via-others-beliefs' %}
   {% include li_by_id.html id='beauty-and-truth' %}
   {% include li_by_id.html id='my-epistemology' %}
