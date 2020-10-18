@@ -18,11 +18,11 @@ Local definitions are also used in less formal contexts, although less explicitl
 
 Local definitions, especially ones that redefine words, can cause confusion. Quotations are easily misunderstood if an unaware reader substitutes the standard definition for the author’s intended local one. This confusion can be avoided by using new words, or by using longer, more precise phrases, instead. But both alternatives have shortcomings. New words are hard to remember, and phrases get tiresome. The latter problem may be evident in my use of the phrases _local definition_ and _standard definition_.
 
-A local definition can’t be _wrong_. It can only be _useless_—too precise, too general, or too confusing to be needed.
+A local definition can’t be _wrong_. It can only be _useless_—too precise, too general, or too confusing. Words that are too specific to be useful for most of us, may be useful for specialists. Sailors will need nautical terms and botanists botanical ones.
 
-A standard definition can be _wrong_ if it’s not what people usually mean by the word. Language purists may have other reasons why a definition is wrong, but I think they’re usually born out of frustration that standard definitions can shift over time.
+A standard definition, on the other hand, can be _wrong_ if it’s not what people _usually mean_ by the word. Language purists may have other reasons why a definition is wrong, but I think they’re usually born out of frustration that standard definitions can shift over time.
 
-These language shifts are one reason that Shakespeare is hard to understand. and is also one reason it is hard to know what _people usually mean_. Word use also varies geographically, which is why there are British dictionaries and American dictionaries. Even two same-aged Americans will use words differently.
+These language shifts are one reason that Shakespeare is hard to understand. It is also one reason it is hard to know what _people usually mean_. Word use also varies geographically, which is why there are British dictionaries and American dictionaries. Even two same-aged Americans will use words differently.
 
 Despite these complexities, whether a standard definition is correct is a question of averages. What does the average American mean when they use _racism_? This question is hard, but not impossible, to answer. To do so, dictionary writers collect billions of American sentences to analyze how, and how often, words are used in them. They also track how word use changes and update their definitions accordingly.
 
@@ -46,7 +46,6 @@ Similarly, mathematical texts use words to provide meaning to their axiomatic sy
 Words are like mathematical models used by engineers and scientists. The simplest model that accurately describes the portion of reality that is of interest is often the best. Analogously, we often use words in ways that are precise enough to accomplish the task we need them too. Everyday conversations tend to use simpler grammar and vocabulary because simpler tasks are being accomplished.
 
 Words that are too broad or too narrow are not useful. When no common words provide detailed enough models for the area of interest, specialists develop lingo.
-
 
 ## Precise Definitions
 
