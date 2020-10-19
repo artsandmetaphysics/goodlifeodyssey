@@ -57,7 +57,7 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
 - Book III
   - Jove rapes Europa
   - Cadmus kills the dragon; sows the teeth; founds Thebes
-  - Actaeon sees Diana naked; transformed into a stag and is hunted
+  - Actaeon sees Diana naked, turned into a stag, hunted
   - Jove impregnates Semele; Juno enacts revenge
   - The judgement of Tiresias
   - Echo is cursed by Jove; she falls for Narcissus
@@ -99,7 +99,7 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
   - Tereus marries Procne, rapes her sister Philomela, eats his son
   - Boreas steals Orithya as his bride
 - Book VII
-  - Jason arrives; Medea’s monologue; Jason wins her and the fleece
+  - Jason arrives; Medea’s monologue; Jason wins fleece and her
   - Medea’s potion of youth for Aeson
   - Medea fools old Pelias’s daughters into killing him
   - Story-filled flight of Medea; Jason’s betrayal; Medea’s revenge
@@ -125,7 +125,7 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
     - Erysichthon cuts Ceres’ tree; sells daughter; eats himself
 - Book IX
     - Acheloüs recounts wrestling with Hercules and losing his horn
-  - Hercules save Deianira; Nessus’ revenge by poisoned bloody cloak
+  - Hercules save Deianira; Nessus’ revenge by poisoned cloak
   - Hercules’ in pain; recounts deeds; climbs mountain
   - Hercules throws Lichas into the sea; he becomes an island
   - Hercules’ death and apotheosis
@@ -148,16 +148,16 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
       - Hippomenes outraces Atalanta with Venus’ apples
     - Adonis impaled by a boar; Venus morphs him into an anemone
 - Book XI
-  - Orpheus murdered by the Maenads, who are then turned to tree
+  - Orpheus murdered by Maenads, who are turned to trees
   - Midas save Silenus; golden touch; Pan vs Apollo; asses’ ears
   - Apollo and Neptune build the Trojan walls for Laomedon
-  - Zeus ordains that Peleus will marry Thetis; rape leads to Achilles
+  - Zeus makes Thetis marry Peleus; rape leads to Achilles
   - Apollo and Mercury rape Daedalion’s daughter; Diana’s jealousy
   - The wolf of Psamathe and Peleus’ flock
   - Ceyx leaves against Alcyone wishes; drowns in an epic storm
   - The house of Sleep; Juno has Alcyone visited in a dream
   - Alcyone despairs; husbands floating body; both turned to birds
-  - Aesacus chases the nymph to her death; cliff jump; becomes bird
+  - Aesacus chases nymph to her death; cliff jump; becomes bird
 - Book XII
   - Iphigenia sacrificed to appease Diana and the winds
   - The house of Rumor
@@ -177,12 +177,12 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
     - Polyphemus, Galatea, and Acis
   - Glaucas tells Scylla of magical grass morphing him into a fish
 - Book XIV
-  - Glaucus asks Circe for help; she proposes; rejected, mutates Syclla
+  - Glaucus entreats Circe; she proposes; rejected, mutates Syclla
   - Aeneas wanders; Dido kills herself
   - The Sibyl helps Aeneas consult dead Anchises and tells her story
     - Macareus escapes Polyphemus and joins Aeneas’ crew
     - Macareus recounts Circe’s island with Ulysses
-      - Women tells of Circe spurned, then transforming Picus
+      - Women tells of Circe spurned and transforming Picus
   - Impious Acmon transformed into a bird
   - Shepard turned into a bitter olive tree
   - Aeneas’ ships transformed into water nymphs
@@ -196,7 +196,7 @@ Ovid focuses on telling the many stories using beautiful and light-hearted langu
 - Book XV
   - Numa, Rome’s wise second king
   - Myscelus and the founding of Crotona
-    - Pythagoras; the transmigration of souls; change everywhere
+    - Pythagoras; transmigration of souls; all changes
   - Egeria and Hippolytus
   - Tages; The spear of Romulus; Cipus
   - Apollo’s son moves to Rome
