@@ -6,16 +6,13 @@ layout: null
     <channel>
         <title>Good Life Odyssey</title>
         <link>{{ site.url }}</link>
-        <description>
-We are on a long journey to find and live the good life. For most of us, our destination is behind a haze, and we must navigate while traveling.
-
-This website is my logbook of landings within philosophy, religion, literature, and history.</description>      
+        <description>We are on a long journey to find and live the good life. For most of us, our destination is behind a haze, and we must navigate while traveling. This website is my logbook of landings within philosophy, religion, literature, and history.</description>      
 	    {% for id in site.data.links.meditations %}
         {% for collection in site.collections -%}
         {% for post in collection.docs -%}
 		{% if d.url contains p %}
             <item>
-                <title>{{ post.title | xml_escape }}</title>
+                <title>{{ page.title | xml_escape | normalize_whitespace | replace: "_", '"' }}</title>
                 <description>{{ include.doc.description | replace: "_", '"' | xml_escape | normalize_whitespace }}</description>
                 <link>{{ site.url }}{{ post.url }}</link>
                 <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
@@ -30,7 +27,7 @@ This website is my logbook of landings within philosophy, religion, literature, 
         {% for post in collection.docs -%}
 		{% if d.url contains p %}
             <item>
-                <title>{{ post.title | xml_escape }}</title>
+                <title>{{ page.title | xml_escape | normalize_whitespace | replace: "_", '"' }}</title>
                 <description>{{ include.doc.description | replace: "_", '"' | xml_escape | normalize_whitespace }}</description>
                 <link>{{ site.url }}{{ post.url }}</link>
                 <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
