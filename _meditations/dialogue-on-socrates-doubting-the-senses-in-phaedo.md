@@ -14,7 +14,7 @@ As a scientist, it struck me that Socrates—or Plato speaking as Socrates—tho
 
 Do you think he’s right?
 
-<span class="sc">Paul:</span> In part. I could philosophize more if I worked less, and I could work less if I didn’t live in New York City. If not for its food, shows, and museums, I might not live in New York City. As he says, “it is the body and the care of it, to which we are enslaved, which compels us to acquire wealth, and all this makes us too busy to practice philosophy.”
+<span class="sc">Paul:</span> In part. I could spend more time philosophizing if I worked less, and I could work less if I didn’t live in New York City. If not for its food, shows, and museums, I might not live in New York City. As he says, “it is the body and the care of it, to which we are enslaved, which compels us to acquire wealth, and all this makes us too busy to practice philosophy.”
 
 <span class="sc">Thomas:</span> In your case, is the body to blame? You could afford to move to the countryside, eat simple foods, and spend most of your days reading. I think it’s your soul’s lack of willpower that keeps you in the city, siphoning away your time from philosophy.
 

@@ -8,7 +8,7 @@ date: 2020-11-08
 
 Dijon:: How does one define "religion"?
 
-Aaron:: Why do you want to? Like most abstract terms, I think it is impossible to define precisely. At best we can find a definition that is suitable for your use.
+Aaron:: Why do you want to? Like most abstract terms, I think it is impossible to define precisely. At best you can find a definition that is suitable for your use.
 
 Dijon:: I want to find a systematic way of evaluating if a religion is true. To do this, I figured I would first need to know what a "religion" is.
 
