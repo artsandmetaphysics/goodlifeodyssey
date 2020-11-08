@@ -1,0 +1,24 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Good Life Odyssye</title>
+        <description>
+We are on a long journey to find and live the good life. For most of us, our destination is behind a haze, and we must navigate while traveling.
+
+This website is my logbook of landings within philosophy, religion, literature, and history.</description>      
+        <link>{{ site.url }}</link>
+        <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
+        {%- for collection in site.collections -%}
+        {%- for post in collection.docs -%}
+            <item>
+                <title>{{ post.title | xml_escape }}</title>
+                <description>{{ post.content | xml_escape }}</description>
+                <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+                <link>{{ site.url }}{{ post.url }}</link>
+                <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+            </item>
+        {% endfor %}
+    </channel>
+</rss>
