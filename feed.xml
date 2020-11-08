@@ -10,14 +10,33 @@ layout: null
 We are on a long journey to find and live the good life. For most of us, our destination is behind a haze, and we must navigate while traveling.
 
 This website is my logbook of landings within philosophy, religion, literature, and history.</description>      
+	    {% for id in site.data.links.meditations %}
         {% for collection in site.collections -%}
-        {%- for post in collection.docs -%}
+        {% for post in collection.docs -%}
+		{% if d.url contains p %}
+            <item>
+                <title>{{ post.title | xml_escape }}</title>
+                <description>{{ include.doc.description | replace: "_", '"' | xml_escape | normalize_whitespace }}</description>
+                <link>{{ site.url }}{{ post.url }}</link>
+                <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+                <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+            </item>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+        {% endfor %}
+	    {% for id in site.data.links.essays %}
+        {% for collection in site.collections -%}
+        {% for post in collection.docs -%}
+		{% if d.url contains p %}
             <item>
                 <title>{{ post.title | xml_escape }}</title>
                 <description>{{ include.doc.description | replace: "_", '"' | xml_escape | normalize_whitespace }}</description>
                 <link>{{ site.url }}{{ post.url }}</link>
                 <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
             </item>
+        {% endif %}
+        {% endfor %}
         {% endfor %}
         {% endfor %}
     </channel>

@@ -10,51 +10,28 @@ This website is my logbook of landings within philosophy, religion, literature, 
 
 <h2 id="essays">Essays</h2>
 <ul class="index">
-  {% include li_by_id.html id='types-of-definitions' %}
-  {% include li_by_id.html id='justification-via-others-beliefs' %}
-  {% include li_by_id.html id='beauty-and-truth' %}
-  {% include li_by_id.html id='my-epistemology' %}
-  {% include li_by_id.html id='universal-historical-laws' %}
-  {% include li_by_id.html id='meaning-and-purpose' %}
-  {% include li_by_id.html id='a-definition-of-faith' %}
-  {% include li_by_id.html id='faith-and-reason' %}
-  {% include li_by_id.html id='faith-and-righteousness' %}
-  {% include li_by_id.html id='fear-of-death' %}
-  {% include li_by_id.html id='ethical-progress' %}
-  {% include li_by_id.html id='justice' %}
-  {% include li_by_id.html id='love-thy-neighbor-as-thyself' %}
+  {% for p in site.data.links.essays %}
+  {% include li_by_id.html id=p %}
+  {% endfor %}
 </ul>
 
 <h2 id="meditations">Meditations</h2>
 <ul class="index">
-  {% include li_by_id.html id='dialogue-on-socrates-doubting-the-senses-in-phaedo' %}
-  {% include li_by_id.html id='dialogue-on-reading-vs-watching-the-news' %}
-  {% include li_by_id.html id='what-causes-generation-gaps' %}
-  {% include li_by_id.html id='duty-to-others-and-platos-apology' %}
-  {% include li_by_id.html id='antigone-historical-context' %}
-  {% include li_by_id.html id='euthyphro-and-a-universal-morality' %}
-  {% include li_by_id.html id='euthyphro-initial-impressions' %}
-  {% include li_by_id.html id='sophocles-ode-to-man' %}
-  {% include li_by_id.html id='as-a-driven-leaf' %}
+  {% for p in site.data.links.meditations %}
+  {% include li_by_id.html id=p %}
+  {% endfor %}
 </ul>
 
 <h2 id="notes">Notes and Commentary</h2>
 <ul class="index">
-  {% include li_by_id.html id='how-to-read' %}
-  {% include li_by_id.html id='ancient-greece' %}
-  {% include li_by_id.html id='the-epic-of-gilgamesh' %}
-  {% include li_by_id.html id='hesiod' %}
-  {% include li_by_id.html id='the-iliad' %}
-  {% include li_by_id.html id='the-odyssey' %}
-  {% include li_by_id.html id='homeric-hymns' %}
-  {% include li_by_id.html id='the-histories-herodotus' %}
-  {% include li_by_id.html id='metamorphoses' %}
-  {% include li_by_id.html id='seneca' %}
-  {% include li_by_id.html id='the-master-and-margarita' %}
-  {% include li_by_id.html id='gullivers-travels' %}
+  {% for p in site.data.links.notes %}
+  {% include li_by_id.html id=p %}
+  {% endfor %}
 </ul>
 
 <h2 id="poetry">Poetry</h2>
 <ul class="index">
-  {% include li_by_id.html id='questioning-poem' %}
+  {% for p in site.data.links.poems %}
+  {% include li_by_id.html id=p %}
+  {% endfor %}
 </ul>
