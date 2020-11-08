@@ -2,8 +2,7 @@
 title: >
   Ancient Greece
 description: >
-  Notes on Greece
-type: note
+  Notes on Ancient Greece
 ---
 
 Many of these notes were taken from _Ancient Greece_ by Thomas R. Martin.

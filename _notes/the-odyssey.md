@@ -3,8 +3,6 @@ title: >
   The _Odyssey_
 description: >
   Notes on the _Odyssey_
-type: note
-status: incomplete
 ---
 
 ## Background

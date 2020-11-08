@@ -3,7 +3,6 @@ title: >
   _Gulliver’s Travels_ by Jonathan Swift
 description: >
   Notes on _Gulliver’s Travels_ by Jonathan Swift
-type: note
 ---
 
 ## Background

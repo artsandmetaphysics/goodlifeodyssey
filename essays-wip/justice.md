@@ -5,7 +5,7 @@ description: >
   A meandering contemplation of justice
 ---
 
-If everyone was perfect, we would not need justice.  Thus justice is distinguished from a moral code; justice exists independently as a mean of addressing failures to follow a moral code.
+If everyone was perfect, we would not need justice. Thus justice is distinguished from a moral code; justice exists independently as a means of addressing failures to follow a moral code.
 
 There seems to be two levels of justice.  The current system, and the underlying ideal.
 

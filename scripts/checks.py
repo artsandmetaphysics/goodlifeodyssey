@@ -1,4 +1,5 @@
 import glob
+import sys
 
 import yaml
 
@@ -10,7 +11,11 @@ source_directories = [
     "poetry",
 ]
 
+exit_code = 0
+
 def print_error(filename, message):
+    global exit_code
+    exit_code = 1
     print(f"{filename} {message}")
 
 files_found = {}
@@ -18,7 +23,7 @@ files_found = {}
 for sd in source_directories:
     files_found[sd] = []
     for fp in glob.iglob(f"./{sd}/*.md"):
-        files_found[sd].append(fp[:(len(".md"))])
+        files_found[sd].append(fp[len(f"./{sd}/"):-len(".md")])
         lines = open(fp, "r").readlines()
         if lines[0] != "---\n":
             print(lines[0])
@@ -37,14 +42,21 @@ for sd in source_directories:
             print_error(fp, f"Invalid frontmatter: {e}")
             continue
 
+        if sd == "meditations" and "date" not in data:
+            print_error(fp, "No date in frontmatter")
         if "title" not in data:
             print_error(fp, "No title in frontmatter")
+        if "type" in data:
+            print_error(fp, "Type specified in frontmatter")
+        if "status" in data:
+            print_error(fp, "Status specified in frontmatter")
+
         if "description" not in data:
             print_error(fp, "No description in frontmatter")
         else:
             description_len = len(data['description'])
-            if description_len < 50:
-                print_error(fp, f"Description shorter than 50 chars ({description_len})")
+            if description_len < 20:
+                print_error(fp, f"Description shorter than 20 chars ({description_len})")
             if description_len > 160:
                 print_error(fp, f"Description longer than 160 chars ({description_len})")
 
@@ -53,15 +65,15 @@ file_index = yaml.load(open("./_data/index.yml", "r"), Loader=yaml.FullLoader)
 for sd in files_found:
     expected_files = set(file_index[sd])
     actual_files = set(files_found[sd])
-    for f in actual_files:
-        print(f)
-    # missing_files = expected_files - actual_files
-    # if missing_files:
-        # print("There were missing files:")
-        # for f in missing_files:
-            # print(f"  ./{sd}/{f}.md")
-    # extra_files = actual_files - expected_files
-    # if extra_files:
-        # print("There were extra files:")
-        # for f in extra_files:
-            # print(f"  ./{sd}/{f}.md")
+    missing_files = expected_files - actual_files
+    if missing_files:
+        print_error("", "There were missing files:")
+        for f in missing_files:
+            print_error("", f"  ./{sd}/{f}.md")
+    extra_files = actual_files - expected_files
+    if extra_files:
+        print_error("", "There were extra files:")
+        for f in extra_files:
+            print_error("", f"  ./{sd}/{f}.md")
+
+sys.exit(exit_code)

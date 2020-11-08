@@ -3,7 +3,6 @@ title: >
   Seneca
 description: >
   Notes on Seneca's Philosphy and Plays
-type: note
 ---
 
 Lucius Annaeus Seneca, known as Seneca or "Seneca the Younger," was born around 4 BCE in Corduba and raised in Rome, where he was trained in rhetoric and philosophy. In 41 CE, Seneca was exiled to the island of Corsica by the emperor Claudius, but was allowed to return in 49 to become a tutor to Nero. When Nero became emperor in 54, Seneca became his adviser. Seneca's influence over Nero declined with time, and in 65 Seneca was forced to take his own life for alleged complicity in a conspiracy to assassinate Nero, in which he was likely to have been innocent.

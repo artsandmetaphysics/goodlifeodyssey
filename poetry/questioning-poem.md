@@ -3,8 +3,6 @@ title: >
   Questioning
 description: >
   A poem about life and its questions.
-type: poem
-status: complete
 ---
 
 ~~~

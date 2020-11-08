@@ -3,8 +3,6 @@ title: >
   _The Master and Margarita_
 description: >
   My thoughts, a summary, and a brief analysis of the theme of belief in the supernatural within the Russian classic _The Master and Margarita_.
-type: note
-status: incomplete
 ---
 
 ## Background

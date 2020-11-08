@@ -3,7 +3,6 @@ title: >
   The _Iliad_
 description: >
   Notes on the _Iliad_
-type: note
 ---
 
 ## Background

@@ -2,7 +2,7 @@
 title: >
   Types of Definitions
 description: >
-  There are different types of definitions. One type tries to describe how a word is typically used. A second type specifies the meaning of a word within a particular context. In this essay, we e
+  I compare definitions of a word is typically used with definitions that apply within particular contexts.
 redirect_from:
  - /on-definitions
 ---
