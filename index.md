@@ -10,28 +10,28 @@ This website is my logbook of landings within philosophy, religion, literature, 
 
 <h2 id="essays">Essays</h2>
 <ul class="index">
-  {% for p in site.data.links.essays %}
+  {% for p in site.data.index.essays %}
   {% include li_by_id.html id=p %}
   {% endfor %}
 </ul>
 
 <h2 id="meditations">Meditations</h2>
 <ul class="index">
-  {% for p in site.data.links.meditations %}
+  {% for p in site.data.index.meditations %}
   {% include li_by_id.html id=p %}
   {% endfor %}
 </ul>
 
 <h2 id="notes">Notes and Commentary</h2>
 <ul class="index">
-  {% for p in site.data.links.notes %}
+  {% for p in site.data.index.notes %}
   {% include li_by_id.html id=p %}
   {% endfor %}
 </ul>
 
 <h2 id="poetry">Poetry</h2>
 <ul class="index">
-  {% for p in site.data.links.poetry %}
+  {% for p in site.data.index.poetry %}
   {% include li_by_id.html id=p %}
   {% endfor %}
 </ul>
