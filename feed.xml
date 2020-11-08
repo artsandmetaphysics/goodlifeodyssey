@@ -20,5 +20,6 @@ This website is my logbook of landings within philosophy, religion, literature, 
                 <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
             </item>
         {% endfor %}
+        {% endfor %}
     </channel>
 </rss>
