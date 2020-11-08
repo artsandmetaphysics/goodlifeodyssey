@@ -3,8 +3,6 @@ title: >
   Ethical Progress
 description: >
   Are we more ethical than the ancients?
-type: essay
-status: incomplete
 ---
 
 Has humanity made ethical progress?  Are we more moral than the ancients?

@@ -31,7 +31,7 @@ This website is my logbook of landings within philosophy, religion, literature, 
 
 <h2 id="poetry">Poetry</h2>
 <ul class="index">
-  {% for p in site.data.links.poems %}
+  {% for p in site.data.links.poetry %}
   {% include li_by_id.html id=p %}
   {% endfor %}
 </ul>

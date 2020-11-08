@@ -3,8 +3,6 @@ title: >
   Fear of Death
 description: >
   Why are we afraid of death?
-type: essay
-status: incomplete
 ---
 
 Many people are afraid of death.  Many of us like the idea of living forever, but why?
