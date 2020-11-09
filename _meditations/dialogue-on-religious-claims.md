@@ -20,11 +20,13 @@ date: 2020-11-08
 
 <span class="sc">Dijon:</span> I don’t think so. If a religion says you should follow a ritual, then you can ask why, and what answer could be given? Any answer must make a claim about reality: “We must sacrifice a bull. Why? So Poseidon won’t sink our ship. Who is Poseidon? Poseidon is a god.” You may say there are religions that don’t require you to follow rituals. But if that’s the case, what is left? Or you may say there are religions where belief is optional. But if belief is optional, then the rituals must also be optional.
 
-<span class="sc">Aaron:</span> You’re point is well taken. We could continue debating whether there could be a religion that doesn’t make claims about reality, but maybe this isn’t necessary. You want to tell if a religion’s statements about reality are true, thus, even if such religions could exist, we can ignore religions them.
+<span class="sc">Aaron:</span> You’ve convinced me that all religions make statements about reality. Furthermore, we could ignore any religions that didn’t, because such a religion couldn’t be true or false in the sense you care about.
 
-This helps us avoid defining “religion”, although we still may need to distinguish statements made by religions from general ones.
+Ignoring such religions also lets us avoid quibbling over definitions, although we may still need to distinguish _religious_ claims from general ones.
 
-<span class="sc">Dijon:</span> I think religions make a unique types of claim. Consider these four examples:
+<span class="sc">Dijon:</span> I’m glad my argument was convincing. I would be happy to ignore religions that don’t make claims about reality, and I agree we haven’t completely avoided the need to define religion.
+
+I think religions make a unique sorts of claims. Consider these examples:
 
 - God appeared to the nation of Israel on Mount Sinai and gave them the ten commandments.
 - Jesus is the son of God and rose from the dead after being crucified.
