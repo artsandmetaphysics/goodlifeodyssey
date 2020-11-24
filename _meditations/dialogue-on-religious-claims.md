@@ -18,7 +18,7 @@ date: 2020-11-08
 
 <span class="sc">Aaron:</span> Do all religions make such claims? Some people say that ritual, and not belief, is the essence of religion. Could there be a religion that only has rituals but no beliefs?
 
-<span class="sc">Dijon:</span> I don’t think so. If a religion says you should follow a ritual, then you can ask why, and what answer could be given? Any answer must make a claim about reality: “We must sacrifice a bull. Why? So Poseidon won’t sink our ship. Who is Poseidon? Poseidon is a god.” You may say there are religions that don’t require you to follow rituals. But if that’s the case, what is left? Or you may say there are religions where belief is optional. But if belief is optional, then the rituals must also be optional.
+<span class="sc">Dijon:</span> I don’t think so. If a religion says you should follow a ritual, then you can ask why. What answer could be given? Any answer must make a claim about reality: “We must sacrifice a bull. Why? So Poseidon won’t sink our ship. Who is Poseidon? Poseidon is a god.” You may say there are religions that don’t require you to follow rituals. But if that’s the case, what is left? You may say there are religions where belief is optional. But if belief is optional, then the rituals must be too.
 
 <span class="sc">Aaron:</span> You’ve convinced me that all religions make statements about reality. Furthermore, we could ignore any religions that didn’t, because such a religion couldn’t be true or false in the sense you care about.
 
@@ -26,7 +26,7 @@ Ignoring such religions also lets us avoid quibbling over definitions, although 
 
 <span class="sc">Dijon:</span> I’m glad my argument was convincing. I would be happy to ignore religions that don’t make claims about reality, and I agree we haven’t completely avoided the need to define religion.
 
-I think religions make a unique sorts of claims. Consider these examples:
+I think religions make unique claims. Consider these examples:
 
 - God appeared to the nation of Israel on Mount Sinai and gave them the ten commandments.
 - Jesus is the son of God and rose from the dead after being crucified.
@@ -37,11 +37,11 @@ I think religions make a unique sorts of claims. Consider these examples:
 
 Let’s focus just on the historical claims for now. How are they different from non-religious historical claims? For example, “Sargon of Akkad conquered the Sumerian city states around 2400 BCE.”
 
-<span class="sc">Dijon:</span> They claim that rare supernatural events occurred, while your example does not. It is not uncommon for one ruler to conquer another city. It is rare for God to appear to an entire nation or for someone to rise from the dead.
+<span class="sc">Dijon:</span> They claim that rare supernatural events occurred, while your example does not. It is not uncommon for one ruler to conquer another city. It is rare for God to appear to a large group of people or for someone to rise from the dead.
 
 The distinction matters. We only know about historical events because of the effects, or evidence, they produce.
 
-If I see circular waves emanating from a point in a pond, I would suspect something was dropped there. I may even be able to tell how large the object was is and how long ago it was dropped. This is possible because I understand the effects caused by dropping something into a pond.
+If I see circular waves emanating from a point in a pond, I would suspect something was dropped there. I may even be able to tell how large the object was and how long ago it was dropped. This is possible because I understand the effects caused by dropping something into a pond.
 
 In general, to know about the past we require physical evidence and an understanding of the process that caused the evidence to exist.
 
@@ -49,7 +49,7 @@ Unfortunately, there is often several causes for any given effect. In general, t
 
 Faced with several possible causes, how can we decide which is more likely? We must find additional evidence, if we can, or we must use similar experiences to rule some of them out.
 
-Both strategies are difficult to apply to supernatural events. Since they are rare, so we can’t develop an intuition for how probable or improbable they may be. Sometimes we may be able to gather additional evidence, but most of the religious events we are interested occurred so long ago, this is effectively impossible.
+Both strategies are difficult to apply to supernatural events. Since they are rare, we can’t develop an intuition for their likelihood. Sometimes we may be able to gather additional evidence, but most of the religious events we are interested in occurred so long ago, this is effectively impossible.
 
 For example, given the content of the Hebrew bible and the archaeological record, which is more likely: that God appearing to the Israelites in 1200 BCE or that the stories were written by humans in the Israelites during the intervening centuries? Likewise, how could I tell if the Qur’an was revealed to Muhammad or that he made it up?
 
