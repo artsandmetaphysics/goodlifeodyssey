@@ -5,7 +5,7 @@ description: >
   Why are we afraid of death?
 ---
 
-Many people would prefer to live forever instead of dying. Why?
+Many people would prefer living forever to dying. Why?
 
 If it is simply because we enjoy our life now, or could imagine enjoying it if all our trials were gone, then consider this: perhaps we would get bored of living even the best life? It seems unlikely that it would happen in 100 years, or even in 1000 years, but perhaps, after 10,000 years we would be bored.  Maybe we would actually want to die.
 
