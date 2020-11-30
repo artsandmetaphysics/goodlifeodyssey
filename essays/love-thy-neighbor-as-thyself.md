@@ -1,6 +1,6 @@
 ---
 title: >
-  Love Thy Neighbor as Thyself
+  Love Thy Neighbor as Thyself is Extreme
 description: >
   A brief discussion of the second great commandment of the New Testament.
 ---

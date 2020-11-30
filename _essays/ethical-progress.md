@@ -1,6 +1,6 @@
 ---
 title: >
-  Ethical Progress
+  Has humanity made ethical progress?
 description: >
   Are we more ethical than the ancients?
 ---

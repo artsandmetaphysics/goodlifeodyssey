@@ -1,13 +1,13 @@
 ---
 title: >
-  Fear of Death
+  Why Do We Fear Death?
 description: >
   Why are we afraid of death?
 ---
 
-Many people are afraid of death.  Many of us like the idea of living forever, but why?
+Many people would prefer to live forever instead of dying. Why?
 
-If it is simply because we enjoy our life now, or could imagine enjoying it if all our trials were gone, then consider this: perhaps we would get bored of living even the best life?  It seems unlikely that it would happen in 100 years, or even in 1000 years, but perhaps, after 10,000 years we would be bored.  Maybe we would actually want to die.
+If it is simply because we enjoy our life now, or could imagine enjoying it if all our trials were gone, then consider this: perhaps we would get bored of living even the best life? It seems unlikely that it would happen in 100 years, or even in 1000 years, but perhaps, after 10,000 years we would be bored.  Maybe we would actually want to die.
 
 <blockquote>
 <p>If we are suffering illness, poverty, or misfortune, we think we shall be satisfied on the day it ceases. But there too, we know it is false; so soon as one has got used to not suffering one wants something else.</p>

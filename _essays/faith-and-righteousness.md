@@ -1,6 +1,6 @@
 ---
 title: >
-  Faith and Righteousness
+  Does Faith Decrease Righteousness?
 description: >
   Are the faithless more righteous than the faithful?
 ---
