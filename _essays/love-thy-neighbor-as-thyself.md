@@ -14,15 +14,15 @@ Jesus distills the law into two commands:
 
 The second greatest commandment is extreme. Most of us love ourselves a lot, so loving our neighbors as ourselves is exceedingly difficult. And we must also love our neighbor’s children as we love our own children.
 
-Who are our neighbors? Does it include all other humans, or only those in our immediate vicinity? If the latter, hermits can avoid the difficulty of this challenging ethical imperative. If the former, we must love all people as we love ourselves.
+Who are our neighbors? Does it include all other humans, or only those in our immediate vicinity? If the latter, we should all become hermits. If the former, we must love all people as we love ourselves.
 
-The Golden Rule, as I understand it, is much more moderate:
+There is a moderate alternative—the Golden Rule. It says:
 
 <blockquote>
 <p>“In everything do to others as you would have them do to you; for this is the law and the prophets.”</p>
 <cite>— Matthew 7:12</cite>
 </blockquote>
 
-I would not expect a stranger to give their life for me. If I was poor, I would not expect a wealthy person on the other side of the world to give all of their wealth to help me. I may expect them to donate _some_ amount to help others, but not everything and not to me. I would not expect my neighbor to love me as they love themselves.
+I would not expect a stranger to give their life for me. Nor, if I was poor, would I expect someone far away to give me and my neighbors all of their wealth. I would expect them to donate _something_ to help someone. I also would not expect my neighbor to love me as they love themselves.
 
 <small>Quotations are from the New Revised Standard Version.</small>
