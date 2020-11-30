@@ -14,11 +14,11 @@ The second greatest commandment is extreme. Most of us love ourselves a lot, so 
 
 Who are our neighbors? Does it include all other humans, or only those in our immediate vicinity? If the latter, we should all become hermits. If the former, we must love all people as we love ourselves.
 
-There is a moderate alternative---the Golden Rule. It says:
+Jesus also gives a moderate ethical imperative---the Golden Rule. It says:
 
 > "In everything do to others as you would have them do to you; for this is the law and the prophets."
 > - Matthew 7:12
 
-I would not expect a stranger to give their life for me. Nor, if I was poor, would I expect someone far away to give me and my neighbors all of their wealth. I would expect them to donate _something_ to help someone. I also would not expect my neighbor to love me as they love themselves.
+I would not expect a stranger to give their life for me. Nor, if I was poor, would I expect someone far away to give me and my neighbors all of their wealth. I _would_ expect them to contribute, somehow. I also would not expect my neighbor to love me as they love themselves.
 
 <small>Quotations are from the New Revised Standard Version.</small>
