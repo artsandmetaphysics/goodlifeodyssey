@@ -57,8 +57,8 @@ for sd in source_directories:
             description_len = len(data['description'])
             if description_len < 20:
                 print_error(fp, f"Description shorter than 20 chars ({description_len})")
-            if description_len > 160:
-                print_error(fp, f"Description longer than 160 chars ({description_len})")
+            if description_len > 350:
+                print_error(fp, f"Description longer than 350 chars ({description_len})")
 
 # check that all of the titles map out
 file_index = yaml.load(open("./_data/index.yml", "r"), Loader=yaml.FullLoader)
