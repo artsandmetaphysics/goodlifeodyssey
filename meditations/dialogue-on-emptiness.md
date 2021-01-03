@@ -48,7 +48,7 @@ Eurus:: Your second definition is better, but it still feels odd to me. There ar
 
 Dijon:: Such constructs do _feel_ like mathematical machinery. However how could it be any other way? If the materialists are correct and the fundamental building blocks of reality, say atoms, are small and simple and eyes are large and complex, then eyes would necessarily not be able to see atoms. Atoms could only be known indirectly. Furthermore, if the universe is ordered, the atoms would follow mathematical laws and thus would be indirectly-known mathematical machinery.
 
-Even if the materialists are wrong, I don't see how we could access the things-in-itself. For example, I can imagine a dualistic universe where sight is a fundamental property of mind. Since sight isn't be constructed from atoms, the minds could possibly see material atoms directly. It would be as if our vision was pixelated, and the laws of physics appeared to operate on pixels. Minds could wonder if the pixels were things-in-themselves.
+Even if the materialists are wrong, I don't see how we could access the things-in-themselves. For example, I can imagine a dualistic universe where sight is a fundamental property of mind. Since sight isn't be constructed from atoms, the minds could possibly see material atoms directly. It would be as if our vision was pixelated, and the laws of physics appeared to operate on pixels. Minds could wonder if the pixels were things-in-themselves.
 
 In all cases, there may be more to the fundamentally existing thing---or there may not. How could we know?
 
