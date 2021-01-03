@@ -18,7 +18,7 @@ Dijon:: I appreciate that you are willing to engage with me on these important q
 
 Eurus:: Śūnyatā doesn't say that nothing exists, but only that nothing has svabhāva---essence, inherent existence, or true identity. Śūnyatā is closely related to dependent origination, or pratītyasamutpāda. According to this doctrine, all phenomena arise in dependence upon other phenomena, which themselves arise in dependence upon other phenomena. Dependent origination leads to śūnyatā because phenomena can't exist independently. Things do exist _conventionally_, similar to how Theseus's ship exists conventionally. The error is to think that anything exists in-and-of-itself.
 
-Nāgārjuna, who founded the Madhyamaka Buddhist school, summarizes this in a famous verse of his  _Mūlamadhyamakakārikā_:
+Nāgārjuna, who founded the Madhyamaka Buddhist school, summarizes this in a famous verse of his _Mūlamadhyamakakārikā_:
 
 > Whatever is dependently co-arisen
 > That is explained to be svabhāva.
@@ -31,7 +31,7 @@ Nāgārjuna, who founded the Madhyamaka Buddhist school, summarizes this in a fa
 > Does not exist.
 > ~
 
-You say that particles exist in-and-of-themselves. While we can come up with a scientific theory with constructs like particles or wave functions at the bottom, I do not believe that science itself supposes these have svabhāva. This would be true even if we found the correct theory of everything. It would seem highly tenuous to claim that wave functions fundamentally exist. To the physicist, a wave function is a mathematical tool that describes our observations. To say more is to go beyond what empirical science can support.
+You say that particles exist in-and-of-themselves. While we can come up with a scientific theory with constructs like particles or wave functions at the bottom, I do not believe that science itself supposes these constructs have svabhāva. This would be true even if we found the correct theory of everything. For example, it seems tenuous to claim that wave functions fundamentally exist. To the physicist, a wave function is a mathematical tool that describes our observations. To say more is to go beyond what empirical science can support.
 
 Dijon:: I think I'm using the term _fundamentally exist_ differently than you're using _svabhāva_. When I say something fundamentally exists, I mean it influences reality and it can't be broken into smaller pieces. Accordingly, if a wave function completely describes the behaviors we observe and can't be replaced by a simpler construct, then I would say it fundamentally exists.
 
@@ -44,11 +44,11 @@ Eurus:: Our discussion reminds me of a passage in _The Feynman Lectures_ about t
 
 Dijon:: This passage is very relevant. I had said something fundamentally exists if "it influences reality and it can't be broken into smaller pieces." But what does it mean to say something "influences reality" or that something "can't be broken into smaller pieces"? We can improve this definition using the ideas in this passage. Let's say something fundamentally exists if it is an irreducible concept in a theory that explains all our empirical observations.
 
-Eurus:: Your second definition is better, but it still feels odd to me. There are several mathematical formulations of quantum mechanics. Can constructs that aren't directly measured and which can be removed by switching formulations be said to fundamentally exist? They seem more like mathematical machinery.
+Eurus:: Your second definition is better, but it still feels odd to me. There are several mathematical formulations of quantum mechanics. Can constructs that aren't directly measured and which can be removed in another formulation be said to fundamentally exist? They seem more like mathematical machinery.
 
 Dijon:: Such constructs do _feel_ like mathematical machinery. However how could it be any other way? If the materialists are correct and the fundamental building blocks of reality, say atoms, are small and simple and eyes are large and complex, then eyes would necessarily not be able to see atoms. Atoms could only be known indirectly. Furthermore, if the universe is ordered, the atoms would follow mathematical laws and thus would be indirectly-known mathematical machinery.
 
-Even if the materialists wrong, I don't see how we could access the things-in-itself. For example, I can imagine a dualistic universe where sight is a fundamental property of mind. Since sight isn't be constructed from atoms, the minds could possibly see material atoms directly. It would be as if our vision was pixelated, and the laws of physics appeared to operate on pixels. Minds could wonder if the pixels were things-in-themselves.
+Even if the materialists are wrong, I don't see how we could access the things-in-itself. For example, I can imagine a dualistic universe where sight is a fundamental property of mind. Since sight isn't be constructed from atoms, the minds could possibly see material atoms directly. It would be as if our vision was pixelated, and the laws of physics appeared to operate on pixels. Minds could wonder if the pixels were things-in-themselves.
 
 In all cases, there may be more to the fundamentally existing thing---or there may not. How could we know?
 
@@ -58,9 +58,9 @@ Therefore, I agree empirical science can't say anything about the thing-in-itsel
 
 This doesn't mean svabhāva is a meaningless term. If we spoke about the sensation of blue to a citizen of a blueless universe, they wouldn't know what we mean---but that doesn't mean blue isn't a valid concept. But it does mean we would require divine revelation to know whether anything has svabhāva. In our software analogy, divine revelation is like the library's author telling us unobservable implementation details.
 
-Eurus:: You make some interesting points. You've defined to _fundamentally exist_ to ensure it empirical science can verify it. I agree, according to this definition, wave functions fundamentally exist. I don't think wave functions have svabhāva.
+Eurus:: You make some interesting points. You've defined _fundamentally exist_ to ensure that empirical science can verify it. I agree, according to this definition, that wave functions fundamentally exist. I don't think it follows, however, that wave functions have svabhāva.
 
-How is svabhāva different than your term _fundamentally exist_? Ordinary beings perceive phenomena as ultimately real entities, existing by themselves, having svabhāva. Awakened beings perceive them as they truly are: illusory, dreamlike, and conceptually constructed. The projection of svabhāva onto phenomena is a manifestation of avidyā, which awakened beings no longer possess. This is the sense in which svabhāva is most relevant for salvation because liberation is only achieved by uprooting avidyā, not just by _knowing about_ avidyā. A common analogy is that Buddhist teachings are like a finger pointing at the moon. Metaphorical language---such as calling phenomena "illusory"---therefore serves a pragmatic purpose. However, it can still be useful to make more precise intellectual arguments because this can cause one to relinquish false views about reality, paving the way for new understanding to arise.
+How is svabhāva different than your term _fundamentally exist_? The most important difference is that svabhāva is ultimately an idea about cognition. Ordinary beings misapprehend phenomena as ultimately real entities, existing in themselves, having svabhāva, as a result of their delusion (avidyā). Awakened beings, having exhausted their delusion, perceive phenomena as they truly are: illusory, dreamlike, and conceptually fabricated. Liberation is only achieved by uprooting avidyā, not just by _knowing about_ avidyā. An analogy commonly used to demonstrate this is that Buddhist teachings are like a map of a territory. It is necessary to study the map, but that alone doesn't get you to the destination. Still, it is useful to engage in intellectual analysis because this can push one to relinquish false views that they may have about reality, paving the way for new understanding to arise.
 
 What can then be said about svabhāva from a more precise, metaphysical perspective? Nāgārjuna says at the beginning of chapter 15 of the _Mūlamadhyamakakārikā_:
 
@@ -75,23 +75,23 @@ What can then be said about svabhāva from a more precise, metaphysical perspect
 > And does not depend on anything else.
 > ~
 
-If you analyze the notion of a chair, the chair disappears and you are left with wooden parts. The chair is not an ultimately real entity; it doesn't possess svabhāva. You, of course, know this, since our conversation began with a similar deconstruction of the notion of a species, but this is only one type of existential dependence.
+One way to understand svabhāva is through the idea of _disappearance under analysis_. If you analyze the notion of a chair, the chair disappears and you are left with wooden parts. The chair is not an ultimately real entity; it doesn't possess svabhāva. You, of course, know this, since our conversation began with you making the notion of a species disappear, but this is only one type of existential dependence.
 
-The dGe-Lugs tradition identifies three types of existential dependence: dependence on causes and conditions, dependence on parts, and dependence on the designating mind. These exist within a hierarchy, with dependence on the designating mind being the most subtle and incorporating all three.
+The dGe-Lugs tradition identifies three types of existential dependence: dependence on causes and conditions, dependence on parts, and dependence on the designating mind. These exist within a hierarchy, with dependence of the designating mind being the most subtle and incorporating all three.
 
 Svabhāva is thus a stronger notion than your term _fundamentally exist_, which permits dependence on causes and conditions.
 
-For example, a wave function is different at every point in time. Therefore the idea of the wave function as a single entity that changes over time can be decomposed into a sequence of wave function snapshots in succession, similar to how we decompose a chair into its parts. This means that we have an entity---the wave function at an instant---which is supposed to exist inherently and be the cause of another wave function---the wave function at the next instant.
+For example, a wave function is different at every point in time. Therefore the idea of the wave function as a single entity that changes over time can be decomposed into a sequence of wave function snapshots in succession, similar to how we decompose a chair into its parts.
 
 Dijon:: If a wave function snapshot fully determines the next snapshot, then it seems the _essence_ of the wavefunction is present in the first snapshot.
 
-Eureus:: This could be true for a simple idealized wave function, but any real wave function will depend on changing boundary conditions. For example, a quantum harmonic oscillator may evolve deterministically, but what maintains the quadratic potential? Unless the entire universe was just a harmonic oscillator, it _would_ change eventually, and when it does there would be existential dependence; you would no longer be able to predict the wave function's future state from it's current state, and there would be no essence.
+Eureus:: This could be true for a simple idealized wave function, but any real wave function will depend on changing boundary conditions. For example, a quantum harmonic oscillator may evolve deterministically, but what maintains the quadratic potential? Unless the entire universe was just a harmonic oscillator, it _would_ change eventually, and when it does there would be existential dependence; you would no longer be able to predict the wave function's future state from its current state, and there would be no essence.
 
 The division between a system and its surroundings is a useful approximation, but you can't splice the world like this. This is true even in classical mechanics, but in quantum mechanics, entanglement even more strongly prohibits the division, since two particles that are far apart can affect one another. David Bohm describes this nicely in one of his papers:
 
 > A quantum many-body system cannot properly be analyzed into independently existent parts, with fixed and determinate dynamical relationships between each of the parts. Rather, the "parts" are seen to be in an immediate connection, in which their dynamical relationships depend, in an irreducible way, on the state of the whole system (and indeed on that of broader systems in which they are contained, extending ultimately and in principle to the entire universe). Thus, one is led to a new notion of unbroken wholeness which denies the classical idea of analyzability of the world into separately and independently existent parts.
 
-As I'm sure you know, Bohm's interpretation of quantum mechanics is one of a few. However, I think this point is valid in all interpretations.
+As you know, Bohm's interpretation of quantum mechanics is one of a few. However, I think this point is valid in all interpretations.
 
 Dijon:: I think you're correct. Let me read a quote from Sean Carroll:
 
@@ -101,15 +101,13 @@ Therefore, I was mistaken when I said "perhaps particles" are the fundamentally 
 
 In another place, Carroll says the wave function may evolve deterministically. If this is the case, then would you say that the wave function of the universe has svabhāva?
 
-Eurus:: If the universe was _only_ a single deterministic wave function, I think it would _fundamentally exist_ and have _svabhāva_. But I disagree with the premise. It's unfathomable to me that conciousness and volition could be produced in such a universe. Therefore, I think the non-deterministic interpretations of quantum mechanics are correct. After all, they are all interpretations; no objective evidence can be used to distinguish them.
+Eurus:: If the universe was only a single deterministic wave function, I think it would _fundamentally exist_ and potentially have svabhāva. But I disagree with the premise. It's unfathomable to me that consciousness and volition could exist in such a universe. Therefore, I think the non-deterministic interpretations of quantum mechanics are correct. After all, they are all interpretations; no objective evidence can be used to distinguish them.
 
-We've been discussing śūnyatā from a metaphysical perspective and exploring how it relates to physics. But I suspect any connection between śūnyatā and modern physics is coincidental. It is not a metaphysical proposition about the existence or nonexistence of a reality outside of the mind. It is also not an idea that makes measurable predictions, therefore it isn't falsifiable in the ordinary sense.
+We've been discussing śūnyatā from a metaphysical perspective and exploring how it relates to physics. But śūnyatā is ultimately an insight into the nature of the mind---this very reality that we are in direct contact with. As such, it is something that can be _directly known_, but only via a direct perception of emptiness, and that only occurs when the first bhūmi---the first spiritual attainment of the bodhisattva path---is realized.
 
-The full implications of śūnyatā go beyond providing a theoretical understanding of the physical universe. Śūnyatā is an insight into the nature of the mind---the very reality that's right in front of us. As such, it is something that can be _directly known_. It is only verifiable via a direct perception of emptiness, and that only occurs with the first bhūmi---the first spiritual attainment of the bodhisattva path. It takes considerable effort to achieve this, though, so there has to be some faith involved in the beginning.
+In this sense, I don't believe that śūnyatā can be known without some kind of _revelation_. Although not a _divine revelation, as you said earlier, since that implies it can only be known through the testimony of an omniscient being. That alone isn't an adequate means of knowledge, because then how do you know that the being is omniscient and truthful? In a way, there is some divine revelation at play here--- the Buddha is omniscient---but the important difference, as stated above, is that confirmation is possible via direct perception.
 
-In this sense, I don't believe that śūnyatā can be known without some kind of _revelation_. Although not a _divine revelation_, as you said earlier, since that implies it can only be known through an omniscient being telling us. That alone isn't an adequate means of knowledge, because then how do you know that the being is omniscient and truthful? So divine revelation seems like a euphemism for unknowable. In a way, there is some divine revelation at play here---the Buddha is an omniscient being---but the important difference, as stated above, is that confirmation is possible via direct perception.
-
-If emptiness seems difficult to pin down, you're in good company—I don't think the idea can ever be fully grasped without realization. After all, its realization demarcates bodhisattvas from ordinary beings. Given this, I think that it would be prudent to give the idea space to evolve and to withhold judgment somewhat. There is a Zen metaphor about this, which I'll read:
+If emptiness seems difficult to pin down, you're in good company---I don't think the idea can ever be fully grasped without realization. After all, its realization demarcates bodhisattvas from ordinary beings. Given this, I think that it would be prudent to give the idea space to evolve and to withhold judgment. There is a Zen metaphor about this, which I'll read:
 
 > Nan-in, a Japanese master during the Meiji era, received a university professor who came to inquire about Zen.
 >
@@ -119,7 +117,7 @@ If emptiness seems difficult to pin down, you're in good company—I don't think
 >
 > "Like this cup," Nan-in said, "you are full of your own opinions and speculations. How can I show you Zen unless you first empty your cup?"
 
-Not that you're tea cup is full, but it can be helpful to have this in mind when approaching a new set of ideas. And, of course, it is perfectly valid to go back and compare or critique after having first considered the new ideas on their own terms.
+Not that your tea cup is full, but it can be helpful to have this in mind when approaching a new set of ideas. And, of course, it is perfectly valid to go back and compare or critique after having first considered the new ideas on their own terms.
 
 Dijon:: My cup is partially filled with a materialist world view, but I will try to empty it. I've often pondered how consciousness could arise from matter. Despite this, I've always viewed the mind, our brain, and our senses as a small object in a vast external world. I've never seriously considered whether the mind could be primary and the external world secondary.
 
