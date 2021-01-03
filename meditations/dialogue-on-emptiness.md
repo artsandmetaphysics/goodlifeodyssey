@@ -10,7 +10,7 @@ Eurus:: In our group discussion, you demonstrated that the concept of a bee is n
 
 Your conceptual deconstructions remind me of śūnyatā, a tenet of the Madhyamaka Buddhist tradition. Śūnyatā says that _nothing_ has svabhāva---essence, inherent existence, or true identity.
 
-Dijon:: Thanks for sharing. I'd like to learn more about śūnyatā because it seems to me that there must be some fundamental things, perhaps particles, that inherently exist. If this weren't the case, then how could anything exist? Said another way, although I think our minds project the _concept of a bee_ onto an external reality, I still think there are aggregates of fundamentally existing things which we call bees.  
+Dijon:: Thanks for sharing. I'd like to learn more about śūnyatā because it seems to me that there must be some fundamental things, perhaps particles, that inherently exist. If this weren't the case, then how could anything exist? Said another way, although I think our minds project the _concept of a bee_ onto an external reality, I still think there are aggregates of fundamentally existing things which we call bees.
 
 Eurus:: Before I continue, I should point out that I'm not especially well-acquainted with Madhyamaka thought, so my comments may not be precisely correct.
 
@@ -24,7 +24,7 @@ Nāgārjuna, who founded the Madhyamaka Buddhist school, summarizes this in a fa
 > That is explained to be svabhāva.
 > That, being a dependent designation
 > Is itself the middle way.
-> 
+>
 > Something that is not dependently arisen,
 > Such a thing does not exist.
 > Therefore a thing with svabhāva
@@ -68,7 +68,7 @@ What can then be said about svabhāva from a more precise, metaphysical perspect
 > Due to causes and conditions.
 > Svabhāva that arises due to causes and conditions
 > Would be svabhāva that is produced.
-> 
+>
 > "Svabhāva that is produced,"
 > How could that be right?
 > Svabhāva is not fabricated
@@ -77,7 +77,7 @@ What can then be said about svabhāva from a more precise, metaphysical perspect
 
 If you analyze the notion of a chair, the chair disappears and you are left with wooden parts. The chair is not an ultimately real entity; it doesn't possess svabhāva. You, of course, know this, since our conversation began with a similar deconstruction of the notion of a species, but this is only one type of existential dependence.
 
-The dGe-Lugs tradition identifies three types of existential dependence: dependence on causes and conditions, dependence on parts, and dependence on the designating mind. These exist within a hierarchy, with dependence on the designating mind being the most subtle and incorporating all three. 
+The dGe-Lugs tradition identifies three types of existential dependence: dependence on causes and conditions, dependence on parts, and dependence on the designating mind. These exist within a hierarchy, with dependence on the designating mind being the most subtle and incorporating all three.
 
 Svabhāva is thus a stronger notion than your term _fundamentally exist_, which permits dependence on causes and conditions.
 
@@ -103,7 +103,7 @@ In another place, Carroll says the wave function may evolve deterministically. I
 
 Eurus:: If the universe was _only_ a single deterministic wave function, I think it would _fundamentally exist_ and have _svabhāva_. But I disagree with the premise. It's unfathomable to me that conciousness and volition could be produced in such a universe. Therefore, I think the non-deterministic interpretations of quantum mechanics are correct. After all, they are all interpretations; no objective evidence can be used to distinguish them.
 
-We've been discussing śūnyatā from a metaphysical perspective and exploring how it relates to physics. But I suspect any connection between śūnyatā and modern physics is coincidental. It is not a metaphysical proposition about the existence or nonexistence of a reality outside of the mind. It is not an idea that makes measurable predictions, therefore it isn't falsifiable in the ordinary sense. 
+We've been discussing śūnyatā from a metaphysical perspective and exploring how it relates to physics. But I suspect any connection between śūnyatā and modern physics is coincidental. It is not a metaphysical proposition about the existence or nonexistence of a reality outside of the mind. It is also not an idea that makes measurable predictions, therefore it isn't falsifiable in the ordinary sense.
 
 The full implications of śūnyatā go beyond providing a theoretical understanding of the physical universe. Śūnyatā is an insight into the nature of the mind---the very reality that's right in front of us. As such, it is something that can be _directly known_. It is only verifiable via a direct perception of emptiness, and that only occurs with the first bhūmi---the first spiritual attainment of the bodhisattva path. It takes considerable effort to achieve this, though, so there has to be some faith involved in the beginning.
 
@@ -114,9 +114,9 @@ If emptiness seems difficult to pin down, you're in good company—I don't think
 > Nan-in, a Japanese master during the Meiji era, received a university professor who came to inquire about Zen.
 >
 > Nan-in served tea. He poured his visitor's cup full, and then kept on pouring.
-> 
+>
 > The professor watched the overflow until he no longer could restrain himself. "It is overfull. No more will go in!"
-> 
+>
 > "Like this cup," Nan-in said, "you are full of your own opinions and speculations. How can I show you Zen unless you first empty your cup?"
 
 Not that you're tea cup is full, but it can be helpful to have this in mind when approaching a new set of ideas. And, of course, it is perfectly valid to go back and compare or critique after having first considered the new ideas on their own terms.
