@@ -46,33 +46,17 @@ Eurus:: This discussion reminds me of a passage in _The Feynman Lectures_, in ch
 > When the new quantum mechanics was discovered, the classical people---which included everybody except Heisenberg, Schrödinger, and Born---said: "Look, your theory is not any good because you cannot answer certain questions like: what is the exact position of a particle?, which hole does it go through?, and some others." Heisenberg's answer was: "I do not need to answer such questions because you cannot ask such a question experimentally." It is that we do not have to. Consider two theories (a) and (b); (a) contains an idea that cannot be checked directly but which is used in the analysis, and the other, (b), does not contain the idea. If they disagree in their predictions, one could not claim that (b) is false because it cannot explain this idea that is in (a), because that idea is one of the things that cannot be checked directly.
 > It is always good to know which ideas cannot be checked directly, but it is not necessary to remove them all. It is not true that we can pursue science completely by using only those concepts which are directly subject to experiment.
 
-Dijon:: This quote is very relevant. If I understand Feynman, when he says "just because we cannot measure position and momentum precisely does not a priori mean that we cannot talk about them," he is pointing out that it's okay to talk about derived concepts like position and momentum. It would be like someone saying, "we know humans are made up of particles, thus it is inappropriate to speak about humans---we should only ever talk about particles." Of course this is wrong. However, we don't have to talk about humans if we don't want to. We can describe the world without ever using the term human.
+The passage prompts one to wonder: can constructs that aren't directly measured, but are irreducible components in an accurate theory, be said to fundamentally exist? They seem more like mathematical machinery to me, rather than objects that are truly exist.
 
-When he says "it is always good to know which ideas cannot be checked directly, but it is not necessary to remove them all," I interpret this to mean it's good to know what the fundamental things are, but that doesn't mean we have to remove the derived things.
+Dijon:: Such constructs do _feel_ like mathematical machinery. However, if the materialist are correct, how could it be any other way? If the fundamental building blocks of reality, say atoms, are small and simple and eyes are large and complex, then eyes would necessarily not be able to see the atoms. Atoms could only be known indirectly. Furthermore, if the universe is ordered, the atoms would follow mathematical laws and thus would be indirectly known mathematical constructs.
 
-Eurus:: I don't disagree with what you are saying, but that isn't Feynman's point. He's saying fundamental physical concepts don't need to be directly subject to experiment. That is different than saying that it's not inappropriate to talk about derived concepts like "table", etc., which is of course also true. And, secondly, it is important to know what ideas aren't directly measurable so that we know that they can be removed if doing so enables a better theory.
+One can imagine a dualistic universe where sight is a fundamental property of mind. Furthermore, you could imagine the minds seeing material atoms directly, since their sense of sight wouldn't be constructed from them. It would be as if our vision was pixelated, and no matter what we did, we could not see more detail than the pixels. Furthermore, the laws of physics appeared to operate on the pixels. Even in such a universe, the beings could wonder if the pixels have underlying objects.
 
-Dijon:: Let me read the passage again ... You're right---thank you for correcting me. I was so fixated on our earlier discussion of conceptual deconstructions that I somehow projected my thoughts onto his, and missed his point.
+Eurus:: You make a good point, but even so, I don't think wave functions have svabhāva.
 
-Now it's less clear to me how the passage relates svabhāva vs. fundamental existence.
+Before I continue, I should point out that I'm not well-acquainted with Madhyamaka thought, so my comments may be mistaken in some places.
 
-Eurus:: The passage prompts one to wonder: can constructs that aren't directly measured, but are irreducible components in an accurate theory, be said to fundamentally exist? They seem more like mathematical machinery rather than objects that are truly exist.
-
-Dijon:: I see the relationship now. My first local definition of _fundamentally exist_ was:
-
-> Something that fundamentally exists influences reality and can't be broken into smaller pieces.
-
-We can clarify this in light of the passage:
-
-> Something that fundamentally exists can't be broken into smaller pieces and its presence in the theory alters some measurable predictions that that theory makes.
-
-How is this definition similar or different to what you mean by svabhāva? Since you don't think a wave function has svabhāva, I suspect your definition is different somehow.
-
-Eurus:: Svabhāva is indeed different. 
-
-Before I continue, I should say that I'm not well-acquainted with Madhyamaka thought; I am not an authority on this topic. Okay, so what is svabhāva?
-
-Svabhāva is in one sense an error the way that ordinary beings cognize phenomena. Ordinary beings perceive phenomena as ultimately real entities, existing by themselves, whereas awakened beings perceive them as they truly are: illusory, dreamlike, and conceptually constructed. The projection of svabhāva onto phenomena is a manifestation of avidyā, which awakened beings no longer possess. This is the sense of svabhāva that is the most relevant for salvation, because liberation is only achieved by uprooting avidyā, not just by knowing about avidyā. A common analogy is that Buddhist teachings are like a finger pointing at the moon. Metaphorical language---such as calling phenomena "illusory"---therefore serves a pragmatic purpose. However, it can still be useful to make more precise intellectual arguments, because this can cause one to relinquish false views about reality, paving the way for new understanding to arise.
+Okay, so how is svabhāva different than to _fundamentally exist_? Ordinary beings perceive phenomena as ultimately real entities, existing by themselves, having svabhāva. Awakened beings perceive them as they truly are: illusory, dreamlike, and conceptually constructed. The projection of svabhāva onto phenomena is a manifestation of avidyā, which awakened beings no longer possess. This is the sense in which svabhāva is most relevant for salvation, because liberation is only achieved by uprooting avidyā, not just by _knowing about_ avidyā. A common analogy is that Buddhist teachings are like a finger pointing at the moon. Metaphorical language---such as calling phenomena "illusory"---therefore serves a pragmatic purpose. However, it can still be useful to make more precise intellectual arguments, because this can cause one to relinquish false views about reality, paving the way for new understanding to arise.
 
 What can then be said about svabhāva from a more precise, ontological perspective? Nāgārjuna says at the beginning of chapter 15 of the _Mūlamadhyamakakārikā_:
 
@@ -87,21 +71,51 @@ What can then be said about svabhāva from a more precise, ontological perspecti
 > And does not depend on anything else.
 > ~
 
-If you analyze the notion of a chair, the chair disappears and you are left with wooden parts. If you analyze the notion of a day, you are left with a rising and setting sun. The chair and the day are dependent designations, and not ultimately real entities. They do not possess svabhāva. You, of course know this, since our conversation began with a similar deconstruction of the notion of a species.
+If you analyze the notion of a chair, the chair disappears and you are left with wooden parts. The chair is not an ultimately real entity; it doesn't possess svabhāva. You, of course, know this, since our conversation began with a similar deconstruction of the notion of a species, but this is only one type of existential dependence.
 
-One commentarial tradition identifies three types of existential dependence: dependence on causes and conditions, dependence on parts, and dependence on the designating mind. These exist within a hierarchy, with conceptual dependence being the most subtle and incorporating all three. 
+The dGe-Lugs commentarial tradition identifies three types of existential dependence: dependence on causes and conditions, dependence on parts, and dependence on the designating mind. These exist within a hierarchy, with conceptual dependence being the most subtle and incorporating all three. 
 
-Svabhāva is thus a stronger notion than your term _fundamentally exist_. However, I think that the notion of svabhāva is a bit stronger than what you mean. Nāgārjuna will argue that both the concepts of causation and of change are logically incompatible with svabhāva---that it is nonsensical to conceive of primary dharmas as either changing or as being causally related (I have yet to study these arguments, so I will have to postpone a discussion of them for now.) Nāgārjuna does not deny that it is possible to observe and describe change.
+Svabhāva is thus a stronger notion than your term _fundamentally exist_, which permits dependence on causes and conditions.
 
-Let's analyze the notion of a wave function a little bit. A wave function is different at every point in time. Therefore the idea of the wave function as a single entity that "changes" over time can be decomposed into a sequence of wave functions in succession, similar to how we decompose a chair into its parts. This means that we have an entity---the wave function at time t₁---which is supposed to exist inherently and be the cause of another wave function---the wave function at time t₂. Nāgārjuna will argue that this picture of causation is untenable, but again, I am not yet acquainted with the argument.
+For example, a wave function is different at every point in time. Therefore the idea of the wave function as a single entity that changes over time can be decomposed into a sequence of wave function snapshots in succession, similar to how we decompose a chair into its parts. This means that we have an entity---the wave function at an instant---which is supposed to exist inherently and be the cause of another wave function---the wave function at the next instant.
+
+Dijon:: If a wave function snapshot fully determines the next snapshot, then it seems the _essence_ of the wavefunction is present in the first snapshot.
+
+Eureus:: This could be true for a simple idealized wave function, but any real wave function will depend on changing boundary conditions. For example, a quantum harmonic oscillator may evolve deterministically, but what maintains the quadratic potential? Unless the entire universe was just a harmonic oscillator, it _would_ change eventually, and when it does there would be existential dependence; you would no longer be able to predict the wave function's future state from it's current state, and there would be no essence.
+
+To division between a system and its surroundings is a useful approximation, but you can't splice the world like this. This is true even in classical mechanics, but in quantum mechanics, entangelement even more strongly prevents this, since there can be dependencies that span large differences. Here is a quote from David Bohm:
+
+> A quantum many-body system cannot properly be analyzed into independently existent parts, with fixed and determinate dynamical relationships between each of the parts. Rather, the "parts" are seen to be in an immediate connection, in which their dynamical relationships depend, in an irreducible way, on the state of the whole system (and indeed on that of broader systems in which they are contained, extending ultimately and in principle to the entire universe). Thus, one is led to a new notion of unbroken wholeness which denies the classical idea of analyzability of the world into separately and independently existent parts.
+
+As I'm sure you know, Bohm's interpretation of quantum mechanics is one of a few. However, I think this point is valid in all interpretations.
+
+Dijon:: I think you're correct. Here is a quote from Sean Carroll:
+
+> A feature that is common to all interpretations of quantum mechanics is that what we see when we look at the world is quite different from how we describe the world when we're not looking at it. In a sense it is the ultimate unification: not only does the deepest layer of reality not consist of things like "oceans" and "mountains"; it doesn't even consist of things like "electrons" and "photons." It's just the quantum wave function. Everything else is a convenient way of talking.
+
+Therefore, I was mistaken when I said "perhaps particles" are the fundamentally existing building blocks of reality. Electrons are like the bees, a conceptual projection onto the universe's wave function.
+
+In another place, Carroll says the wave function may evolve deterministically. If this is the case, then knowing the state of the universe's wave function at one point in time would allow you to predict it at all other points. Thus, it would seem there is a permanent essence to the wave function. Would you say that the wave function of the universe has svabhāva?
+
+TODO: discuss the situation where the laws of physics are themselves fixed and permanent, even if they aren't deterministic
+
+TODO: discuss whether there is an "illusion" perse then, if different species can arrive at the same laws of physics
+
+TODO: discuss the implications of all of this
+
+---
+
 The way I understand it, the question is whether the wave function has a referent "in reality," or if it only exists as a mental construct. Now, you made the point that this ontological distinction doesn't make any difference in terms of the theory's predictions and therefore it is meaningless, or at least undecidable. I agree that it is a meaningless distinction for physics. However, I do not think that it is necessarily meaningless or undecidable within the context of the Buddhadharma. It is undeniable that objects appear to us as if they exist substantially, "out there." Therefore, to say that this is a deception is not without any experiential basis. You said:
 
 > I only think the concept/theory/idea of svabhāva would require divine revelation if it purports metaphysical/ontological details which also do not make any measurable predictions. Thus if it has other meanings related to cognition, I certainly don't mean to say these could not be discovered without divine revelation.
 
 I agree that in order for something to have any meaning, it seems like it has to be based in experience somehow, whether that be measurement or cognition. So I agree that if svabhāva merely purported metaphysical details without any reference to experience, it would be effectively meaningless and/or undecidable. But it does refer to something experiential: namely, the illusion that entities inherently exist. For Nāgārjuna, the point is precisely to dispel avidyā (which produces the illusion of svabhāva), yet his approach is philosophical analysis. So while I am sympathetic to this concern, and it remains to be seen whether Nāgārjuna's arguments actually work in the way they are intended, it is at least clear that Nāgārjuna does not consider himself to be merely expounding a metaphysical theory which has no experiential counterpart, since śūnyatā can be realized.
 
-Regarding an example of a hypothetical object that possessed svabhāva, Nāgārjuna would argue that such an object would have to be uncaused, unchanging, and eternal. Most conceptions of "God" would fall under this category. However, the point isn't just that there is no God. For Nāgārjuna is also refuting that momentary phenomena have svabhāva, or indeed that anything does, and this is supposed to indicate that they could not exist independent of conceptual fabrication.
+TODO: comparison to the soul in Christianity
 
+TODO: agree that svabhāva does matter for Buddhdharma, assuming you believe that Buddhadharma exists. For someone outside of Buddhism, looking in, you are asking yourself whether you believe any of it, and the fact that svabhāva makes sense is part of the "consistency check" you are doing. Segue into the question of "how do you know svabhāva doesn't exist", continue the discussion about it being a metaphysical implementation detail
+
+then segue into the idealism discussion
 
 ---
 
