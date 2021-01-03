@@ -8,7 +8,7 @@ date: 2020-12-30
 
 <span class="sc">Eurus:</span> In our group discussion, you demonstrated that the concept of a bee is not fundamental; individual bees may be similar, but there is no inherent bee-essence. One may say, “bee-essence is the ability to reproduce bees.” However, you showed how gradual evolutionary change refutes this argument. “Consider an ancient bee that, if alive, could reproduce with a modern bee. Now consider an even more ancient bee that can reproduce with the ancient bee but not with the modern bee. Does the ancient bee have two essences, one to reproduce with the modern bee and another to reproduce with the more ancient bee?”
 
-Your conceptual deconstructions remind me of śūnyatā, a tenet of the Madhyamaka Buddhist tradition. Śūnyatā says that _nothing_ has svabhāva—essence, inherent existence, or true identity.
+Your conceptual deconstructions remind me of śūnyatā, or emptiness, a tenet of the Madhyamaka Buddhist tradition. Śūnyatā says that nothing has svabhāva—essence, inherent existence, or true identity.
 
 <span class="sc">Dijon:</span> Thanks for sharing. I’d like to learn more about śūnyatā because it seems to me that there must be some fundamental things, perhaps particles, that inherently exist. If this weren’t the case, then how could anything exist? Said another way, although I think our minds project the _concept of a bee_ onto an external reality, I still think there are aggregates of fundamentally existing things which we call bees.
 
