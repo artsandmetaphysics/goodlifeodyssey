@@ -22,17 +22,17 @@ Nāgārjuna, who founded the Madhyamaka Buddhist school, summarizes this in a fa
 
 <blockquote class="poetry">
 <p>Whatever is dependently co-arisen</p>
-<p>That is explained to be emptiness.</p>
+<p>That is explained to be svabhāva.</p>
 <p>That, being a dependent designation</p>
 <p>Is itself the middle way.</p>
 <br>
 <p>Something that is not dependently arisen,</p>
 <p>Such a thing does not exist.</p>
-<p>Therefore a nonempty thing</p>
+<p>Therefore a thing with svabhāva</p>
 <p>Does not exist.</p>
 </blockquote>
 
-You say that particles exist in-and-of-themselves. While we can come up with a scientific theory with objects like particles or wave functions at the bottom, I do not believe that science itself supposes these objects have svabhāva. This would be true even if we found the correct theory of everything. It would seem highly tenuous to claim that wave functions inherently exist. To the physicist, a wave function is a mathematical tool that describes our observations. To say more is to go beyond what empirical science can support.
+You say that particles exist in-and-of-themselves. While we can come up with a scientific theory with constructs like particles or wave functions at the bottom, I do not believe that science itself supposes these have svabhāva. This would be true even if we found the correct theory of everything. It would seem highly tenuous to claim that wave functions fundamentally exist. To the physicist, a wave function is a mathematical tool that describes our observations. To say more is to go beyond what empirical science can support.
 
 <span class="sc">Dijon:</span> I think I’m using the term _fundamentally exist_ differently than you’re using _svabhāva_. When I say something fundamentally exists, I mean it influences reality and it can’t be broken into smaller pieces. Accordingly, if a wave function completely describes the behaviors we observe and can’t be replaced by a simpler construct, then I would say it fundamentally exists.
 
@@ -45,19 +45,19 @@ You say that particles exist in-and-of-themselves. While we can come up with a s
 <p>It is always good to know which ideas cannot be checked directly, but it is not necessary to remove them all. It is not true that we can pursue science completely by using only those concepts which are directly subject to experiment.</p>
 </blockquote>
 
-<span class="sc">Dijon:</span> This passage is very relevant. I had said something fundamentally exists if “it influences reality and it can’t be broken into smaller pieces.” But what does it mean to say something “influences reality” or that something “can’t be broken into smaller pieces”? We can improve this definition using the ideas in this passage. How about something fundamentally exists if it is an irreducible concept in a theory that explains all our empirical observations?
+<span class="sc">Dijon:</span> This passage is very relevant. I had said something fundamentally exists if “it influences reality and it can’t be broken into smaller pieces.” But what does it mean to say something “influences reality” or that something “can’t be broken into smaller pieces”? We can improve this definition using the ideas in this passage. Let’s say something fundamentally exists if it is an irreducible concept in a theory that explains all our empirical observations.
 
-<span class="sc">Eurus:</span> Your second definition is better, but it still feels odd to me. There are several mathematical formulations of quantum mechanics. Can constructs that aren’t directly measured and which can be removed in another formulation said to fundamentally exist? They seem more like mathematical machinery to me.
+<span class="sc">Eurus:</span> Your second definition is better, but it still feels odd to me. There are several mathematical formulations of quantum mechanics. Can constructs that aren’t directly measured and which can be removed by switching formulations be said to fundamentally exist? They seem more like mathematical machinery.
 
-<span class="sc">Dijon:</span> Such constructs do _feel_ like mathematical machinery. However, if the materialists are correct, how could it be any other way? If the fundamental building blocks of reality, say atoms, are small and simple and eyes are large and complex, then eyes would necessarily not be able to see the atoms. Atoms could only be known indirectly. Furthermore, if the universe is ordered, the atoms would follow mathematical laws and thus would be indirectly-known mathematical machinery.
+<span class="sc">Dijon:</span> Such constructs do _feel_ like mathematical machinery. However how could it be any other way? If the materialists are correct and the fundamental building blocks of reality, say atoms, are small and simple and eyes are large and complex, then eyes would necessarily not be able to see atoms. Atoms could only be known indirectly. Furthermore, if the universe is ordered, the atoms would follow mathematical laws and thus would be indirectly-known mathematical machinery.
 
-I can imagine a dualistic universe where sight is a fundamental property of mind. Since sight isn’t be constructed from atoms, the minds could possibly see material atoms directly. It would be as if our vision was pixelated, and the laws of physics appeared to operate on pixels. Minds could wonder if the pixels had underlying objects.
+Even if the materialists wrong, I don’t see how we could access the things-in-itself. For example, I can imagine a dualistic universe where sight is a fundamental property of mind. Since sight isn’t be constructed from atoms, the minds could possibly see material atoms directly. It would be as if our vision was pixelated, and the laws of physics appeared to operate on pixels. Minds could wonder if the pixels were things-in-themselves.
 
-In all cases, there may be some underlying object or mechanism below the fundamentally existing things—or there may not. How could we know?
+In all cases, there may be more to the fundamentally existing thing—or there may not. How could we know?
 
-The physicist studying the laws of nature is like the programmer reverse-engineering a software libraries’ interface without access to the implementation. If the implementation acts in a consistent way, then with enough effort, we may be able to perfectly understand and describe the interface. We could predict how it would work in future situations. However, we would have no way of knowing anything about the software library besides its observable behavior. We could hypothesize about how it is implemented—what the particles are in-and-of-themselves—but we would have no way of validating the hypotheses.
+The physicist studying the laws of nature is in the same situation as the programmer reverse-engineering a software libraries’ interface without access to the implementation. If the implementation acts in a consistent way, then with enough effort, we may be able to perfectly understand and describe the interface. We could predict how it would work in future situations. However, we would have no way of knowing anything about the software library besides its observable behavior. We could hypothesize about how it is implemented—what the particles are in-and-of-themselves—but we would have no way of validating the hypotheses.
 
-Therefore, I agree empirical science can’t say anything about underlying objects, divorced from empirical science. However, if to have svabhāva means something different than to fundamentally exist, then by definition, it is a property of the unknowable underlying objects.
+Therefore, I agree empirical science can’t say anything about the thing-in-itself. However, if to have svabhāva means something different than to fundamentally exist, then by definition, it is a property of the thing-in-itself that is beyond the reach of science.
 
 This doesn’t mean svabhāva is a meaningless term. If we spoke about the sensation of blue to a citizen of a blueless universe, they wouldn’t know what we mean—but that doesn’t mean blue isn’t a valid concept. But it does mean we would require divine revelation to know whether anything has svabhāva. In our software analogy, divine revelation is like the library’s author telling us unobservable implementation details.
 
