@@ -22,7 +22,7 @@ Nāgārjuna, who founded the Madhyamaka Buddhist school, summarizes this in a fa
 
 <blockquote class="poetry">
 <p>Whatever is dependently co-arisen</p>
-<p>That is explained to be svabhāva.</p>
+<p>That is explained to be emptiness.</p>
 <p>That, being a dependent designation</p>
 <p>Is itself the middle way.</p>
 <br>

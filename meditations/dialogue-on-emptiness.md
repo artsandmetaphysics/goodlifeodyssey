@@ -21,7 +21,7 @@ Eurus:: Śūnyatā doesn't say that nothing exists, but only that nothing has sv
 Nāgārjuna, who founded the Madhyamaka Buddhist school, summarizes this in a famous verse of his _Mūlamadhyamakakārikā_:
 
 > Whatever is dependently co-arisen
-> That is explained to be svabhāva.
+> That is explained to be emptiness.
 > That, being a dependent designation
 > Is itself the middle way.
 >
