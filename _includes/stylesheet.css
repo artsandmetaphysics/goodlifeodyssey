@@ -51,7 +51,7 @@ hr {
   background-color: #222;
 }
 
-header, footer, small {
+header, footer, small, time {
   font-size: 0.9rem;
   font-style: italic;
 }
