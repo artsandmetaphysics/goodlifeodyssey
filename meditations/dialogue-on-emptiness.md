@@ -113,6 +113,10 @@ Dijon:: Even if we accept a non-deterministic interpretation, the laws of physic
 
 Eurus:: I don't think so. It's incoherent to speak of the laws of physics in isolation. Imagine there was no physical universe---perhaps all that existed were a set of minds in a formless realm. In what sense could you say that the laws of physics exist? Without physical phenomena that evolve in accordance with the laws of physics, the laws of physics have no meaning. They can't stand alone; they only exist as properties of physical phenomena, and in that sense they depend on physical phenomena for their existence. Like particles and bees, they disappear under analysis. When you analyze the essence of the laws of physics, you're left with nothing but physical phenomena evolving as described by those laws.
 
+Dijon:: I see, if the laws of physics are a description, then they can't give the wave function an essence. What if the wave function behaves a certain, fixed way, and the way it behaves is the essence?
+
+Eurus:: I'll have to consider this argument further.
+
 We've been discussing śūnyatā from a metaphysical perspective and exploring how it relates to physics. But śūnyatā is ultimately an insight into the nature of the mind---this very reality that we are in direct contact with. As such, it is something that can be _directly known_, but only via a direct perception of emptiness, and that only occurs when the first bhūmi---the first spiritual attainment of the bodhisattva path---is realized.
 
 In this sense, I don't believe that śūnyatā can be known without some kind of _revelation_. Although not a _divine revelation_, as you said earlier, since that implies it can only be known through the testimony of an omniscient being. That alone isn't an adequate means of knowledge, because then how do you know that the being is omniscient and truthful? In a way, there is some divine revelation at play here--- the Buddha is omniscient---but the important difference, as stated above, is that confirmation is possible via direct perception.
