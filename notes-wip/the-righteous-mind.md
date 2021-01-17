@@ -20,7 +20,7 @@ type: note
     - Plato: Reason could and should be master
     - Hume: Reason should serve the "passions"
     - Jefferson: Reason and emotions are equally good
-  - Evidence that institutions come first
+  - Evidence that intuitions come first
   - Evidence that strategic reasoning comes second
 - There's more to morality than harm and fairness
   - Sociocentric vs individualistic cultures
@@ -34,7 +34,6 @@ type: note
 - Morality Binds and Blinds
   - Group selection is real
     - Major biological transitions are a form of group selection
-    - ,1j
 
 ## Questions
 
