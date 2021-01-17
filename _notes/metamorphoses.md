@@ -2262,4 +2262,4 @@ Procne carries of her son Itys, to murder him and feed him to her evil husband:
 <p>will drag a nursing fawn through the dense woods <cite>(6.922-4)</cite></p>
 </blockquote>
 
-All quotations are taken from Charles Martin’s 2004 translation. Line numbers refer to the translation and not the original Latin.*
+*All quotations are taken from Charles Martin’s 2004 translation. Line numbers refer to the translation and not the original Latin.*
