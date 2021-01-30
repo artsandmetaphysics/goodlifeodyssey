@@ -11,19 +11,21 @@ description: >
 
 <span class="sc">Eagle:</span> Of course not. Feasting would grow tiresome.
 
-<span class="sc">Dijon:</span> What if feasting were replaced with a more varied activity, say reliving the lives of historical people. Be Cleopatra and Napoleon. What then?
+<span class="sc">Dijon:</span> While I agree that parts of life are tiresome, I can imagine being eternally content. My morning coffee is always wonderful.
+
+<span class="sc">Eagle:</span> Will you feel that way after drinking an Atlantic ocean of coffee?
+
+<span class="sc">Dijon:</span> If my heavenly routine was just drinking joe, singing in a choir, or feasting, it would be awful. But what if feasting were replaced with a more varied activity, say reliving the lives of historical people. Be Cleopatra and Napoleon. What then?
 
 <span class="sc">Eagle:</span> However exciting Cleopatra’s life was, experiencing it over and over will also become tiresome. Endless repetition is oppressive.
 
 <span class="sc">Dijon:</span> One couldn’t experience all possible lives even in eternity. One, two, three, the natural numbers are infinite, yet they can all be mapped to real numbers between one and two. There are orders of infinity. New lives are created faster than you can relive them; you need not be Cleopatra more than once.
 
-<span class="sc">Eagle:</span> You make a valid point, but even my first earthly life excites me less than it once did. These endless reincarnations would soon become variations on a theme of tediousness.
+<span class="sc">Eagle:</span> These endless reincarnations would soon become variations on a theme of tediousness.
 
-<span class="sc">Dijon:</span> So you crave not only newness but also new types of newness. I’m not so particular. While I agree that parts of life are tiresome, I can imagine being eternally content. My morning coffee is always wonderful.
+<span class="sc">Dijon:</span> So you crave not only newness but also new types of newness…
 
-<span class="sc">Eagle:</span> You say that, but will you feel that way after a trillion such mornings?
-
-<span class="sc">Dijon:</span> Singing in church forever or drinking the same morning cup of coffee forever would be awful, but I think this vision of heaven is overly simplistic. I’ll try to illustrate this with an example: Why do you read the _Lord of the Rings_ every couple of years?
+Why do you read the _Lord of the Rings_ every couple of years?
 
 <span class="sc">Eagle:</span> I enjoy imagining the scenes, the words are beautiful, and Tolkien filled his story with Christian analogs.
 
@@ -39,19 +41,15 @@ description: >
 
 <span class="sc">Eagle:</span> There are a few… I may have a few vague recollections if I reread them, but that’s all.
 
-<span class="sc">Dijon:</span> So I think our minds forget fast enough that eternity could remain enjoyable. Since our mind is finite, we would quickly forget the distant past, and therefore wouldn’t feel oppressed by it.
+<span class="sc">Dijon:</span> So I think our memories fade fast enough that eternity could feel even newly new. Since our mind is finite, we would quickly forget the distant past, and therefore wouldn’t feel oppressed by it.
 
-<span class="sc">Eagle:</span> Perhaps, but if the distant past is completely forgotten, you may as well be a different person!
-
-<span class="sc">Dijon:</span> That’s true if memory is the essence of personal identity, but if character is the essence of identity, we side-step the problem.
-
-<span class="sc">Eagle:</span> It’s an unsatisfying solution—if the past is completely forgotten, it must be meaningless. What would be the purpose of it all?
+<span class="sc">Eagle:</span> If the distant past is completely forgotten, you may as well be a different person! If the distant past is completely forgotten, it must not have mattered. What would be the purpose of it all?
 
 <span class="sc">Dijon:</span> To enjoy the coffee.
 
 <span class="sc">Eagle:</span> You’re being facetious. Enjoyment, even a sophisticated sort, isn’t a good purpose.
 
-<span class="sc">Dijon:</span> If heaven could be improved, it would have been. It seems any purpose would have to be a sort of enjoyment—perhaps enjoying God’s presence.
+<span class="sc">Dijon:</span> If heaven could be improved, God would have already improved it. It seems any purpose would have to be a sort of enjoyment—perhaps enjoying God’s presence.
 
 <span class="sc">Eagle:</span> Enjoying God is a good start, but a good purpose can’t be selfish. It must focus on others. Thus we can’t merely _enjoy_ God, but we must have a relationship with him. Relationships produce meaning.
 
@@ -65,7 +63,7 @@ description: >
 
 <span class="sc">Dijon:</span> I don’t think enjoyment is fundamental, but only that the good and relationships would be meaningless without enjoyment, and thus they can not be fundamental. Perhaps none of them are fundamental.
 
-<span class="sc">Eagle:</span> You say relationships aren’t fundamental, but how could there be an afterlife if we didn’t have souls in some form? Aren’t relationships just the most basic connection between souls? I think you’re applying your physicalist worldview to the problems of meaning and the afterlife.
+<span class="sc">Eagle:</span> You say relationships aren’t fundamental, but how could there be an afterlife if we didn’t have souls? Aren’t relationships just connected souls? You’re carrying your physicalist worldview into a discussion of the afterlife. It seems inconsistent.
 
 <span class="sc">Dijon:</span> You’re right that I approach these issues as a physicalist, but I don’t think you can brush aside my arguments quite so quickly. Do you believe our souls are present here on Earth?
 
@@ -77,19 +75,19 @@ description: >
 
 <span class="sc">Dijon:</span> Thus, unless relationships in heaven are different, my argument stands.
 
-<span class="sc">Eagle:</span> Heaven _is_ different. “What no eye has seen, nor ear heard, nor the human heart conceived, what God has prepared for those who love him.”
+<span class="sc">Eagle:</span> Heaven _is_ different—
 
-<span class="sc">Dijon:</span> The mystical escape hatch—it may be correct, but it does tend to end the conversations.
-
-As you know, I don’t believe there is an afterlife. Of course this disappoints me. Still, some people think if there is no afterlife, then even our short lives here must be meaningless—a breath in the wind. I don’t think this is true. Earlier, you said “if the past is completely forgotten, it must be meaningless.” While you may be forgotten, you still _did_ exist. You _did_ live justly. You _did_ love and build relationships. Why must meaning be yoked to permanence?
-
-Either both worldviews are meaningful, both are meaningless, or the mystic is correct. If there is meaning, enjoyment must be its foundation, as much as ascetics like Socrates dismiss pastries and coffee.
+<span class="sc">Dijon:</span> The mystical escape hatch—it may be correct, but it does tend to end the conversations!
 
 <span class="sc">Eagle:</span> I hope I haven’t frustrated you. Does it surprise you that I believe we can’t comprehend what heaven is like?
 
-<span class="sc">Dijon:</span> No, it doesn’t. Mysticism frustrates my mind, but its unfair to call it an “escape hatch” since that implies you are using it to win an argument. I’m certainly not frustrated with you. And I don’t think the mystical argument is unwarranted.
+<span class="sc">Dijon:</span> No, it doesn’t. Mysticism frustrates my mind, but it’s unfair to call it an “escape hatch” since that implies you are using it to win an argument. I’m certainly not frustrated with you. And I don’t think the mystical argument is unwarranted.
 
-<span class="sc">Eagle:</span> I’m glad to hear it. So, I think relationships are fundamental and that our relationship with God, while unlike Earthly relationships, is what makes heaven worthwhile. Without it, eternal life would be hell. I better go. I enjoy our conversations.
+As you know, I don’t believe there is an afterlife. Of course this disappoints me. Still, some people think if there is no afterlife, then even our short lives here must be meaningless—a breath in the wind. I don’t think this is true. Earlier, you said, “if the past is completely forgotten, it must be meaningless.” While you may be forgotten, you still _did_ exist. You _did_ live justly. You _did_ love and build relationships. Why must meaning be yoked to memory and permanence?
+
+Furthermore, I think enjoyment is an inextricable part of the good, as much as ascetics like Socrates dismiss pastries and coffee. Therefore, if enjoyment is meaningless, then the eternal life of the Christian must be as meaningless as the short life of the physicalist. I see no middle path apart from mysticism.
+
+<span class="sc">Eagle:</span> “What no eye has seen, nor ear heard, nor the human heart conceived, what God has prepared for those who love him.” I think relationships are fundamental and that our relationship with God, while unlike Earthly relationships, is somehow what makes heaven worthwhile. Without it, eternal life would be hell. I better go. I enjoy our conversations.
 
 <span class="sc">Dijon:</span> As do I! Thanks for your patience with me.
 
