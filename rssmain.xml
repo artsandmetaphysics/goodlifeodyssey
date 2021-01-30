@@ -23,6 +23,20 @@ layout: null
         {%- endfor %}
         {%- endfor %}
         {%- endfor %}
+	    {%- for id in site.data.index.dialogues -%}
+        {%- for collection in site.collections -%}
+        {%- for post in collection.docs -%}
+		{%- if post.url contains id -%}
+            <item>
+                <title>{{ post.title | xml_escape | normalize_whitespace | replace: "_", '"' }}</title>
+                <description>{{ post.description | replace: "_", '"' | xml_escape | normalize_whitespace }}</description>
+                <link>{{ site.url }}{{ post.url }}</link>
+                <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+            </item>
+        {%- endif %}
+        {%- endfor %}
+        {%- endfor %}
+        {%- endfor %}
 	    {%- for id in site.data.index.essays -%}
         {%- for collection in site.collections -%}
         {%- for post in collection.docs -%}
