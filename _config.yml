@@ -18,6 +18,9 @@ collections:
   essays:
     output: true
     permalink: /:path
+  dialogues:
+    output: true
+    permalink: /:path
   meditations:
     output: true
     permalink: /:path

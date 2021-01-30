@@ -15,6 +15,13 @@ This website is my logbook of landings within philosophy, religion, literature, 
   {% endfor %}
 </ul>
 
+<h2 id="dialogues">Dialogues</h2>
+<ul class="index">
+  {% for p in site.data.index.dialogues %}
+  {% include li_by_id.html id=p %}
+  {% endfor %}
+</ul>
+
 <h2 id="meditations">Meditations</h2>
 <ul class="index">
   {% for p in site.data.index.meditations %}

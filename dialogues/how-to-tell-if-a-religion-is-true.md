@@ -1,9 +1,11 @@
 ---
 title: >
-  Dialogue on How to Tell if a Religion is True
+  How to Tell if a Religion is True
 description: >
   A dialogue about religion and how to evaluate religious claims.
 date: 2020-11-08
+redirect_from:
+ - /dialogue-on-religious-claims
 ---
 
 Dijon:: How does one define "religion"?

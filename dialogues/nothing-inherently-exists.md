@@ -1,9 +1,11 @@
 ---
 title: >
-  Dialogue on Emptiness
+  Nothing Inherently Exists
 description: >
   A dialogue about the foundations of reality.
 date: 2020-12-30
+redirect_from:
+ - /dialogue-on-emptiness
 ---
 
 Eurus:: In our group discussion, you demonstrated that the concept of a bee is not fundamental; individual bees may be similar, but there is no inherent bee-essence. One may say, "bee-essence is the ability to reproduce bees." However, you showed how gradual evolutionary change refutes this argument. "Consider an ancient bee that, if alive, could reproduce with a modern bee. Now consider an even more ancient bee that can reproduce with the ancient bee but not with the modern bee. Does the ancient bee have two essences, one to reproduce with the modern bee and another to reproduce with the more ancient bee?"
