@@ -22,7 +22,7 @@ Tes:: Really? Videos can show you things that are difficult to portray with word
 
 Dijon:: I agree videos are better than text at conveying certain types of information, but I think most news stories don't benefit from this. For example, a transcript of talk show hosts debating is nearly as good as the original, while a video of flood damage is irreplaceable. But in most cases this strength doesn't outweighs its weaknesses.
 
-When I watch the news, I can't easily hone in on the stories that are relevant to me. For example, within an hour of news, I may only care about ten minutes of it. Since I can't skim through it to find the information that is useful for me, I am stuck watching the full hour.
+When I watch the news, I can't easily hone in on the stories that are relevant to me. For example, I may only care about ten minutes out of an hour of cable news. Since I can't skim through it to find the information that is useful for me, I am stuck watching the full hour.
 
 When I read the news, I can skim a summary of current events, and then read only the stories that are useful for me.
 

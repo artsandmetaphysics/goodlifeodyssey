@@ -1,6 +1,6 @@
 ---
 title: >
-  Dialogue on Knowing Emptiness
+  We Can Know with Certainty that Nothing Inherently Exists
 description: >
   A dialogue about how we know that everything is empty.
 date: 2021-01-03
@@ -8,7 +8,7 @@ date: 2021-01-03
 
 Eurus:: Happy New Year!
 
-Dijon:: Happy New Year! I hope our discussion leads to new ideas or new confidence in old ones.
+Dijon:: Happy New Year! I hope our discussion leads to new ideas or new confidence in old ones. At the end of our last conversation, you said śūnyatā is an insight into the nature of the mind. Furthermore, since we are in direct contact with the mind it is something that can be known directly. I'd like to learn more about this.
 
 Eurus:: Suppose that you were dreaming, and in the dream, you performed the double slit experiment, and the results coincided with our current understanding of quantum mechanics. Does the wave function from the dream _fundamentally exists_ in your sense of the term? If not, why? If so, do you believe that there is a meaningful distinction between dream quantum mechanics and waking-life quantum mechanics, and could this distinction ever be known?
 

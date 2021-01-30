@@ -6,9 +6,10 @@ import yaml
 
 source_directories = [
     "essays",
+    "dialogues",
     "meditations",
     "notes",
-    "poetry",
+    "poems",
 ]
 
 exit_code = 0
