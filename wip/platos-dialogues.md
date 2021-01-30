@@ -1,8 +1,8 @@
 ---
 title: >
-  Plato’s Dialogues
+  Plato's Dialogues
 description: >
-  Notes on Plato’s Dialogues
+  Notes on Plato's Dialogues
 ---
 
 ## Euthyphro
@@ -19,7 +19,7 @@ What do we owe our polity?
 
 ## Phaedo
 
-Socrates’ death scene
+Socrates' death scene
 
 ## Meno
 

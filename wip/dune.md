@@ -2,7 +2,7 @@
 title: >
   Dune
 description: >
-  Notes on Hesiod’s “Theogony” and “Works and Days”
+  Notes on Hesiod's "Theogony" and "Works and Days"
 ---
 
 # Characters
@@ -19,9 +19,9 @@ Thufir Hawat - mentat
 
 Baron Vladimir Harkonnen
 
-Feyd-Rautha - Baron’s nephew; this the Baron is stupid
+Feyd-Rautha - Baron's nephew; this the Baron is stupid
 
-Piter
+Piter 
 
 Padishah Emperor
 
@@ -37,19 +37,19 @@ Arrakis - Dune - Desert planet
 
 # Terms
 
-Mentat -
+Mentat - 
 
 Sardaukar
 
 Imperial Conditioning
 
-Kwisatz Haderach -
+Kwisatz Haderach - 
 
 Truthtrance
 
 CHOAM
 
-The art of Kanly -
+The art of Kanly - 
 
 Bene Gesserit - Group of (only women) who are trying to breed the __
 
