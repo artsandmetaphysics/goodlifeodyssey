@@ -5,7 +5,7 @@ description: >
   A dialogue exploring the nature of eternal life.
 ---
 
-Eaden:: Son, eternal life without God would be hell.
+Eaden:: Eternal life without God would be hell.
 
 Dijon:: Really? You love feasting with friends, wine, and stories---what some say is the best that life can offer. Wouldn't you want to feast forever?
 
