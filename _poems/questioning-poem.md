@@ -3,8 +3,6 @@ title: >
   Questioning
 description: >
   A poem about life and its questions.
-type: poem
-status: complete
 ---
 
 A baby is born and the parents love the baby.<br>

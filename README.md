@@ -61,12 +61,13 @@ Book names which are present in the titles of document are surrounded by quotes,
 
 ## Upcoming Entries
 
-- Dialogue on Knowing Emptiness
-- Dialogue on the Ethical Implications of Emptiness
-- Beliefs about description and reality
-- Beliefs about language
-- How to Talk about Politics (with excerpts from
+- [ ] Dialogue on Knowing Emptiness
+- [ ] Dialogue on the Ethical Implications of Emptiness
+- [ ] Beliefs about description and reality
+- [ ] Beliefs about language
+- [ ] How to Talk about Politics (with excerpts from
   _Gorgias_ and _Phaedrus_)
-- Deciding the truth of religions based on
+- [ ] Deciding the truth of religions based on
   revelations by judging how similar revelations are
   to similar beliefs
+- [ ] Essay on enjoyment as being inextricably part of meaning

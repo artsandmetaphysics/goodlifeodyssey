@@ -27,7 +27,7 @@ collections:
   notes:
     output: true
     permalink: /:path
-  poetry:
+  poems:
     output: true
     permalink: /:path
 defaults:
