@@ -1,6 +1,6 @@
 ---
 title: >
-  Would You Want to Live Forever
+  Would You Want to Live Forever?
 description: >
   A dialogue exploring the nature of eternal life.
 ---
