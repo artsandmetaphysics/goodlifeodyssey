@@ -11,7 +11,7 @@ description: >
 
 <span class="sc">Eaden:</span> Of course not. Feasting would grow tiresome.
 
-<span class="sc">Dijon:</span> While I agree that parts of life are tiresome, I can imagine being eternally content. My morning coffee is always wonderful.
+<span class="sc">Dijon:</span> While I agree that parts of life grow tiresome, I can imagine being eternally content. My morning coffee is always wonderful.
 
 <span class="sc">Eaden:</span> Will you feel that way after drinking an Atlantic ocean of coffee?
 
@@ -19,7 +19,7 @@ description: >
 
 <span class="sc">Eaden:</span> However exciting Cleopatra’s life was, experiencing it over and over will also become tiresome. Endless repetition is oppressive.
 
-<span class="sc">Dijon:</span> One couldn’t experience all possible lives even in eternity. One, two, three, the natural numbers are infinite, yet they can all be mapped to real numbers between one and two. There are orders of infinity. New lives are created faster than you can relive them; you need not be Cleopatra more than once.
+<span class="sc">Dijon:</span> One couldn’t experience all possible lives even in eternity. One, two, three, the natural numbers are infinite, yet they can all be mapped to real numbers between one and two. There are _orders_ of infinity. New lives are lived faster than you can relive them; you need not be Cleopatra more than once.
 
 <span class="sc">Eaden:</span> These endless reincarnations would soon become variations on a theme of tediousness.
 
@@ -33,7 +33,7 @@ Why do you read the _Lord of the Rings_ every couple of years?
 
 <span class="sc">Eaden:</span> Occasionally, but it’s more common for a passage to provoke new thoughts than for me to not have noticed it.
 
-<span class="sc">Dijon:</span> I see, but _Lord of the Rings_ is your favorite story—you’ve read it often than any other.
+<span class="sc">Dijon:</span> I see, but _Lord of the Rings_ is your favorite story—you’ve read it more often than any other.
 
 <span class="sc">Eaden:</span> Yes.
 
@@ -49,19 +49,19 @@ Why do you read the _Lord of the Rings_ every couple of years?
 
 <span class="sc">Eaden:</span> No! But _I_ remember them! And even if you don’t remember them, they affected you.
 
-<span class="sc">Dijon:</span> I think the purpose of heaven is to enjoy the coffee.
+<span class="sc">Dijon:</span> Well, I think the purpose of heaven is to enjoy the coffee.
 
 <span class="sc">Eaden:</span> You’re being facetious. Enjoyment, even a sophisticated sort, isn’t a good purpose.
 
 <span class="sc">Dijon:</span> If heaven could be improved, God would have already improved it. It seems any purpose would have to be a sort of enjoyment—perhaps enjoying God’s presence.
 
-<span class="sc">Eaden:</span> Enjoying God is a good start, but a good purpose can’t be selfish. It must focus on others. Thus we can’t merely _enjoy_ God, but we must have a relationship with him. Relationships produce meaning.
+<span class="sc">Eaden:</span> Enjoying God is a good start, but a good purpose can’t be selfish. Thus, it must focus on others. Thus we can’t merely _enjoy_ God, but we must have a relationship with him. Relationships produce meaning.
 
 <span class="sc">Dijon:</span> But the foundation of relationships are shared experiences. We feast with friends and tell stories—relationships with the past. Relationships are important but not fundamental. They are only a higher-order sort of _enjoyment_.
 
 <span class="sc">Eaden:</span> I’m not so sure you can reduce relationships to mere enjoyment like this …
 
-<span class="sc">Dijon:</span> Plato agreed with you. He emphatically distinguished the _enjoyable_ and the _good_. To him, a pastry may be enjoyable, but to be good is to have a well-ordered soul that leads to piety and justice. While I agree with Plato that all enjoyable things are not good, I don’t think the concepts can be split so cleanly. Take any just action and ask _why_ repeatedly, and you’ll hit the foundation of enjoyment. Why not steal your neighbors’ food? So they don’t starve. Why don’t they want to starve? Because they want to live. Why do they want to live? Because they _enjoy_ living. Thus, I think justice is an empty concept without enjoyment.
+<span class="sc">Dijon:</span> Plato agreed with you. He emphatically distinguished the _enjoyable_ and the _good_. To him, a pastry may be enjoyable, but to be good is to have a well-ordered soul that leads to piety and justice. While I agree with Plato that all enjoyable things are not good, I don’t think the concepts can be split so cleanly. Take any just action and ask _why_ repeatedly, and you’ll hit a foundation of enjoyment. Why not steal your neighbors’ food? So they don’t starve. Why don’t they want to starve? Because they want to live. Why do they want to live? Because they _enjoy_ living. Thus, I think justice is an empty concept without enjoyment.
 
 <span class="sc">Eaden:</span> I’m saying relationships are fundamental. Plato says the good is fundamental. You say _enjoyment_ is fundamental—
 
@@ -69,13 +69,13 @@ Why do you read the _Lord of the Rings_ every couple of years?
 
 <span class="sc">Eaden:</span> You say relationships aren’t fundamental, but how could there be an afterlife if we didn’t have souls? Aren’t relationships just connected souls? You’re carrying your physicalist worldview into a discussion of the afterlife. It seems inconsistent.
 
-<span class="sc">Dijon:</span> You’re right that I approach these issues as a physicalist, but I don’t think you can brush aside my arguments quite so quickly. Do you believe our souls are present here on Earth?
+<span class="sc">Dijon:</span> You’re right that I approach these issues as a physicalist, but I don’t think you can brush aside my arguments quite so easily. Do you believe our souls are present here on Earth?
 
 <span class="sc">Eaden:</span> Of course.
 
 <span class="sc">Dijon:</span> And do you agree that our relationships here are built on shared experiences?
 
-<span class="sc">Eaden:</span> Yes, although both enjoyable and unenjoyable ones.
+<span class="sc">Eaden:</span> Yes, although both the enjoyable and unenjoyable ones.
 
 <span class="sc">Dijon:</span> Thus, unless relationships in heaven are different, my argument stands.
 
