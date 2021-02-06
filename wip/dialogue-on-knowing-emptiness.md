@@ -8,7 +8,17 @@ date: 2021-01-03
 
 Eurus:: Happy New Year!
 
-Dijon:: Happy New Year! I hope our discussion leads to new ideas or new confidence in old ones. At the end of our last conversation, you said śūnyatā is an insight into the nature of the mind. Furthermore, since we are in direct contact with the mind it is something that can be known directly. I'd like to learn more about this.
+Dijon:: Happy New Year! I hope our discussion leads to new ideas or new confidence in old ones. Last time we discussed the Madhyamaka Buddhist tenant that nothing has svabhāva---essence, inherent existence, or true identity. We considered whether our physical understanding of the world acquiesce to this idea, and found, to a remarkable degree, they do. It seems that the universe is in some sense a single entangled and evolving wave function. Even particles, often thought of as fundamental, are just ways of talking about this wave function. Thus, only this wave function could have svabhāva. We didn't come to a consensus as to whether the consistent behavior of this wave function, which the laws of physics describe, can be called its svabhāva.
+
+At this point, you reflected that any correspondence between the Madhyamaka Buddhist tenant that nothing has svabhāva, and physics, is coincidental. Since the tenant is a metaphysical claim about things-in-themselves, and since the methods of the physical science can't access things-in-themselves, physics is incapable of answering our question.
+
+This leads one to ask, how could the Buddha know that nothing has svabhāva? And how can we know the Buddha was correct?
+
+I, with my upbringing among Abrahamic religions, too quickly concluded that divine revelation would be required. You corrected me, and explained that there could be other, direct ways knowing.
+
+Eurus:: That's correct. The type of knowledge that the Buddhadharma aims for is _direct knowledge_; it's like knowing that the cake you ate on New Year's Eve is sweet because you tasted it. As such, this type of knowledge is devoid of uncertainty.
+
+physics supports or refutes our current unphysics an insight into the nature of the mind. Furthermore, since we are in direct contact with the mind it is something that can be known directly. I'd like to learn more about this.
 
 Eurus:: Suppose that you were dreaming, and in the dream, you performed the double slit experiment, and the results coincided with our current understanding of quantum mechanics. Does the wave function from the dream _fundamentally exists_ in your sense of the term? If not, why? If so, do you believe that there is a meaningful distinction between dream quantum mechanics and waking-life quantum mechanics, and could this distinction ever be known?
 
