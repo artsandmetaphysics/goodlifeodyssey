@@ -1,6 +1,6 @@
 ---
 title: >
-  What is the Use of History? Marc Bloch's Methodological Answer
+  Marc Bloch on the Use of History
 description: >
   A summary and analysis of Marc Bloch's _The Historian's Craft_, a justification of history's use through methodological example. My takeaways include a better way to read the news, the need to experience the present to understand the past, the limits of causality as an abstraction, and the use of history to diversify your views.
 ---

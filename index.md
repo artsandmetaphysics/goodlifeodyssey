@@ -29,7 +29,7 @@ This website is my logbook of landings within philosophy, religion, literature, 
   {% endfor %}
 </ul>
 
-<h2 id="notes">Notes and Commentary</h2>
+<h2 id="notes">Notes, Quotes, and Commentary</h2>
 <ul class="index">
   {% for p in site.data.index.notes %}
   {% include li_by_id.html id=p %}
