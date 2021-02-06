@@ -3,7 +3,6 @@ title: >
   Nothing Inherently Exists
 description: >
   A dialogue about the foundations of reality.
-date: 2020-12-30
 redirect_from:
  - /dialogue-on-emptiness
 ---

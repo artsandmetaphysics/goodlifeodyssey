@@ -3,7 +3,6 @@ title: >
   Is it Better to Read or Watch the News?
 description: >
   A dialogue that explores the benefits of watching the news vs. reading it, and whether reading the news is a duty.
-date: 2020-08-09
 redirect_from:
  - /dialogue-on-reading-vs-watching-the-news
 ---

@@ -3,7 +3,6 @@ title: >
   Would You Want to Live Forever?
 description: >
   A dialogue exploring the nature of eternal life.
-date: 2021-01-30
 ---
 
 <span class="sc">Eaden:</span> Eternal life without God would be hell.

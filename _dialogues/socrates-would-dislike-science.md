@@ -3,7 +3,6 @@ title: >
    Socrates Would Dislike Science
 description: >
    A exploratory dialogue of Socrates’ attitude towards the senses within _Phaedo_.
-date: 2020-08-22
 redirect_from:
  - /dialogue-on-socrates-doubting-the-senses-in-phaedo
 ---
