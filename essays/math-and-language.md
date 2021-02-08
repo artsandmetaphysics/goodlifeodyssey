@@ -7,8 +7,6 @@ description: >
 
 ## Terms
 
-A _word_ is a sequence of letters separated by spaces.
-
 A _phrase_ is one or more words.
 
 A _term_ is a distinct concept, represented by a phrase.
