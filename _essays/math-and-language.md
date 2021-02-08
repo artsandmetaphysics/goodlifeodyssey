@@ -7,17 +7,17 @@ description: >
 
 ## Terms
 
-A _word_ is a sequence of letters separated by spaces.
-
 A _phrase_ is one or more words.
 
 A _term_ is a distinct concept, represented by a phrase.
 
 A phrase may be used to refer to more than one term. Which term is intended in a particular case must be inferred.
 
-A _standard definition_ is a description of the term, or terms, a phrase conventionally refers to.
+A _standard definition_ is a description of the terms a phrase conventionally refers to.
 
 A _local definition_ is a description of the term a phrase refers to within a well-defined context. E.g., legal contracts and technical standards use local definitions that only apply within themselves.
+
+Usually there are alternate descriptions which could be used to define a term.
 
 To aid memory, local definitions are often assigned to phrases with related standard definitions. E.g., my local definition of the words “local definition” and “standard definition” are related to definitions more broadly and to the software programmer’s use of locally defined entities as well as standard entities provided and used by a larger group.
 
@@ -57,7 +57,7 @@ Most models are incomplete in the sense that there exist verifiable questions th
 
 Most models are also approximate; there exist verifiable questions that could be asked of the thing described that would be answered incorrectly by the model.
 
-There is a tradeoff between how easy a model is to use and how complex it is.
+There is a tradeoff between how easy a description is to use and how complex it is.
 
 {% comment %} example from optics {% endcomment %}
 
@@ -87,9 +87,9 @@ A complete model of a thing is not the thing.
 
 Terms are models.
 
-The statement, “there are two yellow pillows on my couch,” is a model.
+_The statement, “there are two yellow pillows on my couch,” is a model.
 
-Most terms are only good enough for the standard ways they are used in our language. Most standard uses of language don’t require particularly complex models.
+Most of our terms are only good enough for their standard ways it is used in our language. Most standard uses of language don’t require particularly complex models.
 
 Specialists tend to need more granular models. Thus, they produce local definitions within their fields to supplement the library of standard terms. E.g., lawyers, doctors, engineers, and philosophers have their own lingo.
 
@@ -98,7 +98,5 @@ Children learn their first terms using examples. Adults often learn new terms us
 Many abstract terms must be learned using existing terms. E.g., could _democracy_ be taught using sensory examples?
 
 Since terms are defined with other terms, their definitions tend to be circular.
-
-Usually there are alternate descriptions which could be used to define a term. This implies that the definitions are incomplete or approximate descriptions of the conceptualization.
 
 A term can be more or less understood. This can break problems with circularity.

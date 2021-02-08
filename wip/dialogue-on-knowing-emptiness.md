@@ -12,7 +12,7 @@ Eurus:: Happy New Year! I hope our discussion leads to new ideas or new confiden
 
 Dijon:: I bought two translations of Nāgārjuna's _Mūlamadhyamakakārikā_, and read several chapters.
 
-Eurus:: What translations did you get?
+Eurus:: What translations?
 
 Dijon:: Jay L. Garfield's and the joint translation by Mark Siderits and Shōryū Katsura.
 
@@ -20,19 +20,19 @@ Eurus:: What did you think?
 
 Dijon:: It's dense but interesting.
 
-Eurus:: It is. I believe it was meant to be notes more so than a standalone piece of writing.
+Eurus:: I believe it was meant to be notes more so than something to be fully understood by itself.
 
-Dijon:: Given this, it seems we should rely on the interpretations of the ancient commentators to uncompress Nāgārjuna's meaning; they likely had oral or lost written sources we do not. Yet Garfield seems to eschew them for his own interpretation. For this reason, I prefer the _Siderits_ translation.
+Dijon:: Siderits' introduction mentioned this. Given this is the case, it seems we should rely on the interpretations of the ancient commentators to uncompress Nāgārjuna's meaning; they likely had oral or lost written sources we do not. Yet Garfield seems to eschew them for his own interpretation. For this reason, I prefer the _Siderits_ translation.
 
 This leads me to ask: am I reading to learn Nāgārjuna's views, or to learn the correct views? Couldn't Garfield or the ancient commentators misinterpret Nāgārjuna, yet be more correct? If I can't identify the correct views when I hear or experience them, then why believe one person more than another?
 
 Eurus:: I haven't read _Siderits_, but I think you are right to care more about knowing the correct views than knowing Nāgārjuna's views. I want to point out that this is a key distinction between Christianity, and most revealed religions, and Buddhism.
 
-Christians must care more about exegesis because their tenants are based in ancient texts. Therefore, they must preserve and interpret them correctly. This is difficult. What texts are sacred? Have they been copied correctly? Are we interpreting words properly?
+Christians must care more about exegesis because the authority of their tenants originates in ancient texts. Therefore, they must preserve and interpret them correctly. This leads to many difficulties. What texts are sacred? Have they been copied correctly? Are we interpreting their language correctly?
 
-The doubting Christian's unenviable situation is made worse because their religion demands _belief_ to attain salvation. This leads to a bastardization of faith---faith becomes the highest virtue. What is faith really, though? Growing up around contemporary Christian organizations, I was taught that faith means believing something blindly without justification---
+The doubting Christian's unenviable situation is made worse because their religion demands _belief_ to attain salvation. This leads to a bastardization of faith---faith becomes the highest virtue. What is faith really, though? Growing up around contemporary Christian organizations, I was taught that faith means believing something blindly---
 
-Dijon:: Does faith need to be _blind_? Christianity, like Buddhism, has many branches, and few encourage blind faith. I grew up Lutheran, and they taught faith should be buttressed by reason.
+Dijon:: Must faith be _blind_? Christianity, like Buddhism, has many branches, and few encourage blind faith. I grew up attending a Lutheran church. Like Roman Catholics, they taught that faith should be buttressed by reason---
 
 Eurus:: Blind or partially blind, faith is believing something with incomplete evidence. Salvation in Buddhism is through wisdom---knowledge, not faith. Prior to awakening, there will be doubt, because doubt is only eradicated through knowledge, not through faith.
 
@@ -44,9 +44,11 @@ Eurus:: That's right.
 
 Furthermore, faith isn't needed in the end. All of the tenants of Buddhism can be verified directly.
 
-Buddhism has a vast literature which is important for pointing us in the right direction, but the real teaching of the Buddha is realization itself.
+I don't want to imply that Buddhist scriptures and traditions are unimportant. Buddhism has a vast literature which is a sign pointing us in the right direction.  The real teaching of the Buddha is realization itself. Furthermore, the Buddha's realization has been passed down to the present day through a multitude of monastic communities. There are living disciples who have the same realization as the Buddha did---at least in regards to being liberated from saṃsāra. In Christianity, on the other hand, nobody after Jesus shared his realization, nor is that even possible, because we are not God and we never will be. There is no living embodiment of Christ's wisdom, so all we have to guide us are the written words.
 
-I don't want to imply that Buddhist scriptures and traditions are unimportant. The Buddha's realization has been passed down to the present day through a multitude of lineages reaching back to the Buddha's own enlightenment. Therefore the noble monastic community provides a direct connection back to the Buddha himself. There are living disciples who have the same realization as the Buddha did---at least in regards to being liberated from the cycle of aimless drifting.
+So, despite the importance of the texts and traditions, Buddhism's tenants get their authority from direct perception.
+
+Dijon:: It sounds like you grew up in a protestant church; Roman Catholics are not too far from the Buddhist situation. Their popes form a direct link back to Jesus. And they are thought to be inspired by God---to be the living embodiment of Christ's wisdom. They also believe that the vast majority of their beliefs
 
 Dijon:: If all of the tenants of Buddhism can be verified by direct perception, then what aspects of the realization are different?
 
