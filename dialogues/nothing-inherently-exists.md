@@ -140,4 +140,6 @@ If the mind were primary, then I could imagine how one could know that nothing h
 
 I have to go, but perhaps when we resume our conversation, we can explore why you think the mind is primary?
 
-Eurus:: That sounds good. I look forward to it.
+Eurus:: That sounds good. I look forward to it. If you have time, pick up a translation of the _Mūlamadhyamakakārikā_.
+
+Dijon:: I'll do that! Good night!
