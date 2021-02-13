@@ -36,7 +36,7 @@ Seneca believes many activities are wasteful, as demonstrated by some of my favo
 </blockquote>
 
 <blockquote>
-<p>Assuredly your lives, even if they last more than a thousand years, will shrink into the tiniest span: those vices will swallow up any space of time. The actual time you have—which reason can prolong though it naturally passes quickly—inevitably escapes you rapidly: for you do not craps it or hold it back of try to delay that swiftest of all things, but you let it slip away as though it were something superfluous and replaceable.</p>
+<p>Assuredly your lives, even if they last more than a thousand years, will shrink into the tiniest span: those vices will swallow up any space of time. The actual time you have—which reason can prolong though it naturally passes quickly—inevitably escapes you rapidly: for you do not grasp it or hold it back or try to delay that swiftest of all things, but you let it slip away as though it were something superfluous and replaceable.</p>
 </blockquote>
 
 <blockquote>

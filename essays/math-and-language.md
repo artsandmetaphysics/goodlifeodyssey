@@ -87,7 +87,7 @@ A complete model of a thing is not the thing.
 
 Terms are models.
 
-_The statement, "there are two yellow pillows on my couch," is a model.
+The statement, "there are two yellow pillows on my couch," is a model.
 
 Most of our terms are only good enough for their standard ways it is used in our language. Most standard uses of language don't require particularly complex models.
 
