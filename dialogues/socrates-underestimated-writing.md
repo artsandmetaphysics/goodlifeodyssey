@@ -23,7 +23,7 @@ Phaedrus:: You mean the living, breathing discourse of the man who knows, of whi
 
 Socrates:: That's absolutely right. The dialectician chooses a proper soul and plants and sows within it discourse accompanied by knowledge---discourse capable of helping itself as well as the man who planted it, which is not barren but produces a seed from which more discourse grows in the character of others. Such discourse makes the seed forever immortal and renders the man who has it as happy as any human can be.
 
-Dijon:: Well, this is what I've read. Among the ancient scribes of Egypt, there is one who wrote the following:
+Dijon:: Well, this is what _I've_ read. Among the ancient scribes of Egypt, there is one who wrote the following:
 
 "As for those wise writers from the time after the gods, they who foretold what was to come, their names have become everlasting, even though they have departed this life and all their relatives are forgotten.
 
