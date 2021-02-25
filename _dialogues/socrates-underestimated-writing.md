@@ -5,23 +5,29 @@ description: >
   An imaginative dialogue with Socrates about the limitations of writing and dialectic.
 ---
 
-<span class="sc">Dijon:</span> Excuse me. I am on my way through Athens. I saw this stream and, being a hot afternoon, decided to leave the path and walk along its banks. As I approached this tall tree, the faint echoes of your voices rose above the cicadas. You were so busy with your intercourse that you didn’t hear me. And so I’ve been standing here, leaning against this tree, listening for some time. Part of me wanted to interrupt, but part of me couldn’t pull away. Then, just now, you said something I couldn’t bear.
+<span class="sc">Dijon:</span> Excuse me. I’ve been standing here, leaning against this tall tree, listening for some time.
 
-<span class="sc">Socrates:</span> What was so unbearable that you had to interrupt our dialogue with this speech of your own?
+<span class="sc">Socrates:</span> What brings you to this beautiful place?
 
-<span class="sc">Dijon:</span> You said the written word can only remind us of what we already know. If you were attacked unfairly, wouldn’t it be just for your pupils to come to your aid? Likewise, I must come to the aid of my greatest teacher—the written word. It has taught me most of what I know.
+<span class="sc">Dijon:</span> I was passing by, on my way through Athens. I saw this stream and, it being a hot afternoon, decided to leave the path and walk along its banks. As I walked, I could hear the faint echoes of your voices rising above the cicadas. Intrigued, I walked toward the voices.
 
-<span class="sc">Socrates:</span> I shall try to explain. Writing shares a strange feature with painting. Paintings stand there as if they are alive, but if anyone asks them anything, they remain most solemnly silent. The same is true of written words. You’d think they were speaking as if they had some understanding, but if you question anything that has been said because you want to learn more, it continues to signify just that very same thing forever. And when it is faulted and attacked unfairly, it always needs its father’s support; alone, it can neither defend itself nor come to its own support.
+You were so busy with your intercourse that you didn’t hear me approach. Part of me wanted to interrupt, but part of me couldn’t pull away. Then, just now, you said something I couldn’t bear, and so the part of me that wanted to interrupt won out.
 
-Therefore, if you read and understand written words, then you already had the knowledge needed to understand them. If you read and don’t understand written words, you will have nobody to question. Therefore, written words can only remind us of what we already know.
+<span class="sc">Socrates:</span> What was so unbearable that you had to interrupt our dialogue?
 
-<span class="sc">Phaedrus:</span> Well said. You are absolutely right about this.
+<span class="sc">Dijon:</span> You said the written word can at best remind us of what we already know. This seems to be an unfair statement.
 
-<span class="sc">Socrates:</span> We need a more capable discourse, one that is written down, with knowledge, in the soul of the listener. We need a discourse that can defend itself.
+If you were attacked unfairly, wouldn’t it be just for your pupils to come to your aid? Likewise, I must come to the aid of my greatest teacher—the written word. It has taught me most of what I know.
 
-<span class="sc">Phaedrus:</span> You mean the living, breathing discourse of the man who knows, of which the written one can be fairly called an image.
+<span class="sc">Socrates:</span> Phaedrus, how should we proceed?
 
-<span class="sc">Socrates:</span> That’s absolutely right. The dialectician chooses a proper soul and plants and sows within it discourse accompanied by knowledge—discourse capable of helping itself as well as the man who planted it, which is not barren but produces a seed from which more discourse grows in the character of others. Such discourse makes the seed forever immortal and renders the man who has it as happy as any human can be.
+<span class="sc">Phaedrus:</span> You don’t mind offending people with your speeches and questions, but I think it would be best to calm down this stranger.
+
+<span class="sc">Socrates:</span> Very well, I shall try to explain myself. Writing shares a strange feature with painting. Paintings stand there as if they are alive, but if anyone asks them anything, they remain most solemnly silent. The same is true of written words. You’d think they were speaking as if they had some understanding, but if you question anything that has been said because you want to learn more, it continues to signify just that very same thing forever. And when it is faulted and attacked unfairly, it always needs its father’s support; alone, it can neither defend itself nor come to its own support.
+
+We need a more capable discourse, one that is written down, with knowledge, in the soul of the listener. We need a discourse that can defend itself. I mean the living, breathing discourse of the man who knows, of which the written one can be fairly called an image.
+
+Unlike the writer, the dialectician chooses a proper soul and plants and sows within it discourse accompanied by knowledge—discourse capable of helping itself as well as the man who planted it, which is not barren but produces a seed from which more discourse grows in the character of others. Such discourse makes the seed forever immortal and renders the man who has it as happy as any human can be.
 
 <span class="sc">Dijon:</span> Well, this is what _I’ve_ read. Among the ancient scribes of Egypt, there is one who wrote the following:
 
@@ -42,6 +48,14 @@ Therefore, if you read and understand written words, then you already had the kn
 <span class="sc">Socrates:</span> The teachings of these ancient wise men and prophets were planted in the souls of their contemporaries, where they grew like reeds until they covered the banks of the Nile. As the great river flooded and receded, and as pharaohs conquered and were conquered, these reeds swayed back and forth in the muddy waters. And so, this scribe’s mother, father, and grandmother planted the meaning of these sayings in his soul long before he could read “Hordedef” or “Ptahhotep.”
 
 In fact, I guess that many of the sayings attributed to these wise men were not their own; forgotten writers used these great names as as sort of fertilizer for their own reeds.
+
+<span class="sc">Dijon:</span> If our scribe receives a written invitation to a dinner party, isn’t it telling him something new?
+
+<span class="sc">Socrates:</span> It is.
+
+<span class="sc">Dijon:</span> So why couldn’t a letter teach him about justice, goodness, or beauty?
+
+<span class="sc">Socrates:</span> If he already understood the letter’s contents, it could remind him of what he already knows. If he didn’t understand the idea, then who will answer his questions?
 
 <span class="sc">Dijon:</span> I see that I have not convinced you. Imagine that this scribe is struck deaf and dumb by Ammon for attributing immortality to the written word. He dies, and in the afterlife, he meets the sage Ptahhotep. He writes a note on a piece of papyrus:
 
