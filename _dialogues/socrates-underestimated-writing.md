@@ -5,31 +5,27 @@ description: >
   An imaginative dialogue with Socrates about the limitations of writing and dialectic.
 ---
 
-<span class="sc">Dijon:</span> Excuse me. I’ve been standing here, leaning against this tall tree, listening for some time.
+<span class="sc">Dijon:</span> Excuse me. I’ve been standing here, leaning against this tree, for some time. You were so caught up in your intercourse that you didn’t hear me approach. A part of me wanted to interrupt, thinking it shameful to eavesdrop, but another part of me couldn’t bring myself to. I was worried if I interrupted, I wouldn’t be able hear your private dialogue. For most of us choose different words in private than we do in a larger group. However, just now, you said something I couldn’t bear, and that part of me that wanted to interrupt won out.
 
-<span class="sc">Socrates:</span> What brings you to this beautiful place?
+<span class="sc">Socrates:</span> I would like to know was so unbearable that you risked interrupting our dialogue, but first I would like to know what brings you to this beautiful place? You do not appear Ionian, or even Greek.
 
-<span class="sc">Dijon:</span> I was passing by, on my way through Athens. I saw this stream and, it being a hot afternoon, decided to leave the path and walk along its banks. As I walked, I could hear the faint echoes of your voices rising above the cicadas. Intrigued, I walked toward the voices.
+<span class="sc">Dijon:</span> I am passing by, on my way through Athens. I saw this stream and, it being a hot afternoon, decided to leave the path and walk along its banks. As I walked, I could hear the faint echoes of your voices rising above the cicadas. Intrigued, I walked toward them.
 
-You were so busy with your intercourse that you didn’t hear me approach. Part of me wanted to interrupt, but part of me couldn’t pull away. Then, just now, you said something I couldn’t bear, and so the part of me that wanted to interrupt won out.
+<span class="sc">Socrates:</span> It is a beautiful place. Let’s hear what we’ve said that so bothered you.
 
-<span class="sc">Socrates:</span> What was so unbearable that you had to interrupt our dialogue?
-
-<span class="sc">Dijon:</span> You said the written word can at best remind us of what we already know. This seems to be an unfair statement.
-
-If you were attacked unfairly, wouldn’t it be just for your pupils to come to your aid? Likewise, I must come to the aid of my greatest teacher—the written word. It has taught me most of what I know.
+<span class="sc">Dijon:</span> You said written words can at best remind us of what we already know. This seems to be an unfair criticism of the written word. If you were attacked unfairly, wouldn’t it be just for your friend to come to your aid? Likewise, I must come to the aid of my greatest teacher—the written word. It has taught me most of what I know.
 
 <span class="sc">Socrates:</span> Phaedrus, how should we proceed?
 
-<span class="sc">Phaedrus:</span> You don’t mind offending people with your speeches and questions, but I think it would be best to calm down this stranger.
+<span class="sc">Phaedrus:</span> I think you should try to calm down this stranger. Since he isn’t from Athens and since your questioning can offend people, it may be best to explain yourself directly.
 
-<span class="sc">Socrates:</span> Very well, I shall try to explain myself. Writing shares a strange feature with painting. Paintings stand there as if they are alive, but if anyone asks them anything, they remain most solemnly silent. The same is true of written words. You’d think they were speaking as if they had some understanding, but if you question anything that has been said because you want to learn more, it continues to signify just that very same thing forever. And when it is faulted and attacked unfairly, it always needs its father’s support; alone, it can neither defend itself nor come to its own support.
+<span class="sc">Socrates:</span> Very well, I shall try. Why did I criticize the written word? Writing shares a strange feature with painting. Paintings stand there as if they are alive, but if anyone asks them anything, they remain most solemnly silent. The same is true of written words. You’d think they were speaking as if they had some understanding, but if you question anything that has been said because you want to learn more, it continues to signify just that very same thing forever. And when it is faulted and attacked unfairly, it always needs its father’s support; alone, it can neither defend itself nor come to its own support.
 
-We need a more capable discourse, one that is written down, with knowledge, in the soul of the listener. We need a discourse that can defend itself. I mean the living, breathing discourse of the man who knows, of which the written one can be fairly called an image.
+We need a more capable discourse, one that is written down, with knowledge, _in the soul_ of the listener. We need a discourse that can defend itself. I mean the living, breathing discourse of the man who knows, of which the written one can be fairly called an image.
 
 Unlike the writer, the dialectician chooses a proper soul and plants and sows within it discourse accompanied by knowledge—discourse capable of helping itself as well as the man who planted it, which is not barren but produces a seed from which more discourse grows in the character of others. Such discourse makes the seed forever immortal and renders the man who has it as happy as any human can be.
 
-<span class="sc">Dijon:</span> Well, this is what _I’ve_ read. Among the ancient scribes of Egypt, there is one who wrote the following:
+<span class="sc">Dijon:</span> The written word may not defend itself as well as the spoken, but it can grant immortality. To demonstrate this, I shall read a passage written a many centuries ago by an Egyptian scribe:
 
 “As for those wise writers from the time after the gods, they who foretold what was to come, their names have become everlasting, even though they have departed this life and all their relatives are forgotten.
 
@@ -99,9 +95,7 @@ We yearn for an absolute moral standard—this is because our souls, in past liv
 
 <span class="sc">Dijon:</span> Where I come from, written words are abundant: if you shout a question towards the heavens, Boreas, Zephyrus, Notus, and Eurus will bring you everything that’s been written about the question before an acorn can fall to the ground. Thus, for many questions, I can rely on the written word.
 
-<span class="sc">Socrates:</span> I would travel through dense forests and over high mountains to live in such a place—you are blessed.
-
-Even if the written word can sow abundantly, casting seeds is not enough to ensure they grow in another’s soul.
+<span class="sc">Socrates:</span> I would travel through dense forests and over high mountains to live in such a place—you are blessed. Yet even if the written word can sow abundantly, casting seeds is not enough to ensure they grow in another’s soul.
 
 Stranger, I take it that you, like me, have read widely and that you’ve observed this pattern in yourself: old plants are difficult to uproot. They grow tall and choke out new plants with their shadows. It’s too easy to dismiss an author’s ideas before we fully grasp them. Dialectic can weed out your garden and make room for new seeds.
 
