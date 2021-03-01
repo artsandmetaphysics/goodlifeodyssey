@@ -7,11 +7,11 @@ description: >
 
 <span class="sc">Dijon:</span> Excuse me. I’ve been standing here, leaning against this tree, for some time. You were so caught up in your intercourse that you didn’t hear me approach. A part of me wanted to interrupt, thinking it shameful to eavesdrop, but another part of me couldn’t bring myself to. I was worried if I interrupted, I wouldn’t be able hear your private dialogue. For most of us choose different words in private than we do in a larger group. However, just now, you said something I couldn’t bear, and that part of me that wanted to interrupt won out.
 
-<span class="sc">Socrates:</span> I would like to know was so unbearable that you risked interrupting our dialogue, but first I would like to know what brings you to this beautiful place? You do not appear Ionian, or even Greek.
+<span class="sc">Socrates:</span> I would like to know was so unbearable that you risked interrupting our dialogue, but first I must ask why you came to this beautiful place? You do not appear Ionian, or even Greek.
 
-<span class="sc">Dijon:</span> I am passing by, on my way through Athens. I saw this stream and, it being a hot afternoon, decided to leave the path and walk along its banks. As I walked, I could hear the faint echoes of your voices rising above the cicadas. Intrigued, I walked toward them.
+<span class="sc">Dijon:</span> I am passing through Athens. I saw this stream and, it being a hot afternoon, decided to leave the path and walk along its banks. As I walked, I could hear the faint echoes of your voices rising above the cicadas. Intrigued, I walked toward them.
 
-<span class="sc">Socrates:</span> It is a beautiful place. Let’s hear what we’ve said that so bothered you.
+<span class="sc">Socrates:</span> Let’s hear what we’ve said that so bothered you.
 
 <span class="sc">Dijon:</span> You said written words can at best remind us of what we already know. This seems to be an unfair criticism of the written word. If you were attacked unfairly, wouldn’t it be just for your friend to come to your aid? Likewise, I must come to the aid of my greatest teacher—the written word. It has taught me most of what I know.
 
@@ -27,15 +27,13 @@ Unlike the writer, the dialectician chooses a proper soul and plants and sows wi
 
 <span class="sc">Dijon:</span> The written word may not defend itself as well as the spoken, but it can grant immortality. To demonstrate this, I shall read a passage written a many centuries ago by an Egyptian scribe:
 
-“As for those wise writers from the time after the gods, they who foretold what was to come, their names have become everlasting, even though they have departed this life and all their relatives are forgotten.
-
-“They gave themselves a book as their lector-priest, a writing-board as their dutiful son. Teachings are their mausoleu, the reed-pen their child, the burnishing-stone their wife. Both great and small are given them as their children, for the writing is chief.
-
-“Be a writer, take it to heart, so that _your_ name will fare likewise. A book is more effective than a carved tombstone or a permanent sepulcher. They serve as chapels and mausoleu in the mind of him who proclaims their names. A name on people’s lips will surely be effective in the afterlife!
-
-“Is there one here like Hordedef? Is there another like Imhotep? None of our kin is like Neferti or Khety, their leader. May I remind you about Ptahemdjehuty and Khakheperraseneb! Is there another like Ptahhotep, or the equal of Kairsu?
-
-“Those wise men who foretold what was to come: what they said came into being; it is found as a maxim, written in their books. Other’s offspring will be their heirs, as if they were their own children. They hid their magic from the world, but it is read in their teachings. They are gone, their names forgotten; but writings cause them to be remembered.”
+<blockquote>
+<p>As for those wise writers from the time after the gods, they who foretold what was to come, their names have become everlasting, even though they have departed this life and all their relatives are forgotten.</p>
+<p>They gave themselves a book as their lector-priest, a writing-board as their dutiful son. Teachings are their mausoleu, the reed-pen their child, the burnishing-stone their wife. Both great and small are given them as their children, for the writing is chief.</p>
+<p>“Be a writer, take it to heart, so that <em>your</em> name will fare likewise. A book is more effective than a carved tombstone or a permanent sepulcher. They serve as chapels and mausoleu in the mind of him who proclaims their names. A name on people’s lips will surely be effective in the afterlife!</p>
+<p>“Is there one here like Hordedef? Is there another like Imhotep? None of our kin is like Neferti or Khety, their leader. May I remind you about Ptahemdjehuty and Khakheperraseneb! Is there another like Ptahhotep, or the equal of Kairsu?</p>
+<p>“Those wise men who foretold what was to come: what they said came into being; it is found as a maxim, written in their books. Other’s offspring will be their heirs, as if they were their own children. They hid their magic from the world, but it is read in their teachings. They are gone, their names forgotten; but writings cause them to be remembered.”</p>
+</blockquote>
 
 <span class="sc">Phaedrus:</span> Do you really believe an ancient scribe wrote this?
 
