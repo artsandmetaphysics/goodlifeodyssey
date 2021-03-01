@@ -5,11 +5,11 @@ description: >
   An imaginative dialogue with Socrates about the limitations of writing and dialectic.
 ---
 
-<span class="sc">Dijon:</span> Excuse me. I’ve been standing here, leaning against this tree, for some time. You were so caught up in your intercourse that you didn’t hear me approach. A part of me wanted to interrupt, thinking it shameful to eavesdrop, but another part of me couldn’t bring myself to. I was worried if I interrupted, I wouldn’t be able hear your private dialogue. For most of us choose different words in private than we do in a larger group. However, just now, you said something I couldn’t bear, and that part of me that wanted to interrupt won out.
+<span class="sc">Dijon:</span> Excuse me. I’ve been standing here, leaning against this tree, for some time. You were so caught up in your intercourse that you didn’t hear me approach. A part of me wanted to interrupt, thinking it shameful to eavesdrop, but another part of me couldn’t bring myself to. I was worried if I interrupted, I wouldn’t be able hear your private dialogue. However, just now, you said something I couldn’t bear, and that part of me that wanted to interrupt won out over the part.
 
-<span class="sc">Socrates:</span> I would like to know was so unbearable that you risked interrupting our dialogue, but first I must ask why you came to this beautiful place? You do not appear Ionian, or even Greek.
+<span class="sc">Socrates:</span> I would like to know was so unbearable that you risked interrupting our dialogue, but first I must ask: how did you come to this beautiful place? You do not appear Ionian, or even Greek.
 
-<span class="sc">Dijon:</span> I am passing through Athens. I saw this stream and, it being a hot afternoon, decided to leave the path and walk along its banks. As I walked, I could hear the faint echoes of your voices rising above the cicadas. Intrigued, I walked toward them.
+<span class="sc">Dijon:</span> I’m passing through Athens. I saw this stream and, it being a hot afternoon, decided to leave the path and walk along its banks. As I walked, I could hear the faint echoes of your voices rising above the cicadas. Intrigued, I walked toward them.
 
 <span class="sc">Socrates:</span> Let’s hear what we’ve said that so bothered you.
 
@@ -25,25 +25,27 @@ We need a more capable discourse, one that is written down, with knowledge, _in 
 
 Unlike the writer, the dialectician chooses a proper soul and plants and sows within it discourse accompanied by knowledge—discourse capable of helping itself as well as the man who planted it, which is not barren but produces a seed from which more discourse grows in the character of others. Such discourse makes the seed forever immortal and renders the man who has it as happy as any human can be.
 
-<span class="sc">Dijon:</span> The written word may not defend itself as well as the spoken, but it can grant immortality. To demonstrate this, I shall read a passage written a many centuries ago by an Egyptian scribe:
+<span class="sc">Dijon:</span> You’re right that the written word may not defend itself as well as the spoken, especially when read by someone who doesn’t love the truth. However, the written word is more able to grant immortality than the spoken. To demonstrate this, I’ll read a passage, written many centuries ago, by an Egyptian scribe:
 
 <blockquote>
 <p>As for those wise writers from the time after the gods, they who foretold what was to come, their names have become everlasting, even though they have departed this life and all their relatives are forgotten.</p>
 <p>They gave themselves a book as their lector-priest, a writing-board as their dutiful son. Teachings are their mausoleu, the reed-pen their child, the burnishing-stone their wife. Both great and small are given them as their children, for the writing is chief.</p>
-<p>“Be a writer, take it to heart, so that <em>your</em> name will fare likewise. A book is more effective than a carved tombstone or a permanent sepulcher. They serve as chapels and mausoleu in the mind of him who proclaims their names. A name on people’s lips will surely be effective in the afterlife!</p>
-<p>“Is there one here like Hordedef? Is there another like Imhotep? None of our kin is like Neferti or Khety, their leader. May I remind you about Ptahemdjehuty and Khakheperraseneb! Is there another like Ptahhotep, or the equal of Kairsu?</p>
-<p>“Those wise men who foretold what was to come: what they said came into being; it is found as a maxim, written in their books. Other’s offspring will be their heirs, as if they were their own children. They hid their magic from the world, but it is read in their teachings. They are gone, their names forgotten; but writings cause them to be remembered.”</p>
+<p>Be a writer, take it to heart, so that <em>your</em> name will fare likewise. A book is more effective than a carved tombstone or a permanent sepulcher. They serve as chapels and mausoleu in the mind of him who proclaims their names. A name on people’s lips will surely be effective in the afterlife!</p>
+<p>Is there one here like Hordedef? Is there another like Imhotep? None of our kin is like Neferti or Khety, their leader. May I remind you about Ptahemdjehuty and Khakheperraseneb! Is there another like Ptahhotep, or the equal of Kairsu?</p>
+<p>Those wise men who foretold what was to come: what they said came into being; it is found as a maxim, written in their books. Other’s offspring will be their heirs, as if they were their own children. They hid their magic from the world, but it is read in their teachings. They are gone, their names forgotten; but writings cause them to be remembered.</p>
 </blockquote>
 
 <span class="sc">Phaedrus:</span> Do you really believe an ancient scribe wrote this?
 
-<span class="sc">Dijon:</span> I do believe it, because scholars from my land dug up the papyrus this was written on, and many like it, in the desert sands and learned how to read them. And so, having relayed this ancient account, I’d like to question your older companion: Why would the scribe praise Hordedef, Imhotep, Neferti, Khety, Ptahemdjehuty, Khakheperraseneb, Ptahhotep, and Kairsu if their writings merely reminded him of what he already knew?
+<span class="sc">Dijon:</span> I do believe it, because scholars from my land dug up the papyrus this was written on, and many like it, in the desert sands and learned how to read them. And so, having relayed this ancient account, I’d like to question your older companion: Why would the scribe praise Hordedef, Imhotep, Neferti, Khety, Ptahemdjehuty, Khakheperraseneb, Ptahhotep, and Kairsu if their writings merely reminded him of what he already knew? Furthermore, if these wise men and their students weren’t writers, would we be speaking their names today?
 
-<span class="sc">Socrates:</span> The teachings of these ancient wise men and prophets were planted in the souls of their contemporaries, where they grew like reeds until they covered the banks of the Nile. As the great river flooded and receded, and as pharaohs conquered and were conquered, these reeds swayed back and forth in the muddy waters. And so, this scribe’s mother, father, and grandmother planted the meaning of these sayings in his soul long before he could read “Hordedef” or “Ptahhotep.”
+<span class="sc">Socrates:</span> These ancient wise men, if indeed they were wise, would have abandoned any vulgar lust to be a “name on people’s lips.” They would happily have the truth take its place.
+
+Surely the teachings of these ancient wise men and prophets were planted in the souls of their contemporaries, where they grew like reeds until they covered the banks of the Nile. As the great river flooded and receded, these reeds swayed back and forth in the muddy waters, more resilient than the pharaohs who conquered and were conquered. And so, this scribe’s mother, father, and grandmother planted the meaning of these sayings in his soul long before he could read “Hordedef” or “Ptahhotep.”
 
 In fact, I guess that many of the sayings attributed to these wise men were not their own; forgotten writers used these great names as as sort of fertilizer for their own reeds.
 
-<span class="sc">Dijon:</span> If our scribe receives a written invitation to a dinner party, isn’t it telling him something new?
+<span class="sc">Dijon:</span> I’ll grant that the truth is on your lips, at least for a moment, but let me ask you this: If our scribe receives a written invitation to a dinner party, isn’t it telling him something new?
 
 <span class="sc">Socrates:</span> It is.
 
@@ -51,7 +53,7 @@ In fact, I guess that many of the sayings attributed to these wise men were not 
 
 <span class="sc">Socrates:</span> If he already understood the letter’s contents, it could remind him of what he already knows. If he didn’t understand the idea, then who will answer his questions?
 
-<span class="sc">Dijon:</span> I see that I have not convinced you. Imagine that this scribe is struck deaf and dumb by Ammon for attributing immortality to the written word. He dies, and in the afterlife, he meets the sage Ptahhotep. He writes a note on a piece of papyrus:
+<span class="sc">Dijon:</span> Maybe the letter will anticipate all of his questions? Imagine that this scribe is struck deaf and dumb by Ammon for attributing immortality to the written word. He dies, and in the afterlife, he meets the sage Ptahhotep. He writes a note on a piece of papyrus:
 
 “Vizier Ptahhotep, I prostrate myself before you, my superior. I have read your many teachings and taught them to my sons. As you know, they are on the lips of all lovers of wisdom in Egypt. Most of your sayings I could understand on my own, however, all my life I have had a question about one of them that nobody has been able to answer to my satisfaction. I can not speak or hear, but if you deemed to write responses on this papyrus, I would be honored and delighted to know your answer.”
 

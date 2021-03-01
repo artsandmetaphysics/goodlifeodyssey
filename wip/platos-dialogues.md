@@ -35,6 +35,10 @@ What makes a good speech?
 
 > First, you must know the truth concerning everything you are speaking or writing about; you must learn how to define each thing in itself; and, having defined it, you must know how to divide it into kinds until you reach something indivisible. Second, you must understand the nature of the soul, along the same lines; you must determine which kind of speech is appropriate to each kind of soul, prepare and arrange your speech accordingly, and offer a complex and elaborate speech to a complex soul and a simple speech to a simple one. Then, and only then, will you be able to use speech artfully, to the extent its nature allows it to be used in that way, either in order to teach or in order to persuade. This is the whole point of the argument we have been making.
 
+How is the soul structured?
+
+> To describe what the soul actually is would require a very long account, altogether a task for a god in every way; but to say what it is like is humanly possible and takes less time. So let us do the second in our speech. Let us then liken the soul to the natural union of a team of winged horses and their charioteer. The gods have horses and charioteers that are themselves all good and come from good stock besides, while everyone else has a mixture. To begin with, our driver is in charge of a pair of horses; second, one of his horses is beautiful and good and from stock of the same sort, while the other is the opposite and has the opposite sort of bloodline. This means that chariot-driving in our case is inevitably a painfully difficult business.
+
 Is love good for the lover or the beloved?
 
 ## Symposium
