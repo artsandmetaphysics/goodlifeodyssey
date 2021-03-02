@@ -5,7 +5,7 @@ description: >
   An imaginative dialogue with Socrates about the limitations of writing and dialectic.
 ---
 
-<span class="sc">Dijon:</span> Excuse me. I’ve been standing here, leaning against this tree, for some time. You were so caught up in your intercourse that you didn’t hear me approach. A part of me wanted to interrupt, thinking it shameful to eavesdrop, but another part of me couldn’t bring myself to. I was worried if I interrupted, I wouldn’t be able to hear your private dialogue. However, just now, you said something I couldn’t bear, and that part of me that wanted to interrupt won out over the part.
+<span class="sc">Dijon:</span> Excuse me. I’ve been standing here, leaning against this tree, for some time. You were so caught up in your intercourse that you didn’t hear me approach. A part of me wanted to interrupt, thinking it shameful to eavesdrop, but another part of me couldn’t bring myself to. I was worried if I interrupted, I wouldn’t be able to hear your private dialogue. However, just now, you said something I couldn’t bear, and that part of me that wanted to interrupt won out over the other part.
 
 <span class="sc">Socrates:</span> I would like to know what was so unbearable that you risked interrupting our dialogue, but first I must ask: how did you come to this beautiful place? You do not appear Ionian or even Greek.
 
