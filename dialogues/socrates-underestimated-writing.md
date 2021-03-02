@@ -37,15 +37,11 @@ Dijon:: You're right that the written word may not defend itself as well as the 
 >
 > Those wise men who foretold what was to come: what they said came into being; it is found as a maxim, written in their books. Other's offspring will be their heirs, as if they were their own children. They hid their magic from the world, but it is read in their teachings. They are gone, their names forgotten; but writings cause them to be remembered.
 
-Phaedrus:: Do you really believe an ancient scribe wrote this?
+Why would the scribe praise Hordedef, Imhotep, Neferti, Khety, Ptahemdjehuty, Khakheperraseneb, Ptahhotep, and Kairsu if their writings merely reminded him of what he already knew? Furthermore, if these wise men and their students weren't writers, would we be speaking their names today?
 
-Dijon:: I do believe it, because scholars from my land dug up the papyrus this was written on, and many like it, in the desert sands and learned how to read them. And so, having relayed this ancient account, I'd like to question your older companion: Why would the scribe praise Hordedef, Imhotep, Neferti, Khety, Ptahemdjehuty, Khakheperraseneb, Ptahhotep, and Kairsu if their writings merely reminded him of what he already knew? Furthermore, if these wise men and their students weren't writers, would we be speaking their names today?
+Socrates:: These wise men, if indeed they were wise, would have no vulgar lust to be a "name on people's lips." Instead, they would have loved for the truth take its place there. Therefore, I'm sure they planted their teachings widely among the souls of their students, where they grew like reeds until they covered the banks of the Nile. As the great river flooded and receded, these reeds swayed back and forth in the muddy waters, more resilient than the pharaohs who conquered and were conquered. And so, these teachings came to define what it was to be Egyptian. They would be taught to young children.
 
-Socrates:: These ancient wise men, if indeed they were wise, would have abandoned any vulgar lust to be a "name on people's lips." They would happily have the truth take its place.
-
-Surely the teachings of these ancient wise men and prophets were planted in the souls of their contemporaries, where they grew like reeds until they covered the banks of the Nile. As the great river flooded and receded, these reeds swayed back and forth in the muddy waters, more resilient than the pharaohs who conquered and were conquered. And so, this scribe's mother, father, and grandmother planted the meaning of these sayings in his soul long before he could read "Hordedef" or "Ptahhotep."
-
-In fact, I guess that many of the sayings attributed to these wise men were not their own; forgotten writers used these great names as as sort of fertilizer for their own reeds.
+Your scribe's mother, father, and grandmother planted the meaning of these sayings in his soul long before he could read "Hordedef" or "Ptahhotep." The written word shouldn't be credited with this. In fact, if your scribe had read the sayings of wise men far away, he would dismiss them as inferior nonsense.
 
 Dijon:: I'll grant that the truth is on your lips, at least for a moment, but let me ask you this: If our scribe receives a written invitation to a dinner party, isn't it telling him something new?
 
@@ -55,7 +51,9 @@ Dijon:: So why couldn't a letter teach him about justice, goodness, or beauty?
 
 Socrates:: If he already understood the letter's contents, it could remind him of what he already knows. If he didn't understand the idea, then who will answer his questions?
 
-Dijon:: Maybe the letter will anticipate all of his questions? Imagine that this scribe is struck deaf and dumb by Ammon for attributing immortality to the written word. He dies, and in the afterlife, he meets the sage Ptahhotep. He writes a note on a piece of papyrus:
+Dijon:: Maybe the letter will anticipate all of his questions?
+
+Imagine that this scribe is struck deaf and dumb by Ammon for attributing immortality to the written word. He dies, and in the afterlife, he meets the sage Ptahhotep. He writes a note on a piece of papyrus:
 
 "Vizier Ptahhotep, I prostrate myself before you, my superior. I have read your many teachings and taught them to my sons. As you know, they are on the lips of all lovers of wisdom in Egypt. Most of your sayings I could understand on my own, however, all my life I have had a question about one of them that nobody has been able to answer to my satisfaction. I can not speak or hear, but if you deemed to write responses on this papyrus, I would be honored and delighted to know your answer."
 
