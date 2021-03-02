@@ -5,15 +5,15 @@ description: >
   An imaginative dialogue with Socrates about the limitations of writing and dialectic.
 ---
 
-<span class="sc">Dijon:</span> Excuse me. I’ve been standing here, leaning against this tree, for some time. You were so caught up in your intercourse that you didn’t hear me approach. A part of me wanted to interrupt, thinking it shameful to eavesdrop, but another part of me couldn’t bring myself to. I was worried if I interrupted, I wouldn’t be able hear your private dialogue. However, just now, you said something I couldn’t bear, and that part of me that wanted to interrupt won out over the part.
+<span class="sc">Dijon:</span> Excuse me. I’ve been standing here, leaning against this tree, for some time. You were so caught up in your intercourse that you didn’t hear me approach. A part of me wanted to interrupt, thinking it shameful to eavesdrop, but another part of me couldn’t bring myself to. I was worried if I interrupted, I wouldn’t be able to hear your private dialogue. However, just now, you said something I couldn’t bear, and that part of me that wanted to interrupt won out over the part.
 
-<span class="sc">Socrates:</span> I would like to know was so unbearable that you risked interrupting our dialogue, but first I must ask: how did you come to this beautiful place? You do not appear Ionian, or even Greek.
+<span class="sc">Socrates:</span> I would like to know what was so unbearable that you risked interrupting our dialogue, but first I must ask: how did you come to this beautiful place? You do not appear Ionian or even Greek.
 
 <span class="sc">Dijon:</span> I’m passing through Athens. I saw this stream and, it being a hot afternoon, decided to leave the path and walk along its banks. As I walked, I could hear the faint echoes of your voices rising above the cicadas. Intrigued, I walked toward them.
 
 <span class="sc">Socrates:</span> Let’s hear what we’ve said that so bothered you.
 
-<span class="sc">Dijon:</span> You said written words can at best remind us of what we already know. This seems to be an unfair criticism of the written word. If you were attacked unfairly, wouldn’t it be just for your friend to come to your aid? Likewise, I must come to the aid of my greatest teacher—the written word. It has taught me most of what I know.
+<span class="sc">Dijon:</span> You said written words could at best remind us of what we already know. This seems to be an unfair criticism of the written word. If you were attacked unfairly, wouldn’t it be just for your friend to come to your aid? Likewise, I must come to the aid of my greatest teacher—the written word. It has taught me most of what I know.
 
 <span class="sc">Socrates:</span> Phaedrus, how should we proceed?
 
@@ -53,7 +53,7 @@ Your scribe’s mother, father, and grandmother planted the meaning of these say
 
 Imagine that this scribe is struck deaf and dumb by Ammon for attributing immortality to the written word. He dies, and in the afterlife, he meets the sage Ptahhotep. He writes a note on a piece of papyrus:
 
-“Vizier Ptahhotep, I prostrate myself before you, my superior. I have read your many teachings and taught them to my sons. As you know, they are on the lips of all lovers of wisdom in Egypt. Most of your sayings I could understand on my own, however, all my life I have had a question about one of them that nobody has been able to answer to my satisfaction. I can not speak or hear, but if you deemed to write responses on this papyrus, I would be honored and delighted to know your answer.”
+“Vizier Ptahhotep, I prostrate myself before you, my superior. I have read your many teachings and taught them to my sons. As you know, they are on the lips of all lovers of wisdom in Egypt. Most of your sayings I could understand on my own, however, all my life, I have had a question about one of them that nobody has been able to answer to my satisfaction. I can not speak or hear, but if you deemed to write responses on this papyrus, I would be honored and delighted to know your answer.”
 
 The vizier, Ptahhotep, writes: “I will answer.”
 
@@ -81,11 +81,11 @@ It just so happens that our scribe is sent to retrieve the man’s wife. He find
 
 The couple climbs up from the fog and darkness, but fate ordained that the secret of right and wrong would remain in Hades, and the musician can not help but look back upon the beautiful face of his wife. Woe is she! Woe is the musician! Woe is our scribe, who never repented from his love of writing!
 
-Do you think, if this secret dialogue were smuggled to Thrace, that it would merely remind me of what I already know? Keep in mind that I’ve had the very same questions that our scribe asked Ptahhotep.
+If this secret dialogue were smuggled to Thrace, do you think that it would merely remind me of what I already know? Keep in mind that I’ve had the very same questions that our scribe asked Ptahhotep.
 
 <span class="sc">Socrates:</span> I would like to ask whether your scholars dug up a scroll with this story, but you are the one asking me questions, and so I’ll keep the goal of our conversation in mind.
 
-We yearn for an absolute moral standard—this is because our souls, in past lives, must have been given Ptahhotep’s secrets. In this sense, then, the dialogue only reminds you of secret knowledge deep in your soul. In a more immediate sense, the dialogue _would_ be teaching you something new. Thus, I concede that the written word can do more than remind you of what you already know. However, even if the written word can sow the seeds of knowledge, dialectic is still a more able farmer
+We yearn for an absolute moral standard—this is because our souls, in past lives, must have been given Ptahhotep’s secrets. In this sense, then, the dialogue only reminds you of secret knowledge deep in your soul. In a more immediate sense, the dialogue _would_ be teaching you something new. Thus, I concede that the written word can do more than remind you of what you already know. However, even if the written word can sow the seeds of knowledge, dialectic is still a more able farmer.
 
 <span class="sc">Dijon:</span> Why do you say that?
 
