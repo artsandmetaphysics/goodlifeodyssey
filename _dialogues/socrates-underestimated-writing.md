@@ -5,13 +5,13 @@ description: >
   An imaginative dialogue with Socrates about the limitations of writing and dialectic.
 ---
 
-<span class="sc">Dijon:</span> Excuse me. I’ve been standing here, leaning against this tree, for some time. You were so caught up in your intercourse that you didn’t hear me approach. A part of me wanted to interrupt, thinking it shameful to eavesdrop, but another part of me couldn’t bring myself to. I was worried if I interrupted, I wouldn’t be able to hear your private dialogue. However, just now, you said something I couldn’t bear, and that part of me that wanted to interrupt won out over the other part.
+<span class="sc">Dijon:</span> Excuse me. I’ve been standing here, leaning against this tree, for some time. You were so caught up in your intercourse that you didn’t hear me approach. A part of me wanted to interrupt, thinking it shameful to eavesdrop, but another part of me couldn’t bring myself to. I was worried that if I interrupted, I wouldn’t be able to hear your private dialogue. However, just now, you said something I couldn’t bear to let pass in silence, and that part of me that wanted to interrupt won out over the other part.
 
 <span class="sc">Socrates:</span> I would like to know what was so unbearable that you risked interrupting our dialogue, but first I must ask: how did you come to this beautiful place? You do not appear Ionian or even Greek.
 
 <span class="sc">Dijon:</span> I’m passing through Athens. I saw this stream and, it being a hot afternoon, decided to leave the path and walk along its banks. As I walked, I could hear the faint echoes of your voices rising above the cicadas. Intrigued, I walked toward them.
 
-<span class="sc">Socrates:</span> Let’s hear what we’ve said that so bothered you.
+<span class="sc">Socrates:</span> Let’s hear what we said that so bothered you.
 
 <span class="sc">Dijon:</span> You said written words could at best remind us of what we already know. This seems to be an unfair criticism of the written word. If you were attacked unfairly, wouldn’t it be just for your friend to come to your aid? Likewise, I must come to the aid of my greatest teacher—the written word. It has taught me most of what I know.
 
@@ -23,7 +23,7 @@ description: >
 
 What sort of discourse do we need? We need one that is written down, with knowledge, _in the soul_ of the listener. We need a discourse that can defend itself. I mean the living, breathing discourse of the man who knows, of which the written one can be fairly called an image. Unlike the writer, the dialectician chooses a proper soul and plants and sows within it discourse accompanied by knowledge—discourse capable of helping itself as well as the man who planted it, which is not barren but produces a seed from which more discourse grows in the character of others. Such discourse makes the seed forever immortal and renders the man who has it as happy as any human can be.
 
-<span class="sc">Dijon:</span> You’re right that the written word may not defend itself as well as the spoken, especially when read by someone who doesn’t love the truth. However, the written word is more able to grant immortality than the spoken. To demonstrate this, I’ll read a passage, written many centuries ago, by an Egyptian scribe:
+<span class="sc">Dijon:</span> You’re right that the written word can’t defend itself as well as the spoken, especially when read by someone who doesn’t love the truth. However, it can grant immortality. To demonstrate this, I’ll read a passage, written many centuries ago, by an Egyptian scribe:
 
 <blockquote>
 <p>As for those wise writers from the time after the gods, they who foretold what was to come, their names have become everlasting, even though they have departed this life and all their relatives are forgotten.</p>
@@ -35,7 +35,7 @@ What sort of discourse do we need? We need one that is written down, with knowle
 
 Why would the scribe praise Hordedef, Imhotep, Neferti, Khety, Ptahemdjehuty, Khakheperraseneb, Ptahhotep, and Kairsu if their writings merely reminded him of what he already knew? Furthermore, if these wise men and their students weren’t writers, would we be speaking their names today?
 
-<span class="sc">Socrates:</span> These wise men, if indeed they were wise, would have no vulgar lust to be a “name on people’s lips.” Instead, they would have loved for the truth take its place there. Therefore, I’m sure they planted their teachings widely among the souls of their students, where they grew like reeds until they covered the banks of the Nile. As the great river flooded and receded, these reeds swayed back and forth in the muddy waters, more resilient than the pharaohs who conquered and were conquered. And so, these teachings came to define what it was to be Egyptian. They would be taught to young children.
+<span class="sc">Socrates:</span> These wise men, if indeed they were wise, would have no vulgar lust to be a “name on people’s lips.” Instead, they would love for the truth take its place there. Therefore, I’m sure they planted their teachings widely among the souls of their students, where they grew like reeds until they covered the banks of the Nile. As the great river flooded and receded, these reeds swayed back and forth in the muddy waters, more resilient than the pharaohs who conquered and were conquered. And so, these teachings came to define what it was to be Egyptian. They would be taught to young children.
 
 Your scribe’s mother, father, and grandmother planted the meaning of these sayings in his soul long before he could read “Hordedef” or “Ptahhotep.” The written word shouldn’t be credited with this. In fact, if your scribe had read the sayings of wise men far away, he would dismiss them as inferior nonsense.
 
