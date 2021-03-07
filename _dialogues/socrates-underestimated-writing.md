@@ -123,7 +123,7 @@ Once you’ve found someone to talk with, there are other traps to avoid. Some p
 
 <span class="sc">Socrates:</span> I’ve experienced this problem in many discussions. You are indeed correct. In fact, if you caught me on the right day, I may have spoken this very sentence.
 
-<span class="sc">Dijon:</span> I think we should take a middle path. Use dialectic to weed your garden and the written word to sow new seeds and water the plants. Both methods require a commitment to finding the truth to be effective.
+<span class="sc">Dijon:</span> I think we should take a middle path. Use dialectic to weed your garden and the written word to sow new seeds and water it. Both methods require a commitment to finding the truth to be effective.
 
 <span class="sc">Socrates:</span> By Theuth, you’re right—it’s best not to love one or the other too much.
 
