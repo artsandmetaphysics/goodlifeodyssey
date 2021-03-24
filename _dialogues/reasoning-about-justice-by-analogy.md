@@ -2,7 +2,7 @@
 title: >
   Reasoning About Justice from Analogy
 description: >
-  An analysis of a portion of book I of Plato’s Republic.
+  A short investigation of a part of book I of Plato’s Republic.
 date: 2021-03-23
 ---
 
@@ -90,8 +90,12 @@ date: 2021-03-23
 
 <span class="sc">Socrates:</span> It looks like it.
 
-<span class="sc">Dijon:</span> It seems that you are using the word “just” in a different sense than I usually use the word.
+<span class="sc">Dijon:</span> It seems that you are using the word “just” in a different sense than I usually use the word. Perhaps I am only confused about this.
 
 Isn’t it possible that the man’s punishment would lead him to consider his error, thus making him better with respect to human _aretē_? While physical harm may not make horses better, it doesn’t seem to follow that physical harm can’t make humans better. Wouldn’t you agree that not _all_ harm is bad?
+
+<span class="sc">Socrates:</span> I do not. Can a punishment, intended to improve the person, be properly called a harm? When Simonedes says to help your friends and harm your enemies, he must have meant killing your enemies, stealing their cattle, and making their wives your slaves.
+
+<span class="sc">Dijon:</span> Consider, then, that the widow and orphan abuser is stoned to death. Couldn’t the stoning, while unable to make the abuser more just, serve to make others more just by example?
 
 *The first portion of the dialogue is adapted from Allan Bloom’s translation of* The Republic of Plato.
