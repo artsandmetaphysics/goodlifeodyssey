@@ -1,6 +1,6 @@
 ---
 title: >
-  Reasoning by Justice from Analogy
+  Reasoning About Justice from Analogy
 description: >
   An analysis of a portion of book I of Plato's Republic.
 date: 2021-03-23
