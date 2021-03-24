@@ -78,7 +78,7 @@ Dijon:: When you harm a horse, how is its horse _aretē_ decreased?
 
 Socrates:: I do not know the _aretē_ of horses well, but they must be able to take their rider long distances quickly---now still, now galloping like lightning---like the great breed of Tros' team, whom Diomedes wrested from Aeneas and who won him a slave woman in the great funeral games of Patroclus. Would even one of these excellent horses, given by Zeus for Ganymede, have been as excellent if Diomedes' spear had pierced its leg instead of splitting through Pandarus' jaw?
 
-Dijon:: Indeed not, and so when you speak of human _aretē_ being decreased by harm, what sort of harm do you mean the same type of harm?
+Dijon:: Indeed not, and so when you speak of human _aretē_ being decreased by harm, do you mean the same type of harm?
 
 Socrates:: The _aretē_ of men is different than the _aretē_ of horses, and so men can be harmed by more than spears, swords, and boulders.
 
