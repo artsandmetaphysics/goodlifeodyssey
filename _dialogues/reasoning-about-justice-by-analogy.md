@@ -86,16 +86,12 @@ date: 2021-03-23
 
 <span class="sc">Socrates:</span> Yes.
 
-<span class="sc">Dijon:</span> And justice is human _aretē_?
-
-<span class="sc">Socrates:</span> Indeed, I agree with Polemarchus that this must be so.
-
-<span class="sc">Dijon:</span> And so, if a man is caught abusing widows and orphans and is beaten with a plank and whipped, does this beating with a plank and whipping make the man less just?
+<span class="sc">Dijon:</span> And since justice is human _aretē_, if a man is caught abusing widows and orphans and is beaten with a plank and whipped, does this beating with a plank and whipping make the man less just?
 
 <span class="sc">Socrates:</span> It looks like it.
 
 <span class="sc">Dijon:</span> It seems that you are using the word “just” in a different sense than I usually use the word.
 
-Isn’t it possible that the man, after being beaten with a plank and whipped, would repent and consider his error, thus becoming better with respect to human _aretē_? While physical harm may not make horses better, it doesn’t seem to follow that physical harm can’t make humans better.
+Isn’t it possible that the man’s punishment would lead him to consider his error, thus making him better with respect to human _aretē_? While physical harm may not make horses better, it doesn’t seem to follow that physical harm can’t make humans better. Wouldn’t you agree that not _all_ harm is bad?
 
 *The first portion of the dialogue is adapted from Allan Bloom’s translation of* The Republic of Plato.
