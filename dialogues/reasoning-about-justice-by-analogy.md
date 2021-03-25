@@ -74,7 +74,21 @@ Dijon:: Why do you think music and horsemanship can teach us about justice?
 
 Socrates:: Music is the _aretē_ of musicians, horsemanship the _aretē_ of men skilled in horsemanship, and justice the _aretē_ of humans. Thus, if we observe certain truths about music and horsemanship, we may reason that there are similar truths about justice too, for all three share the same essential nature as types of _aretē_.
 
-Dijon:: When you harm a horse, how is its horse _aretē_ decreased?
+Dijon:: Do you agree that music and horsemanship are unique arts?
+
+Socrates:: Certainly.
+
+Dijon:: Then couldn't these observed truths, for example that musicians can't make men unmusical by music, be due their unique nature?
+
+Socrates:: No, because each art provides another example. Can a poet make men less poetic with poetry?
+
+Dijon:: A masterful poet could scare ambitious young people away from his art, causing them to despair of ever scaling their pinnacle of greatness?
+
+Socrates:: This isn't entirely implausible, but wouldn't the ambitious young still love poetry more for having observed the master's greatness?
+
+Dijon:: Maybe, but is the _aretē_ of poets to listen to poetry or to write it?
+
+When you harm a horse, how is its horse _aretē_ decreased?
 
 Socrates:: I do not know the _aretē_ of horses well, but they must be able to take their rider long distances quickly---now still, now galloping like lightning---like the great breed of Tros' team, whom Diomedes wrested from Aeneas and who won him a slave woman in the great funeral games of Patroclus. Would even one of these excellent horses, given by Zeus for Ganymede, have been as excellent if Diomedes' spear had pierced its leg instead of splitting through Pandarus' jaw?
 
