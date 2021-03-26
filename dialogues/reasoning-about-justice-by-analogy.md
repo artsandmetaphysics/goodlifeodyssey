@@ -72,23 +72,25 @@ Socrates:: I will try.
 
 Dijon:: Why do you think music and horsemanship can teach us about justice?
 
-Socrates:: Music is the _aretē_ of musicians, horsemanship the _aretē_ of men skilled in horsemanship, and justice the _aretē_ of humans. Thus, if we observe certain truths about music and horsemanship, we may reason that there are similar truths about justice too, for all three share the same essential nature as types of _aretē_.
+Socrates:: Music is the _aretē_ of musicians, horsemanship the _aretē_ of men skilled in horsemanship, and justice the _aretē_ of humans. Thus, if we know a property of music and horsemanship, we may reason that justice will have the same property, for all three share the same essential nature as types of _aretē_.
 
 Dijon:: Do you agree that music and horsemanship are unique arts?
 
 Socrates:: Certainly.
 
-Dijon:: Then couldn't these observed truths, for example that musicians can't make men unmusical by music, be due their unique nature?
+Dijon:: Couldn't this property, for example that musicians can't make men unmusical by music, be due to music's unique nature and not its nature as a type of _aretē_?
 
-Socrates:: No, because each art provides another example. Can a poet make men less poetic with poetry?
+Socrates:: No, because each art follows the same pattern: Can a poet make men less poetic with poetry?
 
-Dijon:: A masterful poet could scare ambitious young people away from his art, causing them to despair of ever scaling their pinnacle of greatness?
+Dijon:: A masterful poet may make an ambitious young person stop pursuing their art, fleeing for an easier mountain to climb.
 
-Socrates:: This isn't entirely implausible, but wouldn't the ambitious young still love poetry more for having observed the master's greatness?
+Socrates:: This isn't entirely implausible, but wouldn't this ambitious young person still love poetry more for having observed the master's greatness?
 
 Dijon:: Maybe, but is the _aretē_ of poets to listen to poetry or to write it?
 
-When you harm a horse, how is its horse _aretē_ decreased?
+Also, what is the _aretē_ of a warrior? Wouldn't it be to harm their enemies?
+
+And I have a different question. When you harm a horse, how is its horse _aretē_ decreased?
 
 Socrates:: I do not know the _aretē_ of horses well, but they must be able to take their rider long distances quickly---now still, now galloping like lightning---like the great breed of Tros' team, whom Diomedes wrested from Aeneas and who won him a slave woman in the great funeral games of Patroclus. Would even one of these excellent horses, given by Zeus for Ganymede, have been as excellent if Diomedes' spear had pierced its leg instead of splitting through Pandarus' jaw?
 
