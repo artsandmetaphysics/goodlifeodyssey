@@ -6,7 +6,7 @@ description: >
 date: 2021-03-26
 ---
 
-“For every real being, there are three things that are necessary if knowledge of it is to be acquired: first, the name; second, the definition; third, the image; knowledge comes fourth, and in the fifth place we must put the object itself, the knowable and truly real being.” So said Plato in his seventh letter. Grasping knowledge of the object itself is difficult. It requires a teacher, months or years, and an orderly, disciplined life free from bodily distractions.
+“For every real being, there are three things that are necessary if knowledge of it is to be acquired: first, the name; second, the definition; third, the image; knowledge comes fourth, and in the fifth place we must put the object itself, the knowable and truly real being.” So said Plato in his seventh letter. To know the object itself is difficult. It requires a teacher, months or years, and a disciplined life free from bodily distractions.
 
 The first four instruments have their limits. Each presents, “in discourse and in examples, what she is not seeking, and thus makes it easy to refute by sense perception anything that may be said or pointed out, and fills everyone, so to speak, with perplexity and confusion.”
 

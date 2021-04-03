@@ -20,19 +20,35 @@ Eurus:: What did you think?
 
 Dijon:: It's dense.
 
-Eurus:: It is. I believed it was meant to be accompanied and expanded upon by additional commentary. Nāgārjuna's verses are more like mnemonic outline of his thoughts than something to be understood on its own.
+Eurus:: It is. It was meant to be accompanied by a teacher's wisdom or a written commentary. Many such commentarys have been written. For example, Mabja Jangchub Tsondru's commentary, written in the twelth century in Tibet. Nāgārjuna's verses are more nearly a mnemonic outline than something to be understood entirely on its own.
 
-Dijon:: Siderits' mentioned this in his introduction. Given this is the case, it seems we should rely on the ancient commentators to decompress Nāgārjuna's meaning.  Yet Garfield sometimes seems more focused on his own ideas and interpretation.
+Dijon:: Siderits' mentioned this need for commentary's in his introduction too. Given this, it seems like we should rely on the ancient commentators to properly understand Nāgārjuna. Yet Garfield, in his translation, sometimes seems more focused on his interpretation.
 
-This leads me to ask: am I reading to learn Nāgārjuna's views, or to learn the correct views? Like Garfield says, "who is to say that Nāgārjuna is the best possible interpreter of _Mūlamadhyamakakārikā_?" Maybe the ancient commentators misinterpret Nāgārjuna's views, yet they're more correct?
+This leads me to ask: am I reading to learn Nāgārjuna's views, or to learn the correct views? Garfield says, "who is to say that Nāgārjuna is the best possible interpreter of _Mūlamadhyamakakārikā_?" A commentator could misinterpret Nāgārjuna yet be more correct.
 
-Eurus:: You're right to care more about knowing the correct views than knowing Nāgārjuna's views. One of the views, which I think is correct, is that nothing has svabhāva---essence, inherent existence, or true identity.
+Eurus:: You're right to care more about the correct argument than Nāgārjuna's views. One of the views, which I think is correct, is that nothing has svabhāva---essence, inherent existence, or true identity.
 
-Dijon:: In our previous discussion, we considered whether this position could be verified by examining the physical world. We found, to a remarkable degree, it can be. It seems that the universe is in some sense a single entangled and evolving wave function. Even particles, often thought of as fundamental, are just ways of talking about this wave function. Thus, only this wave function could have svabhāva. We didn't come to a consensus as to whether the consistent behavior of this wave function, which the laws of physics describe, can be called its svabhāva.
+Dijon:: In our previous discussion, we considered whether this view could be verified by examining the physical world. We found, to a remarkable degree, science has verified it. The universe is in some sense a single entangled and evolving wave function. Even particles, often thought to be fundamental, are just a convenient way of talking about this wave function. Thus, only this wave function could have svabhāva. We didn't come to a consensus as to whether the consistent behavior of this wave function, which the laws of physics describe, can be called its svabhāva.
 
-At this point, you reflected that any correspondence between the Madhyamaka Buddhist tenant that nothing has svabhāva, and physics, may be coincidental. Since the tenant is a metaphysical claim about things-in-themselves, and since the methods of the physical science can't access things-in-themselves, physics is incapable of prooving or disprooving that nothing has svabhāva.
+At this point, you reflected that any correspondence between the view that nothing has svabhāva, and physics, may be coincidental anyway. To say that nothing has svabhāva is to make a metaphysical claim about the things-in-themselves, and since the methods of the physical science can't access the things-in-themselves, physics is incapable of prooving or disprooving that nothing has svabhāva.
 
-Eurus:: That's right. This can be illustrated by considering dreams: suppose that you performed the double slit experiment in a dream and the results coincided with our current understanding of quantum mechanics. Would the wave function from the dream have svabhāva?
+Eurus:: That's right.
+
+Dijon:: While it may be impossible to _prove_ anything beyond direct perception, I think one may think many things are reasonable. I'll quote from a short book by Bertrand Russell, which says this nicely:
+
+> Of course it is not by argument that we originally come by our belief in an independent external world. We find this belief in ourselves as soon as we begin to reflect: it is what may be called an instinctive belief ...
+>
+> Philosophy should show us the hierarchy of our instinctive beliefs, beginning with those we hold most strongly, and presenting each as much isolated and as free from irrelevant additions as possible. It should take care to show that, in the form in which they are finally set forth, our instinctive beliefs do not clash, but form a harmonious system ...
+>
+> It is of course possible that all or any of our beliefs may be mistaken, and therefore all ought to be held with at least some slight element of doubt. But we cannot have reason to reject a belief except on the ground of some other belief. Hence, by organizing our instinctive beliefs and their consequences, by considering which among them is most possible, if necessary, to modify or abandon, we can arrive, on the basis of accepting as our sole data what we instinctively believe, at an orderly systematic organization of our knowledge, in which, though the possibility of error remains, its likelihood is diminished by the interrelation of the parts and by the critical scrutiny which was preceded acquiescence.
+
+These paragraphs succinctly describe what has been my epistemological worldview for sometime.
+
+Eurus:: Absolutely; I don't disagree. I'm not faulting belief in an independent world purely on the basis of it being unprovable. Very few things are provable beyond a shadow of a doubt, but that doesn't mean that it's unreasonable to form beliefs. Furthermore, I think that belief in a real external world is, a priori, very reasonable. Nāgārjuna would also agree that it is reasonable from the perspective of a mind in delusion. The topic under discussion, though, is just how it is possible that this particular instinct—that the world, or things in the world, is real---can be known to be wrong through direct perception. The explanation is that if the causal support of the world is actually delusion---in other words, if the mind is conjuring the world---then it can in fact be discovered that the world doesn’t exist when that delusion is seen through. So Buddhism gives a consistent account for how this truth is knowable.
+
+TODO: fill in details here
+
+Eurus:: This can be illustrated by considering dreams: suppose that you performed the double slit experiment in a dream and the results coincided with our current understanding of quantum mechanics. Would the wave function from the dream have svabhāva?
 
 Dijon:: My dreams operate inconsistently and bizarrely. Furthermore, everything in them dream originates from my own mind; the closest anything is to being new or independent of my mind would be simple super-positions of existing memories. In such a dream, the double slit experiment, and the knowledge of the wave function that I would infer from it, are reflections of the waking-life quantum mechanics.
 
@@ -42,9 +58,81 @@ Dijon:: If the dream was perfectly realistic, it would operate consistently. Exp
 
 If "my" mind were capable of generating an entire consistent and independent dream world, then it seems like it may as well not be called "my" mind. It would be more like a computer simulation. Some people think our reality is like this---we are in a simulation or the "mind of God". Either could be true. Without revelation of some sort, there is no way for us to know for certain either way. Likewise, we couldn't know if the wave function has svabhāva.
 
-This leads one to ask, how could Nāgārjuna know that nothing has svabhāva? And how can we know he's correct? I, with my upbringing among Abrahamic religions, too quickly concluded that divine revelation would be required. You awakened me to the possibility knowledge through _direct perception_.
+This leads one to ask, how could Nāgārjuna know that nothing has svabhāva? And how can we know he's correct? I, with my upbringing among Abrahamic religions, too quickly concluded that divine revelation would be required. You awakened me to the possibility knowledge through _direct perception_. I'd like to learn more about it, but first I must ask:
 
-When I read _Mūlamadhyamakakārikā_, it seems to me like he's trying to demonstrate it with reasoning from empirical observations. Yet, you're saying it's known through _direct perception_. You began explaining how this is possible, but I'd like to know more about it.
+When I read _Mūlamadhyamakakārikā_, it seems to me like he's trying to prove emptiness with empirical observations.
+
+Eurus:: According to Buddhism’s own account, the metaphysical insight of emptiness is not ultimately arrived at through logical reasoning or empirical observation of the physical world. It is arrived at by purifying the mind to allow direct perception. If we assume that Nāgārjuna had attained the insight, then his logical arguments are not the foundation of his view. Rather, they are meant to knock down the reificationist views of his philosophical opponents.
+
+Dijon:: But Nāgārjuna makes some positive claims, in addition to refuting his reificationist opponents. For example, let me read from Garfield's translation of the examination of the Four Noble Truths:
+
+> You have presented fallacious refutations
+> That are not relevant to emptiness
+> Your confusion about emptiness
+> Does not belong to me.
+>
+> For him to whom emptiness is clear,
+> Everything becomes clear.
+> For him to whom emptiness is not clear,
+> Nothing becomes clear.
+>
+> When you foist on us
+> All of your errors
+> You are like a man who has mounted his horse
+> And has forgotten that very horse.
+>
+> If you perceive the existence of all things
+> In terms of their essence,
+> Then this perception of all things
+> Will be without the perception of causes and conditions.
+>
+> Effects and causes
+> And agents and action
+> And conditions and arising and ceasing
+> And effects will be rendered impossible.
+>
+> Whatever is dependently co-arisen
+> That is explained to be emptiness.
+> That, being a dependent designation,
+> Is itself the middle way.
+>
+> Something that is not dependently arisen,
+> Such a thing does not exist.
+> Therefore a nonempty thing
+> Does not exist.
+
+Eurus:: These are celebrated and famous verses.
+
+Dijon:: Indeed, and profound, but they also appear to do more than refute; they appear to make positive claims. "A nonempty thing does not exist."
+
+Eurus:: If you read Garfield's commentary closely, you would know that emptiness itself is empty, that the emptiness of emptiness is empty, ... "For this amounts to the emptiness of the central ontological tenet of Nāgārjuna's system and is what allows him to claim, despite all appearances, that he is positionless.
+
+Dijon:: But if he says his own claims are empty, relative, and conventional, then why believe in emptiness? It seems mystical to me.
+
+Eurus:: It is mystical in the sense that it is outside the grasp of reason. To know it you must realize emptiness through direct perception.
+
+Thus, I suspect Nāgārjuna thought empirical observations can guide metaphysical insight and that any correspondence is not merely coincidental. I’m sure he thought, like we do, that there are limits to how far you can get this way; in the end, you will need to directly perceive the deep metaphysical truths.
+
+Dijon:: But if Nargajruna knew, having attained the insight, that any correspondence between metaphysics and physics is coincidental, then why use empirical observations in his arguments?
+
+For example, in chapter ten of the _Mūlamadhyamakakārikā_, he says:
+
+> If the fuel were identical with the fire, then agent and object would be one.
+> If fire were distinct from fuel, then there would be fire without fuel.
+> Fire would be always alight; it would be without a cause of lighting.
+
+This argument depends on the observations that fire doesn't light itself to be convincing.
+
+Either Nāgārjuna He may know all of his arguments are ill-founded or irrelevant, yet believe they can point other ignorant souls down the right path. If this were true, he’d be misleading us for our own good. I don’t get the sense this is what he is doing, but I’d like to know what you think.
+
+
+
+There is another possibility: He may know all of his arguments are ill-founded or irrelevant, yet believe they can point other ignorant souls down the right path. If this were true, he’d be misleading us for our own good. I don’t get the sense this is what he is doing, but I’d like to know what you think.
+
+- Just because 
+
+Eurus:: 
+
 
 Eurus:: TODO: fill in answer; key ideas, direct perception provides certain knowledge.
 
