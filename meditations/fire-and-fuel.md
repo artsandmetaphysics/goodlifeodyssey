@@ -8,11 +8,15 @@ date: 2021-04-17
 
 Nāgārjuna was an Indian Mahāyāna Buddhist scholar-saint.
 
-His most famous work, the _Mūlamadhyamakakārikā_, is a sequence of arguments showing that one thing after another does not have _svabhāva_. Svabhāva is Sanskrit term translated to "own-being", "essence", "inherent existence", "true identity" or "intrinsic nature". If something has svabhāva, it's "independent of anything else, uncaused, and not fabricated from other things."
+His most famous work, the _Mūlamadhyamakakārikā_, systematically shows that one thing after another does not have _svabhāva_. Svabhāva is a Sanskrit term translated to "own-being", "essence", "inherent existence", "true identity" or "intrinsic nature". If something has svabhāva, it's "independent of anything else, uncaused, and not fabricated from other things."
 
-Nāgārjuna held if there _were_ ultimately real things, then they must have svabhāva, but there can be no such things. Nāgārjuna is not a nihilist. He believes banyan trees exist in some sense, only not in the ultimate sense.
+Nāgārjuna held that if there _were_ ultimately real things, then they must have svabhāva. So when he says nothing has svabhāva he means that nothing is ultimately real. "Really, nothing is real?" No, Nāgārjuna is not a nihilist. He believes banyan trees are real in some sense, only not in the ultimate sense.
 
-What is meant by the _ultimate sense_? Buddhists distinguish the ultimately true from the conventionally true. A statement is _conventionally true_ if action based on its acceptance leads to successful practice. A statement is _ultimately true_ if it corresponds to the nature of reality and neither asserts nor presupposes the existence of any mere conceptual fiction. "A conceptual fiction is something that is thought to exist only because of facts about us concept-users and the concepts that we happen to employ. For instance, a chariot is a conceptual fiction. When a set of parts is assembled in the right way, we only believe there is a chariot in addition to the parts because of our interests and our cognitive limitations."
+What does it mean to be _ultimately real_? Buddhists distinguish the ultimately true from the conventionally true. A statement is _conventionally true_ if action based on its acceptance leads to successful practice. A statement is _ultimately true_ if it corresponds to the nature of reality and neither asserts nor presupposes the existence of any mere conceptual fiction.
+
+Mark Siderits, in the introduction to his translation of the _Mūlamadhyamakakārikā_, has a nice explanation of a conceptual fiction:
+
+> A conceptual fiction is something that is thought to exist only because of facts about us concept-users and the concepts that we happen to employ. For instance, a chariot is a conceptual fiction. When a set of parts is assembled in the right way, we only believe there is a chariot in addition to the parts because of our interests and our cognitive limitations.
 
 The chariot is conventionally real, as it's made of parts. The chariot wheel is conventionally real, as it's made of wood. The wood is conventionally real, as it's made of cells. The cell's are conventionally real, as they're made of atoms. The atoms are conventionally real, as they're made of smaller particles. What about these smaller particles?
 
