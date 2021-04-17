@@ -2,8 +2,8 @@
 title: >
   Fire and Fuel
 description: >
-  
-date: 2021-04-04
+  Why I agree with Nāgārjuna that everything is empty yet still believe in ultimately real things.
+date: 2021-04-17
 ---
 
 Nāgārjuna was an Indian Mahāyāna Buddhist scholar-saint.
