@@ -24,24 +24,26 @@ Therefore, we can define _just_ using a subtraction:
 <p>just = good - wise - courageous - moderate</p>
 </blockquote>
 
-This reasoning only works if the definition is complete. If it isn’t complete, you’ll have at least one extra term:
+This reasoning only works if the definition is complete. If it isn’t complete, you’ll have extra terms:
 
 <blockquote>
-<p>good = wise + courageous + moderate + just + X</p>
+<p>good = wise + courageous + moderate + just + X + Y</p>
 </blockquote>
 
-If we move the known terms to the right side of the equation, we’d still have two unknown terms on the left:
+If we move the known terms to the right side of the equation, we’d be unable to separate the meaning of _just_ from the unknown terms:
 
 <blockquote>
-<p>just + X = good - wise - courageous - moderate</p>
+<p>just + X + Y = good - wise - courageous - moderate</p>
 </blockquote>
 
-Thus, you couldn’t separate _just_ from the unknown term.
+Furthermore, this mathematical definition of _just_, to be a valid, would require a precise knowledge of _good_, _wise_, _courageous_, and _moderate_.
 
-This mathematical definition of _just_, to be a valid, would also require a precisely knowledge of _good_, _wise_, _courageous_, and _moderate_.
+Neither assumption seems correct.
 
-Neither assumption seems correct to me; the definition seems incomplete and we don’t know these terms with the necessary precision.
+Terms model a complex reality. Like all models, they are approximate. We usually call bananas _and_ lemons yellow, even though we know they are different colors, because we usually don’t mind losing this information. If we want to be more precise, we can call the lemon _neon yellow_. Yet, of course the lemon has many colors. When we say it is neon yellow, we mean its predominant color is neon yellow. We could use a more detailed description, but it would remain an approximation of the actual lemon.
 
-I don’t think we can define words precisely. We learn most words by example; we see how other people use them and we follow. Furthermore, terms are models of a complex reality. Terms are incomplete models. We say both bananas and lemons are _yellow_, despite their subtle differences. Thus _yellow_ is incomplete, but most of the time we don’t care. If we’re repainting our home, we’ll use a precise color, say _Benjamin Moore lemon yellow five_. Terms are also approximate models. Are grapefruits yellow, orange, or pink? My wife says salmon, I say yellow.
+If a concrete term like _yellow_ is an incomplete and approximate model of reality, then abstract terms like _good_, _just_, _wise_, _courageous_, and _moderate_ probably are too. This doesn’t mean these terms are useless. In fact, terms are useful _because_ they are approximate! They let us communicate only the details relevant to a particular situation. This is the same process that turns chronicles into history by condensing facts into meaningful narrative.
 
-I think _good_, _just_, _wise_, _courageous_, and _moderate_ are approximate and incomplete models of reality too. We’ve learned what they mean through examples, and to treat them as if they were as precise as a mathematical circle is misguided.
+This doesn’t mean the _good_ is entirely relative. It only means the _good_ is a term is an approximate model of reality. It is not a thing in-and-of-itself.
+
+So why does Plato treat language this way? I think he was enamored with the precision and beauty of mathematics, and so he wanted to appropriate this beauty to ideas he cared deeply about.

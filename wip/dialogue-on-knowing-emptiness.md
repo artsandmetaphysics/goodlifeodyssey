@@ -160,7 +160,7 @@ Eurus:: But faith was required to _get into_ heaven. You must believe Jesus was 
 
 Dijon:: Your distinction may be less meaningful than it seems. Imagine a child who is born the same year as the Buddha, in classical Greece. His father sacrifices goats to Zeus. His mother hums hymns to Hera. Their polis holds parades and competitions for the gods. He knows none of the noble truths. The child dies and is reincarnated in Persian Egypt. And then in the Zhou dynasty in China. And on and on.
 
-Occasionally they child is born in a Buddhist country. They donate to the sangha and participate in their town's rituals, but they are busy farming.
+Occasionally the child is born in a Buddhist country. They donate to the sangha and participate in their town's rituals, but they are busy farming.
 
 The child is born in a Christian country. Their parents are Christian. Their friends are nominally Christian. They read about Buddhism, but it seems odd. They equate nirvana with non-existence. "It's so pessimistic and life-denying." The child grows old and dies. And on and on. Why are you laughing?
 
