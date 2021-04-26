@@ -26,6 +26,6 @@ After moving the known terms to the right side of the equation, we'd be unable t
 
 > just + X + Y = good − wise − courageous − moderate
 
-Socrates' approach, besides needing to overcome this difficulty of additional terms, would also require precise knowledge of the _good_, _wise_, _courageous_, and _moderate_ to get to the _just_.
+Socrates' approach, besides needing to overcome this difficulty of additional terms, would also require precise knowledge of the _good_, _wise_, _courageous_, and _moderate_ to get to the _just_. It also assumes the terms of a definition can be manipulated like numbers, which may be true in this case, but certainly is not true in general.
 
 Why does Plato treat language this way? I think he was enamored with the precision and beauty of mathematics, and so he wanted to appropriate this precision and beauty to the ideas he cared deeply about, such as the _good_ and the _just_.
