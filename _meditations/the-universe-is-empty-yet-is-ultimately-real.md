@@ -8,7 +8,7 @@ date: 2021-04-17
 
 Nāgārjuna was an Indian Mahāyāna Buddhist scholar-saint.
 
-His most famous work, the _Mūlamadhyamakakārikā_, systematically shows that one thing after another does not have _svabhāva_. Svabhāva is a Sanskrit term translated to “own-being”, “essence”, “inherent existence”, “true identity” or “intrinsic nature”. If something has svabhāva, it’s “independent of anything else, uncaused, and not fabricated from other things.”
+His most famous work, the _Mūlamadhyamakakārikā_, systematically shows that one thing after another is empty of _svabhāva_. Svabhāva is a Sanskrit term translated to “own-being”, “essence”, “inherent existence”, “true identity” or “intrinsic nature”. If something has svabhāva, it’s “independent of anything else, uncaused, and not fabricated from other things.”
 
 Nāgārjuna held that if there were ultimately real things, then they must have svabhāva. So when he says nothing has svabhāva he means that nothing is ultimately real. “Really, nothing is real?” No, Nāgārjuna is not a nihilist. He believes we’re real in some sense, only not in the ultimate sense.
 
