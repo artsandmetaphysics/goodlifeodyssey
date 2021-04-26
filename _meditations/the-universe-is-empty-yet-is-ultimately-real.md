@@ -1,8 +1,8 @@
 ---
 title: >
-  Fire Has No Svabhāva Yet is Ultimately Real
+  The Universe is Empty Yet Ultimately Real
 description: >
-  Why I agree with Nāgārjuna that everything is empty yet still believe in ultimately real things.
+  Why I agree with Nāgārjuna that everything is empty of svabhāva yet still believe in ultimately real things.
 date: 2021-04-17
 ---
 
@@ -24,9 +24,9 @@ The chariot is conventionally real, as it’s made of parts. The chariot wheel i
 
 As best I can tell, modern physics described the universe as a single _wave function_. This wave function encompasses everything. It evolves according to the fixed laws of nature. These smaller particles, like elements, molecules, things, selves, and all other terms in our language, are ways of talking about this universal wave function. The division between the particle and its surroundings is arbitrary, and a particle can be entangled to other parts of the universe, making its behavior inseparable from everything else. Thus the smaller particles are conventionally real, as they’re a way of talking about the universal wave function.
 
-For several months I thought that the universal wave function had svabhāva, because it is “independent of anything else, uncaused, and not fabricated from other things.” However, after some consideration, I now agree that nothing has svabhāva, although as you’ll see below, I still disagree on a deeper point. I changed my mind because the term svabhāva is abstract and difficult to translate. I’m not in a position to question what is meant by this term. And so, I think it’s reasonable to concede that the term wasn’t meant to apply to something like the universal wave function. After all, if you lump everything together, what else is there to depend on!
+For several months I thought that the universal wave function had svabhāva, because it is “independent of anything else, uncaused, and not fabricated from other things.” However, after some consideration, I now agree that nothing has svabhāva. I changed my mind because the term svabhāva is abstract and difficult to translate. I’m not in a position to question what is meant by this term. And so, I think it’s reasonable to concede that the term wasn’t meant to apply to something like the universal wave function. After all, if you lump everything together, what else is there to depend on!
 
-I disagree with Nāgārjuna on another point: He says if there were ultimately real things, they would be things with svabhāva. I don’t think this is true.
+Unlike Nāgārjuna, I think things that are empty of svabhāva can still be ultimately real.
 
 The nature of my disagreement is best illustrated with an example. In book ten, Nāgārjuna shows that fire and fuel have no svabhāva:
 
@@ -62,7 +62,7 @@ Thus, I agree that nothing has svabhāva, yet I think there exist ultimately rea
 A couple of objections can be raised here.
 
 “You write about the universal wave function as if it is real, but without metaphysical underpinnings could it be real? Without these, it would be more like a dream or an illusion. What you’re describing seems more like mathematical machinery than a real thing.” This is, in a sense, restating Nāgārjuna’s position that _if_ there were ultimately real things, _then_ they must have svabhāva. That is, if there were ultimately real things, they must be things that are
-independent of anything else, uncaused, and not fabricated from other things. Presumably a classical atoms would be an allowable metaphysical underpinning. For all the reasons already stated, I disagree with this position; it seems to require reality to fit a preconceived notion about how it must be. In hindsight, perhaps it isn’t too surprising that modern science revealed a different form of nature underneath it all. I should note that there may be objects underpinning our reality, or there may not be.
+independent of anything else, uncaused, and not fabricated from other things. Presumably a classical atoms would be an allowable metaphysical underpinning. For all the reasons already stated, I disagree; it seems to require reality to fit a preconceived notion about how it must be. In hindsight, perhaps it isn’t too surprising that modern science revealed a different form of nature underneath it all. I should note that there may be objects underpinning our reality, or there may not be.
 
 “How do you know the laws of physics are fixed?” I don’t. I’m drawing the best conclusion I can with the evidence I have. We all must do this. We can be _certain_ of very little. However, I would need strong evidence to disregard the permanence of the laws of physics.
 
