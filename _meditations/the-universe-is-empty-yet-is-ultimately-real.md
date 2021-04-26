@@ -10,7 +10,7 @@ Nāgārjuna was an Indian Mahāyāna Buddhist scholar-saint.
 
 His most famous work, the _Mūlamadhyamakakārikā_, systematically shows that one thing after another does not have _svabhāva_. Svabhāva is a Sanskrit term translated to “own-being”, “essence”, “inherent existence”, “true identity” or “intrinsic nature”. If something has svabhāva, it’s “independent of anything else, uncaused, and not fabricated from other things.”
 
-Nāgārjuna held that if there were ultimately real things, then they must have svabhāva. So when he says nothing has svabhāva he means that nothing is ultimately real. “Really, nothing is real?” No, Nāgārjuna is not a nihilist. He believes banyan trees are real in some sense, only not in the ultimate sense.
+Nāgārjuna held that if there were ultimately real things, then they must have svabhāva. So when he says nothing has svabhāva he means that nothing is ultimately real. “Really, nothing is real?” No, Nāgārjuna is not a nihilist. He believes we’re real in some sense, only not in the ultimate sense.
 
 What does it mean to be _ultimately real_? Buddhists distinguish the ultimately true from the conventionally true. A statement is _conventionally true_ if action based on its acceptance leads to successful practice. A statement is _ultimately true_ if it corresponds to the nature of reality and neither asserts nor presupposes the existence of any mere conceptual fiction.
 
