@@ -76,4 +76,6 @@ If the mind could do this, I'd expect those that have dived into the metaphysica
 
 Meditating helps me connect with those around me. I also don't doubt that there exist higher states of consciousness that are well-explored in the East. I'll try to climb into these mountains so I can see for myself, but from what I can gather here on the ground, it doesn't seem like they'll reveal fire to be a conceptual fiction.
 
-Why is it so important that nothing has svabhāva? Suffering is overcome, in part, by realizing that nothing has svabhāva. I'm not sure whether it is important that nothing have svabhāva per se or that nothing ultimately exists, although I suspect the latter.
+Why is it so important that nothing has svabhāva? Suffering is overcome, in part, by realizing that nothing has svabhāva. I'm not sure whether it is important that nothing have svabhāva per se or that nothing ultimately exists.
+
+My interpretation of Nāgārjuna has been chaperoned by the two translators I've read. Also, I'm somewhat new to Buddhist philosophy. Thus, I may be misinterpreting Nāgārjuna.
