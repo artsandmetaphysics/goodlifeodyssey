@@ -3,13 +3,32 @@ title: >
   Plato's _Republic_
 description: >
   Notes on Plato's _Republic_
-type: note
-status: incomplete
 ---
 
 ## Background
 
 Plato's *Republic* was believed to be written around 375 BCE.
+
+## Outline
+
+- Book I
+  - Setting
+  - Cephalus on Old Age and Wealth
+  - Polemarchus: Justice is helping friends and harming enemies
+  - Socrates: You don't know who your friends are
+  - Polemarchus: Redefine "friends" to mean good men
+  - Socrates: It's never just to harm someone
+  - Thrasymachus interrupts: The just is the advantage of the stronger
+  - Socrates: The stronger make mistakes
+  - Thrasymachus: They are not the stronger when they make mistakes
+  - Socrates: Uses tricky argument, comparing the ruler to the doctor; as a doctor, as a doctor, cares for the sick, so too a ruler, as a ruler, cares for the weak
+  - Thrasymachus: Makes fun of Socrates and gives rhetorical speech about how the unjust get the better of the just
+  - Socrates: Uses another tricky argument
+  - Thrasymachus: Blushes
+  - Socrates: Shows how an injust city couldn't succeed, since it would turn on itself
+- Book II
+- Book III
+- Book IV
 
 ## Quotes
 
