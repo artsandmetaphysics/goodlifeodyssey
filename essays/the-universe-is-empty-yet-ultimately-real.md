@@ -9,7 +9,7 @@ redirect_from:
 
 Nāgārjuna was an Indian Mahāyāna Buddhist scholar-saint.
 
-His most famous work, the _Mūlamadhyamakakārikā_, systematically shows that one thing after another is empty of _svabhāva_. Svabhāva is a Sanskrit term translated to "own-being", "essence", "inherent existence", "true identity" or "intrinsic nature". If something has svabhāva, it's "independent of anything else, uncaused, and not fabricated from other things."
+His most famous work, the _Mūlamadhyamakakārikā_, systematically shows that one thing after another is empty of _svabhāva_. Svabhāva is a Sanskrit term translated to "own-being," "essence," "inherent existence," "true identity" or "intrinsic nature." If something has svabhāva, it's "independent of anything else, uncaused, and not fabricated from other things."
 
 Nāgārjuna held that if there were ultimately real things, then they must have svabhāva. So when he says nothing has svabhāva he means that nothing is ultimately real. "Really, nothing is real?" No, Nāgārjuna is not a nihilist. He believes we're real in some sense, only not in the ultimate sense.
 
@@ -53,7 +53,7 @@ To me, a convention is something that could be another way. For example, cars co
 
 If this is what it means for fire to be a conceptual fiction, it is a small fiction. Processes like fire emerge from the laws of nature, which I believe are fixed and unchanging. Particles emerge as patterns within the universal wave function. From particles, oxygen, carbon, and hydrogen emerge, and from these, fire emerges. We use language as a model of reality. Words let us communicate the relevant details to ourselves and others. Our language, like all models, is approximate. If we apply a model to a new purpose, it may lead us astray. Our language, like all models, is intentional. It reflects the interests of its creators. Just because a model has a creator doesn't mean the thing being modeled is a convention. The patterns in the universal wave function could not be another way. Furthermore, since we select models for our needs, even the terminology we use to divide reality is not arbitrary. Most peoples on Earth deal with fire.
 
-It seems to me that to say "nothing has svabhāva" is really to say that "all objects are changing". This is true, but the processes by which _objects_ change is not changing. Thus, the laws of nature provide a second-order permanence to things. This is why fire always acts like fire. I predict that alien species would describe, or model, fire roughly the same way we do. Likewise, Chinese, English, and Arabic speakers think similarly. Linguists have found differences, but they're slight.
+It seems to me that to say "nothing has svabhāva" is really to say that "all objects are changing." This is true, but the processes by which _objects_ change is not changing. Thus, the laws of nature provide a second-order permanence to things. This is why fire always acts like fire. I predict that alien species would describe, or model, fire roughly the same way we do. Likewise, Chinese, English, and Arabic speakers think similarly. Linguists have found differences, but they're slight.
 
 Thus, I agree that nothing has svabhāva, yet I think there exist ultimately real things.
 
