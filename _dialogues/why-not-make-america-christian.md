@@ -26,10 +26,26 @@ date: 2021-05-22
 
 <span class="sc">Aaron:</span> A moderate Christian state may be appealing, but once in power, the Christian leaders would inevitably fall into sin. They may rule beneficently for a while, but if their power was justified with religious beliefs, before long they’d persecute non-believers to preserve their power.
 
-<span class="sc">Dijon:</span> You’re probably right, but it could be worthwhile if you could saved enough souls before it fell apart. Medieval Europeans didn’t enjoy natural rights, but think of the gleat many peasants that were saved! Christianity has been waning since the Enlightenment gave us liberty and equality. Maybe it was a poor trade?
+<span class="sc">Dijon:</span> You’re probably right, but it could be worthwhile if you could saved enough souls before it fell apart. Medieval Europeans didn’t enjoy natural rights, but think of all the peasants that were saved! Christianity has been waning since the Enlightenment gave us liberty and equality. Maybe it was a poor trade?
 
 <span class="sc">Aaron:</span> Perhaps, but Americans won’t give up their religions freedom.
 
 <span class="sc">Dijon:</span> It’s only a thought experiment—
 
-<span class="sc">Aaron:</span> Besides, Christianity isn’t homogeneous. I know Jesus died for my sins, but I’m much less confident that infants need to be baptised.
+<span class="sc">Aaron:</span> Besides, Christianity isn’t homogeneous. I know Jesus died for my sins, but I’m much less confident that infants need to be baptised. Who would regulate these smaller disagreements?
+
+<span class="sc">Dijon:</span> That’s a good point; I suspect the first amendment was meant to protect minority sects within Christianity more than Buddhists or other religions. I worry that if religion is thought to be a matter of opinion, all morality will be a matter of opinion, corroding our country.
+
+<span class="sc">Aaron:</span> I believe there exists an absolutely correct moral standard, but I am not confident what it is. For example, I think prostituting children is almost always wrong but I’m not so sure about poor people evading their taxes. Similarly, I may believe that there is one true religion, but I’m not entirely confident what it is.
+
+<span class="sc">Dijon:</span> I thought you said you _know_ Christianity is true?
+
+<span class="sc">Aaron:</span> I’m not confident enough to establish it as the state religion.
+
+<span class="sc">Dijon:</span> You don’t need to be entirely certain, just more certain than the alternatives. In general, we should act proportionally to our reason. Therefore, you only need to be more confident in Christianity than the Constitution.
+
+<span class="sc">Aaron:</span> This is a false dilemma. I think you’re oversimplifying the issue.
+
+<span class="sc">Dijon:</span> I certainly am! There isn’t enough time to undersimplify it. Elanor woke up, so I better go!
+
+<span class="sc">Aaron:</span> Enjoy the rest of your Sunday!
