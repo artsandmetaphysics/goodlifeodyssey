@@ -59,6 +59,12 @@ Book names which are present in the titles of document are surrounded by quotes,
 - Quoted poetry has extra new lines in Safari "Reader Mode."
 - Dialogue is not formatted properly.
 
+## How to Pick a Topic
+
+I don't finish a lot of the pieces I begin because I have limited time to write and my topics are too ambitious, thus I loose interest before I have time to finish them.
+
+To fight this, I need to pick smaller topics and write more meditations.
+
 ## Upcoming Entries
 
 - [ ] Dialogue on Knowing Emptiness

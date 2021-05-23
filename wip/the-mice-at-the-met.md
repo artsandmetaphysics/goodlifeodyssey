@@ -13,15 +13,14 @@ mommy mouse, daddy mouse, and daughter mouse.
 
 On sunny Saturdays they walk in the park.
 They see people with dogs.
-They see kids run in the grass.
+They see kids running in the grass.
 They see birds fly and hop.
 They see trees and flowers.
 
 On rainy Saturdays they look at art.
-They look at Greek vase.
+They look at Greek vases.
 They look at Roman sculptures.
-Africa, European sculptures,
-
+They look at African carvings.
 They look at Egyptian scrolls.
 They look at Moghul miniatures.
 British teapots
