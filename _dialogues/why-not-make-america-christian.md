@@ -6,7 +6,15 @@ description: >
 date: 2021-05-22
 ---
 
-<span class="sc">Dijon:</span> If you know Christianity is true, wouldn’t you want it established by congress as the state religion?
+<span class="sc">Dijon:</span> I’ve been reading this book from the eighties for the last few weeks. Our grandpa esteemed it highly, and it’s still eerily relevant.
+
+<span class="sc">Aaron:</span> What is it about?
+
+<span class="sc">Dijon:</span> It’s about the causes and effects of moral relativism in America and, in particular, in our universities.
+
+<span class="sc">Aaron:</span> Is there anything in particular you’ve been thinking about?
+
+<span class="sc">Dijon:</span> Consider this question: If you know Christianity is true, wouldn’t you want it established by congress as the state religion?
 
 <span class="sc">Aaron:</span> No—even if _you_ know it’s true, other citizens may disagree.
 
@@ -28,11 +36,15 @@ date: 2021-05-22
 
 <span class="sc">Dijon:</span> You’re probably right, but it could be worthwhile if you could saved enough souls before it fell apart. Medieval Europeans didn’t enjoy natural rights, but think of all the peasants that were saved! Christianity has been waning since the Enlightenment gave us liberty and equality. Maybe it was a poor trade?
 
-<span class="sc">Aaron:</span> Perhaps, but Americans won’t give up their religions freedom.
+<span class="sc">Aaron:</span> Christianity may be waning in the west, but it’s growing in China and Africa. Clearly God’s kingdom can thrive even in many situations. Besides, Americans won’t give up their religions freedom now.
 
-<span class="sc">Dijon:</span> It’s only a thought experiment—
+<span class="sc">Dijon:</span> That’s irrelevant, what matters is whether a Christian should want to have a Christian state—
 
-<span class="sc">Aaron:</span> Besides, Christianity isn’t homogeneous. I know Jesus died for my sins, but I’m much less confident that infants need to be baptised. Who would regulate these smaller disagreements?
+<span class="sc">Aaron:</span> It’s not irrelevant. Only a lovers-of-thoughts would consider such a hypothetical situation. A lover-of-action must focus on immediate situations—how to spread the faith in our current country.
+
+<span class="sc">Dijon:</span> I was only hoping for indulgences. I’d really like to know what you think, even if the question is less relevant for you.
+
+<span class="sc">Aaron:</span> Okay, I’ll continue: Christianity isn’t homogeneous. I know Jesus died for my sins, but I’m much less confident that infants need to be baptised. Who would regulate these smaller disagreements?
 
 <span class="sc">Dijon:</span> That’s a good point; I suspect the first amendment was meant to protect Puritans from Anglicans more than Buddhists from Christians. I worry that if religion is relegated to the realm of opinion, all morality will be too—corroding our country.
 
