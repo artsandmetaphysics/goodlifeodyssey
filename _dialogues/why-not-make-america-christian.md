@@ -12,11 +12,11 @@ date: 2021-05-22
 
 <span class="sc">Dijon:</span> But they’d be mistaken, right? Some kooks believe the moon-landing was made up, but that doesn’t mean our textbooks should equivocate on the matter.
 
-<span class="sc">Aaron:</span> Sure. There are always suspicious and uneducated people with their opinions. But religion is more important.
+<span class="sc">Aaron:</span> Sure. There are always suspicious and uneducated people with their opinions. But religion is more important than some footprints on the moon.
 
 <span class="sc">Dijon:</span> If it’s more important, wouldn’t that also make it more important to establish?
 
-<span class="sc">Aaron:</span> Even if I’m certain that Christianity is true, I wouldn’t want to force it on others. I couldn’t prove my faith to you.
+<span class="sc">Aaron:</span> Even if I’m certain that Christianity is true, I wouldn’t want to force it on others. Good wants true believers. I couldn’t prove my faith to you.
 
 <span class="sc">Dijon:</span> If you can’t prove your faith to me, then how do _you_ know its true?
 
