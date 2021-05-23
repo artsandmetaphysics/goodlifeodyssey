@@ -34,18 +34,18 @@ Dijon:: It's only a thought experiment---
 
 Aaron:: Besides, Christianity isn't homogeneous. I know Jesus died for my sins, but I'm much less confident that infants need to be baptised. Who would regulate these smaller disagreements?
 
-Dijon:: That's a good point; I suspect the first amendment was meant to protect minority sects within Christianity more than Buddhists or other religions. I worry that if religion is thought to be a matter of opinion, all morality will be a matter of opinion, corroding our country.
+Dijon:: That's a good point; I suspect the first amendment was meant to protect Puritans from Anglicans more than Buddhists from Christians. I worry that if religion is relegated to the realm of opinion, all morality will be too---corroding our country.
 
-Aaron:: I believe there exists an absolutely correct moral standard, but I am not confident what it is. For example, I think prostituting children is almost always wrong but I'm not so sure about poor people evading their taxes. Similarly, I may believe that there is one true religion, but I'm not entirely confident what it is.
+Aaron:: I believe there exists an absolutely correct moral standard, but I am not confident what it is. Prostituting children is usually wrong but evading taxes may be debatable, especially if you're poor. Similarly, I may believe that there is one true religion, while not being entirely certain that I found it.
 
 Dijon:: I thought you said you _know_ Christianity is true?
 
-Aaron:: I'm not confident enough to establish it as the state religion.
+Aaron:: I do, but I'm not confident enough to establish it as the state religion.
 
-Dijon:: You don't need to be entirely certain, just more certain than the alternatives. In general, we should act proportionally to our reason. Therefore, you only need to be more confident in Christianity than the Constitution.
+Dijon:: You only need to be more certain than the alternatives. Act proportionally to reason! Are you believe in our Constitution more than Christianity?
 
-Aaron:: This is a false dilemma. I think you're oversimplifying the issue.
+Aaron:: This is a false dilemma! You're oversimplifying.
 
-Dijon:: I certainly am! There isn't enough time to undersimplify it. Elanor woke up, so I better go!
+Dijon:: I am! There isn't enough time to undersimplify. Elanor woke up, so I better go!
 
-Aaron:: Enjoy the rest of your Sunday!
+Aaron:: Enjoy your Sunday!
