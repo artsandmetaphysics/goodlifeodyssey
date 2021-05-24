@@ -6,15 +6,11 @@ description: >
 date: 2021-05-22
 ---
 
-<span class="sc">Dijon:</span> I’ve been reading this book from the eighties for the last few weeks. Our grandpa esteemed it highly, and it’s still eerily relevant.
+<span class="sc">Dijon:</span> I’ve been reading this book from the eighties. Our grandpa esteemed it highly, and it’s still eerily relevant. He had sent copies to all his children, including to our dad.
 
 <span class="sc">Aaron:</span> What is it about?
 
-<span class="sc">Dijon:</span> It’s about the causes and effects of moral relativism in America and, in particular, in our universities.
-
-<span class="sc">Aaron:</span> Is there anything in particular you’ve been thinking about?
-
-<span class="sc">Dijon:</span> Consider this question: If you know Christianity is true, wouldn’t you want it established by congress as the state religion?
+<span class="sc">Dijon:</span> It’s about the causes and effects of moral relativism in America and, in particular, in our universities. I’ve been pondering a passage in the introduction for a couple of days. Consider this question: If you know Christianity is true, wouldn’t you want it established by congress as the state religion?
 
 <span class="sc">Aaron:</span> No—even if _you_ know it’s true, other citizens may disagree.
 
