@@ -6,11 +6,11 @@ description: >
 date: 2021-05-22
 ---
 
-<span class="sc">Dijon:</span> I’ve been reading this book from the eighties. Our grandpa esteemed it highly, and it’s still eerily relevant. He had sent copies to all his children, including to our dad.
+<span class="sc">Dijon:</span> I’ve been reading a book from the eighties—our grandpa read it and liked it enough to mail copies to all his children, including our dad. It’s satisfying, though-provoking, and eerily relevant.
 
 <span class="sc">Aaron:</span> What is it about?
 
-<span class="sc">Dijon:</span> It’s about the causes and effects of moral relativism in America and, in particular, in our universities. I’ve been pondering a passage in the introduction for a couple of days. Consider this question: If you know Christianity is true, wouldn’t you want it established by congress as the state religion?
+<span class="sc">Dijon:</span> It’s about the causes and effects of moral relativism in America and, in particular, in our universities. I’ve been pondering a passage in the introduction for a couple of days during my evening walks in the park with Elanor. Consider this question: If you know Christianity is true, wouldn’t you want it established by congress as the state religion?
 
 <span class="sc">Aaron:</span> No—even if _you_ know it’s true, other citizens may disagree.
 
@@ -20,13 +20,13 @@ date: 2021-05-22
 
 <span class="sc">Dijon:</span> If it’s more important, wouldn’t that also make it more important to establish?
 
-<span class="sc">Aaron:</span> Even if I’m certain that Christianity is true, I wouldn’t want to force it on others. Good wants true believers. I couldn’t prove my faith to you.
+<span class="sc">Aaron:</span> Even if I’m certain that Christianity is true, I wouldn’t want to force it on others. God wants true believers. I couldn’t prove my faith to you.
 
 <span class="sc">Dijon:</span> If you can’t prove your faith to me, then how do _you_ know its true?
 
 <span class="sc">Aaron:</span> It’s an internal experience—I’ve felt God’s presence. I can’t explain it with words.
 
-<span class="sc">Dijon:</span> Then it’s even more important to establish Christianity as the state religion! Your privileged knowledge can save others from damnation. Certainly God wants true believers, but you wouldn’t have to use a heavy hand. Don’t persecute Buddhists or Muslims, just help Christians: give churches stipends for missionaries, require Bible reading in the schools, and don’t let movie directors misrepresent your beliefs. You can’t force someone to have faith, but you can certainly make it easier for people to believe by keeping it mainstream.
+<span class="sc">Dijon:</span> Then it’s even more important to establish Christianity as the state religion! Your privileged knowledge can save others. I understand that God doesn’t want cultural Christians paying lip-service, but a Christian government could retain some freedom of religion. Don’t persecute Buddhists or Muslims, just give Christians some help: give churches stipends for missionaries, require Bible reading in the schools, and don’t let movie directors misrepresent your beliefs. You can’t force someone to have faith, but you can certainly make it easier for people to believe by keeping it mainstream.
 
 <span class="sc">Aaron:</span> A moderate Christian state may be appealing, but once in power, the Christian leaders would inevitably fall into sin. They may rule beneficently for a while, but if their power was justified with religious beliefs, before long they’d persecute non-believers to preserve their power.
 
@@ -34,17 +34,17 @@ date: 2021-05-22
 
 <span class="sc">Aaron:</span> Christianity may be waning in the west, but it’s growing in China and Africa. Clearly God’s kingdom can thrive even in many situations. Besides, Americans won’t give up their religions freedom now.
 
-<span class="sc">Dijon:</span> That’s irrelevant, what matters is whether a Christian should want to have a Christian state—
+<span class="sc">Dijon:</span> That’s irrelevant. I’m not suggesting that Christians try to take power. What I want to understand is whether a Christian should _want_ to have a Christian state.
 
-<span class="sc">Aaron:</span> It’s not irrelevant. Only a lovers-of-thoughts would consider such a hypothetical situation. A lover-of-action must focus on immediate situations—how to spread the faith in our current country.
+<span class="sc">Aaron:</span> It’s not irrelevant. Only a lovers-of-thoughts would consider such a hypothetical situation. A lover-of-action must focus on the present situation—how to spread the faith in our current country. You can’t alter the stars, which are set by God.
 
-<span class="sc">Dijon:</span> I was only hoping for indulgences. I’d really like to know what you think, even if the question is less relevant for you.
+<span class="sc">Dijon:</span> I was hoping for conversational indulgences. I’d really like to know what you think, even if the question seems irrelevant.
 
 <span class="sc">Aaron:</span> Okay, I’ll continue: Christianity isn’t homogeneous. I know Jesus died for my sins, but I’m much less confident that infants need to be baptised. Who would regulate these smaller disagreements?
 
-<span class="sc">Dijon:</span> That’s a good point; I suspect the first amendment was meant to protect Puritans from Anglicans more than Buddhists from Christians. I worry that if religion is relegated to the realm of opinion, all morality will be too—corroding our country.
+<span class="sc">Dijon:</span> Good point, the first amendment was written more so to protect Puritans from Anglicans than Buddhists from Christians. I worry that if religion is relegated to the realm of opinion, all morality will be too—corroding our country.
 
-<span class="sc">Aaron:</span> I believe there exists an absolutely correct moral standard, but I am not confident what it is. Prostituting children is usually wrong but evading taxes may be debatable, especially if you’re poor. Similarly, I may believe that there is one true religion, while not being entirely certain that I found it.
+<span class="sc">Aaron:</span> There is an absolutely correct moral standard, but it’s only partially known. The Bible doesn’t answer every ethical question. Similarly, there is one true religion, but it’s not perfectly clear which one.
 
 <span class="sc">Dijon:</span> I thought you said you _know_ Christianity is true?
 
@@ -54,6 +54,6 @@ date: 2021-05-22
 
 <span class="sc">Aaron:</span> This is a false dilemma! You’re oversimplifying.
 
-<span class="sc">Dijon:</span> I am! There isn’t enough time to undersimplify. Elanor woke up, so I better go!
+<span class="sc">Dijon:</span> I’m sorry, Elanor woke up so I better go!
 
 <span class="sc">Aaron:</span> Enjoy your Sunday!
