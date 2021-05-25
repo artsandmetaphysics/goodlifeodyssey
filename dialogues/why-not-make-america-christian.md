@@ -20,40 +20,40 @@ Aaron:: Sure. There are always suspicious and uneducated people with their opini
 
 Dijon:: If it's more important, wouldn't that also make it more important to establish?
 
-Aaron:: Even if I'm certain that Christianity is true, I wouldn't want to force it on others. God wants true believers. I couldn't prove my faith to you.
+Aaron:: Even if I'm sure that Christianity is true, I wouldn't want to force it on others. God wants true believers. I couldn't prove my faith to you.
 
-Dijon:: If you can't prove your faith to me, then how do _you_ know its true?
+Dijon:: If you can't prove your faith to me, how do _you_ know it's true?
 
 Aaron:: Outside of the narrow world of mathematics and logic, few things can be _proven_. You have to weigh the arguments, the evidence, and your own experiences. And for many people, including myself, it hinges largely on internal experience---I've felt God's presence. Once the arguments have been used up, there's not much more I can do. I can't explain my inner feelings with words---the best I can do is shower you with love.
 
-Dijon:: Then it's even more important to establish Christianity as the state religion! Your privileged knowledge can save others. I understand that God doesn't want cultural Christians paying lip-service, but a Christian government could retain some freedom of religion. Don't persecute Buddhists or Muslims, just give Christians some help: give churches stipends for missionaries, require Bible reading in the schools, and don't let movie directors misrepresent your beliefs. You can't force someone to have faith, but you can certainly make it easier for people to believe by keeping it mainstream.
+Dijon:: Then it's even more important to establish Christianity as the state religion! Your privileged knowledge can save others. I understand that God doesn't want cultural Christians paying lip service, but a Christian government could retain some freedom of religion. Don't persecute Buddhists or Muslims. Just give Christians some help: give churches stipends for missionaries, require Bible reading in the schools, and don't let movie directors misrepresent your beliefs. You can't force someone to have faith, but you can certainly make it easier for people to believe by keeping it mainstream.
 
-Aaron:: A moderate Christian state may be appealing, but once in power, the Christian leaders would inevitably fall into sin. They may rule beneficently for a while, but if their power was justified with religious beliefs, before long they'd persecute non-believers to preserve their power.
+Aaron:: A moderate Christian state may be appealing, but once in power, the Christian leaders would inevitably fall into sin. They may rule beneficently for a while, but if their power was justified with religious beliefs, before long, they'd persecute non-believers to preserve their power.
 
-Dijon:: You're probably right, but it could be worthwhile if you could saved enough souls before it fell apart. Medieval Europeans didn't enjoy natural rights, but think of all the peasants that were saved! Christianity has been waning since the Enlightenment gave us liberty and equality. Maybe it was a poor trade?
+Dijon:: You're probably right, but it could be worthwhile if you could save enough souls before it fell apart. Medieval Europeans didn't enjoy natural rights, but think of all the peasants that were saved! Christianity has been waning since the Enlightenment gave us liberty and equality. Maybe it was a poor trade?
 
-Aaron:: Christianity may be waning in the west, but it's growing in China and Africa. Clearly God's kingdom can thrive even in many situations. Besides, Americans won't give up their religions freedom now.
+Aaron:: Christianity may be waning in the west, but it's growing in China and Africa. Clearly God's kingdom can thrive even in many situations. Besides, Americans won't give up their religious freedom now.
 
 Dijon:: That's irrelevant. I'm not suggesting that Christians try to take power. What I want to understand is whether a Christian should _want_ to have a Christian state.
 
-Aaron:: It's not irrelevant. Only a lovers-of-thoughts would consider such a hypothetical situation. A lover-of-action must focus on the present situation---how to spread the faith in our current country. You can't alter the stars, which are set by God.
+Aaron:: It's not irrelevant. Only a lover of thoughts would consider such a hypothetical situation. A lover of action must focus on the present situation---how to spread the faith in our current country. You can't alter the stars, which are set by God.
 
 Dijon:: I was hoping for conversational indulgences. I'd really like to know what you think, even if the question seems irrelevant.
 
-Aaron:: Okay, I'll continue: Christianity isn't homogeneous. I know Jesus died for my sins, but I'm much less confident that infants need to be baptised. Who would regulate these smaller disagreements?
+Aaron:: Okay, I'll continue: Christianity isn't homogeneous. I know Jesus died for my sins, but I'm much less confident that infants need to be baptized. Who would regulate these smaller disagreements?
 
 Dijon:: Good point, the first amendment was written more so to protect Puritans from Anglicans than Buddhists from Christians. I worry that if religion is relegated to the realm of opinion, all morality will be too---corroding our country.
 
-Aaron:: There is an absolutely correct moral standard, but it's only partially known. The Bible doesn't answer every ethical question. Similarly, there is one true religion, but it's not perfectly clear which one.
+Aaron:: There is an absolutely correct moral standard, but it's only partially known. The Bible doesn't answer every ethical question. Similarly, there is one true religion, but it's not clear which one.
 
 Dijon:: I thought you said you _know_ Christianity is true?
 
 Aaron:: I do, but I'm not confident enough to establish it as the state religion.
 
-Dijon:: You only need to be more certain than the alternatives. Act proportionally to reason! Are you believe in our Constitution more than Christianity?
+Dijon:: You only need to be more confidant than the alternatives. Act proportionally to reason! Are you believe in our Constitution more than Christianity?
 
 Aaron:: This is a false dilemma! You're oversimplifying.
 
-Dijon:: I'm sorry, Elanor woke up so I better go!
+Dijon:: I'm sorry, Elanor woke up, so I better go!
 
 Aaron:: Enjoy your Sunday!
