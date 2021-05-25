@@ -3,7 +3,6 @@ title: >
   Why Not Make America Christian?
 description: >
   A short dialogue exploring religion freedom, inspired by a paragraph in the introduction of _The Closing of the American Mind_ by Allan Bloom.
-date: 2021-05-22
 ---
 
 <span class="sc">Dijon:</span> I’ve been reading a book from the eighties—our grandpa read it and liked it enough to mail copies to all his children, including our dad. It’s satisfying, thought-provoking, and eerily relevant.

@@ -3,7 +3,6 @@ title: >
   Reasoning About Justice from Analogy
 description: >
   A short investigation of a part of book I of Plato’s Republic.
-date: 2021-03-23
 ---
 
 <span class="sc">Socrates:</span> Is it, then, the part of a just man to harm any human being whatsoever?
