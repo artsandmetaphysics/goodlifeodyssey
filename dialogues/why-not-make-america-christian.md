@@ -6,7 +6,7 @@ description: >
 date: 2021-05-22
 ---
 
-Dijon:: I've been reading a book from the eighties---our grandpa read it and liked it enough to mail copies to all his children, including our dad. It's satisfying, though-provoking, and eerily relevant.
+Dijon:: I've been reading a book from the eighties---our grandpa read it and liked it enough to mail copies to all his children, including our dad. It's satisfying, thought-provoking, and eerily relevant.
 
 Aaron:: What is it about?
 
