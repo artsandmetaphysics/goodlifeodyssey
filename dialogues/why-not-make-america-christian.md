@@ -24,7 +24,7 @@ Aaron:: Even if I'm certain that Christianity is true, I wouldn't want to force 
 
 Dijon:: If you can't prove your faith to me, then how do _you_ know its true?
 
-Aaron:: Outside of the narrow world of mathematics and logic, few things can be _proven_. You have to weigh the arguments, the evidence and your own experiences. And for many people, including myself, it hinges largely on internal experience---I've felt God's presence. Once the arguments have been used up, there's not much more I can do. I can't explain my inner feelings with words---the best I can do is shower you with love.
+Aaron:: Outside of the narrow world of mathematics and logic, few things can be _proven_. You have to weigh the arguments, the evidence, and your own experiences. And for many people, including myself, it hinges largely on internal experience---I've felt God's presence. Once the arguments have been used up, there's not much more I can do. I can't explain my inner feelings with words---the best I can do is shower you with love.
 
 Dijon:: Then it's even more important to establish Christianity as the state religion! Your privileged knowledge can save others. I understand that God doesn't want cultural Christians paying lip-service, but a Christian government could retain some freedom of religion. Don't persecute Buddhists or Muslims, just give Christians some help: give churches stipends for missionaries, require Bible reading in the schools, and don't let movie directors misrepresent your beliefs. You can't force someone to have faith, but you can certainly make it easier for people to believe by keeping it mainstream.
 
