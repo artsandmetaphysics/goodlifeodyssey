@@ -24,7 +24,7 @@ date: 2021-05-22
 
 <span class="sc">Dijon:</span> If you can’t prove your faith to me, how do _you_ know it’s true?
 
-<span class="sc">Aaron:</span> Outside of the narrow world of mathematics and logic, few things can be _proven_. You have to weigh the arguments, the evidence, and your own experiences. And for many people, including myself, it hinges largely on internal experience—I’ve felt God’s presence. Once the arguments have been used up, there’s not much more I can do. I can’t explain my inner feelings with words—the best I can do is shower you with love.
+<span class="sc">Aaron:</span> Outside of the narrow world of mathematics and logic, few things can be _proven_. You have to weigh arguments, historical evidence, and your experiences. And for many people, including myself, faith hangs on internal experience—I’ve felt God’s presence. Once the arguments have been used up, there’s not much more I can do. I can’t explain my inner feelings with words—the best I can do is shower you with love.
 
 <span class="sc">Dijon:</span> Then it’s even more important to establish Christianity as the state religion! Your privileged knowledge can save others. I understand that God doesn’t want cultural Christians paying lip service, but a Christian government could retain some freedom of religion. Don’t persecute Buddhists or Muslims. Just give Christians some help: give churches stipends for missionaries, require Bible reading in the schools, and don’t let movie directors misrepresent your beliefs. You can’t force someone to have faith, but you can certainly make it easier for people to believe by keeping it mainstream.
 
@@ -42,15 +42,15 @@ date: 2021-05-22
 
 <span class="sc">Aaron:</span> Okay, I’ll continue: Christianity isn’t homogeneous. I know Jesus died for my sins, but I’m much less confident that infants need to be baptized. Who would regulate these smaller disagreements?
 
-<span class="sc">Dijon:</span> Good point, the first amendment was written more so to protect Puritans from Anglicans than Buddhists from Christians. I worry that if religion is relegated to the realm of opinion, all morality will be too—corroding our country.
+<span class="sc">Dijon:</span> Good point! The first amendment was written more so to protect Puritans from Anglicans than Buddhists from Christians. A glance at European history will tell us that regulating these finer distinctions is hard. But if we throw our hands up in despair, won’t we have relegated religion to the “realm of opinion,” and all morality along with it?
 
-<span class="sc">Aaron:</span> There is an absolutely correct moral standard, but it’s only partially known. The Bible doesn’t answer every ethical question. Similarly, there is one true religion, but it’s not clear which one.
+<span class="sc">Aaron:</span> Not necessarily. There is an absolute moral standard, but it’s only partially revealed. The Bible isn’t comprehensive and only rarely explicit. Similarly, there is one true religion, but it’s not entirely clear which one.
 
 <span class="sc">Dijon:</span> I thought you said you _know_ Christianity is true?
 
 <span class="sc">Aaron:</span> I do, but I’m not confident enough to establish it as the state religion.
 
-<span class="sc">Dijon:</span> You only need to be more confidant than the alternatives. Act proportionally to reason! Are you believe in our Constitution more than Christianity?
+<span class="sc">Dijon:</span> You only need to be more confidant than the alternatives. Act proportionally to reason! Do you have stronger faith in our Constitution than in Christianity?
 
 <span class="sc">Aaron:</span> This is a false dilemma! You’re oversimplifying.
 
