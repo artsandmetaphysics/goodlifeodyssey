@@ -16,16 +16,8 @@ Then two brothers, Glaucon and Adeimantus, request a defense of justice for its 
 1. Socrates refutes three definitions of justice
   1. Setting
   2. Conversation with Cephalus
-  3. First definition: "Payout what is owed"
+  3. First definition: "Paying what's owed"
   4. Second definition: "Helping friends and harming enemies"
   5. Third definition: "The advantage of the stronger"
-  6. 
+  6. Socrates argues justice is better than injustice
 2. Request for justice argued for its own sake
-3. 
-
-- Setting
-- Calchas on getting olde
-- Socrates refutes first definition of justice---"giving what is owed"
-- Socrates refutes second definition of justice---"helping friends and harming
-  enemies"
-- Socrates refutes third definition of justice---"what is beneficial for the stronger"
