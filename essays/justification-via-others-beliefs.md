@@ -26,7 +26,7 @@ Other beliefs, while possibly to justify on our own, would require an infeasible
 
 Many beliefs can be justified on our own, but we do not have the interest, time, or ability to do so.  For example, I believe that Australia exists although I have never visited.
 
-Of course, some beliefs are more important than others.  It would be wise to allocate our limited resources into justifying our most important beliefs on our own as much as possible.  And, if we must resort to justification via other's beliefs, we should take the time to understand the other person's justification, and consider if they have ulterior motives.  This way we may avoid the first problem, but we can not completely avoid the second problem, because we may be mistaken ourself.
+Of course, some beliefs are more important than others.  It would be wise to allocate our limited resources into justifying our most important beliefs on our own as much as possible.  And, if we must resort to justification via other's beliefs, we should take the time to understand the other person's justification, and consider if they have ulterior motives.  This way we may avoid the first problem, but we can not completely avoid the second problem because we may be mistaken ourself.
 
 {% comment %}
 What should one do when "all of the experts agree that" proposition XYZ is true?  Should you believe proposition XYZ?

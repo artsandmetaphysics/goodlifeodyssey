@@ -21,7 +21,7 @@ Aaron:: Do all religions make such claims? Some people say that ritual, and not 
 
 Dijon:: I don't think so. If a religion says you should follow a ritual, then you can ask why. What answer could be given? Any answer must make a claim about reality: "We must sacrifice a bull. Why? So Poseidon won't sink our ship. Who is Poseidon? Poseidon is a god." You may say there are religions that don't require you to follow rituals. But if that's the case, what is left? You may say there are religions where belief is optional. But if belief is optional, then the rituals must be too.
 
-Aaron:: You've convinced me that all religions make statements about reality. Furthermore, we could ignore any religions that didn't, because such a religion couldn't be true or false in the sense you care about.
+Aaron:: You've convinced me that all religions make claims about reality. Furthermore, we can ignore any religions that don't because they'd be unverifiable.
 
 Ignoring such religions also lets us avoid quibbling over definitions, although we may still need to distinguish _religious_ claims from general ones.
 
@@ -34,7 +34,7 @@ I think religions make unique claims. Consider these examples:
 - Muhammad is God's prophet and transcribed the Qur'an.
 - An omnipotent, benevolent God exists.
 
-Aaron:: This is not a homogeneous list. The first three statements are historical. They claim that certain events occurred. If you were on Mount Sinai around 1200 BCE, you could have seen God. If you were in Jerusalem around 30 CE, you could have seen Jesus die and rise again. If you had been in Mecca or Medina in the decades after 600 CE, you could have seen Muhammad transcribe the Qur'an. The last claim is not historical, and so a different process would be needed to verify it.
+Aaron:: This is not a homogeneous list. The first three propositions are historical. They claim that certain events occurred. If you were on Mount Sinai around 1200 BCE, you could have seen God. If you were in Jerusalem around 30 CE, you could have seen Jesus die and rise again. If you had been in Mecca or Medina in the decades after 600 CE, you could have seen Muhammad transcribe the Qur'an. The last claim is not historical, and so a different process would be needed to verify it.
 
 Let's focus just on the historical claims for now. How are they different from non-religious historical claims? For example, "Sargon of Akkad conquered the Sumerian city states around 2400 BCE."
 

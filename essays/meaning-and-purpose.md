@@ -45,6 +45,6 @@ The longer one lives, the less significant any particular day or event becomes. 
 
 If meaning originates from significance, then the infinite is the enemy of meaning. In this way, meaning may be squeezed out by the infinite. Alternately, one may say that all meaning comes from the finite; our lives are valuable _because_ they are short.
 
-If we lived forever, would our existence become meaningless? Perhaps not, because although we would exist forever, our minds would still be finite and would forget the distant past.
+If we lived forever, would our existence become meaningless? Perhaps not because our minds would remain finite and forgetful.
 
 If God knows all possible universes, then can anything be meaningful to them?
