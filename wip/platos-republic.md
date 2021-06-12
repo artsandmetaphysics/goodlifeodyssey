@@ -21,3 +21,6 @@ Then two brothers, Glaucon and Adeimantus, request a defense of justice for its 
   5. Third definition: "The advantage of the stronger"
   6. Socrates argues justice is better than injustice
 2. Request for justice argued for its own sake
+  1. The three types of goods
+  2. Glaucon wants an argument for justice on its own
+  2. Glaucon presents arguments for injustice (e.g., ring of Gyges)
