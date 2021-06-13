@@ -14,12 +14,12 @@ Did _Ravelstein_ teach me anything about Bloom? Much more about his personality 
 
 Yet his nobility shined through these flaws. His impulse to teach, strong until the end, was particularly endearing. He was a sincere friend. His band of life-time students demonstrates this. So did his connection with Saul Bellow—the trip he took out of the city to inspect his friends failing marriage comes to mind. (Bloom, like Socrates in the _Phaedrus_, didn’t like the country. He thought it was unhealthy: “All educated people make the same mistake—they think that nature and solitude are good for them. Nature and solitude are poison.”) Completing _Ravelstein_, at the age of 85 and after a near-death experience, attests to their bond.
 
-The book was enjoyable apart from my interest in Bloom. Its descriptions are delightful, sometimes eclipsing the philosophical dialogue with their power. The man with the green ink, in particular, horrified me:
+The book was enjoyable apart from my interest in Bloom. The character descriptions often eclipsed the philosophical dialogue. The man with his green ink, in particular, horrified me:
 
 <blockquote>
 <p>Rakhmiel was highly educated, but to what end? Every corner of his apartment was stuffed with books. Every morning, Rakhmiel sat down and wrote in green ink…. His mind was made up once and for all upon hundreds of subjects and maybe this was the sign that he had completed his course.</p>
 </blockquote>
 
-I don’t yet have a clear _idea of the good_, but somehow this old scholar and his green ink helped crystallize a sense that education shouldn’t be the highest good. This is ironic, since Bloom would likely disagree. Maybe he’d say a poet is misleading me, and I need to chant a logical countercharm under my breath.
+I don’t yet have a clear _idea of the good_, but somehow my encounter with this old scholar crystallized a sense that it shouldn’t be education. This is ironic, since Bloom would likely disagree. Maybe he’d say a poet is misleading me, and I need to chant a logical countercharm under my breath.
 
-Since the book used fake names, I wonder how closely the imitations matched reality.
+Since the memoir uses fake names, I wonder how closely the imitations matched reality.
