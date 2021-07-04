@@ -13,13 +13,21 @@ What is piety?
 
 Socrates argues at court
 
+Portrays Socrates as the new hero to replace Achilles
+
 ## Crito
 
 What do we owe our polity?
 
 ## Phaedo
 
-Socrates' death scene
+Socrates' death scene. Will the soul survive death?
+
+The only play when Socrates laughs.
+
+## Theaetetus
+
+What is knowledge?
 
 ## Meno
 
