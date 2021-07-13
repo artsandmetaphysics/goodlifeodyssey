@@ -38,17 +38,25 @@ terms:
     The almost triangular space between one side of the outer curve of an arch,
     a wall, and the ceiling or framework.
   putti: >-
-    A represesentation of a naked child. Singular putto. From Italian "boy", from
+    A representation of a naked child. Singular putto. From Italian "boy", from
     Latin _putus_.
   clerestory: >-
     A high section of wall that contains windows above eye level to admit light
     or fresh air. Historically, it denoted an upper level of a Roman basilica
     or the nave of a Romanesque or Gothic church.
+  rusticated: >-
+    Fashioned into large blocks with sunk joints and a roughened surface.
+  volute: >-
+    A spiral scroll characteristic of Ionic capitals and also used in
+    Corinthian and composite capitals. From Latin _volvere_ "to roll."
+  console: >-
+    An ornamented bracket with scrolls or corbel supporting a cornice, shelf,
+    or tabletop.
 ---
 
-One of life's joys is looking at the wonderful complexity around us. Living in New York City, you're surrounded by buildings---old and new, big and small, plain and ornate. I stumbled across the city's map of landmarks that includes a historical and architectural report of each designated building. These reports are fun to read and point out details we wouldn't have noticed otherwise. They also use many architectural terms, which we've begun collecting in this glossary.
+One of life's joys is looking at the wonderful world around us. In New York City, buildings are around us---old and new, big and small, plain and ornate. After the old Penn Station building was destroyed, a Landmarks Preservation Commission was established. The commission provides reports for each designated building that explain historical significance of the building and note important architectural details.
 
-Why bother, one may ask, learning these unusual words? While one can enjoy looking at the buildings without them, they help me notice and talk about the details. I notice _quoining_ now that I know the term.
+To understand the reports one must learn some architectural terminology. Why bother, one may ask, learning these unusual words? While one can enjoy looking at the buildings without them, they help me notice and talk about the details. I notice _quoining_ now that I know the term.
 
 <dl>
   {% for term in page.terms %}
