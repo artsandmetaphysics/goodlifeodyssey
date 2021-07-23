@@ -18,3 +18,7 @@ Here is a method for two conversing truth-seekers to answer some question:
 The questioner should keep the questions short and context to a minimum. Questions with a "yes" or "no" response are ideal. The responder should think as long as they need to to respond, but their response should be as short as possible---ideally one word. The responder should avoid providing any information that isn't needed to answer the question. In particular, they shouldn't say why they gave their answer.
 
 If the responder doesn't understand how a question relates to the main question, you should probably give the questioner the benefit of the doubt. However, if they keep asking questions that seem entirely unrelated, you can request to become the questioner. This request must always be given.
+
+Both people need to care more about answering the questions correctly, i.e., finding the truth, than about winning the debate.
+
+Either person can change their responses to previous questions at any time.
