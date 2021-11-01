@@ -7,7 +7,7 @@ description: >
 
 Many conversations are unproductive because topics change haphazardly or people talk so long that the other person looses interest or the train of thought.
 
-Here is a method for two conversing truth-seekers to answer some question:
+Here is a method for two conversing truth-seekers to avoid these problems:
 
 1. Agree on the main question.
 2. Select the first questioner.

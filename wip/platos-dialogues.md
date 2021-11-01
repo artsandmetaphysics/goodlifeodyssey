@@ -35,7 +35,27 @@ Learning is remembering
 
 ## Gorgias
 
-What is the use of rhetoric? The good is not the pleasant. Is it better to suffer injustice or to be injust?
+What is the use of rhetoric? The good is not the pleasant. Is it better to suffer injustice or to be unjust?
+
+## Protagoras
+
+Is virtue teachable? Is virtue a form of knowledge? How are courage, prudence, moderation, justice, and piety related?
+
+Protagoras was the first professional Sophist---the first to charge money as a teacher. He was famous for the saying "man is the measure of all things." The dramatic setting contrasts his vague speeches with Socrates' precise dialectic.
+
+## Euthydemus
+
+Socrates asks two dumb sophists if they can convince a young man to love virtue. They make various silly arguments, which Socrates ironically refutes. Socrates argues that wisdom is the greatest good:
+
+> With respect to all the things we called good in the beginning, the correct account is not that in themselves they are good by nature, but rather as follows: if ignorance controls them, they are greater evils than their opposites, to the extent that they are more capable of comply with a bad master; but if good sense and wisdom are in control, they are greater goods. In themselves, however, neither sort is of any value.... then let us consider what follows: since we all wish to be happy, and since we appear to become so by using things and using them rightly, and since knowledge was the source of rightness and good fortune, it seems to be necessary that every man should prepare himself by every means to become as wise as possible.
+
+Socrates makes the point even more strongly later:
+
+> Even if all the gold in the world should be ours with no trouble and without digging for it, we should be no better off---no, not even if we knew how to make stones into gold would the knowledge be worth anything. For unless we also knew how to use the gold, there appeared to be no value in it.
+> Nor does there seem to be any value in any other sort of knowledge which knows how to make things, whether money making or medicine or any other such thing, unless it knows how to use what it makes.
+> And again, if there exists the knowledge of how to make men immortal, but without the knowledge of how to use this immortality, there seems to be no value in it, if we are to conclude anything from what has already been settled.
+
+This humbles the engineer in me.
 
 ## Pheadrus
 
