@@ -3,7 +3,7 @@ title: >
   Why Should I be a Good Person?
 description: >
 
-date: 2021-06-09
+published: 2021-06-09
 ---
 
 I met the best man at my wedding in freshman biology lab. He was one of my three lab mates for the semester. Our shared interest in religion and politics grew into a close friendship; we’d discuss the existence of God and the merits of gun control while counting crickets and dissecting frogs. Our conversations continued for the next three years as roommates, and on to this day—although our favorite topics have changed.

@@ -3,7 +3,7 @@ title: >
   Direct Perception and Dialectic
 description: >
   A comparison of two ways of knowing: Plato’s conception of Dialectic and Buddhism’s Direct Perception
-date: 2021-03-26
+published: 2021-03-26
 ---
 
 “For every real being, there are three things that are necessary if knowledge of it is to be acquired: first, the name; second, the definition; third, the image; knowledge comes fourth, and in the fifth place we must put the object itself, the knowable and truly real being.” So said Plato in his seventh letter. To know the object itself is difficult. It requires a teacher, months or years, and a disciplined life free from bodily distractions.

@@ -3,7 +3,7 @@ title: >
   Censoring Children
 description: >
   Pondering how to raise our daughter in the city.
-date: 2021-05-14
+published: 2021-05-14
 ---
 
 Siddhattha Gotama was prophesied to become either a guru or a conqueror. His ambitious father, hoping his son would follow the latter path, carefully censored him from death, disease, and old-age. This back-fired, for even a king can not hold back the rain. When the Buddha-to-be saw an old man, a diseased man, a corpse, and an ascetic, he left his family to seek enlightenment.

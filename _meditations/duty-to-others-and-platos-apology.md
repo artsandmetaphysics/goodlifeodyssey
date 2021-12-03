@@ -3,7 +3,7 @@ title: >
   Duty to Others and Plato’s _Apology_
 description: >
   How do we balance our duty to others and our duty to family? Socrates’ life, as presented in Plato’s _Apology_, provides material for reflection.
-date: 2020-07-03
+published: 2020-07-03
 ---
 
 Can a person be good yet spend all their time and money on themselves, their family, and their friends?

@@ -3,7 +3,7 @@ title: >
   Initial Impression of _Euthyphro_
 description: >
   What is piety? Is it possible to define? Here are my first thoughts on the first of Plato's dialogues I have read.
-date: 2020-06-18
+published: 2020-06-18
 ---
 
 I just finished reading _Euthyphro_ and would like to collect my first impressions. It is the first of Plato's dialogues that I have read, besides bits of the _Republic_ in college.  It is amazing.

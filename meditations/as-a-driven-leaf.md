@@ -3,7 +3,7 @@ title: >
   Critique of _As a Driven Leaf_
 description: >
   A philosophical critique of _As a Driven Leaf_, the story of a 1st century rabbi searching for truth in a Roman world.
-date: 2018-10-05
+published: 2018-10-05
 ---
 
 ## Introduction

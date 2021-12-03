@@ -3,7 +3,7 @@ title: >
   Socrates Treats Language like Math
 description: >
   A brief consideration of one example of Plato's mathematical analysis of words, which informs us how he thought language works.
-date: 2021-04-21
+published: 2021-04-21
 ---
 
 Socrates, in the _Republic_, assumes that language can be as precise as math. For example, in book four he says if his imaginary city is _good_ then it is "wise, courageous, moderate, and just." These four words form a reasonable definition of _good_, although I hesitate to say it's complete. Socrates' does not hesitate, and he uses this definition to launch a curious analysis:

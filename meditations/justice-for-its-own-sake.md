@@ -3,7 +3,7 @@ title: >
   Justice for its Own Sake
 description: >
   What would you do with a ring of invisibility?
-date: 2021-03-03
+published: 2021-03-03
 ---
 
 Given a ring of invisibility, nobody "would be so adamant as to stick by justice and bring himself to keep away from what belongs to others and not lay hold of it, although he had license to take what he wanted from the market without fear, and to go into houses and have intercourse with whomever he wanted, and to slay or release from bonds whomever he wanted, and to do other things as an equal to a god among humans." So says Glaucon in book two of Plato's _Republic_. This shows that justice is praised, not for itself, but for the good things that come from it.

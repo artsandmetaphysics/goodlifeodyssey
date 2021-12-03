@@ -7,7 +7,7 @@ description: >
 
 ## Background
 
-The *Aeneid* is a Latin epic poem, written by Virgil between 29 and 19 BCE, that connects the Julio-Claudian dynasty to the heroes of Troy. It created a founding myth and explained the Punic Wars. The first six books especially reference Homer’s _Odyssey_ and the second six books his _Iliad_.
+The *Aeneid* is a Latin epic poem, written by Virgil between 29 and 19 BCE, that connects the Julio-Claudian dynasty to the heroes of Troy. It presents a founding myth for the Roman empire and explains the Punic Wars.
 
 ## Structure and Outline
 
@@ -301,4 +301,4 @@ Virgil positions his poem as building on Homer, much like Dante builds on Virgil
 <p>to harry the Trojan race</p>
 </blockquote>
 
-*All quotations are taken from Robert Fagles’ 2006 translation of the *Aeneid*.
+*All quotations are taken from Robert Fagles’ 2006 translation of the* Aeneid*.*

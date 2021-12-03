@@ -3,7 +3,7 @@ title: >
   What Causes Generation Gaps?
 description: >
   A long comedic quote demonstrating a generation gap in ancient Athens, and a few thoughts about what causes such gaps.
-date: 2020-07-19
+published: 2020-07-19
 ---
 
 Strepsiades, in Aristophanes’ comedy _The Clouds_, sends his thriftless son Pheidippedes to the bumbling Socrates’ “thinkery” so he can learn to argue his way out of the family debts. Only, the son learns to argue too well:

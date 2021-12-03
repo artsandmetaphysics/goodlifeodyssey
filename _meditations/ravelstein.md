@@ -3,7 +3,7 @@ title: >
   _Ravelstein_
 description: >
   My impression of _Ravelstein_, by Saul Bellow.
-date: 2021-06-09
+published: 2021-06-09
 ---
 
 _Ravelstein_ is Saul Bellow’s final novel—a memoir of his great-souled friend and co-lecturer Allan Bloom. My wife and I listened to it in the evenings over the course of a few weeks.
