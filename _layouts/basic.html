@@ -26,6 +26,7 @@
     </header>
     <main>
       <h1>{{ page.title | replace_first: "_", "<em>" | replace: " _", " <em>" | replace: "_", "</em>" | normalize_whitespace }}</h1>
+      {{ page.date }}
       {% if page.date %}<time pubdate="pubdate">{{ page.date | date: "%-d %B %Y" }}</time>{% endif %}
       {{ content }}
     </main>

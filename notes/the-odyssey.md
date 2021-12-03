@@ -371,4 +371,4 @@ Later in the story, when Odysseus has reached his home and is plotting his reven
 > one man facing a mob?
 > ~ (20.25--30)
 
-*All quotations are taken from Robert Fagle's excellent 1996 translation of the* Odyssey. *Line numbers are approximate.*
+*All quotations are taken from Robert Fagles' excellent 1996 translation of the* Odyssey. *Line numbers are approximate.*

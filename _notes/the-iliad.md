@@ -542,4 +542,4 @@ When Zeus lets the gods back into the fray during the final battle, the world is
 <p>that fill the deathless gods themselves with loathing. <cite>(20.60-7)</cite></p>
 </blockquote>
 
-*All quotations are taken from Robert Fagle’s 1990 translation of the* Iliad. *Line numbers are approximate.*
+*All quotations are taken from Robert Fagles’ 1990 translation of the* Iliad. *Line numbers are approximate.*
