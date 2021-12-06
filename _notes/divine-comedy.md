@@ -36,7 +36,17 @@ The furies and demons who block Dante and Virgil’s way into Dis, are scattered
 <p>who walked as if on land and with dry soles. <cite>(IX.76–81)</cite></p>
 </blockquote>
 
-There are several similes comparing the geography of hell to the geography of Italy. E.g., IX.112–117.
+There are several similes comparing the geography of hell to the geography of Italy. E.g., IX.112–117, XII.4–10.
+
+Those in circle seven who’re violent against themselves are aptly compared to burning logs:
+
+<blockquote class="poetry">
+<p class="indent">As from a sapling log that catches fire</p>
+<p>along one of its ends, while at the other</p>
+<p>it drips and hisses with escaping vapor,</p>
+<p class="indent">so from that broken stump issued together</p>
+<p>both words and blood <cite>(XIII.40–44)</cite></p>
+</blockquote>
 
 ## The Pagan Gods
 
@@ -116,6 +126,17 @@ Dante the pilgrim asks why the lids of the heretics’ tombs are open, and Virgi
 <p>together with the flesh they left above.” <cite>(X.10–12)</cite></p>
 </blockquote>
 
+Those who have committed suicide are trees in the seventh circle of hell. On the last day, they’ll retrieve their bodies and hang them from themselves:
+
+<blockquote class="poetry">
+<p class="indent">Like other souls, we shall seek out the flesh</p>
+<p>that we have left, but none of us shall wear it;</p>
+<p>it is not right for any man to have</p>
+<p class="indent">what he himself has cast aside. We’ll drag</p>
+<p>our bodies here; they’ll hang in this sad wood,</p>
+<p>each on the stump of its vindictive shade.” <cite>(XIII.103–108)</cite></p>
+</blockquote>
+
 ## Questions
 
 How does the gluttons punishment, being stuck in filthy rain, fit their crime?
@@ -134,6 +155,32 @@ Also compare with the Aeneid, VI.623–632 (Fagles’ line numbers).
 
 XI.112–115
 
-## Thoughts
+## Making People Famous
+
+Virgil apologizes to the tree: XIII.46–53
+
+## Dante’s Pity
+
+Feinting after Francesca’s story: V.139–42
+
+Dante is unable to speak to the tree: XIII.82–4
+
+## Righteous Anger
+
+<blockquote class="poetry">
+<p class="indent">And I: “O master, I am very eager</p>
+<p>to see that spirit soused within this broth</p>
+<p>before we’ve made our way across the lake.”</p>
+<p class="indent">And he to me: “Before the other shore</p>
+<p>comes into view, you shall be satisfied;</p>
+<p>to gratify so fine a wish is right.”</p>
+<p class="indent">Soon after I had heard these words, I saw</p>
+<p>the muddy sinners so dismember him</p>
+<p>that even now I praise and thank God for it. <cite>(VIII.52–60)</cite></p>
+</blockquote>
+
+## Jesus Descending into Hell
+
+Virgil’s comments about Jesus retrieving the patriarchs shortly after he came to hell: IV.46–61
 
 *All quotations are taken from Allen Mandelbaum’s translation, published in three parts in 1980, 1982, and 1984..*

@@ -34,7 +34,16 @@ The furies and demons who block Dante and Virgil's way into Dis, are scattered b
 > who walked as if on land and with dry soles.
 > ~ (IX.76--81)
 
-There are several similes comparing the geography of hell to the geography of Italy. E.g., IX.112--117.
+There are several similes comparing the geography of hell to the geography of Italy. E.g., IX.112--117, XII.4--10.
+
+Those in circle seven who're violent against themselves are aptly compared to burning logs:
+
+>   As from a sapling log that catches fire
+> along one of its ends, while at the other
+> it drips and hisses with escaping vapor,
+>   so from that broken stump issued together
+> both words and blood
+> ~ (XIII.40--44)
 
 ## The Pagan Gods
 
@@ -107,6 +116,16 @@ Dante the pilgrim asks why the lids of the heretics' tombs are open, and Virgil 
 > together with the flesh they left above."
 > ~ (X.10--12)
 
+Those who have committed suicide are trees in the seventh circle of hell. On the last day, they'll retrieve their bodies and hang them from themselves:
+
+>   Like other souls, we shall seek out the flesh
+> that we have left, but none of us shall wear it;
+> it is not right for any man to have
+>   what he himself has cast aside. We'll drag
+> our bodies here; they'll hang in this sad wood,
+> each on the stump of its vindictive shade."
+> ~ (XIII.103--108)
+
 ## Questions
 
 How does the gluttons punishment, being stuck in filthy rain, fit their crime?
@@ -125,6 +144,31 @@ Also compare with the Aeneid, VI.623--632 (Fagles' line numbers).
 
 XI.112--115
 
-## Thoughts
+## Making People Famous
+
+Virgil apologizes to the tree: XIII.46--53
+
+## Dante's Pity
+
+Feinting after Francesca's story: V.139--42
+
+Dante is unable to speak to the tree: XIII.82--4
+
+## Righteous Anger
+
+>   And I: "O master, I am very eager
+> to see that spirit soused within this broth
+> before we've made our way across the lake."
+>   And he to me: "Before the other shore
+> comes into view, you shall be satisfied;
+> to gratify so fine a wish is right."
+>   Soon after I had heard these words, I saw
+> the muddy sinners so dismember him
+> that even now I praise and thank God for it.
+> ~ (VIII.52--60)
+
+## Jesus Descending into Hell
+
+Virgil's comments about Jesus retrieving the patriarchs shortly after he came to hell: IV.46--61
 
 *All quotations are taken from Allen Mandelbaum's translation, published in three parts in 1980, 1982, and 1984..*

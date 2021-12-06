@@ -63,5 +63,11 @@ stream of boiling blood immersing tyrants<br>
 and killers, watch’d by centaurs with bows bent.<br>
 <br>
 *Circle VII Middle Ring: Violent to Self*<br>
+Self-killers turn into trees, who spout grunts<br>
+and blood when snapped and someday will hang bodies.<br>
+Nude squanderers flee, the prey of dog hunts.<br>
 <br>
+*Circle VII Inner Ring: Blasphemers*<br>
+<br>
+*Circle VII Inner Ring: Sodomites*<br>
 <br>
