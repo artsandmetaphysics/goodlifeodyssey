@@ -34,9 +34,9 @@ The furies and demons who block Dante and Virgil's way into Dis, are scattered b
 > who walked as if on land and with dry soles.
 > ~ (IX.76--81)
 
-There are several similes comparing the geography of hell to the geography of Italy. E.g., IX.112--117, XII.4--10.
+There are several similes comparing the geography of hell to the geography of Italy and Europe. E.g., IX.112--117, XII.4--10, XV.4--12, XVI.94--105.
 
-Those in circle seven who're violent against themselves are aptly compared to burning logs:
+Those in the seventh circle who're violent against themselves are aptly compared to burning logs:
 
 >   As from a sapling log that catches fire
 > along one of its ends, while at the other
@@ -44,6 +44,64 @@ Those in circle seven who're violent against themselves are aptly compared to bu
 >   so from that broken stump issued together
 > both words and blood
 > ~ (XIII.40--44)
+
+Just before leaving the seventh circle, three famous Florentines come speak to Dante, all three of them orbiting him as they speak:
+
+>   As champions, naked, oiled, will always do,
+> each studying the grip that serves him best
+> before the blows and wounds begin to fall,
+>   while wheeling so, each one made sure his face
+> was turned to me, so that their necks opposed
+> their feet in one uninterrupted flow.
+> ~ (XVI.22--27)
+
+Not long after, Virgil summons the monster Geryon from the eighth circle of fraud to carry the down. Dante, amazed, compares the flight to a swimmer returning loosing an anchor:
+
+> ... through the dense and darkened air I saw
+> a figure swimming, rising up, enough
+> to bring amazement to the firmest heart,
+>   like one returning from the waves where he
+> went down to loose an anchor snagged upon
+> a reef or something else hid in the sea,
+>   who stretches upward and draws in his feet.
+> ~ (XVI.130--136)
+
+This simile makes me imagine that Geryon flies in the slow, pulsing motion of swimmer instead of the quick consistent motion of a bird. We find out in the next canto that the monster is a part human, part serpent, and part scorpion---it has no wings. Perhaps this mismatch between appearance and reality is another way it represents fraud. That said, later, Geryon's flight is compared to a falcon:
+
+>  Just as a falcon long upon the wing---
+> who, seeing neither lure nor bird, compels
+> the falconer to cry, "Ah me, you fall!"---
+>   descends, exhausted, in a hundred circles,
+> where he had once been swift, and sets himself,
+> embittered and enraged, far from his master;
+>   such, at the bottom of the jagged rock,
+> was Geryon, when he had set us down.
+> And once our weight was lifted form his back,
+>   he vanished like an arrow from a bow.
+> ~ (XVII.127--136)
+
+Earlier, while Virgil parleyed with the beast for passage, the pilgrim spoke with a few more sinners at the edge of the seventh circle. He likens their incessant attempts to relieve themselves from the fire by comparing them to a dog shushing away gnats; a hopeless unending task:
+
+>   Despondency was bursting from their eyes;
+> this side, then that, their hands kept fending off,
+> at times the flames, at times the burning soil:
+>   not otherwise do dogs in summer---now
+> with muzzle, now with paw---when they are bitten
+> by fleas or gnats or by the sharp gadfly.
+> ~ (XVII.46--51)
+
+In the first ditch of the eighth circle, there are two circles of sinners---the panders and seducers---walking counterclockwise past each other. Dante compares this to the faithful visiting Old St. Peter's Bassilica. It is evocoative to compare the crowded orderly shrine of Christianity with the crowded circle of hell:
+
+>   Along its bottom, naked sinners moved,
+> to our side of the middle, facing us;
+> beyond that, they moved with us, but more quickly---
+>   as, in the year of Jubilee, the Romans,
+> confronted by great crowds, contrived a plan
+> that let the people pass across the bridge,
+>   for to one side went all who had their eyes
+> upon the Castle, heading toward St. Peter's,
+> and to the other, those who faced the Mount.
+> ~ (XVII.25--33)
 
 ## The Pagan Gods
 
@@ -136,9 +194,11 @@ Why didn't the angel who came to help Virgil and Dante get into Dis speak to the
 
 Why are the Epicureans, in particular, placed in the sixth circle with the Heretics when other Pagan philosophers are in the first circle?
 
+Why are Virgil and Dante so affectionate to each other?
+
 ## Comments about Time
 
-VI.97--99, XXIX.7--12
+VI.97--99, XXIX.7--12, XV.49--54
 
 Also compare with the Aeneid, VI.623--632 (Fagles' line numbers).
 
@@ -147,6 +207,9 @@ XI.112--115
 ## Making People Famous
 
 Virgil apologizes to the tree: XIII.46--53
+His mentor, Ser Brunetto Lattini, asks for him to read his work: XV.119--120
+The three Florentines ask for him to record their names: XVI.82--85
+
 
 ## Dante's Pity
 

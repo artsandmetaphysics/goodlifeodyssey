@@ -68,6 +68,50 @@ and blood when snapped and someday will hang bodies.<br>
 Nude squanderers flee, the prey of dog hunts.<br>
 <br>
 *Circle VII Inner Ring: Blasphemers*<br>
+A rain of fire justly rewards blasphemies<br>
+in this circle of sand, cross’d only via tears<br>
+flowing from the Old Man’s diverse crevices.<br>
 <br>
 *Circle VII Inner Ring: Sodomites*<br>
+Dantes’ mentor, Ser Brunetto, appears—<br>
+seeking fame though blackened. He foretells his<br>
+pupils’ exile, who says he’ll persevere.<br>
 <br>
+*Circle VII Inner Ring: More Sodomites*<br>
+Three Florentines encircle Dante: “‘tis<br>
+true, courtesy and valour flew our state?”<br>
+They left saddened. Then Geryon, summoned, is.<br>
+<br>
+*Circle VII Inner Ring: Usurers*<br>
+A serpent, scorpion, man—instantiate<br>
+fraud—carried them down to the eighth dark ring,<br>
+passing lenders who’d used an unfair rate.<br>
+<br>
+*Circle VIII Pouch I: Panders and Seducers*<br>
+*Circle VIII Pouch II: Flatterers*<br>
+The first of ten dikes is filled with circling<br>
+pimps and seducers, whipped red. Jason’s there.<br>
+Next, dipped in shit, are those damned for flatt’ring.<br>
+<br>
+*Circle VIII Pouch III: Simonists*<br>
+<br>
+*Circle VIII Pouch IV: Diviners*<br>
+<br>
+*Circle VIII Pouch V: Barrators*<br>
+<br>
+*Circle VIII Pouch V: More Barrators*<br>
+<br>
+*Circle VIII Pouch V: With Demons*<br>
+<br>
+*Circle VIII Pouch VI: Hypocrites*<br>
+<br>
+*Circle VIII Pouch VII: Thieves*<br>
+<br>
+*Circle VIII Pouch VIII: False Councselors Ulysses*<br>
+<br>
+*Circle VIII Pouch VIII: False Councselors Guido*<br>
+<br>
+*Circle VIII Pouch IX: Sowers of Scandal and Schism*<br>
+<br>
+*Circle VIII Pouch IX: Sowers of Scandal and Schism*<br>
+*Circle VIII Pouch X: Falsifiers*<br>
