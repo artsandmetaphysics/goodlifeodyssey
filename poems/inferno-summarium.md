@@ -90,19 +90,29 @@ passing lenders who'd used an unfair rate.
 
 *Circle VIII Pouch I: Panders and Seducers*
 *Circle VIII Pouch II: Flatterers*
-The first of ten dikes is filled with circling
+The first of ten dikes is filled with marching
 pimps and seducers, whipped red. Jason's there.
-Next, dipped in shit, are those damned for flatt'ring.
+Next, dipped in shit, are those damned for flatt'ring,
 
 *Circle VIII Pouch III: Simonists*
+then buried priests, flaming feet in the air,
+who pimped dear Jesus' bride for gold.
+Indignant Dante calls the pope's pain fair.
 
 *Circle VIII Pouch IV: Diviners*
+The mages contort their necks, and behold
+there buttocks fore'er. Rejecting pity,
+our guide utters a story that's scrambled.
 
 *Circle VIII Pouch V: Barrators*
-
-*Circle VIII Pouch V: More Barrators*
+Corrupt officials boil in tar and flee
+from poking demons, who'd sooner harm than
+guide the two, if not for heaven holy.
 
 *Circle VIII Pouch V: With Demons*
+The escorts hook a tardy denizen
+of the pit, who's questioned 'between tortures,
+escapes, taring two captors. We're free again.
 
 *Circle VIII Pouch VI: Hypocrites*
 

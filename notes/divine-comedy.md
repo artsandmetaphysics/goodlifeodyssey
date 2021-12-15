@@ -90,7 +90,7 @@ Earlier, while Virgil parleyed with the beast for passage, the pilgrim spoke wit
 > by fleas or gnats or by the sharp gadfly.
 > ~ (XVII.46--51)
 
-In the first ditch of the eighth circle, there are two circles of sinners---the panders and seducers---walking counterclockwise past each other. Dante compares this to the faithful visiting Old St. Peter's Bassilica. It is evocoative to compare the crowded orderly shrine of Christianity with the crowded circle of hell:
+In the first ditch of the eighth circle, there are two circles of sinners---the panders and seducers---walking counterclockwise past each other. Dante compares this to the faithful visiting Old St. Peter's Basilica. It is evocative to compare the crowded orderly shrine of Christianity with the crowded circle of hell:
 
 >   Along its bottom, naked sinners moved,
 > to our side of the middle, facing us;
@@ -102,6 +102,55 @@ In the first ditch of the eighth circle, there are two circles of sinners---the 
 > upon the Castle, heading toward St. Peter's,
 > and to the other, those who faced the Mount.
 > ~ (XVII.25--33)
+
+Many of the similes carry two meanings. Here's a nice example of this in the third ditch of the eighth circle, where Dante interrogates a recently damned pope:
+
+>   "Whoever you may be, dejected soul,
+> whose head is downward, planted like a pole,"
+> my words began, "do speak, if you are able."
+>   I stood as does the friar who confesses
+> the foul assassin who, fixed fast, head down,
+> calls back the friar, and so delays his death"
+> ~ (XIX.46--51)
+
+The most direct comparison is that Dante is a friar listening to confession. The secondary meaning is that the pope will be shoved further into the ground when the next pope dies, and thus would no longer be able to confess. Furthermore, since he believes Dante to be the next pope; although he's mistaken about this, he is perhaps trying to stem off being pushed down just a little longer.
+
+The corrupt officials, who boil in tar, are given back-to-back animal similes in Canto XXII:
+
+>   Just as the dolphins do, when with arched back,
+> they signal to the seamen to prepare
+> for tempest, that their vessel may be spared,
+>   so here from time to time, to ease his torment,
+> some sinner showed his back above the surface,
+> then hid more quickly than a lightning flash.
+>   And just as on the margins of a ditch,
+> frogs crouch, their snouts alone above the water,
+> so as to hide their feet and their plump flesh,
+>   so here on every side these sinners crouched;
+> but faster than a flash, when Barbariccia
+> drew near, they plunged beneath the boiling pitch.
+>   I saw---my heart still shudders in recall---
+> one who delayed, just as at times a frog
+> is left behind while others dive below;
+>   and Graffiacane, who was closest to him,
+> then hooked him by his pitch-entangled locks
+> and hauled him up; he seemed to me an otter.
+> ~ (XXII.19--36)
+
+When their escort of ten demons, who've been embarrassed because two fell in the tar, are about to catch Dante and Virgil, likens the latter to a mother:
+
+>   My guide snatched me up instantly, just as
+> the mother who is wakened by a roar
+> and catches sight of blazing flames beside her,
+>   will lift her son and run without a stop---
+> she cares more for the child than for herself---
+> not pausing even to throw on a shift;
+>   and down the hard embankment's edge---his back
+> lay flat along the sloping rock that closes
+> one side of the adjacent moat---he slid.
+> ~ (XXIII.37--45)
+
+Note that they, like the mother, heard before seeing the danger.
 
 ## The Pagan Gods
 
@@ -152,6 +201,14 @@ Incontinence is about letting the appetites rule reason:
 > were squint-eyed of mind in the first life---
 > no spending that they did was done with measure."
 > ~ (VII.40--42)
+
+## Virgil
+
+Occasionally, Virgil and Dante show physical affection to each other.
+
+Virgil seems able to read Dante's mind (XIX.39, XXIII.25--30).
+
+From time to time he gets upset with Dante.
 
 ## Islam
 
@@ -204,18 +261,29 @@ Also compare with the Aeneid, VI.623--632 (Fagles' line numbers).
 
 XI.112--115
 
+XX.124--129
+
 ## Making People Famous
 
 Virgil apologizes to the tree: XIII.46--53
 His mentor, Ser Brunetto Lattini, asks for him to read his work: XV.119--120
 The three Florentines ask for him to record their names: XVI.82--85
 
-
 ## Dante's Pity
 
 Feinting after Francesca's story: V.139--42
 
 Dante is unable to speak to the tree: XIII.82--4
+
+Virgil chews out Dante for pittying the distorted diviners and magicians:
+
+>   Of course I wept, leaning against a rock
+> along that rugged ridge, so that my guide
+> told me: "Are you as foolish as the rest?
+>   Here pity only lives when it is dead:
+> for who can be more impious than he
+> who links God's judgement to passivity?"
+> ~ (XX.25--30)
 
 ## Righteous Anger
 
@@ -233,5 +301,14 @@ Dante is unable to speak to the tree: XIII.82--4
 ## Jesus Descending into Hell
 
 Virgil's comments about Jesus retrieving the patriarchs shortly after he came to hell: IV.46--61
+
+## Self Punishment
+
+Some have said that the sinner's in Dante's hell punish themselves; that they're punishment is merely fulfilling what they wanted to be. In some cases, e.g. Paulo and Fransesca or Ugollini, this seems true. But in other places it does not. E.g., consider Virgil's comment:
+
+>   "See there Guido Bonatti; see Asdente,
+> who now would wish he had attended to
+> his cord and leather, but repents too late."
+> ~ (XX.118--120)
 
 *All quotations are taken from Allen Mandelbaum's translation, published in three parts in 1980, 1982, and 1984..*
