@@ -6,13 +6,13 @@ description: >
 published: 2021-12-14
 ---
 
-If God is supremely good then why does hell exist? I can accept that unrepentant sinners shouldn’t be in heaven, but why must they be eternally punished? Wouldn’t a supremely good God make unrepentant sinners, upon death, cease to exist instead of being eternally tormented—even if that torment is self-inflicted? And even if guilt demands justice, what sin found in a finite life could justly lead to infinite pain?
+If God is supremely good then why does hell exist? I can accept that unrepentant sinners shouldn’t be in heaven, but why must they be eternally punished? Wouldn’t a supremely good God make unrepentant sinners, upon death, cease to exist instead of being eternally tormented—even if that torment is self-inflicted? And even if guilt demands justice, and hell is necessary, why should the torment last forever? What sin found in a finite life could justly lead to infinite pain?
 
 Here’s an answer to these questions—a solution to the problem of hell: All of hell’s citizens _choose_ to be there. At any point, they could choose to go to heaven or to stop existing, but they want to exist in hell. The utilitarian might object: “Even though the sinners continually choose to exist in hell, God knows they’d be better off not existing, so he should wipe them from existence.” Perhaps, but maybe God cares more about preserving our autonomy than minimizing some utilitarian metric?
 
 Some theologians suggest that we only get to choose between heaven or hell, but this begs the original question, since why would an all-powerful, supremely good God force people to continue existing in hell against their will?
 
-Others have suggested that we choose heaven or hell when we’re on earth, even if once in hell we might regret our choice. This also begs the question, since once again, why would an supremely good God keep people in eternal torment? We solved the problem by saying it was their _choice_, but for this to work they must _continually_ choose to stay in hell.
+Others have suggested that once a choice is made, it is made forever. Thus, a sinner who chose to exist in hell might later regret their choice, but they’re stuck with it. This also begs the question, since once again, why would an supremely good God keep people in eternal torment once they no longer wished to be there? It seems to me that the problem of hell is only solved if sinners _continually_ choose to exist in hell.
 
 I hope it’s true that everyone gets to choose between heaven, hell, and non-existence.
 
@@ -33,4 +33,4 @@ Did Dante think that all of hell’s denizens choose to be there? I’ve asked m
 
 This sinner looks up at Dante and asks why he is dawdling here. Virgil interjects and says “Death has not reached him yet, nor is it guilt that summons him to torment.” This isn’t a hell that someone would continually choose over non-existence. Rather, Dante’s hell is one filled with retributive justice—as it’s gate states: “justice urged on my high artificer.”
 
-C.S. Lewis idea that sinners all choose to go to hell solves a tough theological problem. Maybe he’s right, but it’s noteworthy that his conception contradicts the medieval conception of hell as a place of divine retribution and torment.
+The idea that sinners all choose to go to hell solves a tough theological problem. Maybe he’s right, but it’s noteworthy that his conception contradicts the medieval conception of hell as a place of divine retribution and torment.
