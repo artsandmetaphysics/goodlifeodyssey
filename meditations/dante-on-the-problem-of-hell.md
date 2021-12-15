@@ -30,6 +30,6 @@ Did Dante think that all of hell's denizens choose to be there? I've asked mysel
 > that makes of what we swallow excrement.
 > ~
 
-This sinner looks up at Dante and asks why he is dawdling here. Virgil interjects and says "Death has not reached him yet, nor is it guilt that summons him to torment." This isn't a hell that someone would choose over non-existence. Rather, Dante's hell is one filled with retributive justice---as it's gate states: "justice urged on my high artificer."
+This sinner looks up at Dante and asks why he is dawdling here. Virgil interjects and says "Death has not reached him yet, nor is it guilt that summons him to torment." This isn't a hell that someone would continually choose over non-existence. Rather, Dante's hell is one filled with retributive justice---as it's gate states: "justice urged on my high artificer."
 
 C.S. Lewis idea that sinners all choose to go to hell solves a tough theological problem. Maybe he's right, but it's noteworthy that his conception contradicts the medieval conception of hell as a place of divine retribution and torment.
