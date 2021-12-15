@@ -97,7 +97,7 @@ Earlier, while Virgil parleyed with the beast for passage, the pilgrim spoke wit
 <p>by fleas or gnats or by the sharp gadfly. <cite>(XVII.46–51)</cite></p>
 </blockquote>
 
-In the first ditch of the eighth circle, there are two circles of sinners—the panders and seducers—walking counterclockwise past each other. Dante compares this to the faithful visiting Old St. Peter’s Bassilica. It is evocoative to compare the crowded orderly shrine of Christianity with the crowded circle of hell:
+In the first ditch of the eighth circle, there are two circles of sinners—the panders and seducers—walking counterclockwise past each other. Dante compares this to the faithful visiting Old St. Peter’s Basilica. It is evocative to compare the crowded orderly shrine of Christianity with the crowded circle of hell:
 
 <blockquote class="poetry">
 <p class="indent">Along its bottom, naked sinners moved,</p>
@@ -110,6 +110,58 @@ In the first ditch of the eighth circle, there are two circles of sinners—the 
 <p>upon the Castle, heading toward St. Peter’s,</p>
 <p>and to the other, those who faced the Mount. <cite>(XVII.25–33)</cite></p>
 </blockquote>
+
+Many of the similes carry two meanings. Here’s a nice example of this in the third ditch of the eighth circle, where Dante interrogates a recently damned pope:
+
+<blockquote class="poetry">
+<p class="indent">“Whoever you may be, dejected soul,</p>
+<p>whose head is downward, planted like a pole,”</p>
+<p>my words began, “do speak, if you are able.”</p>
+<p class="indent">I stood as does the friar who confesses</p>
+<p>the foul assassin who, fixed fast, head down,</p>
+<p>calls back the friar, and so delays his death” <cite>(XIX.46–51)</cite></p>
+</blockquote>
+
+The most direct comparison is that Dante is a friar listening to confession. The secondary meaning is that the pope will be shoved further into the ground when the next pope dies, and thus would no longer be able to confess. Furthermore, since he believes Dante to be the next pope; although he’s mistaken about this, he is perhaps trying to stem off being pushed down just a little longer.
+
+The corrupt officials, who boil in tar, are given back-to-back animal similes in Canto XXII:
+
+<blockquote class="poetry">
+<p class="indent">Just as the dolphins do, when with arched back,</p>
+<p>they signal to the seamen to prepare</p>
+<p>for tempest, that their vessel may be spared,</p>
+<p class="indent">so here from time to time, to ease his torment,</p>
+<p>some sinner showed his back above the surface,</p>
+<p>then hid more quickly than a lightning flash.</p>
+<p class="indent">And just as on the margins of a ditch,</p>
+<p>frogs crouch, their snouts alone above the water,</p>
+<p>so as to hide their feet and their plump flesh,</p>
+<p class="indent">so here on every side these sinners crouched;</p>
+<p>but faster than a flash, when Barbariccia</p>
+<p>drew near, they plunged beneath the boiling pitch.</p>
+<p class="indent">I saw—my heart still shudders in recall—</p>
+<p>one who delayed, just as at times a frog</p>
+<p>is left behind while others dive below;</p>
+<p class="indent">and Graffiacane, who was closest to him,</p>
+<p>then hooked him by his pitch-entangled locks</p>
+<p>and hauled him up; he seemed to me an otter. <cite>(XXII.19–36)</cite></p>
+</blockquote>
+
+When their escort of ten demons, who’ve been embarrassed because two fell in the tar, are about to catch Dante and Virgil, likens the latter to a mother:
+
+<blockquote class="poetry">
+<p class="indent">My guide snatched me up instantly, just as</p>
+<p>the mother who is wakened by a roar</p>
+<p>and catches sight of blazing flames beside her,</p>
+<p class="indent">will lift her son and run without a stop—</p>
+<p>she cares more for the child than for herself—</p>
+<p>not pausing even to throw on a shift;</p>
+<p class="indent">and down the hard embankment’s edge—his back</p>
+<p>lay flat along the sloping rock that closes</p>
+<p>one side of the adjacent moat—he slid. <cite>(XXIII.37–45)</cite></p>
+</blockquote>
+
+Note that they, like the mother, heard before seeing the danger.
 
 ## The Pagan Gods
 
@@ -166,6 +218,14 @@ Incontinence is about letting the appetites rule reason:
 <p>no spending that they did was done with measure.” <cite>(VII.40–42)</cite></p>
 </blockquote>
 
+## Virgil
+
+Occasionally, Virgil and Dante show physical affection to each other.
+
+Virgil seems able to read Dante’s mind (XIX.39, XXIII.25–30).
+
+From time to time he gets upset with Dante.
+
 ## Islam
 
 The wall of the city of Dis, which separates the incontinent from the violent and fraudulent, has mosques—Islamic styled towers:
@@ -220,18 +280,30 @@ Also compare with the Aeneid, VI.623–632 (Fagles’ line numbers).
 
 XI.112–115
 
+XX.124–129
+
 ## Making People Famous
 
 Virgil apologizes to the tree: XIII.46–53
 His mentor, Ser Brunetto Lattini, asks for him to read his work: XV.119–120
 The three Florentines ask for him to record their names: XVI.82–85
 
-
 ## Dante’s Pity
 
 Feinting after Francesca’s story: V.139–42
 
 Dante is unable to speak to the tree: XIII.82–4
+
+Virgil chews out Dante for pittying the distorted diviners and magicians:
+
+<blockquote class="poetry">
+<p class="indent">Of course I wept, leaning against a rock</p>
+<p>along that rugged ridge, so that my guide</p>
+<p>told me: “Are you as foolish as the rest?</p>
+<p class="indent">Here pity only lives when it is dead:</p>
+<p>for who can be more impious than he</p>
+<p>who links God’s judgement to passivity?” <cite>(XX.25–30)</cite></p>
+</blockquote>
 
 ## Righteous Anger
 
@@ -250,5 +322,15 @@ Dante is unable to speak to the tree: XIII.82–4
 ## Jesus Descending into Hell
 
 Virgil’s comments about Jesus retrieving the patriarchs shortly after he came to hell: IV.46–61
+
+## Self Punishment
+
+Some have said that the sinner’s in Dante’s hell punish themselves; that they’re punishment is merely fulfilling what they wanted to be. In some cases, e.g. Paulo and Fransesca or Ugollini, this seems true. But in other places it does not. E.g., consider Virgil’s comment:
+
+<blockquote class="poetry">
+<p class="indent">“See there Guido Bonatti; see Asdente,</p>
+<p>who now would wish he had attended to</p>
+<p>his cord and leather, but repents too late.” <cite>(XX.118–120)</cite></p>
+</blockquote>
 
 *All quotations are taken from Allen Mandelbaum’s translation, published in three parts in 1980, 1982, and 1984..*
