@@ -22,7 +22,7 @@ It would mean that I could be in the presence of an all-loving God forever. It w
 
 Did Dante think that all of hell’s denizens choose to be there? I’ve asked myself this during the past few months as I’ve studied his masterpiece. It seems unlikely; some punishments appear to be with self-inflicted, but many are not. Consider the sowers of scandal in the ninth ditch of the eight circle, repeatedly healing and being cut open by a demon with a sword:
 
-<blockquote>
+<blockquote class="poetry">
 <p class="indent">No barrel, even though it’s lost a hoop</p>
 <p>or end-piece, ever gaps as one whom I</p>
 <p>saw ripped right from his chin to where we fart:</p>

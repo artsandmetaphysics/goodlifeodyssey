@@ -28,6 +28,7 @@ Did Dante think that all of hell's denizens choose to be there? I've asked mysel
 >   how bowels hung between his legs, one saw
 > his vitals and the miserable sack
 > that makes of what we swallow excrement.
+> ~
 
 This sinner looks up at Dante and asks why he is dawdling here. Virgil interjects and says "Death has not reached him yet, nor is it guilt that summons him to torment." This isn't a hell that someone would choose over non-existence. Rather, Dante's hell is one filled with retributive justice---as it's gate states: "justice urged on my high artificer."
 
