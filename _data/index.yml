@@ -13,7 +13,6 @@ essays:
   - "love-thy-neighbor-as-thyself"
   - "the-universe-is-empty-yet-ultimately-real"
 dialogues:
-  - "dante-and-the-problem-of-hell"
   - "why-not-make-america-christian"
   - "reasoning-about-justice-by-analogy"
   - "socrates-underestimated-writing"
@@ -23,6 +22,7 @@ dialogues:
   - "socrates-would-dislike-science"
   - "is-it-better-to-read-or-watch-the-news"
 meditations:
+  - "dante-and-the-problem-of-hell"
   - "ravelstein"
   - "censoring-children"
   - "socrates-treats-language-like-math"
