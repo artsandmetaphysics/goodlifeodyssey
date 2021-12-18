@@ -33,4 +33,4 @@ Did Dante think that all of hell’s denizens choose to be there? I’ve asked m
 
 This sinner looks up at Dante and asks why he is dawdling here. Virgil interjects and says “Death has not reached him yet, nor is it guilt that summons him to torment.” This isn’t a hell that someone would continually choose over non-existence. Rather, Dante’s hell is one filled with retributive justice—as it’s gate states: “justice urged on my high artificer.”
 
-The idea that sinners all choose to go to hell solves a tough theological problem. Maybe it’s true, but it’s not clear the Bible supports this idea and it clearly contradicts the medieval conception of hell as a place of divine retribution and torment, as presented in Dante.
+The proposition that hell exists because God respects our free will solves a theological problem; it explains why an all-loving God could allow people to be tormented forever. Maybe it’s true, but it’s not clear the Bible supports this idea and it clearly contradicts the medieval conception of hell as found in Dante.
