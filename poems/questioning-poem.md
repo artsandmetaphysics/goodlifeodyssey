@@ -3,6 +3,8 @@ title: >
   Questioning
 description: >
   A poem about life and its questions.
+redirect_from:
+ - /poems/friday-evening
 ---
 
 ~~~
