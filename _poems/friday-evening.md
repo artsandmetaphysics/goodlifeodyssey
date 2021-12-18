@@ -35,4 +35,4 @@ jealous of the pen I’m<br>
 writing poems with. “No no.”<br>
 Crayons scatter. Blocks bang.<br>
 Dinner preparations<br>
-begin and this must end.<br>
+begin and play time ends.<br>
