@@ -2,10 +2,11 @@
 title: >
   Friday Evening
 description: >
-  It's a Friday afternoon, dinner's not yet started...
+  It's a Friday evening, dinner's not yet started...
 ---
 
-It's a Friday afternoon,
+~~~
+It's a Friday evening,
 dinner's not yet started.
 
 Elanor is grinning,
@@ -36,3 +37,4 @@ writing poems with. "No no."
 Crayons scatter. Blocks bang.
 Dinner preparations
 begin and this must end.
+~~~
