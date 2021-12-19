@@ -20,7 +20,7 @@ I, for one, would choose to go to heaven if I died and found out Christianity wa
 
 If I die and find out I’m wrong, I’d be ecstatic. It would mean that I could be in the presence of an all-loving God forever. It would mean all relationships could be as deep as the relationship between a couple who’s been married sixty years. It would mean I could continue enjoying existence. Finally, it would mean God doesn’t arbitrarily require people to have faith in something that appears to be false to get into heaven.
 
-Did Dante think that all of hell’s denizens choose to be there? I’ve asked myself this during the past few months as I’ve studied his masterpiece. It seems unlikely; some punishments appear to be self-inflicted, but many are not. Consider the sowers of scandal in the ninth ditch of the eight circle, repeatedly healing and being cut open by a demon with a sword:
+Did Dante think that all of hell’s denizens choose to be there? I’ve asked myself this during the past few months as I’ve studied his masterpiece. It seems unlikely; some punishments appear to be self-inflicted, but most are not. Consider the sowers of scandal in the ninth ditch of the eight circle, repeatedly healing and being cut open by a demon with a sword:
 
 <blockquote class="poetry">
 <p class="indent">No barrel, even though it’s lost a hoop</p>
@@ -31,6 +31,6 @@ Did Dante think that all of hell’s denizens choose to be there? I’ve asked m
 <p>that makes of what we swallow excrement.</p>
 </blockquote>
 
-This sinner looks up at Dante and asks why he is dawdling here. Virgil interjects and says “Death has not reached him yet, nor is it guilt that summons him to torment.” This isn’t a hell that someone would continually choose over non-existence. Rather, Dante’s hell is one filled with retributive justice—as it’s gate states: “justice urged on my high artificer.”
+This sinner looks up at Dante and asks why he is dawdling here. Virgil interjects and says “Death has not reached him yet, nor is it guilt that summons him to torment.” This isn’t a hell that someone would continually choose over non-existence. Rather, Dante’s hell is one filled with retributive justice—as it’s gate states: “justice urged on my high artificer.” Sinners confess confess to King Minos who sends them to the appropriate circle where they’re punishment fits their characteristic sins.
 
-The proposition that hell exists because God respects our free will solves a theological problem; it explains why an all-loving God could allow people to be tormented forever. Maybe it’s true, but it’s not clear the Bible supports this idea and it clearly contradicts the medieval conception of hell as found in Dante.
+The proposition that hell exists because God respects our free will solves a theological problem; it explains why an all-loving God could allow people to be tormented forever. Maybe it’s true, but it’s not clear the Bible supports this idea, and it clearly contradicts Dante’s conception of hell.
