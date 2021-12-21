@@ -13,7 +13,7 @@ We don’t usually follow blindly. To decide whether someone is malicious or mis
 
 This last tendency—trusting the crowd—is one connection between beauty and truth. Beauty gets attention for its own sake, becomes widespread, and gains authority. An author’s words are beautiful, so they are repeated. Decades pass and the words become ubiquitous. Many will question and disagree—but most will not have the time to critique the author’s words, and will put faith in its ubiquity.
 
-The _Iliad_, and its central position in Greek and Roman thought, exemplifies the connection between beauty and truth. Homer’s writing is beautiful and occasionally profound, but I believe its influence can only be understood as originating from its beauty. The same is true for the _Divine Comedy_’s influence on Christian’s views of the afterlife. As a carefully tailored suite with quality fabric, matching polished shoes, and a clean haircut lends a person credibility, so too does beauty lend words credibility.
+The _Iliad_, and its central position in Greek and Roman thought, exemplifies the connection between beauty and truth. Homer’s writing is beautiful and occasionally profound, but I believe its influence can only be understood as originating from its beauty. The same is true for the _Divine Comedy_’s influence. As a carefully tailored suite with quality fabric, matching polished shoes, and a clean haircut lends a person credibility, so does beauty lend words credibility.
 
 We use clothing and beauty as shortcuts. These shortcuts are often appropriate, especially when busy and deciding mundane questions. But I think we should hesitate to use beauty, or the crowd, when considering the most important matters.
 
