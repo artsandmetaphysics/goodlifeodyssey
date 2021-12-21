@@ -110,10 +110,13 @@ guide the two, if not for heaven holy.<br>
 <br>
 *Circle VIII Pouch V: With Demons*<br>
 The escorts hook a tardy denizen<br>
-of the pit, who’s questioned ‘between tortures,<br>
-escapes, taring two captors. We’re free again.<br>
+of the pit, who’s questioned ‘between torment,<br>
+escapes, leaving tarred captors. We’re free again.<br>
 <br>
 *Circle VIII Pouch VI: Hypocrites*<br>
+A sliding escape. The hypocrites, bent<br>
+by painted lead cloaks, trudge o’re pharisees.<br>
+Two false fat friars direct their asscent.<br>
 <br>
 *Circle VIII Pouch VII: Thieves*<br>
 <br>

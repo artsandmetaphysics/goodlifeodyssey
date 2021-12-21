@@ -13,4 +13,4 @@ Mystics and rationalists don’t usually get along. When someone uses a mystical
 
 Mystical arguments can justify any heresy or cult, so how do we evaluate when to accept them?
 
-Logically, if a belief implies to two contradict victory belief we deduce that that belief is false.
+Usually, if a belief implies to two contradictory beliefs, that belief is false. This is why the more mystical arguments are needed to make a religious text consistent, the more an agnostic will think that religious text was made up by illogical people.
