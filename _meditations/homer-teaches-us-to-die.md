@@ -21,7 +21,7 @@ This morning, while Elanor scribbled with her new box of sixteen crayons, I sift
 <p>His faithful servant, old Calesius, died.</p>
 </blockquote>
 
-I’d like to be a friend of the human race and to those passing by my life, opening my door and sharing wealth, and so I identified with Axylus. Once identified, his mortality becomes in my mortality.
+I’d like to be a friend of the human race and to those passing by my life, opening my door and sharing wealth, and so I identified with Axylus. His mortality becomes in my mortality. You may not identify with this passage, but if you read the _Iliad_, you’ll find your own small passage that grabs you.
 
 When read aloud, these passages rush by. Dresus is slain, then Opheltius with his twin children, then Polypoetes, then Pidytes. You make brief connections only to let them go, like the brief pause you give an old acquaintance who’s passed away after reading the sad news online, you let sadness enter your heart and then you move on.
 
