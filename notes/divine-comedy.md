@@ -152,6 +152,8 @@ When their escort of ten demons, who've been embarrassed because two fell in the
 
 Note that they, like the mother, heard before seeing the danger.
 
+Canto XXIV opens with a long and beautiful simile comparing a farmer who goes out in the morning to see frost on the ground, and then goes back inside worried becuase he won't be able to feed his flock, only to go back outside and see that the frost is melted, to Dante seeing Virgil worried that they're stuck in the sixth ditch of the eighth circle of hell, only to be relieved when Virgil finds a way out.
+
 ## The Pagan Gods
 
 Dante combines Christianity with paganism in interesting ways.
@@ -201,6 +203,8 @@ Incontinence is about letting the appetites rule reason:
 > were squint-eyed of mind in the first life---
 > no spending that they did was done with measure."
 > ~ (VII.40--42)
+
+To be incontinent is to be like a beast, an animal chasing its impulses. One of the thieves in the eighth circle tells Virgil: "Mule that I was, the bestial life pleased me and not the human."
 
 ## Virgil
 
@@ -269,13 +273,23 @@ Virgil apologizes to the tree: XIII.46--53
 His mentor, Ser Brunetto Lattini, asks for him to read his work: XV.119--120
 The three Florentines ask for him to record their names: XVI.82--85
 
+Virgil makes a comment about fame when they're climbing up out of the sixth ditch of the eighth circle and Dante is out of breath:
+
+>   "Now you must cast aside your laziness,"
+> my master said, "for he who rests on down
+> or under covers cannot come to fame;
+>   and he who spends his life without renown
+> leaves such a vestige of himself on earth
+> as smoke bequeaths to air or foam to water."
+> ~ (XXIV.46--53)
+
 ## Dante's Pity
 
 Feinting after Francesca's story: V.139--42
 
 Dante is unable to speak to the tree: XIII.82--4
 
-Virgil chews out Dante for pittying the distorted diviners and magicians:
+Virgil chews out Dante for pitying the distorted diviners and magicians:
 
 >   Of course I wept, leaning against a rock
 > along that rugged ridge, so that my guide

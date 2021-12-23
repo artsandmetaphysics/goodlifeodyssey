@@ -117,9 +117,12 @@ escapes, leaving tarred captors. We're free again.
 *Circle VIII Pouch VI: Hypocrites*
 A sliding escape. The hypocrites, bent
 by painted lead cloaks, trudge o're pharisees.
-Two false fat friars direct their asscent.
+Two false fat friars direct their ascent.
 
 *Circle VIII Pouch VII: Thieves*
+After the climb, and breathing break, armies
+of snakes emerge below---who bite, hand-cuff,
+and somehow ignite frantic naked thieves.
 
 *Circle VIII Pouch VIII: False Councselors Ulysses*
 
