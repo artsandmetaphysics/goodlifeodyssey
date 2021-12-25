@@ -152,7 +152,7 @@ When their escort of ten demons, who've been embarrassed because two fell in the
 
 Note that they, like the mother, heard before seeing the danger.
 
-Canto XXIV opens with a long and beautiful simile comparing a farmer who goes out in the morning to see frost on the ground, and then goes back inside worried becuase he won't be able to feed his flock, only to go back outside and see that the frost is melted, to Dante seeing Virgil worried that they're stuck in the sixth ditch of the eighth circle of hell, only to be relieved when Virgil finds a way out.
+Canto XXIV opens with a long and beautiful simile comparing a farmer who goes out in the morning to see frost on the ground, and then goes back inside worried because he won't be able to feed his flock, only to go back outside and see that the frost is melted, to Dante seeing Virgil worried that they're stuck in the sixth ditch of the eighth circle of hell, only to be relieved when Virgil finds a way out.
 
 ## The Pagan Gods
 

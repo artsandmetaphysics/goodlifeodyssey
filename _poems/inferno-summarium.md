@@ -123,6 +123,10 @@ After the climb, and breathing break, armies<br>
 of snakes emerge below—who bite, hand-cuff,<br>
 and somehow ignite frantic naked thieves.<br>
 <br>
+*Circle VIII Pouch VII: Thieves*<br>
+Curses God<br>
+Man turns into Snake<br>
+<br>
 *Circle VIII Pouch VIII: False Councselors Ulysses*<br>
 <br>
 *Circle VIII Pouch VIII: False Councselors Guido*<br>
