@@ -125,8 +125,9 @@ of snakes emerge below---who bite, hand-cuff,
 and somehow ignite frantic naked thieves.
 
 *Circle VIII Pouch VII: Thieves*
-Curses God
-Man turns into Snake
+One rebel's neck is squeezed shut---"enough!"
+Two other's flesh and bones are stolen when,
+wax-like, they meld with serpents, coiled rough.
 
 *Circle VIII Pouch VIII: False Councselors Ulysses*
 
