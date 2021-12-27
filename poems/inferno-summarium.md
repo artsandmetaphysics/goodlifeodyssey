@@ -8,7 +8,7 @@ description: >
 ~~~
 Dante, astray in a dark wood, sees light.
 Since leopard, lion, and wolf halt our ways,
-wise Virgil comes to guide us past our plight.
+wise Virgil comes to guide him past his plight.
 
 The pilgrim, no Aeneas or Paul, stays.
 "Your Beatrice sent me, so have no fear---
@@ -103,14 +103,14 @@ Two other's flesh and bones are stolen when,
 wax-like, they meld with serpents, coiled rough.
 
 Hot flames entomb false counselors within.
-Ulysses tells how he urged on friends to
-their foolish deaths and how the sea closed in.
+Ulysses's friends, won by his words, end in
+a God-sent wave, having seen the mountain.
 
 The next flame asked how Italy has been---
 a soldier turned friar turned fraud who led
 pope Boni's scheme to conquer Christian kin.
 
-Those who've pimped mistrust and schism have bred
-are split and closed repeatedely. There lies
-Mohammed and a man holding his head!
+Next, those who've pimped mistrust and schism bred
+are split and closed repeatedly. There lies
+Mohamed and a man holding his own head!
 ~~~
