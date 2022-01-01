@@ -90,7 +90,7 @@ of the pit, who’s questioned ‘between torment,<br>
 escapes, leaving tarred captors. We’re free again.<br>
 <br>
 A sliding escape. The hypocrites, bent<br>
-by painted lead cloaks, trudge o’re pharisees.<br>
+by painted lead cloaks, trudge o’re Pharisees.<br>
 Two false fat friars direct their ascent.<br>
 <br>
 After the climb, and breathing break, armies<br>
@@ -112,3 +112,27 @@ pope Boni’s scheme to conquer Christian kin.<br>
 Next, those who’ve pimped mistrust and schism bred<br>
 are split and closed repeatedly. There lies<br>
 Mohamed and a man holding his own head!<br>
+<br>
+An unavenged cousin’s curses occupies<br>
+our pair’s descent into the final ditch,<br>
+where plagued alchemists itch and smells paralyze,<br>
+<br>
+impersonators bite, and one who did switch<br>
+real gold for dross bickers with a Greek liar.<br>
+There Myrrah and Potiphar’s wife do twitch.<br>
+<br>
+Nearing the ninth circle, where chains inter<br>
+the giants, dumb Nimrod blasts his horn.<br>
+Anteus trades fame for gentle transfer.<br>
+<br>
+In Caïna, killers of kin adorn<br>
+the ice and brothers ram heads endlessly.<br>
+Betrayers of party face Dante’s scorn.<br>
+<br>
+Now Ugolino, stops gnawing Ruggieri<br>
+to tell how his kids starved before his eyes.<br>
+Betrayers of guests freeze with living bodies.<br>
+<br>
+Past Cassius, Brutus, Judas—who satisifies<br>
+Satan’s three mouths—trudge our pair through hell’s core<br>
+and up to see the stars and open skies.<br>

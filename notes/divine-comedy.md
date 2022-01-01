@@ -245,33 +245,17 @@ Those who have committed suicide are trees in the seventh circle of hell. On the
 > each on the stump of its vindictive shade."
 > ~ (XIII.103--108)
 
-## Questions
-
-How does the gluttons punishment, being stuck in filthy rain, fit their crime?
-
-In several passages it's made clear that Dante the pilgrim still has a physical body. Yet many punishments are physical in nature. How is this consistent?
-
-Why didn't the angel who came to help Virgil and Dante get into Dis speak to them?
-
-Why are the Epicureans, in particular, placed in the sixth circle with the Heretics when other Pagan philosophers are in the first circle?
-
-Why are Virgil and Dante so affectionate to each other?
-
 ## Comments about Time
 
-VI.97--99, XXIX.7--12, XV.49--54
-
-Also compare with the Aeneid, VI.623--632 (Fagles' line numbers).
-
-XI.112--115
-
-XX.124--129
+Periodically Virgil urges Dante to hurry. The journey apparently begins on March 24, 1300, shortly before dawn on Good Friday, or possibly on the traditional date of the creation of the world (April 8th, 1300). The dates seem to be important to Dante the poet, since he frequently comments on the passinage of time (VI.97--99, XXIX.7--12, XV.49--54, XI.112--115, XX.124--129, XXIX.8--9)
 
 ## Making People Famous
 
 Virgil apologizes to the tree: XIII.46--53
 His mentor, Ser Brunetto Lattini, asks for him to read his work: XV.119--120
 The three Florentines ask for him to record their names: XVI.82--85
+Convincing the Giant Antaeus to lower them into the ninth circle: XXXI.124--129
+Helping Ugolino get revenge on Archbishop Ruggieri: XXXII.133--39
 
 Virgil makes a comment about fame when they're climbing up out of the sixth ditch of the eighth circle and Dante is out of breath:
 
@@ -324,5 +308,18 @@ Some have said that the sinner's in Dante's hell punish themselves; that they're
 > who now would wish he had attended to
 > his cord and leather, but repents too late."
 > ~ (XX.118--120)
+
+## Questions
+
+How does the gluttons punishment, being stuck in filthy rain, fit their crime?
+
+In several passages it's made clear that Dante the pilgrim still has a physical body. Yet many punishments are physical in nature. How is this consistent?
+
+Why didn't the angel who came to help Virgil and Dante get into the city of Dis speak to them?
+
+Why are the Epicureans, in particular, placed in the sixth circle with the Heretics when other Pagan philosophers are in the first circle?
+
+Why are Virgil and Dante so affectionate to each other?
+
 
 *All quotations are taken from Allen Mandelbaum's translation, published in three parts in 1980, 1982, and 1984..*
