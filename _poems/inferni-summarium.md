@@ -5,9 +5,9 @@ description: >
   A poetic summary of the first part of Dante’s _Divine Comedy_
 ---
 
-Dante, astray in a dark wood, sees light.<br>
-Since leopard, lion, and wolf halt our ways,<br>
-wise Virgil comes to guide him past his plight.<br>
+Dante, astray in a dark wood, sees light,<br>
+but leopard, lion, and wolf halts his way.<br>
+Wise Virgil comes to guide him past his plight.<br>
 <br>
 The pilgrim, no Aeneas or Paul, stays.<br>
 “Your Beatrice sent me, so have no fear—<br>
@@ -27,10 +27,10 @@ Our pilgrim faints for false Fransesca’s show.<br>
 <br>
 Overeaters bark in the cold, falling,<br>
 foul, filth with the three-headed demon dog.<br>
-A man foretells of the white Guelphs ending.<br>
+A man foretells the white Guelphs ending.<br>
 <br>
 Hoarders and spendthrifts, in a circular slog,<br>
-roll weights to and fro. The wrathful damn’d fight<br>
+roll weights to and fro. The wrathful damned fight<br>
 while the slothful’s bubbles cover the bog.<br>
 <br>
 Furies, halting our nervous pair, incite<br>
@@ -53,8 +53,8 @@ Self-killers turn into trees, who spout grunts<br>
 and blood when snapped and someday will hang bodies.<br>
 Nude squanderers flee, the prey of dog-hunts.<br>
 <br>
-A rain of fire justly rewards blasphemies<br>
-in this circle of sand, cross’d only via tears<br>
+A rain of fire justly rewards blasphemers<br>
+in this sandy circle, crossed only via tears<br>
 flowing from the Old Man’s diverse crevices.<br>
 <br>
 Dantes’ mentor, Ser Brunetto, appears—<br>
@@ -63,7 +63,7 @@ pupils’ exile, who says he’ll persevere.<br>
 <br>
 Three Florentines encircle Dante: “‘tis<br>
 true, courtesy and valour flew our state?”<br>
-They left saddened. Then Geryon, summoned, is.<br>
+They left despondent. Then Geryon meets his summonses.<br>
 <br>
 A serpent, scorpion, man—instantiate<br>
 fraud—carried them down to the eighth dark ring,<br>

@@ -6,9 +6,9 @@ description: >
 ---
 
 ~~~
-Dante, astray in a dark wood, sees light.
-Since leopard, lion, and wolf halt our ways,
-wise Virgil comes to guide him past his plight.
+Dante, astray in a dark wood, sees light,
+but leopard, lion, and wolf halts his way.
+Wise Virgil comes to guide him past his plight.
 
 The pilgrim, no Aeneas or Paul, stays.
 "Your Beatrice sent me, so have no fear---
@@ -28,10 +28,10 @@ Our pilgrim faints for false Fransesca's show.
 
 Overeaters bark in the cold, falling,
 foul, filth with the three-headed demon dog.
-A man foretells of the white Guelphs ending.
+A man foretells the white Guelphs ending.
 
 Hoarders and spendthrifts, in a circular slog,
-roll weights to and fro. The wrathful damn'd fight
+roll weights to and fro. The wrathful damned fight
 while the slothful's bubbles cover the bog.
 
 Furies, halting our nervous pair, incite
@@ -54,8 +54,8 @@ Self-killers turn into trees, who spout grunts
 and blood when snapped and someday will hang bodies.
 Nude squanderers flee, the prey of dog-hunts.
 
-A rain of fire justly rewards blasphemies
-in this circle of sand, cross'd only via tears
+A rain of fire justly rewards blasphemers
+in this sandy circle, crossed only via tears
 flowing from the Old Man's diverse crevices.
 
 Dantes' mentor, Ser Brunetto, appears---
@@ -64,7 +64,7 @@ pupils' exile, who says he'll persevere.
 
 Three Florentines encircle Dante: "'tis
 true, courtesy and valour flew our state?"
-They left saddened. Then Geryon, summoned, is.
+They left despondent. Then Geryon meets his summonses.
 
 A serpent, scorpion, man---instantiate
 fraud---carried them down to the eighth dark ring,
