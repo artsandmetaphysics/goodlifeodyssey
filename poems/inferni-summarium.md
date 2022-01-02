@@ -12,7 +12,7 @@ wise Virgil comes to guide him past his plight.
 
 The pilgrim, no Aeneas or Paul, stays.
 "Your Beatrice sent me, so have no fear---
-our path is sure, though into hell's deep maze."
+our path is sure, though through hell's dark maze."
 
 "Abandon every hope, who enter here,"
 declares the gate. Agnostics chase a flag,
@@ -20,14 +20,14 @@ while unrepentant throng Acheron's pier.
 
 Sorrow without torments for those who lag
 the saving cross---Homer, Plato, and so---
-though castle and green uplift, their spirits sag.
+though castle and greens uplift, their spirits sag.
 
 Shades confess, then Minos' tail casts below.
 Tempests endlessly buffet the lusting.
 Our pilgrim faints for false Fransesca's show.
 
 Overeaters bark in the cold, falling,
-foul, filfth with the three-headed demon dog.
+foul, filth with the three-headed demon dog.
 A man foretells of the white Guelphs ending.
 
 Hoarders and spendthrifts, in a circular slog,
@@ -52,7 +52,7 @@ and killers, watch'd by centaurs with bows bent.
 
 Self-killers turn into trees, who spout grunts
 and blood when snapped and someday will hang bodies.
-Nude squanderers flee, the prey of dog hunts.
+Nude squanderers flee, the prey of dog-hunts.
 
 A rain of fire justly rewards blasphemies
 in this circle of sand, cross'd only via tears

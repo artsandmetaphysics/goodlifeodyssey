@@ -11,7 +11,7 @@ wise Virgil comes to guide him past his plight.<br>
 <br>
 The pilgrim, no Aeneas or Paul, stays.<br>
 “Your Beatrice sent me, so have no fear—<br>
-our path is sure, though into hell’s deep maze.”<br>
+our path is sure, though through hell’s dark maze.”<br>
 <br>
 “Abandon every hope, who enter here,”<br>
 declares the gate. Agnostics chase a flag,<br>
@@ -19,14 +19,14 @@ while unrepentant throng Acheron’s pier.<br>
 <br>
 Sorrow without torments for those who lag<br>
 the saving cross—Homer, Plato, and so—<br>
-though castle and green uplift, their spirits sag.<br>
+though castle and greens uplift, their spirits sag.<br>
 <br>
 Shades confess, then Minos’ tail casts below.<br>
 Tempests endlessly buffet the lusting.<br>
 Our pilgrim faints for false Fransesca’s show.<br>
 <br>
 Overeaters bark in the cold, falling,<br>
-foul, filfth with the three-headed demon dog.<br>
+foul, filth with the three-headed demon dog.<br>
 A man foretells of the white Guelphs ending.<br>
 <br>
 Hoarders and spendthrifts, in a circular slog,<br>
@@ -51,7 +51,7 @@ and killers, watch’d by centaurs with bows bent.<br>
 <br>
 Self-killers turn into trees, who spout grunts<br>
 and blood when snapped and someday will hang bodies.<br>
-Nude squanderers flee, the prey of dog hunts.<br>
+Nude squanderers flee, the prey of dog-hunts.<br>
 <br>
 A rain of fire justly rewards blasphemies<br>
 in this circle of sand, cross’d only via tears<br>
