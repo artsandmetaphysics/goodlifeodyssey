@@ -31,14 +31,12 @@
         <a title="subscribe to the email list" class="float-right" href="#subscribe">subscribe</a>
       </p>
       {% endif %}
-      <hr>
     </header>
     <main>
       <h1>{{ page.title | replace_first: "_", "<em>" | replace: " _", " <em>" | replace: "_", "</em>" | normalize_whitespace }}</h1>
       {{ content }}
     </main>
     <footer>
-      <hr>
       <form class="hidden-print" action="https://formspree.io/xqkyblqg" method="POST">
         <input id="subscribe" type="email" placeholder="Email" name="email" required>
         <input type="hidden" name="secondsOnPage">

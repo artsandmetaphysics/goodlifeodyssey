@@ -39,25 +39,9 @@ header, main, footer {
   display: block;
 }
 
-hr {
-  border: none;
-  margin: 0;
-  height: 0.4rem;
-
-  /*
-   * We use the background-color so that the big <hr>s in the header and footer
-   * are not printed by default (thus saving people ink).
-   */
-  background-color: #222;
-}
-
-small {
-  font-size: 0.9rem;
-  font-style: italic;
-}
-
 header, footer {
   font-size: 0.8rem;
+  color: #AAA;
 }
 
 header a,
@@ -280,7 +264,7 @@ dt > p {
   blockquote {
     padding-right: 0;
     padding-left: 0;
-    color: #777;
+    color: #AAA;
   }
 
   p > cite {

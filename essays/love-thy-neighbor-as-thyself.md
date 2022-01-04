@@ -21,4 +21,4 @@ Jesus also gives a moderate ethical imperative---the Golden Rule. It says:
 
 I would not expect a stranger to give their life for me. Nor, if I was poor, would I expect someone far away to give me and my neighbors all of their wealth. I _would_ expect them to contribute, somehow. I also would not expect my neighbor to love me as they love themselves.
 
-<small>Quotations are from the New Revised Standard Version.</small>
+_Quotations are from the New Revised Standard Version._
