@@ -20,7 +20,16 @@
   <body>
     <header>
       {% if page.url != '/' %}
-      <p class="hidden-print"><a href="/">← other entries</a></p>
+      <p class="hidden-print">
+        <a title="home" href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a> &middot;
+        <a title="email me questions, comments, and criticism" href="mailto:{{ site.email }}">contact</a>
+        <a title="subscribe to the email list" class="float-right" href="#subscribe">subscribe</a>
+      </p>
       {% endif %}
       <hr>
     </header>
@@ -31,7 +40,7 @@
     <footer>
       <hr>
       <form class="hidden-print" action="https://formspree.io/xqkyblqg" method="POST">
-        <input type="email" placeholder="Email" name="email" required>
+        <input id="subscribe" type="email" placeholder="Email" name="email" required>
         <input type="hidden" name="secondsOnPage">
         <script>
           var input = document.getElementsByName("secondsOnPage")[0]
@@ -44,14 +53,19 @@
             clearInterval(clear)
           }, 120000);
         </script>
-        <button type="submit">Sign up for emails</button>
+        <button type="submit">Subscribe</button>
       </form>
-      <p>
-        {% if page.url != '/' %}
-        Read my <a href="{{ site.url }}">other entries</a>.
-        {% endif %}
-        <span class="hidden-print"><a href="/about">About</a> the author.</span>
-        <a href="mailto:{{ site.email }}">Email</a> comments, questions, or corrections.
+      <p class="hidden-print">
+        <a href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a> &middot;
+        <a title="email me questions, comments, and criticism" href="mailto:{{ site.email }}">contact</a>
+      </p>
+      <p class="print">
+        Read more pieces like this at https://goodlifeodyssey.com
       </p>
     </footer>
   </body>

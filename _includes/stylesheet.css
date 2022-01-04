@@ -51,9 +51,18 @@ hr {
   background-color: #222;
 }
 
-header, footer, small, time {
+small {
   font-size: 0.9rem;
   font-style: italic;
+}
+
+header, footer {
+  font-size: 0.8rem;
+}
+
+header a,
+footer a{
+  color: #2C8F30;
 }
 
 footer {
@@ -209,6 +218,12 @@ dt > p {
   }
 }
 
+@media screen {
+  .print {
+    display: none !important;
+  }
+}
+
 /*
  * 680px = (1rem body padding + 32rem main + 1rem body padding)*20px
  */
@@ -300,9 +315,13 @@ input[type="email"] {
 }
 
 button {
-  background-color: #4CAF50;
-  border: 1px solid #4CAF50;
+  background-color: #2C8F30;
+  border: 1px solid #2C8F30;
   color: white;
   text-align: center;
   cursor: pointer;
+}
+
+.float-right {
+  float: right;
 }
