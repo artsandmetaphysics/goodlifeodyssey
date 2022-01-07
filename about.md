@@ -12,6 +12,8 @@ I enjoy reading, thinking, and writing. I'm especially interested in how to live
 
 I write anonymously, due to the sensitive nature of the topic.
 
+Please send comments or questions to <a href="email:author@goodlifeodyssey.com">author@goodlifeodyssey.com</a>.
+
 ## This Site
 
 The essays represent my current thoughts on a topic and are revised with my view.
@@ -22,4 +24,4 @@ The meditations are short pieces, that reflect my thoughts and questions at a pa
 
 The notes and commentary are likely less interesting to a general audience; they contain many quotations and my summaries on various works---mostly classics. I worry that the number and length of the quotations I included extends beyond what is allowable by fair use; as best I can tell, they do not, but I sincerely hope not to cause harm to any of the translators, authors, or publishers I quote.
 
-I hope that the occasional visitor will contact me and perhaps share new ideas or arguments with me. To facilitate staying in touch with readers, I set up an email list.
+I hope that the occasional visitor will contact me and share new ideas with me. To facilitate staying in touch with readers, I set up an email list.

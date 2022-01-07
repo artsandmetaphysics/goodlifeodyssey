@@ -18,26 +18,25 @@
     <style>{% include stylesheet.min.css %}</style>
   </head>
   <body>
+    {% if page.url != '/' %}
     <header>
-      {% if page.url != '/' %}
       <p class="hidden-print">
         <a title="home" href="/">■</a> &middot;
         <a href="/#essays">essays</a> &middot;
         <a href="/#dialogues">dialogues</a> &middot;
         <a href="/#meditations">meditations</a> &middot;
         <a href="/#poems">poems</a> &middot;
-        <a title="about the author" href="/about">about</a> &middot;
-        <a title="email me questions, comments, and criticism" href="mailto:{{ site.email }}">contact</a>
+        <a title="about the author" href="/about">about</a>
         <a title="subscribe to the email list" class="float-right" href="#subscribe">subscribe</a>
       </p>
-      {% endif %}
     </header>
+    {% endif %}
     <main>
       <h1>{{ page.title | replace_first: "_", "<em>" | replace: " _", " <em>" | replace: "_", "</em>" | normalize_whitespace }}</h1>
       {{ content }}
     </main>
-    <footer>
-      <form class="hidden-print" action="https://formspree.io/xqkyblqg" method="POST">
+    <footer class="hidden-print">
+      <form action="https://formspree.io/xqkyblqg" method="POST">
         <input id="subscribe" type="email" placeholder="Email" name="email" required>
         <input type="hidden" name="secondsOnPage">
         <script>
@@ -59,11 +58,7 @@
         <a href="/#dialogues">dialogues</a> &middot;
         <a href="/#meditations">meditations</a> &middot;
         <a href="/#poems">poems</a> &middot;
-        <a title="about the author" href="/about">about</a> &middot;
-        <a title="email me questions, comments, and criticism" href="mailto:{{ site.email }}">contact</a>
-      </p>
-      <p class="print">
-        Read more pieces like this at https://goodlifeodyssey.com
+        <a title="about the author" href="/about">about</a>
       </p>
     </footer>
   </body>

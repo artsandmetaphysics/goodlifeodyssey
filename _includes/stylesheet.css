@@ -40,17 +40,13 @@ header, main, footer {
 }
 
 header, footer {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   color: #AAA;
 }
 
 header a,
 footer a{
   color: #2C8F30;
-}
-
-footer {
-  margin-top: 2.0rem;
 }
 
 h1, h2 {
@@ -198,13 +194,7 @@ dt > p {
   }
 
   .hidden-print {
-    display: none !important;
-  }
-}
-
-@media screen {
-  .print {
-    display: none !important;
+    display: none;
   }
 }
 
