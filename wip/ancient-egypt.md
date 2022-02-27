@@ -8,7 +8,7 @@ type: note
 
 ## History
 
-The Egyptian priest Manetho grouped the pharaohs into 31 dynasties. Modern Egyptologists tend to count the early, Macedonian, and Ptolemaic pharaohs as three additional dynasties, for a total of 34 dynasties.  The dynasties are grouped into the following periods (all dates are BCE and approximate):
+The Egyptian priest Manetho grouped the pharaohs into 31 dynasties. Modern Egyptologists tend to count the early, Macedonian, and Ptolemaic pharaohs as three additional dynasties, for a total of 34 dynasties. The dynasties are grouped into the following periods (all dates are BCE and approximate):
 
 1. Predynastic (5000--3000), Dynasty 0
 2. Early Dynastic (3000--2625), Dynasties 1--3
@@ -20,6 +20,12 @@ The Egyptian priest Manetho grouped the pharaohs into 31 dynasties. Modern Egypt
 8. Third Intermediate Period (1075--656), Dynasties 21--25
 9. Late Period (664--332), Dynasties 26--31
 10. Hellenistic Period (332--30), Dynasties 32--33
+
+## Hieroglyphic
+
+Egyptian writing first appeared shortly before 3200 BCE. Throughout it's long history it changed a great deal and also had geographical dialects. Hieroglphic is a means of writing the Egyptian language; it was normally used for more permanent writing. A cursive script, known as hieratic, was used for nearly as long as hieroglphic as a form of everyday writing. Each hieratic sign has a hieroglphyic counterpart, although the relationship is not always clear.
+
+There are about 500 basic signs.
 
 ## Wisdom Literature
 

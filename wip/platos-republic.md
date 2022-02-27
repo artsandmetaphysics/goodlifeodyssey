@@ -45,4 +45,24 @@ Then two brothers, Glaucon and Adeimantus, request a defense of justice for its 
   16. Harmony of body and soul
 4. The rulers
   1. Align motives with prizes, honors, noble lie, and lack of private property
-  2.
+5. Finding justice
+  1. The cardinal virtues
+  2. Wisdom in the city
+  3. Courage in the city
+  4. Moderation in the city
+  5. Justice in the city
+  6. Justice in the man
+6. Women and children
+
+...
+
+7. Types of Regimes and Men (543a--580a)
+  1. Timocracy; ruled by honor
+  2. Oligarchy; ruled by appetites
+  3. Democracy; ruled by all parts, "as if according to lots"
+  4. Tyranny;
+8. Correspondence between man and city (?)
+9. The best of men (580a--)
+  1. Proof one -- kingly man is best
+  2. Proof two --
+  3. Proof three
