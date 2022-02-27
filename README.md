@@ -65,6 +65,11 @@ I don't finish a lot of the pieces I begin because I have limited time to write 
 
 To fight this, I need to pick smaller topics and write more meditations.
 
+## Related Sites
+
+- [The Literature and History Podcast](https://literatureandhistory.com)
+- [The Great Books Guy Blog](https://greatbooksguy.com)
+
 ## Upcoming Entries
 
 - [ ] Dialogue on Knowing Emptiness
