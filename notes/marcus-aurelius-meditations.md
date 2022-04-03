@@ -9,11 +9,13 @@ description: >
 .book:empty{display:none}
 </style>
 
-Marcus Aurelius was a Roman emperor and a philosopher. _The Meditations_, as they are commonly referred too, were his personal journal. He likely wrote them between 161 and 180 AD, and probably did not plan on publishing them. Thus, they provide a sincere view into the thoughts and daily struggles of a practicing stoic.
+Marcus Aurelius was a Roman emperor and a philosopher. _The Meditations_, as they are commonly referred too, were his personal journal. He likely wrote them between 161 and 180 AD, and probably did not plan to publish them. Thus, they provide a sincere view into the thoughts and struggles of a practicing stoic.
 
-After the first chapter, which is a list of influential people in Marcus' life, _The Meditations_ are unstructured. They are also somewhat repetitive, as may be expected in a journal (I find a good deal of repitition in mine).
+After the first chapter, which is a list of influential people in Marcus' life, _The Meditations_ are unstructured. They are also somewhat repetitive, as may be expected in a journal (when I review mine, I find it repetitive too).
 
-While it may be a foolish endeavor, since they were not meant to be systematic, I have attempted to identify and categorize Marcus' core beliefs. Many alternate divisions are possible.  Marcus writes little about how he knows what he knows (epistemology). His focus is how he should act (ethics), but often he explains why he should act a certain way, and in so doing he tells us how he viewed reality (metaphysics). I categorize his beliefs within these three domains.
+I have attempted to identify and categorize Marcus' core beliefs. This endeavor may be misguided, since his views may have shifted over time and he likely wasn't attempting to be systematic. 
+
+I categorize his beliefs into three domains: Epistemology, or how do we know what we know, ethics, or how should we act, and metaphysics, what is the nature of reality. His journal, naturally, focuses on ethics, but on occassion he explains why he should act a certain way, and in so doing he tells us how he viewed reality. He also occassionally expresses doubts, and in so doing touches on why he believes what he does.
 
 After each belief in parenthesis is listed the number of sections relating to this belief. Click on the number to filter out all unrelated sections. Many sections are connected to multiple beliefs. You can also show all the sections which I was unable to relate to one of my beliefs.
 
