@@ -32,6 +32,7 @@ This describes Proteus completely. Who says, after seeing Silvia for the first t
 > Or as one nail by strength drives out another,
 > So the remembrance of my former love
 > Is by a newer object quite forgotten.
+> ~
 
 The speed with which he abandons, and ultimately returns to, Julia is absurd. Certainly I cringe to label it with the word "love." Montaigne continues contrast it with friendship:
 

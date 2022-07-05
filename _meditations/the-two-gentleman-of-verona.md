@@ -34,7 +34,7 @@ This rings true. He continues to explore types of relationships, including roman
 
 This describes Proteus completely. Who says, after seeing Silvia for the first time:
 
-<blockquote>
+<blockquote class="poetry">
 <p>Even as one heat another heat expels,</p>
 <p>Or as one nail by strength drives out another,</p>
 <p>So the remembrance of my former love</p>
