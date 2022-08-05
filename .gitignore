@@ -8,5 +8,4 @@ Pipfile
 Pipfile.lock
 .DS_Store
 *.swp
-tmp
 .env
