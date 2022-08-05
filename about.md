@@ -1,9 +1,13 @@
 ---
-layout: basic
+created_on: '2022-07-31T01:45:00+00:00'
+description: About the author and this site.
+published: null
+slug: about
+slug_override: ''
+status: Published
 title: About
-description: About the author and this site
+type: Page
 ---
-
 ## The Author
 
 I live in New York City with my wife and daughter, and I run a medical software development company.
@@ -12,7 +16,7 @@ I enjoy reading, thinking, and writing. I'm especially interested in how to live
 
 I write anonymously, due to the sensitive nature of the topic.
 
-Please send comments or questions to <a href="email:author@goodlifeodyssey.com">author@goodlifeodyssey.com</a>.
+Please send comments or questions to <author@goodlifeodyssey.com>.
 
 ## This Site
 
@@ -22,6 +26,6 @@ The dialogues are meant to to represents and reflect on both sides of a debate. 
 
 The meditations are short pieces, that reflect my thoughts and questions at a particular point in time. I only rarely edit these once written.
 
-The notes and commentary are likely less interesting to a general audience; they contain many quotations and my summaries on various works---mostly classics. I worry that the number and length of the quotations I included extends beyond what is allowable by fair use; as best I can tell, they do not, but I sincerely hope not to cause harm to any of the translators, authors, or publishers I quote.
+The notes and commentary are likely less interesting to a general audience; they contain many quotations and my summaries on various works—mostly classics. I worry that the number and length of the quotations I included extends beyond what is allowable by fair use; as best I can tell, they do not, but I sincerely hope not to cause harm to any of the translators, authors, or publishers I quote.
 
 I hope that the occasional visitor will contact me and share new ideas with me. To facilitate staying in touch with readers, I set up an email list.

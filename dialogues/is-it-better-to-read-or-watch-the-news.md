@@ -1,12 +1,14 @@
 ---
-title: >
-  Is it Better to Read or Watch the News?
-description: >
-  A dialogue that explores the benefits of watching the news vs. reading it, and whether reading the news is a duty.
-redirect_from:
- - /dialogue-on-reading-vs-watching-the-news
+created_on: '2022-07-31T03:18:00+00:00'
+description: A dialogue that explores the benefits of watching the news vs. reading
+  it, and whether reading the news is a duty.
+published: null
+slug: is-it-better-to-read-or-watch-the-news
+slug_override: ''
+status: Published
+title: Is it Better to Read or Watch the News?
+type: Dialogue
 ---
-
 Tes:: I am enjoying our visit, and especially meeting our beautiful granddaughter Elanor.
 
 As I sat here the past several days at your apartment, I have been wondering: do you watch the news? Don't you want to know what is going on in the world?
@@ -83,7 +85,7 @@ Dijon:: I have also forgotten many books, although when I read actively, by paus
 
 Since a television show progresses automatically, you don't typically pause to think or critique it. Thus, the medium of television encourages the viewer to be passive, which in turn leads to pre-made opinions that can easily be repeated, but that the repeater has not thought through.
 
-Tes:: Perhaps most people watch shows passively, but most people also read passively! Why couldn't someone watch the news actively too? It is important to think critically, but this is not a problem with television per se, but rather is a problem with _how_ people watch television.
+Tes:: Perhaps most people watch shows passively, but most people also read passively! Why couldn't someone watch the news actively too? It is important to think critically, but this is not a problem with television per se, but rather is a problem with *how* people watch television.
 
 To actively watch television, you can use the same strategies you use when reading actively. Pause, think about what the host is saying and whether you agree. Write down your thoughts. Watch parts of the show twice, if needed.
 
@@ -91,7 +93,7 @@ Dijon:: I had not considered this, but you are correct. I should try these strat
 
 Tes:: Earlier, you said there are alternative, superior ways to form political opinions, other than the news. How does your discussion of active vs. passive consumption relate to this?
 
-Dijon:: Ah, yes! I had lost my train of thought. As I had mentioned, the key to actively reading or watching is to ask questions. What is the author saying? Do I agree? Who cares? Inevitably, when I ask these questions, I want to know more than the news story can give. For example, while I am not interested in the surface details surrounding the Beirut explosion, I want to know _why_ the explosive stockpile had been neglected.
+Dijon:: Ah, yes! I had lost my train of thought. As I had mentioned, the key to actively reading or watching is to ask questions. What is the author saying? Do I agree? Who cares? Inevitably, when I ask these questions, I want to know more than the news story can give. For example, while I am not interested in the surface details surrounding the Beirut explosion, I want to know *why* the explosive stockpile had been neglected.
 
 By actively questioning you move from the particulars to abstract principles---you move from the news to political philosophy and history. These principles can be used to better fulfill the civic duties we discussed.
 
@@ -107,6 +109,6 @@ I appreciate you explaining why you prefer reading the news over watching it, al
 
 Should we wrap up our conversation so Aurelie can eat before she has to feed Elanor again?
 
-Dijon:: Good idea. Thank you for the discussion, and for the insight that one can watch the news actively. Perhaps we should _read_ and _watch_ the news, to take advantage of the benefits of each medium.
+Dijon:: Good idea. Thank you for the discussion, and for the insight that one can watch the news actively. Perhaps we should *read* and *watch* the news, to take advantage of the benefits of each medium.
 
 Tes:: That would seem wise.

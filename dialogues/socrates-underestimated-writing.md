@@ -1,10 +1,14 @@
 ---
-title: >
-  Socrates Underestimated Writing
-description: >
-  An imaginative dialogue with Socrates about the limitations of writing and dialectic.
+created_on: '2022-07-31T03:17:00+00:00'
+description: An imaginative dialogue with Socrates about the limitations of writing
+  and dialectic.
+published: null
+slug: socrates-underestimated-writing
+slug_override: ''
+status: Published
+title: Socrates Underestimated Writing
+type: Dialogue
 ---
-
 Socrates:: Well, this is what I've heard. Among the ancient gods of Naucratis in Egypt there was one named Theuth, and it was he who first discovered number and calculation, geometry and astronomy, as well as the games of checkers and dice, and above all else, writing.
 
 Now the king of all Egypt at that time was the god Ammon. Theuth came to exhibit his arts to him and urged him to disseminate them to all the Egyptians. Ammon asked him about the usefulness of each art, and while Theuth was explaining it, Ammon praised him for whatever he thought was right in his explanations and criticized him for whatever he thought was wrong.
@@ -35,7 +39,7 @@ Phaedrus:: I think you should try to calm down this stranger. Since he isn't fro
 
 Socrates:: Very well, I shall try. Why did I criticize the written word? Writing shares a strange feature with painting. Paintings stand there as if they are alive, but if anyone asks them anything, they remain most solemnly silent. The same is true of written words. You'd think they were speaking as if they had some understanding, but if you question anything that has been said because you want to learn more, it continues to signify just that very same thing forever. And when it is faulted and attacked unfairly, it always needs its father's support; alone, it can neither defend itself nor come to its own support.
 
-What sort of discourse do we need? We need one that is written down, with knowledge, _in the soul_ of the listener. We need a discourse that can defend itself. I mean the living, breathing discourse of the man who knows, of which the written one can be fairly called an image. Unlike the writer, the dialectician chooses a proper soul and plants and sows within it discourse accompanied by knowledge---discourse capable of helping itself as well as the man who planted it, which is not barren but produces a seed from which more discourse grows in the character of others. Such discourse makes the seed forever immortal and renders the man who has it as happy as any human can be.
+What sort of discourse do we need? We need one that is written down, with knowledge, *in the soul* of the listener. We need a discourse that can defend itself. I mean the living, breathing discourse of the man who knows, of which the written one can be fairly called an image. Unlike the writer, the dialectician chooses a proper soul and plants and sows within it discourse accompanied by knowledge---discourse capable of helping itself as well as the man who planted it, which is not barren but produces a seed from which more discourse grows in the character of others. Such discourse makes the seed forever immortal and renders the man who has it as happy as any human can be.
 
 Dijon:: You're right that the written word doesn't usually defend itself as well as the spoken, especially to someone who doesn't love the truth. However, it can grant immortality. To demonstrate this, I'll read a passage, written many centuries ago, by an Egyptian scribe:
 
@@ -43,7 +47,7 @@ Dijon:: You're right that the written word doesn't usually defend itself as well
 >
 > They gave themselves a book as their lector-priest, a writing-board as their dutiful son. Teachings are their mausoleu, the reed-pen their child, the burnishing-stone their wife. Both great and small are given them as their children, for the writing is chief.
 >
-> Be a writer, take it to heart, so that _your_ name will fare likewise. A book is more effective than a carved tombstone or a permanent sepulcher. They serve as chapels and mausoleu in the mind of him who proclaims their names. A name on people's lips will surely be effective in the afterlife!
+> Be a writer, take it to heart, so that *your* name will fare likewise. A book is more effective than a carved tombstone or a permanent sepulcher. They serve as chapels and mausoleu in the mind of him who proclaims their names. A name on people's lips will surely be effective in the afterlife!
 >
 > Is there one here like Hordedef? Is there another like Imhotep? None of our kin is like Neferti or Khety, their leader. May I remind you about Ptahemdjehuty and Khakheperraseneb! Is there another like Ptahhotep, or the equal of Kairsu?
 >
@@ -77,12 +81,12 @@ Our deaf and dumb scribe bows very low, and without lifting his head, he writes:
 
 "Your thirty-first maxim says:
 
-> Do not have sex with a boy
-> when you know that what is condemned will satisfy his desire.
-> There is no cooling his lust.
-> Let him not spend the night doing what is condemned:
-> he will cool down only after he has mastered his desire.
-> ~
+> Do not have sex with a boy  
+> when you know that what is condemned will satisfy his desire.  
+> There is no cooling his lust.  
+> Let him not spend the night doing what is condemned:  
+> he will cool down only after he has mastered his desire.  
+> \~
 
 "This practice of older men having sex with boys is universally rejected in my time. Yet you speak against it as if it was common. This leads me to ask: does right and wrong change?"
 
@@ -102,7 +106,7 @@ If this secret dialogue were smuggled to Thrace, do you think that it would mere
 
 Socrates:: If this dialogue were written to address your particular questions, perhaps it could teach you something new. Thus, I concede that the written word can, in certain cases, do more than remind us of what we already know. However, dialectic is still a more able farmer.
 
-Dijon:: Why do you say that? The written word may be a less effective teacher for any particular student,  but it can sow its seeds much more widely.
+Dijon:: Why do you say that? The written word may be a less effective teacher for any particular student, but it can sow its seeds much more widely.
 
 Socrates:: An author, unlike a living teacher, must anticipate all of your questions to answer them. Since this is nearly impossible, a writer will always leave you with questions.
 

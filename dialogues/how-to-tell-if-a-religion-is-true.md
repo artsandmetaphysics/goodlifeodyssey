@@ -1,12 +1,13 @@
 ---
-title: >
-  How to Tell if a Religion is True
-description: >
-  A dialogue about religion and how to evaluate religious claims.
-redirect_from:
- - /dialogue-on-religious-claims
+created_on: '2022-07-31T03:18:00+00:00'
+description: A dialogue about religion and how to evaluate religious claims.
+published: null
+slug: how-to-tell-if-a-religion-is-true
+slug_override: ''
+status: Published
+title: How to Tell if a Religion is True
+type: Dialogue
 ---
-
 Dijon:: How does one define "religion"?
 
 Aaron:: Why do you want to? Like most abstract terms, I think it is impossible to define precisely. At best you can find a definition that is suitable for your use.
@@ -23,16 +24,16 @@ Dijon:: I don't think so. If a religion says you should follow a ritual, then yo
 
 Aaron:: You've convinced me that all religions make claims about reality. Furthermore, we can ignore any religions that don't because they'd be unverifiable.
 
-Ignoring such religions also lets us avoid quibbling over definitions, although we may still need to distinguish _religious_ claims from general ones.
+Ignoring such religions also lets us avoid quibbling over definitions, although we may still need to distinguish *religious* claims from general ones.
 
 Dijon:: I'm glad my argument was convincing. I would be happy to ignore religions that don't make claims about reality, and I agree we haven't completely avoided the need to define religion.
 
 I think religions make unique claims. Consider these examples:
 
-- God appeared to the nation of Israel on Mount Sinai and gave them the ten commandments.
-- Jesus is the son of God and rose from the dead after being crucified.
-- Muhammad is God's prophet and transcribed the Qur'an.
-- An omnipotent, benevolent God exists.
+-   God appeared to the nation of Israel on Mount Sinai and gave them the ten commandments.
+-   Jesus is the son of God and rose from the dead after being crucified.
+-   Muhammad is God's prophet and transcribed the Qur'an.
+-   An omnipotent, benevolent God exists.
 
 Aaron:: This is not a homogeneous list. The first three propositions are historical. They claim that certain events occurred. If you were on Mount Sinai around 1200 BCE, you could have seen God. If you were in Jerusalem around 30 CE, you could have seen Jesus die and rise again. If you had been in Mecca or Medina in the decades after 600 CE, you could have seen Muhammad transcribe the Qur'an. The last claim is not historical, and so a different process would be needed to verify it.
 
