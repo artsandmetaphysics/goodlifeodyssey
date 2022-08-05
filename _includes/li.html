@@ -1,4 +1,0 @@
-<li>
-  <a title="{{ include.doc.description | replace: "_", '"' | xml_escape | normalize_whitespace }}"
-     href="{{ include.doc.url }}">{{ include.doc.title | replace_first: "_", "<em>" | replace: " _", " <em>" | replace: "_", "</em>" | normalize_whitespace }}</a>
-</li>
