@@ -114,5 +114,6 @@ clean:
 	rm -f _essays/* _meditations/* _poems/* _notes/* _dialogues/*
 
 cleannotion:
-	rm -rf index.md about.md
+	make clean
+	rm -rf index.md about.md  # update if new pages are added
 	rm -f essays/* meditations/* poems/* notes/* dialogues/*

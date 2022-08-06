@@ -2,7 +2,7 @@
 created_on: '2022-07-31T03:18:00+00:00'
 description: A exploratory dialogue of Socrates' attitude towards the senses within
   *Phaedo*.
-published: null
+published_on: null
 slug: socrates-would-dislike-science
 slug_override: ''
 status: Published

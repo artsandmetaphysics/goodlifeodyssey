@@ -2,7 +2,7 @@
 created_on: '2022-08-01T02:25:00+00:00'
 description: "A brief consideration of one example of Plato\u2019s mathematical analysis\
   \ of words, which informs us how he thought language works."
-published: '2021-04-21'
+published_on: '2021-04-21'
 slug: socrates-treats-language-like-math
 slug_override: ''
 status: Published

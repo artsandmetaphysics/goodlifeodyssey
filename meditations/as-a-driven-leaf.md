@@ -2,7 +2,7 @@
 created_on: '2022-08-01T02:27:00+00:00'
 description: A philosophical critique of *As a Driven Leaf*, the story of a 1st century
   rabbi searching for truth in a Roman world.
-published: '2018-10-05'
+published_on: '2018-10-05'
 slug: as-a-driven-leaf
 slug_override: as-a-driven-leaf
 status: Published

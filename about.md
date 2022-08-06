@@ -1,7 +1,7 @@
 ---
 created_on: '2022-07-31T01:45:00+00:00'
 description: About the author and this site.
-published: null
+published_on: null
 slug: about
 slug_override: ''
 status: Published

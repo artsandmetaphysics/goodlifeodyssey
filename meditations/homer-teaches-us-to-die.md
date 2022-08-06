@@ -2,7 +2,7 @@
 created_on: '2022-08-01T02:24:00+00:00'
 description: Literature can instill wisdom by sharing with us the experiences of its
   authors.
-published: '2021-12-23'
+published_on: '2021-12-23'
 slug: homer-teaches-us-to-die
 slug_override: ''
 status: Published

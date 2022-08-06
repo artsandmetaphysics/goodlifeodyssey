@@ -1,7 +1,7 @@
 ---
 created_on: '2022-08-01T03:04:00+00:00'
 description: "A commentary on \u201CThe Epic of Gilgamesh.\u201D"
-published: null
+published_on: null
 slug: the-epic-of-gilgamesh
 slug_override: ''
 status: Published
@@ -15,8 +15,7 @@ Gilgamesh was a powerful and handsome king, but he oppressed his people. He forc
 > The goddess Aruru, she washed her hands,  
 > took a pinch of clay, threw it down in the wild.  
 > In the wild she created Enkidu, the hero,  
-> offspring of silence, knit strong by Ninurta.  
-> \~
+> offspring of silence, knit strong by Ninurta.
 
 A game trapper finds Enkidu at a watering hole, and is concerned because he fills in his pits and pulls up his snares. The trapper's father advises his son to bring Shamhat, a harlot from Uruk, to the watering hole to tempt Enkidu with her charms. Here is the scene where Shamhat tempts Enkidu, and tells him to leave the wilderness and his animals:
 
@@ -61,8 +60,7 @@ A game trapper finds Enkidu at a watering hole, and is concerned because he fill
 > "You are handsome, Enkidu, you are just like a god!  
 > Why with the beasts do you wander the wild?  
 > Come, I will take you to Uruk-the-Sheepfold,  
-> to the sacred temple, home of Anu and Ishtar"  
-> \~
+> to the sacred temple, home of Anu and Ishtar"
 
 I am quoting from the Andrew George translation; words in italics were difficult to decipher or were filled in from context.
 
@@ -89,8 +87,7 @@ There is, however, a snake in the *Epic of Gilgamesh.* Gilgamesh is returning fr
 >
 > As it turned away it sloughed its skin.  
 > Then Gilgamesh sat down and wept,  
-> down his cheeks the tears were coursing.  
-> \~
+> down his cheeks the tears were coursing.
 
 In both stories a snake causes a man to lose access to a plant which provides eternal life. However, there are many differences. In Genesis, the plant is given to Adam by God; Gilgamesh is told about the plant by the Babylonian Noah and he must find it himself. In Genesis, the plant is a tree in the garden of Eden; in the *Epic of Gilgamesh,* it is a prickly plant at the bottom of the "Ocean Below."
 
@@ -124,14 +121,16 @@ In Babylonian mythology, Marduk was the supreme god. Marduk rose to power by kil
 > or pierce its jaw with a hook?  
 > ...  
 > Any hope of capturing it will be disappointed;  
-> were not even the gods overwhelmed at the sight of it?"  
-> \~ Job 41:1–9, NRSV
+> were not even the gods overwhelmed at the sight of it?"
+>
+> — Job 41:1–9, NRSV
 
 > You divided the sea by your might;  
 > you broke the heads of the dragons in the waters.  
 > You crushed the heads of Leviathan;  
-> you gave him as food for the creatures of the wilderness.  
-> \~ Psalm 74:13–14, NRSV
+> you gave him as food for the creatures of the wilderness.
+>
+> — Psalm 74:13–14, NRSV
 
 Finally, parts of Ecclesiastes are very similar to the *Epic of Gilgamesh*. Here is a quote, from a tavern-keeper at the edge of the world, advising Gilgamesh:
 
@@ -150,8 +149,7 @@ Finally, parts of Ecclesiastes are very similar to the *Epic of Gilgamesh*. Here
 > Gaze on the child who holds your hand,  
 > Let your wife enjoy your repeated embrace!
 >
-> "For such is the destiny of mortal men"  
-> \~
+> "For such is the destiny of mortal men"
 
 And here is a similar saying in Ecclesiastes:
 

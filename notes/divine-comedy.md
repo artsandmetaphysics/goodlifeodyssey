@@ -1,7 +1,7 @@
 ---
 created_on: '2022-08-01T03:05:00+00:00'
 description: "Notes on Dante\u2019s \u201CDivine Comedy*.\u201D*"
-published: null
+published_on: null
 slug: divine-comedy
 slug_override: divine-comedy
 status: Published

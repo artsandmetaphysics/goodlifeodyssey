@@ -1,7 +1,7 @@
 ---
 created_on: '2022-08-01T03:05:00+00:00'
 description: "Notes on Ovid\u2019s \u201CMetamorphoses*.\u201D*"
-published: null
+published_on: null
 slug: metamorphoses
 slug_override: metamorphoses
 status: Published

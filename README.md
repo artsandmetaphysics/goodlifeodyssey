@@ -82,3 +82,7 @@ To fight this, I need to pick smaller topics and write more meditations.
   to similar beliefs
 - [ ] Essay on enjoyment as being inextricably part of meaning
 - [ ] Finish Ecclesiastes dialogue
+
+- [ ] Handle square brackets
+- [ ] Handle poetry quotes
+- [ ] Make sure content is being filled in every day

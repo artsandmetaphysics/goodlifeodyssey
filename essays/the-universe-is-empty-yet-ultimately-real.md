@@ -2,7 +2,7 @@
 created_on: '2022-07-31T02:33:00+00:00'
 description: "Why I agree with N\u0101g\u0101rjuna that everything is empty of svabh\u0101\
   va yet still believe in ultimately real things."
-published: null
+published_on: null
 slug: the-universe-is-empty-yet-ultimately-real
 slug_override: ''
 status: Published

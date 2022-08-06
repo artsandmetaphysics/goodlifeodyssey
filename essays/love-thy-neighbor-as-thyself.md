@@ -1,7 +1,7 @@
 ---
 created_on: '2022-07-31T02:32:00+00:00'
 description: A brief discussion of the second great commandment of the New Testament.
-published: null
+published_on: null
 slug: love-thy-neighbor-as-thyself
 slug_override: love-thy-neighbor-as-thyself
 status: Published

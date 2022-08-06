@@ -1,7 +1,7 @@
 ---
 created_on: '2022-07-31T02:32:00+00:00'
 description: Why are we afraid of death?
-published: null
+published_on: null
 slug: fear-of-death
 slug_override: fear-of-death
 status: Published

@@ -2,7 +2,7 @@
 created_on: '2022-07-31T01:28:00+00:00'
 description: My search for the good life in philosophy, religion, literature, and
   history.
-published: null
+published_on: null
 slug: index
 slug_override: index
 status: Published
@@ -43,6 +43,7 @@ This website is my logbook of landings within philosophy, religion, literature, 
 
 ## Meditations
 
+-   [The End of Coffee](./the-end-of-coffee)
 -   [The Two Gentleman of Verona](./the-two-gentleman-of-verona)
 -   [Noticing the Invisible Man](./noticing-the-invisible-man)
 -   [Homer Teaches Us to Die](./homer-teaches-us-to-die)

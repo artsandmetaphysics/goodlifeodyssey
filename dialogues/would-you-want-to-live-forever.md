@@ -1,7 +1,7 @@
 ---
 created_on: '2022-07-31T03:17:00+00:00'
 description: A dialogue exploring the nature of eternal life.
-published: null
+published_on: null
 slug: would-you-want-to-live-forever
 slug_override: ''
 status: Published

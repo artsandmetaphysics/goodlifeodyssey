@@ -2,7 +2,7 @@
 created_on: '2022-08-01T02:24:00+00:00'
 description: "Musings on friendship, inspired by \u201CThe Two Gentleman of Verona\u201D\
   \ and Montaigne\u2019s essay, \u201COn Friendship\u201D"
-published: '2022-07-04'
+published_on: '2022-07-04'
 slug: the-two-gentleman-of-verona
 slug_override: ''
 status: Published

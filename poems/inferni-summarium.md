@@ -1,7 +1,7 @@
 ---
 created_on: '2022-08-01T03:03:00+00:00'
 description: "A poetic summary of the first part of Dante's \u201CDivine Comedy.\u201D"
-published: null
+published_on: null
 slug: inferni-summarium
 slug_override: ''
 status: Published

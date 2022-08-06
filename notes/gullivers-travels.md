@@ -1,7 +1,7 @@
 ---
 created_on: '2022-08-01T03:05:00+00:00'
 description: "Notes on \u201CGulliver's Travels\u201D by Jonathan Swift"
-published: null
+published_on: null
 slug: gullivers-travels
 slug_override: gullivers-travels
 status: Published

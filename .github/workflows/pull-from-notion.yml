@@ -24,7 +24,7 @@ jobs:
       - name: Generate pages
         env:
           NOTION_ACCESS_TOKEN: ${{ secrets.NOTION_ACCESS_TOKEN }}
-        run: PYTHONPATH=. make clean && make notion && make -j4
+        run: PYTHONPATH=. make cleannotion && make notion && make -j4
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:

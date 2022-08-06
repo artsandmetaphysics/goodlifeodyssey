@@ -1,7 +1,7 @@
 ---
 created_on: '2022-08-01T03:06:00+00:00'
 description: Glossary of Musical Terms
-published: null
+published_on: null
 slug: music-glossary
 slug_override: music-glossary
 status: Published

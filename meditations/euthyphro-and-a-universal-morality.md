@@ -2,7 +2,7 @@
 created_on: '2022-08-01T02:26:00+00:00'
 description: "I connect \u201CEuthyphro\u2019s\u201D first two definitions of piety\
   \ to the belief in a universal moral standard among religions."
-published: '2020-06-20'
+published_on: '2020-06-20'
 slug: euthyphro-and-a-universal-morality
 slug_override: ''
 status: Published

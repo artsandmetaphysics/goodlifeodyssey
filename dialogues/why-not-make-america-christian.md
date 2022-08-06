@@ -2,7 +2,7 @@
 created_on: '2022-07-31T03:17:00+00:00'
 description: "A short dialogue exploring religion freedom, inspired by a paragraph\
   \ in the introduction of \u201CThe Closing of the American Mind\u201D by Allan Bloom."
-published: null
+published_on: null
 slug: why-not-make-america-christian
 slug_override: ''
 status: Published

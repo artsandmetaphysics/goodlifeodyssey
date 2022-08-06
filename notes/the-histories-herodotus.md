@@ -1,7 +1,7 @@
 ---
 created_on: '2022-08-01T03:04:00+00:00'
 description: "Notes on \u201CThe Histories\u201D by Herodotus."
-published: null
+published_on: null
 slug: the-histories-herodotus
 slug_override: the-histories-herodotus
 status: Published

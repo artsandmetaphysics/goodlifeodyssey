@@ -2,7 +2,7 @@
 created_on: '2022-08-01T02:26:00+00:00'
 description: We know the political and military context in which Sophocles wrote.
   Is this enough to interpret his plays as his audience would?
-published: '2020-06-14'
+published_on: '2020-06-14'
 slug: antigone-historical-context
 slug_override: antigone-historical-context
 status: Published

@@ -1,7 +1,7 @@
 ---
 created_on: '2022-08-01T03:04:00+00:00'
 description: "Notes on the \u201CIliad,\u201D my favorite work of fiction."
-published: null
+published_on: null
 slug: the-iliad
 slug_override: ''
 status: Published

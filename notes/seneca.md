@@ -1,7 +1,7 @@
 ---
 created_on: '2022-08-01T03:05:00+00:00'
 description: "Notes on Seneca\u2019s Philosophy and Plays."
-published: null
+published_on: null
 slug: seneca
 slug_override: ''
 status: Published

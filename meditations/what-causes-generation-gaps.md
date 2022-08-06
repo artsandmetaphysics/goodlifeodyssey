@@ -2,7 +2,7 @@
 created_on: '2022-08-01T02:25:00+00:00'
 description: A long comedic quote demonstrating a generation gap in ancient Athens,
   and a few thoughts about what causes such gaps.
-published: '2020-07-19'
+published_on: '2020-07-19'
 slug: what-causes-generation-gaps
 slug_override: ''
 status: Published

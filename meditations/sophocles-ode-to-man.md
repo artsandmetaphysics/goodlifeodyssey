@@ -1,7 +1,7 @@
 ---
 created_on: '2022-08-01T02:26:00+00:00'
 description: "Many a wonder lives and moves, but the wonder of all is man \u2026"
-published: '2020-06-12'
+published_on: '2020-06-12'
 slug: sophocles-ode-to-man
 slug_override: ''
 status: Published

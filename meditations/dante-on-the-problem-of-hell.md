@@ -3,7 +3,7 @@ created_on: '2022-08-01T02:24:00+00:00'
 description: "If God is supremely good then why does hell exist? Wouldn\u2019t a supremely\
   \ good God make unrepentant sinners, upon death, cease to exist instead of being\
   \ eternally tormented? Maybe hell exists because God respects our free will."
-published: '2021-12-14'
+published_on: '2021-12-14'
 slug: dante-on-the-problem-of-hell
 slug_override: ''
 status: Published

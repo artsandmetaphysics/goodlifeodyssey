@@ -164,19 +164,6 @@ dt > p {
   margin-top: 0.2rem;
 }
 
-/*
- * An index list is presented on the home page of the site.
- */
-.index {
-  padding: 0;
-  margin: 0;
-  list-style: none;
-}
-
-.index > li:not(:first-child) {
-  margin-top: 0.3rem;
-}
-
 @media print {
   html {
     font-size: 16px;

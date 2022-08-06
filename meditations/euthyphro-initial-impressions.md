@@ -2,7 +2,7 @@
 created_on: '2022-08-01T02:26:00+00:00'
 description: "What is piety? Is it possible to define? Here are my first thoughts\
   \ on the first of Plato\u2019s dialogues I have read."
-published: '2020-06-18'
+published_on: '2020-06-18'
 slug: euthyphro-initial-impressions
 slug_override: euthyphro-initial-impressions
 status: Published

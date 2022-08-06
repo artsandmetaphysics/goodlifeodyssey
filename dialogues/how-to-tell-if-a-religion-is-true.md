@@ -1,7 +1,7 @@
 ---
 created_on: '2022-07-31T03:18:00+00:00'
 description: A dialogue about religion and how to evaluate religious claims.
-published: null
+published_on: null
 slug: how-to-tell-if-a-religion-is-true
 slug_override: ''
 status: Published

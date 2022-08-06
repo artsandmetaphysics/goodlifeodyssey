@@ -1,7 +1,7 @@
 ---
 created_on: '2022-08-01T02:24:00+00:00'
 description: "My impression of \u201CRavelstein,\u201D by Saul Bellow."
-published: '2021-06-09'
+published_on: '2021-06-09'
 slug: ravelstein
 slug_override: ''
 status: Published

@@ -1,7 +1,7 @@
 ---
 created_on: '2022-07-31T03:17:00+00:00'
 description: A short investigation of a part of book I of Plato's Republic.
-published: null
+published_on: null
 slug: reasoning-about-justice-by-analogy
 slug_override: reasoning-about-justice-by-analogy
 status: Published

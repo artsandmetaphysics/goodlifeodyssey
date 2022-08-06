@@ -1,7 +1,7 @@
 ---
 created_on: '2022-08-01T03:04:00+00:00'
 description: "Notes on the \u201COdyssey*.\u201D*"
-published: null
+published_on: null
 slug: the-odyssey
 slug_override: ''
 status: Published
