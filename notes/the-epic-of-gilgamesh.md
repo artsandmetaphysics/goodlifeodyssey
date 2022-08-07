@@ -22,41 +22,41 @@ A game trapper finds Enkidu at a watering hole, and is concerned because he fill
 > One day and a second they waited by the water-hole,  
 > then the herd came down to drink the water.  
 > The game arrived, their hearts delighted in water,  
-> and Enkidu also, born in the uplands.
->
+> and Enkidu also, born in the uplands.  
+>   
 > With the gazelles he grazed on grasses,  
 > *joining the throng* with the game at the water-hole,  
 > his heart *delighting* with the beasts in the water:  
 > then Shamhat saw him, the child of nature,  
-> the savage man from the midst of the wild.
->
-> ...
->
+> the savage man from the midst of the wild.  
+>   
+> ...  
+>   
 > Shamhat unfastened the cloth of her loins,  
 > she bared her sex and he took in her charms.  
 > She did not recoil, she took in his scent:  
-> she spread her clothing and he lay upon her.
->
+> she spread her clothing and he lay upon her.  
+>   
 > She did for the man the work of a woman,  
 > his passion caressed and embraced her.  
 > For six days and seven nights  
-> Enkidu was erect, as he coupled with Shamhat.
->
+> Enkidu was erect, as he coupled with Shamhat.  
+>   
 > When with her delights he was fully sated,  
 > he turned his gaze to his herd.  
 > The gazelles saw Enkidu, they started to run,  
-> the beasts of the field shied away from his presence.
->
+> the beasts of the field shied away from his presence.  
+>   
 > Enkidu had defiled his body so pure,  
 > his legs stood still, though his herd was in motion.  
 > Enkidu was weakened, could not run as before,  
-> but now he had *reason*, and wide understanding.
->
+> but now he had *reason*, and wide understanding.  
+>   
 > He came back and sat at the feet of the harlot,  
 > watching the harlot, observing her features.  
 > Then to the harlot's words he listened intently,  
-> *as Shamhat* talked to him, to Enkidu:
->
+> *as Shamhat* talked to him, to Enkidu:  
+>   
 > "You are handsome, Enkidu, you are just like a god!  
 > Why with the beasts do you wander the wild?  
 > Come, I will take you to Uruk-the-Sheepfold,  
@@ -73,18 +73,18 @@ There is, however, a snake in the *Epic of Gilgamesh.* Gilgamesh is returning fr
 > "This plant, Ur-shanabi, is the 'Plant of Heartbeat,'  
 > with it a man can regain his vigor.  
 > To Uruk-the-Sheepfold I will take it,  
-> to an ancient I will feed some and put the plant to the test!
->
+> to an ancient I will feed some and put the plant to the test!  
+>   
 > "Its name shall be 'Old Man Grown Young,'  
 > I will eat it myself, and be again as I was in my youth!"  
 > At twenty leagues they broke bread,  
-> at thirty leagues they stopped for the night.
->
+> at thirty leagues they stopped for the night.  
+>   
 > Gilgamesh found a pool whose water was cool,  
 > down he went into it, to bathe in the water.  
 > Of the plant's fragrance a snake caught scent,  
-> came up *in silence*, and bore the plant off.
->
+> came up *in silence*, and bore the plant off.  
+>   
 > As it turned away it sloughed its skin.  
 > Then Gilgamesh sat down and wept,  
 > down his cheeks the tears were coursing.

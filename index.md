@@ -44,6 +44,7 @@ This website is my logbook of landings within philosophy, religion, literature, 
 ## Meditations
 
 -   [The End of Coffee](./the-end-of-coffee)
+-   [Francis Macomber and Courage](./francis-macomber-and-courage)
 -   [The Two Gentleman of Verona](./the-two-gentleman-of-verona)
 -   [Noticing the Invisible Man](./noticing-the-invisible-man)
 -   [Homer Teaches Us to Die](./homer-teaches-us-to-die)
