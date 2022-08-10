@@ -1,7 +1,7 @@
 name: Pull From Notion
 on:
   schedule:
-    - cron: '0 2 * * *' # run at 2 AM UTC
+    - cron: '30 * * * *' # run at 2 AM UTC
 jobs:
   release:
     runs-on: ubuntu-latest
