@@ -1,7 +1,7 @@
 certifi==2022.6.15
 charset-normalizer==2.1.0
 idna==3.3
--e git+git@github.com:innolitics/n2y.git@3684010a87d70a02613813fb2f59eafb09ada92c#egg=n2y
+git+git@github.com:innolitics/n2y.git@3684010a87d70a02613813fb2f59eafb09ada92c#egg=n2y
 pandoc==2.2
 plumbum==1.7.2
 ply==3.11
