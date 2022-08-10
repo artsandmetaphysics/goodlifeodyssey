@@ -38,7 +38,7 @@ ENTRIES_DB=94b4804111924eab834fd6f56a7964b9
 .PHONY: notion
 notion:
 	@mkdir -p essays dialogues notes poems meditations img-orig
-	. .env && n2y $(ENTRIES_DB) \
+	n2y $(ENTRIES_DB) \
 		--format=markdown \
 		--output=. \
 		--media-root=img-orig \
@@ -49,7 +49,7 @@ notion:
 		--database-config='{"$(ENTRIES_DB)":{"filter":{"and":[{"property":"type","select":{"equals":"Page"}},{"property":"status","select":{"equals":"Published"}}]}}}' \
 		--media-url=./img \
 		--verbosity=WARNING
-	. .env && n2y $(ENTRIES_DB) \
+	n2y $(ENTRIES_DB) \
 		--format=markdown \
 		--output=essays \
 		--media-root=img-orig \
@@ -60,7 +60,7 @@ notion:
 		--database-config='{"$(ENTRIES_DB)":{"filter":{"and":[{"property":"type","select":{"equals":"Essay"}},{"property":"status","select":{"equals":"Published"}}]}}}' \
 		--media-url=./img \
 		--verbosity=WARNING
-	. .env && n2y $(ENTRIES_DB) \
+	n2y $(ENTRIES_DB) \
 		--format=markdown \
 		--output=dialogues \
 		--media-root=img-orig \
@@ -71,7 +71,7 @@ notion:
 		--database-config='{"$(ENTRIES_DB)":{"filter":{"and":[{"property":"type","select":{"equals":"Dialogue"}},{"property":"status","select":{"equals":"Published"}}]}}}' \
 		--media-url=./img \
 		--verbosity=WARNING
-	. .env && n2y $(ENTRIES_DB) \
+	n2y $(ENTRIES_DB) \
 		--format=markdown \
 		--output=meditations \
 		--media-root=img-orig \
@@ -82,7 +82,7 @@ notion:
 		--database-config='{"$(ENTRIES_DB)":{"filter":{"and":[{"property":"type","select":{"equals":"Meditation"}},{"property":"status","select":{"equals":"Published"}}]}}}' \
 		--media-url=./img \
 		--verbosity=WARNING
-	. .env && n2y $(ENTRIES_DB) \
+	n2y $(ENTRIES_DB) \
 		--format=markdown \
 		--output=poems \
 		--media-root=img-orig \
@@ -93,7 +93,7 @@ notion:
 		--database-config='{"$(ENTRIES_DB)":{"filter":{"and":[{"property":"type","select":{"equals":"Poem"}},{"property":"status","select":{"equals":"Published"}}]}}}' \
 		--media-url=./img \
 		--verbosity=WARNING
-	. .env && n2y $(ENTRIES_DB) \
+	n2y $(ENTRIES_DB) \
 		--format=markdown \
 		--output=notes \
 		--media-root=img-orig \
