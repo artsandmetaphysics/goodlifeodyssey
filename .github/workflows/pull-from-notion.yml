@@ -1,5 +1,6 @@
 name: Pull From Notion
 on:
+  workflow_dispatch: {}
   schedule:
     - cron: '30 * * * *' # run at 2 AM UTC
 jobs:
