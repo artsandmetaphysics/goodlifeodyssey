@@ -2,7 +2,7 @@ name: Pull From Notion
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: '30 * * * *' # run at 2 AM UTC
+    - cron: '60 9-18 * * *' # run at 2 AM UTC
 jobs:
   release:
     runs-on: ubuntu-latest
