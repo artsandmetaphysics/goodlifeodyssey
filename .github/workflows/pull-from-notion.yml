@@ -19,6 +19,7 @@ jobs:
           sudo apt-get install -f
           rm -rf pandoc-2.16.2-1-amd64.deb
           npm install -g @mermaid-js/mermaid-cli
+          npm install
           python -m pip install --upgrade pip setuptools
           rm -rf src/n2y
           pip install -r requirements.txt
