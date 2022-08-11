@@ -9,3 +9,4 @@ Pipfile.lock
 .DS_Store
 *.swp
 .env
+src/n2y
