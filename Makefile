@@ -107,5 +107,4 @@ clean:
 
 cleannotion:
 	make clean
-	rm -rf index.md about.md  # update if new pages are added
-	rm -f _published
+	rm -rf _published index.md about.md  # update if new pages are added
