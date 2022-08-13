@@ -2,7 +2,7 @@ name: Pull From Notion
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: '59 9-18 * * *' # run at 2 AM UTC
+    - cron: '* 2 * * *'  # run at 2 AM UTC
 jobs:
   release:
     runs-on: ubuntu-latest
@@ -18,17 +18,13 @@ jobs:
           sudo dpkg -i pandoc-2.16.2-1-amd64.deb
           sudo apt-get install -f
           rm -rf pandoc-2.16.2-1-amd64.deb
-          sudo apt-get install nodejs npm libpng-dev
-          npm install -g @mermaid-js/mermaid-cli
-          npm install
           python -m pip install --upgrade pip setuptools
-          rm -rf src/n2y
           pip install -r requirements.txt
       - name: Generate pages
         env:
           NOTION_ACCESS_TOKEN: ${{ secrets.NOTION_ACCESS_TOKEN }}
           PYTHONPATH: "."
-        run: make cleannotion && make notion && make -j4
+        run: make cleannotion && make notion
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
