@@ -35,8 +35,11 @@ _notes/%.md: notes/%.md ./scripts/process.py
 	 cat $< | ./scripts/process.py > $@
 
 ENTRIES_DB=94b4804111924eab834fd6f56a7964b9
-.PHONY: notion
-notion:
+.PHONY: notion notionpages notionessays notiondialogues notionmeditations notionpoems notionnotes
+
+notion: notionpages notionessays notiondialogues notionmeditations notionpoems notionnotes
+
+notionpages:
 	@mkdir -p essays dialogues notes poems meditations img-orig
 	n2y $(ENTRIES_DB) \
 		--format=markdown \
@@ -49,6 +52,8 @@ notion:
 		--database-config='{"$(ENTRIES_DB)":{"filter":{"and":[{"property":"type","select":{"equals":"Page"}},{"property":"status","select":{"equals":"Published"}}]}}}' \
 		--media-url=./img \
 		--verbosity=WARNING
+
+notionessays:
 	n2y $(ENTRIES_DB) \
 		--format=markdown \
 		--output=essays \
@@ -60,6 +65,8 @@ notion:
 		--database-config='{"$(ENTRIES_DB)":{"filter":{"and":[{"property":"type","select":{"equals":"Essay"}},{"property":"status","select":{"equals":"Published"}}]}}}' \
 		--media-url=./img \
 		--verbosity=WARNING
+
+notiondialogues:
 	n2y $(ENTRIES_DB) \
 		--format=markdown \
 		--output=dialogues \
@@ -71,6 +78,8 @@ notion:
 		--database-config='{"$(ENTRIES_DB)":{"filter":{"and":[{"property":"type","select":{"equals":"Dialogue"}},{"property":"status","select":{"equals":"Published"}}]}}}' \
 		--media-url=./img \
 		--verbosity=WARNING
+
+notionmeditations:
 	n2y $(ENTRIES_DB) \
 		--format=markdown \
 		--output=meditations \
@@ -82,6 +91,8 @@ notion:
 		--database-config='{"$(ENTRIES_DB)":{"filter":{"and":[{"property":"type","select":{"equals":"Meditation"}},{"property":"status","select":{"equals":"Published"}}]}}}' \
 		--media-url=./img \
 		--verbosity=WARNING
+
+notionpoems:
 	n2y $(ENTRIES_DB) \
 		--format=markdown \
 		--output=poems \
@@ -93,6 +104,8 @@ notion:
 		--database-config='{"$(ENTRIES_DB)":{"filter":{"and":[{"property":"type","select":{"equals":"Poem"}},{"property":"status","select":{"equals":"Published"}}]}}}' \
 		--media-url=./img \
 		--verbosity=WARNING
+
+notionnotes:
 	n2y $(ENTRIES_DB) \
 		--format=markdown \
 		--output=notes \
