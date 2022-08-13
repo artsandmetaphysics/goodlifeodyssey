@@ -1,16 +1,5 @@
-# skip over script tags
-/<script>/,/<\/script>/ {
-    p
-    d
-}
-
-/<p.*>/,/<\/p>/ {
-    p
-    d
-}
-
 # Skip YAML front matter
-/---/,/---/ {
+/^---$/,/^---$/ {
     p
     d
 }
