@@ -20,7 +20,7 @@ ENTRIES_DB=94b4804111924eab834fd6f56a7964b9
 notion: notionpages notionessays notiondialogues notionmeditations notionpoems notionnotes
 
 notionpages:
-	@mkdir -p essays dialogues notes poems meditations img-orig
+	@mkdir -p _published
 	n2y $(ENTRIES_DB) \
 		--format=html \
 		--output=. \
