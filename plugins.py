@@ -19,15 +19,12 @@ class DialogueBlock(ParagraphBlock):
 
     def _is_dialogue(self):
         first_str = self.rich_text.to_plain_text().split(" ")[0]
-        logger.warning(first_str)
-        return bool(re.match(r"^[^ ]+:: ", first_str))
+        return bool(re.match(r"^[^ ]+::", first_str))
 
     def to_pandoc(self):
         content = self.rich_text.to_pandoc()
         first_text = content[0]
-        logger.warning(first_text[0])
-        assert type(first_text) == Text
-        content[0] = Span(Attr("", ["sc"], []) , [first_text])
+        content[0] = Span(("", ["sc"], []) , [Str(first_text[0][:-1])])
         if self.has_children:
             # Notion allows you to create child blocks for a paragraph; these
             # child blocks appear indented relative to the paragraph. There's
