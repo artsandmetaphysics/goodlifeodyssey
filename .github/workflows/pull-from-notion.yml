@@ -32,4 +32,4 @@ jobs:
           title: Nightly release
           body: Nightly release
           branch: nightly-release
-          base: main
+          base: master
