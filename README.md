@@ -87,10 +87,10 @@ To fight this, I need to pick smaller topics and write more meditations.
 - [ ] Handle poetry quotes
 - [ ] Make sure content is being filled in every day
 
-- [ ] Fix curly brackets and other text
+- [x] Fix curly brackets and other text
 - [ ] Add plugin for small caps for dialogues
 - [ ] Figure out citations
 - [ ] Move WIP items into notion
-- [ ] Get auto runner going
+- [x] Get auto runner going
 - [ ] Clean up readme
 - [ ] Clean up CSS file
