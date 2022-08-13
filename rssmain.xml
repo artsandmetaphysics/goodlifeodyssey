@@ -8,7 +8,6 @@ layout: null
         <title>Good Life Odyssey</title>
         <link>{{ site.url }}</link>
         <description>We are on a long journey to find and live the good life. For most of us, our destination is behind a haze, and we must navigate while traveling. This website is my logbook of landings within philosophy, religion, literature, and history.</description>
-	    {%- for id in site.data.index.meditations -%}
         {%- for collection in site.collections -%}
         {%- for post in collection.docs -%}
 		{%- if post.url contains id -%}
@@ -20,49 +19,6 @@ layout: null
                 <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
             </item>
         {%- endif %}
-        {%- endfor %}
-        {%- endfor %}
-        {%- endfor %}
-	    {%- for id in site.data.index.dialogues -%}
-        {%- for collection in site.collections -%}
-        {%- for post in collection.docs -%}
-		{%- if post.url contains id -%}
-            <item>
-                <title>{{ post.title | xml_escape | normalize_whitespace | replace: "_", '"' }}</title>
-                <description>{{ post.description | replace: "_", '"' | xml_escape | normalize_whitespace }}</description>
-                <link>{{ site.url }}{{ post.url }}</link>
-                <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
-            </item>
-        {%- endif %}
-        {%- endfor %}
-        {%- endfor %}
-        {%- endfor %}
-	    {%- for id in site.data.index.essays -%}
-        {%- for collection in site.collections -%}
-        {%- for post in collection.docs -%}
-		{%- if post.url contains id -%}
-            <item>
-                <title>{{ post.title | xml_escape | normalize_whitespace | replace: "_", '"' }}</title>
-                <description>{{ post.description | replace: "_", '"' | xml_escape | normalize_whitespace }}</description>
-                <link>{{ site.url }}{{ post.url }}</link>
-                <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
-            </item>
-        {%- endif %}
-        {%- endfor %}
-        {%- endfor %}
-        {%- endfor %}
-	    {%- for id in site.data.index.notes -%}
-        {%- for collection in site.collections -%}
-        {%- for post in collection.docs -%}
-		{%- if post.url contains id -%}
-            <item>
-                <title>{{ post.title | xml_escape | normalize_whitespace | replace: "_", '"' }}</title>
-                <description>{{ post.description | replace: "_", '"' | xml_escape | normalize_whitespace }}</description>
-                <link>{{ site.url }}{{ post.url }}</link>
-                <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
-            </item>
-        {%- endif %}
-        {%- endfor %}
         {%- endfor %}
         {%- endfor %}
     </channel>
