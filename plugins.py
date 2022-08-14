@@ -1,5 +1,5 @@
 import re
-from pandoc.types import Link, Str, RawBlock, Format, Para, Text, Span, Attr
+from pandoc.types import Link, Str, RawBlock, Format, Para, Text, Span, Attr, Space
 import pandoc
 import logging
 
