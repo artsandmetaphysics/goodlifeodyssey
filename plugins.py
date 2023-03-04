@@ -1,6 +1,5 @@
 import re
-from pandoc.types import Link, Str, RawBlock, Format, Para, Text, Span, Attr, Space
-import pandoc
+from pandoc.types import Link, Str, Para, Span, Space, LineBlock, LineBreak
 import logging
 
 from n2y.mentions import PageMention
@@ -23,6 +22,7 @@ class DialogueBlock(ParagraphBlock):
 
     def to_pandoc(self):
         content = self.rich_text.to_pandoc()
+        content = [Str('&nbsp;') if isinstance(n, Space) else n for n in content]
         first_text = content[0]
         content[0] = Span(("", ["sc"], []) , [Str(first_text[0][:-1])])
         if self.has_children:
@@ -50,16 +50,34 @@ class LinkPageMention(PageMention):
 
 
 class CustomQuoteBlock(QuoteBlock):
+    @classmethod
+    def transform(klass, original_ast):
+        lines = [[]]
+        for inline in original_ast:
+            if isinstance(inline, LineBreak):
+                lines.append([])
+            else:
+                lines[-1].append(inline)
+        for line in lines:
+            num_spaces = 0
+            for inline in line:
+                if isinstance(inline, Space):
+                    num_spaces += 1
+                else:
+                    break
+            for i in range(num_spaces):
+                line.pop(0)
+            if isinstance(line[0], Str):
+                line[0] = Str(" "*num_spaces + line[0][0])
+
+        logger.warning(repr(lines))
+        return lines
+
+
     def to_pandoc(self):
         rich_text_ast = self.rich_text.to_pandoc()
-        rich_text_html = pandoc.write(rich_text_ast, format='html')
-        # TODO: handle citations
-        return RawBlock(Format('html'), "\n".join([
-            '<blockquote><p>',
-            rich_text_html.rstrip(),
-            '</p></blockquote>',
-            '',
-        ]))
+        lines = self.transform(rich_text_ast)
+        return LineBlock(lines)
 
 
 notion_classes = {

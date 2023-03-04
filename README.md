@@ -94,4 +94,4 @@ To fight this, I need to pick smaller topics and write more meditations.
 - [x] Get auto runner going
 - [ ] Clean up readme
 - [ ] Clean up CSS file
-- [ ] Figure out how to move poems out of block quotes
+- [x] Figure out how to move poems out of block quotes
