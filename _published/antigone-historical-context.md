@@ -2,11 +2,11 @@
 Created On: '2022-08-01T02:26:00+00:00'
 Description: We know the political and military context in which Sophocles wrote.
   Is this enough to interpret his plays as his audience would?
-Last Edited: '2022-08-03T03:22:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: '2020-06-14'
 Slug: antigone-historical-context
 Slug Override: antigone-historical-context
-Status: Complete
+Status: Published
 Tags: []
 Title: "Can We Understand \u201CAntigone\u201D in Context?"
 Type: Meditation

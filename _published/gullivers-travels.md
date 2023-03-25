@@ -1,11 +1,11 @@
 ---
 Created On: '2022-08-01T03:05:00+00:00'
 Description: "Notes on \u201CGulliver's Travels\u201D by Jonathan Swift"
-Last Edited: '2022-09-24T18:00:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: gullivers-travels
 Slug Override: gullivers-travels
-Status: Complete
+Status: Published
 Tags: []
 Title: "\u201CGulliver\u2019s Travels\u201D by Jonathan Swift"
 Type: Notes

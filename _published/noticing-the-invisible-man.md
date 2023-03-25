@@ -1,11 +1,11 @@
 ---
 Created On: '2022-08-01T02:24:00+00:00'
 Description: A meandering essay about the meaning created by noticing art and individuals.
-Last Edited: '2022-08-03T03:22:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: '2022-02-26'
 Slug: noticing-the-invisible-man
 Slug Override: ''
-Status: Complete
+Status: Published
 Tags: []
 Title: Noticing the Invisible Man
 Type: Meditation

@@ -1,11 +1,11 @@
 ---
 Created On: '2022-08-01T03:05:00+00:00'
 Description: "Notes on Seneca\u2019s Philosophy and Plays."
-Last Edited: '2022-09-24T18:00:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: seneca
 Slug Override: ''
-Status: Complete
+Status: Published
 Tags: []
 Title: Seneca
 Type: Notes

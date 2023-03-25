@@ -2,11 +2,11 @@
 Created On: '2022-07-31T02:32:00+00:00'
 Description: Faith in beliefs is indicated by how drastically our actions change as
   a result of our belief.
-Last Edited: '2022-09-24T18:00:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: a-definition-of-faith
 Slug Override: ''
-Status: Complete
+Status: Published
 Tags: []
 Title: A Definition of Faith
 Type: Essay

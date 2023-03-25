@@ -3,11 +3,11 @@ Created On: '2022-08-01T02:25:00+00:00'
 Description: "How do we balance our duty to others and our duty to family? Socrates\u2019\
   \ life, as presented in Plato\u2019s \u201CApology,\u201D provides material for\
   \ reflection."
-Last Edited: '2022-08-03T03:22:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: '2020-07-03'
 Slug: duty-to-others-and-platos-apology
 Slug Override: ''
-Status: Complete
+Status: Published
 Tags: []
 Title: "Duty to Others and Plato\u2019s \u201CApology\u201D"
 Type: Meditation

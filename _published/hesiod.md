@@ -1,11 +1,11 @@
 ---
 Created On: '2022-08-01T03:04:00+00:00'
 Description: "Notes on Hesiod\u2019s \u201CTheogony\u201D and \u201CWorks and Days\u201D"
-Last Edited: '2022-08-03T03:22:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: hesiod
 Slug Override: ''
-Status: Complete
+Status: Published
 Tags: []
 Title: Hesiod
 Type: Notes

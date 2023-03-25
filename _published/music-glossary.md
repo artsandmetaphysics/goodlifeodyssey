@@ -1,11 +1,11 @@
 ---
 Created On: '2022-08-01T03:06:00+00:00'
 Description: Glossary of Musical Terms
-Last Edited: '2022-10-25T02:52:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: music-glossary
 Slug Override: music-glossary
-Status: Complete
+Status: Published
 Tags: []
 Title: Glossary of Musical Terms
 Type: Notes

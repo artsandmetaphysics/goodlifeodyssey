@@ -2,11 +2,11 @@
 Created On: '2022-08-01T03:05:00+00:00'
 Description: "My thoughts, a summary, and a brief analysis of the theme of belief\
   \ in the supernatural within the Russian classic \u201CThe Master and Margarita.\u201D"
-Last Edited: '2022-08-03T03:22:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: the-master-and-margarita
 Slug Override: ''
-Status: Complete
+Status: Published
 Tags: []
 Title: "\u201CThe Master and Margarita\u201D"
 Type: Notes

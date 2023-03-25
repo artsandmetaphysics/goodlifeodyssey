@@ -1,11 +1,11 @@
 ---
 Created On: '2022-08-01T03:04:00+00:00'
 Description: "A commentary on \u201CThe Epic of Gilgamesh.\u201D"
-Last Edited: '2022-09-24T18:00:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: the-epic-of-gilgamesh
 Slug Override: ''
-Status: Complete
+Status: Published
 Tags: []
 Title: "\u201CThe Epic of Gilgamesh\u201D"
 Type: Notes

@@ -1,11 +1,11 @@
 ---
 Created On: '2022-07-31T02:32:00+00:00'
 Description: An exploration of the relationship between faith and reason.
-Last Edited: '2022-09-24T18:00:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: faith-and-reason
 Slug Override: ''
-Status: Complete
+Status: Published
 Tags: []
 Title: Faith and Reason
 Type: Essay

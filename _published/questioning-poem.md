@@ -1,11 +1,11 @@
 ---
 Created On: '2022-08-01T03:03:00+00:00'
 Description: A poem about life and its questions.
-Last Edited: '2022-09-24T18:00:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: questioning-poem
 Slug Override: questioning-poem
-Status: Complete
+Status: Published
 Tags: []
 Title: Questioning
 Type: Poem

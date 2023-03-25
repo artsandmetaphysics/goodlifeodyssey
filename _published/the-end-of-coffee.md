@@ -1,11 +1,11 @@
 ---
 Created On: '2022-08-04T17:35:00+00:00'
 Description: Why do I drink coffee?
-Last Edited: '2022-09-24T18:00:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: '2022-08-04'
 Slug: the-end-of-coffee
 Slug Override: ''
-Status: Complete
+Status: Published
 Tags: []
 Title: The End of Coffee
 Type: Meditation

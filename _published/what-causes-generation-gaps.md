@@ -2,11 +2,11 @@
 Created On: '2022-08-01T02:25:00+00:00'
 Description: A long comedic quote demonstrating a generation gap in ancient Athens,
   and a few thoughts about what causes such gaps.
-Last Edited: '2022-08-03T03:22:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: '2020-07-19'
 Slug: what-causes-generation-gaps
 Slug Override: ''
-Status: Complete
+Status: Published
 Tags: []
 Title: What Causes Generation Gaps
 Type: Meditation

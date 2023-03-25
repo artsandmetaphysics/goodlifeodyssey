@@ -1,11 +1,11 @@
 ---
 Created On: '2023-03-19T17:25:00+00:00'
-Description: ''
-Last Edited: '2023-03-22T02:14:00+00:00'
+Description: "Notes from my second reading of Plato\u2019s dialgoue, Euthyphro."
+Last Edited: '2023-03-25T03:29:00+00:00'
 Published On: null
 Slug: notes-on-euthyphro
 Slug Override: ''
-Status: Complete
+Status: Published
 Tags:
 - Plato
 Title: "Notes on \u201CEuthyphro\u201D"

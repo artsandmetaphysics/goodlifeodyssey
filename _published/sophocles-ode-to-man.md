@@ -1,11 +1,11 @@
 ---
 Created On: '2022-08-01T02:26:00+00:00'
 Description: "Many a wonder lives and moves, but the wonder of all is man \u2026"
-Last Edited: '2022-08-03T03:22:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: '2020-06-12'
 Slug: sophocles-ode-to-man
 Slug Override: ''
-Status: Complete
+Status: Published
 Tags: []
 Title: "Sophocles\u2019 Ode to Man"
 Type: Meditation

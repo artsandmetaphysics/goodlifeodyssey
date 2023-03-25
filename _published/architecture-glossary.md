@@ -1,11 +1,11 @@
 ---
 Created On: '2022-08-01T03:06:00+00:00'
 Description: Glossary of Architectural Terms
-Last Edited: '2023-02-18T20:10:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: architecture-glossary
 Slug Override: architecture-glossary
-Status: Complete
+Status: Published
 Tags: []
 Title: Glossary of Architectural Terms
 Type: Notes

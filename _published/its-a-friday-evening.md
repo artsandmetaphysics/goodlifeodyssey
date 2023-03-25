@@ -1,11 +1,11 @@
 ---
 Created On: '2022-08-01T03:03:00+00:00'
 Description: "It's a Friday evening, dinner's not yet started\u2026"
-Last Edited: '2022-09-24T18:00:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: its-a-friday-evening
 Slug Override: ''
-Status: Complete
+Status: Published
 Tags: []
 Title: "It\u2019s a Friday Evening"
 Type: Poem

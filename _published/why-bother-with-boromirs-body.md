@@ -1,11 +1,12 @@
 ---
 Created On: '2023-01-24T13:13:00+00:00'
-Description: ''
-Last Edited: '2023-01-29T22:04:00+00:00'
-Published On: null
+Description: Pondering difficult moral decision in Lord of the Rings, and thoughts
+  on balancing consequences and intentions.
+Last Edited: '2023-03-25T03:27:00+00:00'
+Published On: '2023-01-24'
 Slug: why-bother-with-boromirs-body
 Slug Override: ''
-Status: Complete
+Status: Published
 Tags:
 - Ethics
 Title: "Why Bother with Boromir\u2019s Body?"

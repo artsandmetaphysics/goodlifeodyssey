@@ -1,11 +1,11 @@
 ---
 Created On: '2022-07-31T03:17:00+00:00'
 Description: A short investigation of a part of book I of Plato's Republic.
-Last Edited: '2022-09-24T18:00:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: reasoning-about-justice-by-analogy
 Slug Override: reasoning-about-justice-by-analogy
-Status: Complete
+Status: Published
 Tags: []
 Title: Reasoning About Justice from Analogy
 Type: Dialogue

@@ -2,11 +2,11 @@
 Created On: '2022-08-01T03:03:00+00:00'
 Description: "Suggestions for reading non-fiction books effectively, largely inspired\
   \ by Mortimer Alder\u2019s \u201CHow to Read a Book.\u201D"
-Last Edited: '2022-08-03T03:22:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: how-to-read
 Slug Override: how-to-read
-Status: Complete
+Status: Published
 Tags: []
 Title: How to Read Non-Fiction Books
 Type: Notes
