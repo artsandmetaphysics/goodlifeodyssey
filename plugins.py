@@ -41,7 +41,9 @@ class DialogueBlock(ParagraphBlock):
 class LinkPageMention(PageMention):
     def to_pandoc(self):
         page = self.client.get_page(self.notion_page_id)
-        url = "./" + page.filename  # assume the filename is the url
+
+        # assume the slug is the url
+        url = "./" + page.properties['Slug'].to_value()
         return [Link(
             ('', [], []),
             [Str(self.plain_text)],

@@ -14,90 +14,11 @@ _includes/stylesheet.min.css: _includes/stylesheet.css
 _includes/stylesheet.email.min.css: _includes/stylesheet.email.css
 	$(CSSMIN_BIN) $< -o $@
 
-ENTRIES_DB=94b4804111924eab834fd6f56a7964b9
-.PHONY: notion notionpages notionessays notiondialogues notionmeditations notionpoems notionnotes
+.PHONY: notion
 
-notion: notionpages notionessays notiondialogues notionmeditations notionpoems notionnotes
-
-notionpages:
+notion: n2y.yml
 	@mkdir -p _published
-	n2y $(ENTRIES_DB) \
-		--format=html \
-		--output=. \
-		--media-root=img-orig \
-		--filename-property=slug \
-		--plugin=n2y.plugins.removecallouts \
-		--plugin=n2y.plugins.rawcodeblocks \
-		--plugin=plugins \
-		--database-config='{"$(ENTRIES_DB)":{"filter":{"and":[{"property":"type","select":{"equals":"Page"}},{"property":"status","select":{"equals":"Published"}}]}}}' \
-		--media-url=./img \
-		--verbosity=WARNING
-
-notionessays:
-	n2y $(ENTRIES_DB) \
-		--format=html \
-		--output=_published \
-		--media-root=img-orig \
-		--filename-property=slug \
-		--plugin=n2y.plugins.removecallouts \
-		--plugin=n2y.plugins.rawcodeblocks \
-		--plugin=plugins \
-		--database-config='{"$(ENTRIES_DB)":{"filter":{"and":[{"property":"type","select":{"equals":"Essay"}},{"property":"status","select":{"equals":"Published"}}]}}}' \
-		--media-url=./img \
-		--verbosity=WARNING
-
-notiondialogues:
-	n2y $(ENTRIES_DB) \
-		--format=html \
-		--output=_published \
-		--media-root=img-orig \
-		--filename-property=slug \
-		--plugin=n2y.plugins.removecallouts \
-		--plugin=n2y.plugins.rawcodeblocks \
-		--plugin=plugins \
-		--database-config='{"$(ENTRIES_DB)":{"filter":{"and":[{"property":"type","select":{"equals":"Dialogue"}},{"property":"status","select":{"equals":"Published"}}]}}}' \
-		--media-url=./img \
-		--verbosity=WARNING
-
-notionmeditations:
-	n2y $(ENTRIES_DB) \
-		--format=html \
-		--output=_published \
-		--media-root=img-orig \
-		--filename-property=slug \
-		--plugin=n2y.plugins.removecallouts \
-		--plugin=n2y.plugins.rawcodeblocks \
-		--plugin=plugins \
-		--database-config='{"$(ENTRIES_DB)":{"filter":{"and":[{"property":"type","select":{"equals":"Meditation"}},{"property":"status","select":{"equals":"Published"}}]}}}' \
-		--media-url=./img \
-		--verbosity=WARNING
-
-notionpoems:
-	n2y $(ENTRIES_DB) \
-		--format=html \
-		--output=_published \
-		--media-root=img-orig \
-		--filename-property=slug \
-		--plugin=n2y.plugins.removecallouts \
-		--plugin=n2y.plugins.rawcodeblocks \
-		--plugin=plugins \
-		--database-config='{"$(ENTRIES_DB)":{"filter":{"and":[{"property":"type","select":{"equals":"Poem"}},{"property":"status","select":{"equals":"Published"}}]}}}' \
-		--media-url=./img \
-		--verbosity=WARNING
-
-notionnotes:
-	n2y $(ENTRIES_DB) \
-		--format=html \
-		--output=_published \
-		--media-root=img-orig \
-		--filename-property=slug \
-		--plugin=n2y.plugins.removecallouts \
-		--plugin=n2y.plugins.rawcodeblocks \
-		--plugin=plugins \
-		--database-config='{"$(ENTRIES_DB)":{"filter":{"and":[{"property":"type","select":{"equals":"Notes"}},{"property":"status","select":{"equals":"Published"}}]}}}' \
-		--media-url=./img \
-		--verbosity=WARNING
-
+	n2y n2y.yml --verbosity=WARNING
 
 .PHONY: clean cleannotion
 
