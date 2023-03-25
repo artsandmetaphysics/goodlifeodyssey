@@ -2,11 +2,11 @@
 Created On: '2022-07-31T03:18:00+00:00'
 Description: A exploratory dialogue of Socrates' attitude towards the senses within
   *Phaedo*.
-Last Edited: '2022-09-24T18:00:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: socrates-would-dislike-science
 Slug Override: ''
-Status: Complete
+Status: Published
 Tags: []
 Title: Socrates Would Dislike Science
 Type: Dialogue

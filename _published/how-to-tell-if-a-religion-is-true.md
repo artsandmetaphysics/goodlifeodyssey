@@ -1,11 +1,11 @@
 ---
 Created On: '2022-07-31T03:18:00+00:00'
 Description: A dialogue about religion and how to evaluate religious claims.
-Last Edited: '2022-09-24T18:00:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: how-to-tell-if-a-religion-is-true
 Slug Override: ''
-Status: Complete
+Status: Published
 Tags: []
 Title: How to Tell if a Religion is True
 Type: Dialogue

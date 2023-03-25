@@ -1,11 +1,11 @@
 ---
 Created On: '2022-08-13T14:07:00+00:00'
 Description: "Notes on Arche book, \u201CThings Fall Apart\u201D"
-Last Edited: '2022-10-01T16:25:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: '2022-08-13'
 Slug: things-fall-apart-and-judging-another-culture
 Slug Override: ''
-Status: Complete
+Status: Published
 Tags: []
 Title: "\u201CThings Fall Apart\u201D and Judging Another Culture"
 Type: Meditation

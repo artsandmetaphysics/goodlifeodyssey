@@ -2,11 +2,11 @@
 Created On: '2022-07-31T01:28:00+00:00'
 Description: My search for the good life in philosophy, religion, literature, and
   history.
-Last Edited: '2022-09-24T18:00:00+00:00'
+Last Edited: '2023-03-25T03:55:00+00:00'
 Published On: null
 Slug: index
 Slug Override: index
-Status: Complete
+Status: Published
 Tags: []
 Title: Good Life Odyssey
 Type: Page
@@ -43,6 +43,8 @@ Type: Page
 </ul>
 <h2>Meditations</h2>
 <ul>
+<li><a href="./why-bother-with-boromirs-body">Why Bother with Boromir’s Body?</a></li>
+<li><a href="./things-fall-apart-and-judging-another-culture">“Things Fall Apart” and Judging Another Culture</a> </li>
 <li><a href="./the-end-of-coffee">The End of Coffee</a></li>
 <li><a href="./francis-macomber-and-courage">Francis Macomber and Courage</a></li>
 <li><a href="./the-two-gentleman-of-verona">The Two Gentleman of Verona</a></li>
@@ -70,6 +72,7 @@ Type: Page
 </ul>
 <h2>Notes, Quotes, and Commentary</h2>
 <ul>
+<li><a href="./notes-on-euthyphro">Notes on “Euthyphro”</a></li>
 <li><a href="./how-to-read">How to Read Non-Fiction Books</a></li>
 <li><a href="./how-to-dialogue">How to Dialogue</a></li>
 <li><a href="./the-historians-craft-bloch">Marc Bloch on the Use of History</a></li>

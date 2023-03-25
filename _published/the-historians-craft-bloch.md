@@ -5,11 +5,11 @@ Description: "A summary and analysis of Marc Bloch's \u201CThe Historian's Craft
   \ include a better way to read the news, the need to experience the present to understand\
   \ the past, the limits of causality as an abstraction, and the use of history to\
   \ diversify your views."
-Last Edited: '2022-09-24T18:00:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: the-historians-craft-bloch
 Slug Override: the-historians-craft-bloch
-Status: Complete
+Status: Published
 Tags: []
 Title: Marc Bloch on the Use of History
 Type: Notes

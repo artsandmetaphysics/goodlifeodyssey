@@ -1,11 +1,11 @@
 ---
 Created On: '2022-07-31T02:32:00+00:00'
 Description: Are the faithless more righteous than the faithful?
-Last Edited: '2022-09-24T18:00:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: faith-and-righteousness
 Slug Override: faith-and-righteousness
-Status: Complete
+Status: Published
 Tags: []
 Title: Does Faith Decrease Righteousness?
 Type: Essay

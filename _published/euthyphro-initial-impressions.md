@@ -2,11 +2,11 @@
 Created On: '2022-08-01T02:26:00+00:00'
 Description: "What is piety? Is it possible to define? Here are my first thoughts\
   \ on the first of Plato\u2019s dialogues I have read."
-Last Edited: '2023-03-19T17:17:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: '2020-06-18'
 Slug: euthyphro-initial-impressions
 Slug Override: euthyphro-initial-impressions
-Status: Complete
+Status: Published
 Tags: []
 Title: "Initial Impression of \u201CEuthyphro\u201D"
 Type: Meditation

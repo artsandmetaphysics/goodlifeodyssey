@@ -2,11 +2,11 @@
 Created On: '2022-08-01T02:25:00+00:00'
 Description: "A brief consideration of one example of Plato\u2019s mathematical analysis\
   \ of words, which informs us how he thought language works."
-Last Edited: '2022-08-03T03:22:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: '2021-04-21'
 Slug: socrates-treats-language-like-math
 Slug Override: ''
-Status: Complete
+Status: Published
 Tags: []
 Title: Socrates Treats Language like Math
 Type: Meditation

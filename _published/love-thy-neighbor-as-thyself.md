@@ -1,11 +1,11 @@
 ---
 Created On: '2022-07-31T02:32:00+00:00'
 Description: A brief discussion of the second great commandment of the New Testament.
-Last Edited: '2022-09-24T18:00:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: love-thy-neighbor-as-thyself
 Slug Override: love-thy-neighbor-as-thyself
-Status: Complete
+Status: Published
 Tags: []
 Title: Love Thy Neighbor as Thyself is Extreme
 Type: Essay

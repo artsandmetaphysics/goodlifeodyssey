@@ -2,11 +2,11 @@
 Created On: '2022-08-01T02:24:00+00:00'
 Description: "Musings on friendship, inspired by \u201CThe Two Gentleman of Verona\u201D\
   \ and Montaigne\u2019s essay, \u201COn Friendship\u201D"
-Last Edited: '2022-08-03T03:22:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: '2022-07-04'
 Slug: the-two-gentleman-of-verona
 Slug Override: ''
-Status: Complete
+Status: Published
 Tags: []
 Title: The Two Gentleman of Verona
 Type: Meditation

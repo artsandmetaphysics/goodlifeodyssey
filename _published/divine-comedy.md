@@ -1,11 +1,11 @@
 ---
 Created On: '2022-08-01T03:05:00+00:00'
 Description: "Notes on Dante\u2019s \u201CDivine Comedy*.\u201D*"
-Last Edited: '2022-09-24T18:00:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: divine-comedy
 Slug Override: divine-comedy
-Status: Complete
+Status: Published
 Tags: []
 Title: "Dante\u2019s \u201CDivine Comedy\u201D"
 Type: Notes

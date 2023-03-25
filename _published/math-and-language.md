@@ -1,11 +1,11 @@
 ---
 Created On: '2022-07-31T01:31:00+00:00'
 Description: My current beliefs about the nature of language and mathematics.
-Last Edited: '2022-07-31T02:16:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: math-and-language
 Slug Override: math-and-language
-Status: Complete
+Status: Published
 Tags: []
 Title: Language and Math Model Reality
 Type: Essay

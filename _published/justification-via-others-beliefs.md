@@ -2,11 +2,11 @@
 Created On: '2022-07-31T02:22:00+00:00'
 Description: "When is it appropriate to justify our beliefs using other people\u2019\
   s beliefs?"
-Last Edited: '2022-09-24T18:00:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: justification-via-others-beliefs
 Slug Override: justification-via-others-beliefs
-Status: Complete
+Status: Published
 Tags: []
 Title: "Justification via Other People\u2019s Beliefs"
 Type: Essay

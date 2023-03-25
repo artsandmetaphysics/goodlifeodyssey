@@ -2,11 +2,11 @@
 Created On: '2022-08-01T02:26:00+00:00'
 Description: "I connect \u201CEuthyphro\u2019s\u201D first two definitions of piety\
   \ to the belief in a universal moral standard among religions."
-Last Edited: '2022-09-24T18:00:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: '2020-06-20'
 Slug: euthyphro-and-a-universal-morality
 Slug Override: ''
-Status: Complete
+Status: Published
 Tags: []
 Title: "\u201CEuthyphro\u201D and a Universal Morality"
 Type: Meditation

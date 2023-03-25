@@ -1,11 +1,11 @@
 ---
 Created On: '2022-07-31T02:32:00+00:00'
 Description: Are we more ethical than the ancients?
-Last Edited: '2022-09-24T18:00:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: ethical-progress
 Slug Override: ethical-progress
-Status: Complete
+Status: Published
 Tags: []
 Title: Has Humanity Made Ethical Progress?
 Type: Essay

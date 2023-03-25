@@ -1,11 +1,11 @@
 ---
 Created On: '2022-08-01T03:04:00+00:00'
 Description: "Notes on the \u201CIliad,\u201D my favorite work of fiction."
-Last Edited: '2022-08-03T03:22:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: the-iliad
 Slug Override: ''
-Status: Complete
+Status: Published
 Tags: []
 Title: "The \u201CIliad\u201D"
 Type: Notes

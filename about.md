@@ -1,11 +1,11 @@
 ---
 Created On: '2022-07-31T01:45:00+00:00'
 Description: About the author and this site.
-Last Edited: '2022-07-31T02:25:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: about
 Slug Override: ''
-Status: Complete
+Status: Published
 Tags: []
 Title: About
 Type: Page

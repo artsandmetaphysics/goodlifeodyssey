@@ -1,11 +1,11 @@
 ---
 Created On: '2022-07-31T02:27:00+00:00'
 Description: A definition and thoughts about arguments above reason
-Last Edited: '2022-09-24T18:00:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: mystical-arguments
 Slug Override: ''
-Status: Complete
+Status: Published
 Tags: []
 Title: Mystical Arguments
 Type: Essay

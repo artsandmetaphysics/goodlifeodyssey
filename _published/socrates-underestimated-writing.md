@@ -2,11 +2,11 @@
 Created On: '2022-07-31T03:17:00+00:00'
 Description: An imaginative dialogue with Socrates about the limitations of writing
   and dialectic.
-Last Edited: '2022-09-24T18:00:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: socrates-underestimated-writing
 Slug Override: ''
-Status: Complete
+Status: Published
 Tags: []
 Title: Socrates Underestimated Writing
 Type: Dialogue

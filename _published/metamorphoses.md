@@ -1,11 +1,11 @@
 ---
 Created On: '2022-08-01T03:05:00+00:00'
 Description: "Notes on Ovid\u2019s \u201CMetamorphoses*.\u201D*"
-Last Edited: '2022-09-24T18:00:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: metamorphoses
 Slug Override: metamorphoses
-Status: Complete
+Status: Published
 Tags: []
 Title: "Ovid\u2019s \u201CMetamorphoses\u201D"
 Type: Notes

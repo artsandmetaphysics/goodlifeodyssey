@@ -2,11 +2,11 @@
 Created On: '2022-07-31T02:33:00+00:00'
 Description: "Why I agree with N\u0101g\u0101rjuna that everything is empty of svabh\u0101\
   va yet still believe in ultimately real things."
-Last Edited: '2022-09-24T18:00:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: the-universe-is-empty-yet-ultimately-real
 Slug Override: ''
-Status: Complete
+Status: Published
 Tags: []
 Title: The Universe is Empty Yet Ultimately Real
 Type: Essay

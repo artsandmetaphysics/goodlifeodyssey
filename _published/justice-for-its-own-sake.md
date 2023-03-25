@@ -1,11 +1,11 @@
 ---
 Created On: '2022-08-01T02:25:00+00:00'
 Description: What would you do with a ring of invisibility?
-Last Edited: '2022-08-03T03:22:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: '2021-03-03'
 Slug: justice-for-its-own-sake
 Slug Override: ''
-Status: Complete
+Status: Published
 Tags: []
 Title: Justice for its Own Sake
 Type: Meditation

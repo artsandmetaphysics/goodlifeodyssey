@@ -2,11 +2,11 @@
 Created On: '2022-07-14T04:29:00+00:00'
 Description: "In my life, I haven\u2019t had much need for courage. And so I haven\u2019\
   t thought much about it, until reading a short Hemmingway story."
-Last Edited: '2022-09-24T18:00:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: '2022-07-18'
 Slug: francis-macomber-and-courage
 Slug Override: ''
-Status: Complete
+Status: Published
 Tags: []
 Title: Francis Macomber and Courage
 Type: Meditation

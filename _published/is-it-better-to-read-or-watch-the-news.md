@@ -2,11 +2,11 @@
 Created On: '2022-07-31T03:18:00+00:00'
 Description: A dialogue that explores the benefits of watching the news vs. reading
   it, and whether reading the news is a duty.
-Last Edited: '2022-09-24T18:00:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: is-it-better-to-read-or-watch-the-news
 Slug Override: ''
-Status: Complete
+Status: Published
 Tags: []
 Title: Is it Better to Read or Watch the News?
 Type: Dialogue

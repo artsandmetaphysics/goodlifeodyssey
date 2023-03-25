@@ -2,11 +2,11 @@
 Created On: '2022-08-01T02:25:00+00:00'
 Description: "A comparison of two ways of knowing: Plato\u2019s conception of Dialectic\
   \ and Buddhism\u2019s Direct Perception"
-Last Edited: '2022-09-24T18:00:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: '2021-03-26'
 Slug: dialectic-and-direct-perception
 Slug Override: dialectic-and-direct-perception
-Status: Complete
+Status: Published
 Tags: []
 Title: Direct Perception and Dialectic
 Type: Meditation

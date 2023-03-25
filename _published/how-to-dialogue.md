@@ -2,11 +2,11 @@
 Created On: '2022-08-01T03:03:00+00:00'
 Description: A formalized method of seeking the truth in conversation, inspired by
   Plato's dialogues.
-Last Edited: '2022-09-24T18:00:00+00:00'
+Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: how-to-dialogue
 Slug Override: ''
-Status: Complete
+Status: Published
 Tags: []
 Title: How to Dialogue
 Type: Notes
