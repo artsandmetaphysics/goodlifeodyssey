@@ -7,17 +7,17 @@ jobs:
   release:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Set up Python 3.9
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
-          python-version: 3.9
+          python-version: 3.11
       - name: Install dependencies
         run: |
-          wget https://github.com/jgm/pandoc/releases/download/2.16.2/pandoc-2.16.2-1-amd64.deb
-          sudo dpkg -i pandoc-2.16.2-1-amd64.deb
+          wget https://github.com/jgm/pandoc/releases/download/2.19.2/pandoc-2.19.2-1-amd64.deb
+          sudo dpkg -i pandoc-2.19.2-1-amd64.deb
           sudo apt-get install -f
-          rm -rf pandoc-2.16.2-1-amd64.deb
+          rm -rf pandoc-2.19.2-1-amd64.deb
           python -m pip install --upgrade pip setuptools
           pip install -r requirements.txt
       - name: Generate pages

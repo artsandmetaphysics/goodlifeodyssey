@@ -1,0 +1,30 @@
+media_url: './img'
+media_root: 'img-orig'
+export_defaults:
+  plugins:
+    - 'n2y.plugins.removecallouts'
+    - 'n2y.plugins.rawcodeblocks'
+    - 'plugins'
+  pandoc_format: 'html'
+exports:
+- output: '.'
+  id: '94b4804111924eab834fd6f56a7964b9'
+  node_type: 'database_as_files'
+  filename_property: 'Slug'
+  notion_filter:
+    and:
+      - {"property": "Type", "select": {"equals": "Page"}}
+      - {"property": "Status", "select": {"equals": "Complete"}}
+- output: './_published'
+  id: '94b4804111924eab834fd6f56a7964b9'
+  node_type: 'database_as_files'
+  filename_property: 'Slug'
+  notion_filter:
+    and:
+      - or:
+        - {"property": "Type", "select": {"equals": "Essay"}}
+        - {"property": "Type", "select": {"equals": "Meditation"}}
+        - {"property": "Type", "select": {"equals": "Dialogue"}}
+        - {"property": "Type", "select": {"equals": "Poem"}}
+        - {"property": "Type", "select": {"equals": "Notes"}}
+      - {"property": "Status", "select": {"equals": "Complete"}}
