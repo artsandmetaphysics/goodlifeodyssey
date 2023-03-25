@@ -2,7 +2,7 @@
 Created On: '2022-07-31T01:28:00+00:00'
 Description: My search for the good life in philosophy, religion, literature, and
   history.
-Last Edited: '2023-03-25T03:55:00+00:00'
+Last Edited: '2023-03-25T19:28:00+00:00'
 Published On: null
 Slug: index
 Slug Override: index
@@ -71,24 +71,39 @@ Type: Page
 <li><a href="./its-a-friday-evening">It’s a Friday Evening</a> </li>
 </ul>
 <h2>Notes, Quotes, and Commentary</h2>
+<h3>Classics</h3>
 <ul>
-<li><a href="./notes-on-euthyphro">Notes on “Euthyphro”</a></li>
-<li><a href="./how-to-read">How to Read Non-Fiction Books</a></li>
-<li><a href="./how-to-dialogue">How to Dialogue</a></li>
-<li><a href="./the-historians-craft-bloch">Marc Bloch on the Use of History</a></li>
-<li><a href="./ancient-greece">Ancient Greece</a></li>
 <li><a href="./the-epic-of-gilgamesh">“The Epic of Gilgamesh”</a></li>
 <li><a href="./hesiod">Hesiod</a></li>
 <li><a href="./the-iliad">The “Iliad”</a></li>
 <li><a href="./the-odyssey">The “Odyssey”</a></li>
+<li><a href="./the-pentateuch">The Pentateuch</a></li>
+<li><a href="./the-historical-books-of-the-bible">The Historical Books of the Bible</a> </li>
 <li><a href="./homeric-hymns">“The Homeric Hymns”</a></li>
+<li><a href="./notes-on-euthyphro">Notes on “Euthyphro”</a></li>
 <li><a href="./the-histories-herodotus">“The Histories” by Herodotus</a></li>
 <li><a href="./the-aeneid">The “Aeneid”</a></li>
 <li><a href="./metamorphoses">Ovid’s “Metamorphoses”</a></li>
 <li><a href="./seneca">Seneca</a></li>
 <li><a href="./divine-comedy">Dante’s “Divine Comedy”</a></li>
-<li><a href="./gullivers-travels">“Gulliver’s Travels” by Jonathan Swift</a></li>
 <li><a href="./the-master-and-margarita">“The Master and Margarita”</a></li>
+<li><a href="./gullivers-travels">“Gulliver’s Travels” by Jonathan Swift</a></li>
+<li><a href="./mrs-dalloway">Mrs. Dalloway</a></li>
+</ul>
+<h3>History</h3>
+<ul>
+<li><a href="./ancient-egypt">Ancient Egypt</a> </li>
+<li><a href="./ancient-greece">Ancient Greece</a></li>
+<li><a href="./ancient-rome">Ancient Rome</a></li>
+<li><a href="./ussr">USSR</a></li>
+</ul>
+<h3>Miscellaneous</h3>
+<ul>
+<li><a href="./practical-ethics">Practical Ethics</a></li>
+<li><a href="./how-to-dialogue">How to Dialogue</a></li>
+<li><a href="./how-to-read">How to Read Non-Fiction Books</a></li>
+<li><a href="./the-historians-craft-bloch">Marc Bloch on the Use of History</a></li>
 <li><a href="./architecture-glossary">Glossary of Architectural Terms</a></li>
 <li><a href="./music-glossary">Glossary of Musical Terms</a></li>
+<li><a href="./altera">Altera</a> </li>
 </ul>
