@@ -12,11 +12,11 @@ layout: null
         {%- for post in collection.docs -%}
 		{%- if post.url contains id -%}
             <item>
-                <title>{{ post.title | xml_escape | normalize_whitespace | replace: "_", '"' }}</title>
-                <description>{{ post.description | replace: "_", '"' | xml_escape | normalize_whitespace }}</description>
+                <title>{{ post.Title | xml_escape | normalize_whitespace | replace: "_", '"' }}</title>
+                <description>{{ post.Description | replace: "_", '"' | xml_escape | normalize_whitespace }}</description>
                 <link>{{ site.url }}{{ post.url }}</link>
                 <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
-                <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+                <pubDate>{{ post["Published On"] | date_to_rfc822 }}</pubDate>
             </item>
         {%- endif %}
         {%- endfor %}

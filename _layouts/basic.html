@@ -5,14 +5,14 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ page.title | xml_escape | normalize_whitespace | replace: "_", '"' }}</title>
-    <meta name="description" content="{{ page.description | xml_escape | normalize_whitespace }}">
+    <title>{{ page.Title | xml_escape | normalize_whitespace | replace: "_", '"' }}</title>
+    <meta name="description" content="{{ page.Description | xml_escape | normalize_whitespace }}">
     <meta name="twitter:card" value="summary">
-    <meta property="og:title" content="{{ page.title | xml_escape | normalize_whitespace | replace: "_", '"' }}">
+    <meta property="og:title" content="{{ page.Title | xml_escape | normalize_whitespace | replace: "_", '"' }}">
     <meta property="og:type" content="article">
     <meta property="og:url" content="{{ page.url }}">
     <meta property="og:image" content="/favicon.png">
-    <meta property="og:description" content="{{ page.description | xml_escape | normalize_whitespace | replace: "_", '"' }}">
+    <meta property="og:description" content="{{ page.Description | xml_escape | normalize_whitespace | replace: "_", '"' }}">
     <link rel="apple-touch-icon-precomposed" href="/favicon.png">
     <link rel="alternate" type="application/rss+xml" title="Good Life Odyssey" href="https://goodlifeodyssey.com/rssmain.xml" />
     <style>{% include stylesheet.min.css %}</style>
@@ -32,7 +32,7 @@
     </header>
     {% endif %}
     <main>
-      <h1>{{ page.title | replace_first: "_", "<em>" | replace: " _", " <em>" | replace: "_", "</em>" | normalize_whitespace }}</h1>
+      <h1>{{ page.Title | replace_first: "_", "<em>" | replace: " _", " <em>" | replace: "_", "</em>" | normalize_whitespace }}</h1>
       {{ content }}
     </main>
     <footer class="hidden-print">
