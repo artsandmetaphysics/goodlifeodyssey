@@ -27,5 +27,4 @@ clean:
 	rm -rf _site
 
 cleannotion:
-	make clean
 	rm -rf _published index.md about.md  # update if new pages are added
