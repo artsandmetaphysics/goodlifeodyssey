@@ -14,7 +14,7 @@ exports:
   notion_filter:
     and:
       - {"property": "Type", "select": {"equals": "Page"}}
-      - {"property": "Status", "select": {"equals": "Complete"}}
+      - {"property": "Status", "select": {"equals": "Published"}}
 - output: './_published'
   id: '94b4804111924eab834fd6f56a7964b9'
   node_type: 'database_as_files'
@@ -27,4 +27,4 @@ exports:
         - {"property": "Type", "select": {"equals": "Dialogue"}}
         - {"property": "Type", "select": {"equals": "Poem"}}
         - {"property": "Type", "select": {"equals": "Notes"}}
-      - {"property": "Status", "select": {"equals": "Complete"}}
+      - {"property": "Status", "select": {"equals": "Published"}}
