@@ -33,3 +33,4 @@ jobs:
           body: Nightly release
           branch: nightly-release
           base: master
+          reviewers: artsandmetaphysics
