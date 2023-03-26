@@ -11,8 +11,6 @@
 
 ## Building
 
-Run `make` to compile static assets.
-
 Start a test server using `run`.
 
 ## Typographical Substitutions
@@ -71,17 +69,6 @@ To fight this, I need to pick smaller topics and write more meditations.
 - [The Great Books Guy Blog](https://greatbooksguy.com)
 
 ## Upcoming Entries
-
-- [ ] Dialogue on Knowing Emptiness
-- [x] Beliefs about description and reality
-- [x] Beliefs about language
-- [ ] How to Talk about Politics (with excerpts from
-  _Gorgias_ and _Phaedrus_)
-- [ ] Deciding the truth of religions based on
-  revelations by judging how similar revelations are
-  to similar beliefs
-- [ ] Essay on enjoyment as being inextricably part of meaning
-- [ ] Finish Ecclesiastes dialogue
 
 - [ ] Handle square brackets
 - [ ] Handle poetry quotes
