@@ -1,7 +1,7 @@
 ---
 Created On: '2022-09-25T18:58:00+00:00'
 Description: A few notes about Ancient Rome.
-Last Edited: '2023-03-25T17:31:00+00:00'
+Last Edited: '2023-03-25T20:15:00+00:00'
 Published On: null
 Slug: ancient-rome
 Slug Override: ''
@@ -12,6 +12,12 @@ Title: Ancient Rome
 Type: Notes
 ---
 <h1>Timeline</h1>
+<ul>
+<li>Rome existed from roughly 500 BCE to 500 CE</li>
+<li>Was a Republic for first 500, and an empire for the second 500</li>
+<li>Grew for 500 years, peaked for 200 years, declined for 300 years</li>
+</ul>
+<h1>Detailed Timeline</h1>
 <ul>
 <li>Defeat of the Samnites in 295 BC</li>
 <li>First Punic War (264–241 BC) was a dispute over Sicily.</li>
