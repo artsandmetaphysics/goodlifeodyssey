@@ -13,6 +13,7 @@ exports:
   filename_property: 'Slug'
   notion_filter:
     and:
+      - {"property": "Last Edited", "date": {"after": "2023-03-24"}}  # crude cacheing
       - {"property": "Type", "select": {"equals": "Page"}}
       - {"property": "Status", "select": {"equals": "Published"}}
 - output: './_published'
@@ -21,6 +22,7 @@ exports:
   filename_property: 'Slug'
   notion_filter:
     and:
+      - {"property": "Last Edited", "date": {"after": "2023-03-24"}}  # crude cacheing
       - or:
         - {"property": "Type", "select": {"equals": "Essay"}}
         - {"property": "Type", "select": {"equals": "Meditation"}}

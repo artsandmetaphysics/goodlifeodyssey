@@ -24,7 +24,7 @@ jobs:
         env:
           NOTION_ACCESS_TOKEN: ${{ secrets.NOTION_ACCESS_TOKEN }}
           PYTHONPATH: "."
-        run: make cleannotion && make notion
+        run: make notion
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
