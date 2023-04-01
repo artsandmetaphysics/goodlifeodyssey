@@ -2,7 +2,7 @@
 Created On: '2023-02-16T14:30:00+00:00'
 Description: How to live the good life in the day-to-day, once you know what the good
   life is.
-Last Edited: '2023-03-25T17:30:00+00:00'
+Last Edited: '2023-03-26T12:37:00+00:00'
 Published On: null
 Slug: practical-ethics
 Slug Override: ''
@@ -15,7 +15,7 @@ Type: Notes
 <ul>
 <li>Motivation
 <ul>
-<li>If no clear distinction can be drawn between “big” ethical choices and “smaller” everyday choices, then we must optimize the everyday ones too. Practical ethics, for me, is about how to do what’s “good” or what’s “right” once you approximately know  what it is. It’s similar to prudence in Aristotle’s <u><em>Nicomachean</em></u> <em>Ethics</em><strong>.</strong></li>
+<li>If no clear distinction can be drawn between “big” ethical choices and “smaller” everyday choices, then we must optimize the everyday ones too. Practical ethics, for me, is about how to do what’s “good” or what’s “right” once you approximately know  what it is. It’s similar to prudence in Aristotle’s <em>Nicomachean Ethics</em><strong>.</strong></li>
 <li>We must have a clear understanding about where we’re heading; we need goals.</li>
 <li>Without consciously setting big goals, setting smaller goals (budgeting time), and budgeting money towards goals, you are likely going to waste time and money on things that don’t align with your goals, and you’re less likely to meet your goals.</li>
 </ul></li>
