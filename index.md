@@ -2,7 +2,7 @@
 Created On: '2022-07-31T01:28:00+00:00'
 Description: My search for the good life in philosophy, religion, literature, and
   history.
-Last Edited: '2023-03-25T20:21:00+00:00'
+Last Edited: '2023-04-02T17:30:00+00:00'
 Published On: null
 Slug: index
 Slug Override: index
@@ -32,6 +32,7 @@ Type: Page
 </ul>
 <h2>Dialogues</h2>
 <ul>
+<li><a href="./socratic-dialogues-and-real-world-choices">Socratic Dialogues and Real-World Choices</a></li>
 <li><a href="./why-not-make-america-christian">Why Not Make America Christian?</a></li>
 <li><a href="./reasoning-about-justice-by-analogy">Reasoning About Justice from Analogy</a></li>
 <li><a href="./socrates-underestimated-writing">Socrates Underestimated Writing</a></li>
