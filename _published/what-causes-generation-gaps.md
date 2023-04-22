@@ -1,7 +1,8 @@
 ---
 Created On: '2022-08-01T02:25:00+00:00'
-Description: A long comedic quote demonstrating a generation gap in ancient Athens,
-  and a few thoughts about what causes such gaps.
+Description: 'A long comedic quote demonstrating a generation gap in ancient Athens,
+
+  and a few thoughts about what causes such gaps.'
 Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: '2020-07-19'
 Slug: what-causes-generation-gaps
@@ -10,6 +11,8 @@ Status: Published
 Tags: []
 Title: What Causes Generation Gaps
 Type: Meditation
+notion_id: 1694e8d8-8df8-40fc-9825-8643a289fb7c
+notion_url: https://www.notion.so/What-Causes-Generation-Gaps-1694e8d88df840fc98258643a289fb7c
 ---
 <p>Strepsiades, in Aristophanes’ comedy <em>The Clouds</em>, sends his thriftless son Pheidippedes to the bumbling Socrates’ “thinkery” so he can learn to argue his way out of the family debts. Only, the son learns to argue too well:</p>
 <blockquote><p>

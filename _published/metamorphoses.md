@@ -1,6 +1,6 @@
 ---
 Created On: '2022-08-01T03:05:00+00:00'
-Description: "Notes on Ovid\u2019s \u201CMetamorphoses*.\u201D*"
+Description: "Notes on Ovid\u2019s \u201CMetamorphoses<em>.\u201D</em>"
 Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: metamorphoses
@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: "Ovid\u2019s \u201CMetamorphoses\u201D"
 Type: Notes
+notion_id: 8ec37fcb-2eef-4b50-8f41-8eca03724e71
+notion_url: https://www.notion.so/Ovid-s-Metamorphoses-8ec37fcb2eef4b508f418eca03724e71
 ---
 <h2>Introduction</h2>
 <p>The <em>Metamorphoses</em> is Ovid’s epic poem about change, which opens with these lines:</p>

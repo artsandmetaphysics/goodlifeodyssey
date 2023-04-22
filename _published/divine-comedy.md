@@ -1,6 +1,6 @@
 ---
 Created On: '2022-08-01T03:05:00+00:00'
-Description: "Notes on Dante\u2019s \u201CDivine Comedy*.\u201D*"
+Description: "Notes on Dante\u2019s \u201CDivine Comedy<em>.\u201D</em>"
 Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: divine-comedy
@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: "Dante\u2019s \u201CDivine Comedy\u201D"
 Type: Notes
+notion_id: a711dcfa-8535-446d-bc81-e1a6a4f37827
+notion_url: https://www.notion.so/Dante-s-Divine-Comedy-a711dcfa8535446dbc81e1a6a4f37827
 ---
 <h2>Introduction</h2>
 <p>The <em>Divine Comedy</em> is Dante’s great epic poem.</p>

@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: "\u201CGulliver\u2019s Travels\u201D by Jonathan Swift"
 Type: Notes
+notion_id: 08c6ff32-fdaa-4a2c-a550-87fbdc584ba5
+notion_url: https://www.notion.so/Gulliver-s-Travels-by-Jonathan-Swift-08c6ff32fdaa4a2ca55087fbdc584ba5
 ---
 <h2>Background</h2>
 <p>Jonathan Swift was born in Dublin in 1667 and died in 1745.</p>

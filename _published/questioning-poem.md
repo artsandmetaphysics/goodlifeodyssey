@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: Questioning
 Type: Poem
+notion_id: 0ed4db8b-cabd-4dc8-aa3b-b9a5854764b7
+notion_url: https://www.notion.so/Questioning-0ed4db8bcabd4dc8aa3bb9a5854764b7
 ---
 <p>A baby is born and the parents love the baby.<br />
 A baby is born and the parents raise the baby.<br />

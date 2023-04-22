@@ -1,7 +1,8 @@
 ---
 Created On: '2022-07-31T03:18:00+00:00'
-Description: A exploratory dialogue of Socrates' attitude towards the senses within
-  *Phaedo*.
+Description: 'A exploratory dialogue of Socrates'' attitude towards the senses within
+
+  <em>Phaedo</em>.'
 Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: socrates-would-dislike-science
@@ -10,6 +11,8 @@ Status: Published
 Tags: []
 Title: Socrates Would Dislike Science
 Type: Dialogue
+notion_id: 4380ce80-0df7-41a8-8b46-5bbd5e4dcb72
+notion_url: https://www.notion.so/Socrates-Would-Dislike-Science-4380ce800df741a88b465bbd5e4dcb72
 ---
 <p><span class="sc">Dijon:</span> Did you enjoy Plato’s dialogue, <em>Phaedo</em>?</p>
 <p><span class="sc">Thomas:</span> I did. It is filled with ideas, most mentioned in passing. For example, Socrates, after sitting up in bed, says pain and pleasure are tied together like two creatures sharing a head. This, and many such comments, make it fun to read.</p>

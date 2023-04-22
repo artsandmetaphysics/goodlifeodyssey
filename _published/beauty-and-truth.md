@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: Beauty and Truth
 Type: Essay
+notion_id: 7106acbc-1189-4107-8a63-069dffbfd358
+notion_url: https://www.notion.so/Beauty-and-Truth-7106acbc118941078a63069dffbfd358
 ---
 <p>Are beautiful words more likely to be true than plain ones?</p>
 <p>The relationship between beauty and truth is not fundamental, but emerges from how we acquire knowledge from others. Often, we don’t have the time, inclination, or ability to acquire knowledge directly. For example, if unable evaluate a lawyer’s ability, we rely on a recommendation. Thus, we use other people’s beliefs to help us arrive at our own.</p>

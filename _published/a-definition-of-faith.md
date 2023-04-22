@@ -1,7 +1,9 @@
 ---
 Created On: '2022-07-31T02:32:00+00:00'
-Description: Faith in beliefs is indicated by how drastically our actions change as
-  a result of our belief.
+Description: 'Faith in beliefs is indicated by how drastically our actions change
+  as a
+
+  result of our belief.'
 Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: a-definition-of-faith
@@ -10,6 +12,8 @@ Status: Published
 Tags: []
 Title: A Definition of Faith
 Type: Essay
+notion_id: 4af73c30-d748-4914-b34f-21c19b462eba
+notion_url: https://www.notion.so/A-Definition-of-Faith-4af73c30d7484914b34f21c19b462eba
 ---
 <p>We all have a worldview—a collection of beliefs that direct our actions.  Our worldview may be ill-defined, poorly considered, or even inconsistent.  Still, if we have ever reasoned about how to act, we have a worldview.</p>
 <p>Conceptually we can divide our beliefs into two groups:</p>

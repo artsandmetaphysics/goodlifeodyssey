@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: Glossary of Musical Terms
 Type: Notes
+notion_id: 8bc58be6-7f88-4477-bc78-69caf87267bd
+notion_url: https://www.notion.so/Glossary-of-Musical-Terms-8bc58be67f884477bc7869caf87267bd
 ---
 <p>One of life’s joys is listening to music. To appreciate music it’s helpful to know some musical terms. I’ve found that being aware of these terms help me notice and appreciate the music I listen to.</p>
 <p>A melody is <em>conjunct</em> if it tends to progress along adjacent notes in the scale. I.e., there are only small, smooth jumps. A melody is <em>disjunct</em> if it tends to progress with big jumps. The terms are usually relative.</p>

@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: Nothing Inherently Exists
 Type: Dialogue
+notion_id: 32c35bab-33c9-4755-b5ba-06a469790687
+notion_url: https://www.notion.so/Nothing-Inherently-Exists-32c35bab33c94755b5ba06a469790687
 ---
 <p><span class="sc">Eurus:</span> In our group discussion, you demonstrated that the concept of a bee is not fundamental; individual bees may be similar, but there is no inherent bee-essence. One may say, “bee-essence is the ability to reproduce bees.” However, you showed how gradual evolutionary change refutes this argument. “Consider an ancient bee that, if alive, could reproduce with a modern bee. Now consider an even more ancient bee that can reproduce with the ancient bee but not with the modern bee. Does the ancient bee have two essences, one to reproduce with the modern bee and another to reproduce with the more ancient bee?”</p>
 <p>Your conceptual deconstructions remind me of śūnyatā, or emptiness, a tenet of the Madhyamaka Buddhist tradition. Śūnyatā says that nothing has svabhāva—essence, inherent existence, or true identity.</p>

@@ -1,7 +1,8 @@
 ---
 Created On: '2022-07-31T03:17:00+00:00'
 Description: "A short dialogue exploring religion freedom, inspired by a paragraph\
-  \ in the introduction of \u201CThe Closing of the American Mind\u201D by Allan Bloom."
+  \ in\nthe introduction of \u201CThe Closing of the American Mind\u201D by Allan\
+  \ Bloom."
 Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: why-not-make-america-christian
@@ -10,6 +11,8 @@ Status: Published
 Tags: []
 Title: Why Not Make America Christian?
 Type: Dialogue
+notion_id: a8245ee5-2179-4658-9dff-8ec3a0960a1a
+notion_url: https://www.notion.so/Why-Not-Make-America-Christian-a8245ee5217946589dff8ec3a0960a1a
 ---
 <p><span class="sc">Dijon:</span> I’ve been reading a book from the eighties—our grandpa read it and liked it enough to mail copies to all his children, including our dad. It’s satisfying, thought-provoking, and eerily relevant.</p>
 <p><span class="sc">Aaron:</span> What is it about?</p>

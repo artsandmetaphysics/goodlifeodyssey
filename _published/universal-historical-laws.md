@@ -1,7 +1,8 @@
 ---
 Created On: '2022-07-31T02:31:00+00:00'
-Description: Is history philosophically uninteresting because it can not provide universal
-  laws?
+Description: 'Is history philosophically uninteresting because it can not provide
+
+  universal laws?'
 Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: universal-historical-laws
@@ -10,6 +11,8 @@ Status: Published
 Tags: []
 Title: Universal Historical Laws
 Type: Essay
+notion_id: 060d13ea-fa3c-44ad-af25-bfe299fde77d
+notion_url: https://www.notion.so/Universal-Historical-Laws-060d13eafa3c44adaf25bfe299fde77d
 ---
 <p>Some philosophers think history is uninteresting because it can not provide laws, or law-like explanations, and thus its inferences can’t be rationally evaluated.</p>
 <p>I agree that the historian, like the social scientist, can’t produce laws. By law I mean a universally true, conditional statement about reality. (Defining a law to be a <em>conditional</em> statement distinguishes it from particular statements like “Julius Caesar was murdered on the 15th of March, 44 BC.”) The objects of historical study—people, nations, wars, governments, etc.—are too complex to define, let alone deduce universally true conditional statements about.</p>

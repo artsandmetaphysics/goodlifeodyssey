@@ -1,8 +1,8 @@
 ---
 Created On: '2022-08-01T02:24:00+00:00'
-Description: "If God is supremely good then why does hell exist? Wouldn\u2019t a supremely\
-  \ good God make unrepentant sinners, upon death, cease to exist instead of being\
-  \ eternally tormented? Maybe hell exists because God respects our free will."
+Description: "If God is supremely good then why does hell exist? Wouldn\u2019t a supremely\n\
+  good God make unrepentant sinners, upon death, cease to exist instead of\nbeing\
+  \ eternally tormented? Maybe hell exists because God respects our\nfree will."
 Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: '2021-12-14'
 Slug: dante-on-the-problem-of-hell
@@ -11,6 +11,8 @@ Status: Published
 Tags: []
 Title: Dante on the Problem of Hell
 Type: Meditation
+notion_id: df327abb-4989-46f9-bc67-aecdd6a55dc6
+notion_url: https://www.notion.so/Dante-on-the-Problem-of-Hell-df327abb498946f9bc67aecdd6a55dc6
 ---
 <p>If God is supremely good then why does hell exist? Wouldn’t a supremely good God make unrepentant sinners, upon death, cease to exist instead of being eternally tormented? And if hell must exist to punish the guilty, then why does the torment last forever? What sin found in a finite life could justly lead to infinite pain?</p>
 <p>Here’s an answer—a solution to the problem of hell: There are no flames, lakes of ice, or armed demons—all the torment is self-inflicted. Furthermore, everyone in hell <em>chooses</em> to be there and could, at any point, decide to leave. They could go to heaven, or they could choose to cease their existence.</p>

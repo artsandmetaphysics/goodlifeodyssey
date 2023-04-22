@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: Love Thy Neighbor as Thyself is Extreme
 Type: Essay
+notion_id: 61d31d48-18bb-4f6d-b1af-057168726d99
+notion_url: https://www.notion.so/Love-Thy-Neighbor-as-Thyself-is-Extreme-61d31d4818bb4f6db1af057168726d99
 ---
 <p>When a scribe asks which commandment is the greatest, Jesus responds with two:</p>
 <blockquote><p>

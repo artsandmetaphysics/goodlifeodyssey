@@ -1,6 +1,6 @@
 ---
 Created On: '2022-08-01T03:04:00+00:00'
-Description: "Notes on the \u201COdyssey*.\u201D*"
+Description: "Notes on the \u201COdyssey<em>.\u201D</em>"
 Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: the-odyssey
@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: "The \u201COdyssey\u201D"
 Type: Notes
+notion_id: 5bb0ca5e-7b05-4601-8764-3e174c6d5dd4
+notion_url: https://www.notion.so/The-Odyssey-5bb0ca5e7b05460187643e174c6d5dd4
 ---
 <h2>Background</h2>
 <p>The ancients believed that the <em>Odyssey</em> was composed by the blind poet Homer.  Modern scholars debate when it was composed and by whom, but most agree it was written between 725 BCE and 675 BCE.  It has almost always been held that that the <em>Odyssey</em> was written after the <em>Iliad,</em> because it refers to material in the <em>Iliad</em> frequently, while avoiding any direct duplication.</p>

@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: Ancient Greece
 Type: Notes
+notion_id: 2631e62d-4995-4091-9cf3-0e66328143c1
+notion_url: https://www.notion.so/Ancient-Greece-2631e62d499540919cf30e66328143c1
 ---
 <p>Many of these notes were taken from <em>Ancient Greece</em> by Thomas R. Martin.</p>
 <h2>Minoans</h2>

@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: Spotted Lanternflys
 Type: Meditation
+notion_id: a8fbf9b1-b459-40cd-8ef3-97e793815590
+notion_url: https://www.notion.so/Spotted-Lanternflys-a8fbf9b1b45940cd8ef397e793815590
 ---
 <p>I first saw a Spotted Lanternfly earlier in the summer. I was with my wife in a playground on the edge of the park. “Jackson’s mom said we should kill them—they’re an invasive species.” The bugs have red wings with black spots. I think they’re pretty. It’s too bad that they’re invasive, and that there are so many. Apparently, they kill fruit trees.</p>
 <p>Since then, I’ve stomped another hundred Lanternflies. I see them everywhere. I thought I saw one fluttering outside during a client presentation twelve floors up in a building near the east river.</p>

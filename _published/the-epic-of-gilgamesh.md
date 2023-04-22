@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: "\u201CThe Epic of Gilgamesh\u201D"
 Type: Notes
+notion_id: b5e141bf-46c4-4e31-b0ca-d0ec71b28cea
+notion_url: https://www.notion.so/The-Epic-of-Gilgamesh-b5e141bf46c44e31b0cad0ec71b28cea
 ---
 <p>Ancient and beautiful, <em>The Epic of Gilgamesh</em> is the story of the king of Uruk.</p>
 <p>Gilgamesh was a powerful and handsome king, but he oppressed his people.  He forced new brides to have sex with him on their wedding night.  The young women of Uruk cried out, and the gods heard them.  The gods decided to create the wildman Enkidu to vie with Gilgamesh and to relieve Uruk’s citizens:</p>

@@ -1,7 +1,7 @@
 ---
 Created On: '2022-08-01T02:24:00+00:00'
 Description: "Musings on friendship, inspired by \u201CThe Two Gentleman of Verona\u201D\
-  \ and Montaigne\u2019s essay, \u201COn Friendship\u201D"
+  \ and\nMontaigne\u2019s essay, \u201COn Friendship\u201D"
 Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: '2022-07-04'
 Slug: the-two-gentleman-of-verona
@@ -10,6 +10,8 @@ Status: Published
 Tags: []
 Title: The Two Gentleman of Verona
 Type: Meditation
+notion_id: 576ea69e-c82d-4814-bc4f-4b0c44806005
+notion_url: https://www.notion.so/The-Two-Gentleman-of-Verona-576ea69ec82d4814bc4f4b0c44806005
 ---
 <p>I chose “The Two Gentleman of Verona” for my book club’s reading because it was the first play in my volume of his comedies. It was placed there because it was his first, and some believe worst, comedy. If it was his worst, it was still great, although I do think the characters were flatter than usual. Proteus, named for the shape-shifting prophet-god Menelaus wrestles in the Odyssey, is buffeted about like a balloon in a hurricane to the very end. Valentine’s friendship with Proteus remains strong throughout. Sylvia remains devoted to Valentine. Julia is the most interesting, as she is girlish and sensitive in the opening scenes, but she proves to be brave and restrained throughout the rest of the play.</p>
 <p>The plot is fun but predictable. I especially liked the scene where the Duke tricks Valentine into revealing his plot and also the one where Julia is tasked with giving her competitor, Sylvia, the ring she had given Proteus.</p>

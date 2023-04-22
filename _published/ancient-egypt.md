@@ -10,6 +10,8 @@ Tags:
 - History
 Title: Ancient Egypt
 Type: Notes
+notion_id: e9e0bc00-6d1f-49c2-8790-4c1115327f1a
+notion_url: https://www.notion.so/Ancient-Egypt-e9e0bc006d1f49c287904c1115327f1a
 ---
 <h2>History</h2>
 <p>The Egyptian priest Manetho grouped the pharaohs into 31 dynasties. Modern Egyptologists tend to count the early, Macedonian, and Ptolemaic pharaohs as three additional dynasties, for a total of 34 dynasties. The dynasties are grouped into the following periods (all dates are BCE and approximate):</p>

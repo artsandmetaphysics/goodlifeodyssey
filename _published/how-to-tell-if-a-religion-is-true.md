@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: How to Tell if a Religion is True
 Type: Dialogue
+notion_id: f6072a4f-2783-4261-ab0b-1471523c4651
+notion_url: https://www.notion.so/How-to-Tell-if-a-Religion-is-True-f6072a4f27834261ab0b1471523c4651
 ---
 <p><span class="sc">Dijon:</span> How does one define “religion”?</p>
 <p><span class="sc">Aaron:</span> Why do you want to? Like most abstract terms, I think it is impossible to define precisely. At best you can find a definition that is suitable for your use.</p>

@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: Seneca
 Type: Notes
+notion_id: 72d54d4e-de9d-4981-9678-f7afecf57894
+notion_url: https://www.notion.so/Seneca-72d54d4ede9d49819678f7afecf57894
 ---
 <p>Lucius Annaeus Seneca, known as Seneca or “Seneca the Younger,” was born around 4 BCE in Corduba and raised in Rome, where he was trained in rhetoric and philosophy. In 41 CE, Seneca was exiled to the island of Corsica by the emperor Claudius, but was allowed to return in 49 to become a tutor to Nero. When Nero became emperor in 54, Seneca became his adviser. Seneca’s influence over Nero declined with time, and in 65 Seneca was forced to take his own life for alleged complicity in a conspiracy to assassinate Nero, in which he was likely to have been innocent.</p>
 <p>Seneca wrote philosophical letters and tragedies.</p>

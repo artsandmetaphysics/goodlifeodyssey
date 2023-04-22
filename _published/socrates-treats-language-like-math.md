@@ -1,7 +1,7 @@
 ---
 Created On: '2022-08-01T02:25:00+00:00'
 Description: "A brief consideration of one example of Plato\u2019s mathematical analysis\
-  \ of words, which informs us how he thought language works."
+  \ of\nwords, which informs us how he thought language works."
 Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: '2021-04-21'
 Slug: socrates-treats-language-like-math
@@ -10,6 +10,8 @@ Status: Published
 Tags: []
 Title: Socrates Treats Language like Math
 Type: Meditation
+notion_id: 4919628a-1504-4221-989e-807552ad82e5
+notion_url: https://www.notion.so/Socrates-Treats-Language-like-Math-4919628a15044221989e807552ad82e5
 ---
 <p>Socrates, in the <em>Republic</em>, assumes that language can be as precise as math. For example, in book four he says if his imaginary city is <em>good</em>then it is “wise, courageous, moderate, and just.” These four words form a reasonable definition of <em>good</em>, although I hesitate to say it’s complete. Socrates’ does not hesitate, and he uses this definition to launch a curious analysis:</p>
 <blockquote><p>

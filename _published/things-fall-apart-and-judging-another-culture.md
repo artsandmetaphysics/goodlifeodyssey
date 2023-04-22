@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: "\u201CThings Fall Apart\u201D and Judging Another Culture"
 Type: Meditation
+notion_id: 6aac4bcd-530b-450f-ba48-5be0578798d9
+notion_url: https://www.notion.so/Things-Fall-Apart-and-Judging-Another-Culture-6aac4bcd530b450fba485be0578798d9
 ---
 <p>I felt a great tension when reading <em>Things Fall Apart.</em> On the one hand, I felt sympathy for the close-knit communities and culture that began to “fall apart” when the British came. I admired their community—for example, the great gathering for the engagement ceremony, with the women cooking yams and casava and vegetable soup, “a great anthilll activity.” An anthill is a beautiful metaphor for their unity and collective work. On the other hand, I thought some Igbo practices were wrong. I thought it was wrong that they killed the boy Ikemefuna because his father, a man in a neighboring tribe, had killed a woman. I thought it was wrong that the son paid the sins of his father.</p>
 <p>Achebe emphasizes this tension throughout the text, especially in the Obierika’s musings at the end of Part One:</p>

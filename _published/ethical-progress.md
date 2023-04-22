@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: Has Humanity Made Ethical Progress?
 Type: Essay
+notion_id: b1ca56c3-8472-42ae-9ad9-9997ce9f7514
+notion_url: https://www.notion.so/Has-Humanity-Made-Ethical-Progress-b1ca56c3847242ae9ad99997ce9f7514
 ---
 <p>Has humanity made ethical progress? Are we more moral than the ancients?</p>
 <p>To answer this question we must agree what progress is. We must know how one should act, so that we can compare our actions. If one believes ethics is relative, then progress is impossible. But if we agree that there is a standard, then we agree that progress is possible, even if we can not always identify it.</p>

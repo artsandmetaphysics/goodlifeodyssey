@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: "\u201CThe Histories\u201D by Herodotus"
 Type: Notes
+notion_id: 38119f4c-f430-4634-a0c0-18b1c6875377
+notion_url: https://www.notion.so/The-Histories-by-Herodotus-38119f4cf4304634a0c018b1c6875377
 ---
 <p>The purpose of the book:</p>
 <blockquote><p>

@@ -1,7 +1,7 @@
 ---
 Created On: '2022-07-31T02:33:00+00:00'
 Description: "Why I agree with N\u0101g\u0101rjuna that everything is empty of svabh\u0101\
-  va yet still believe in ultimately real things."
+  va yet\nstill believe in ultimately real things."
 Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: the-universe-is-empty-yet-ultimately-real
@@ -10,6 +10,8 @@ Status: Published
 Tags: []
 Title: The Universe is Empty Yet Ultimately Real
 Type: Essay
+notion_id: e9993ede-89b1-4018-9ef9-2442571507b1
+notion_url: https://www.notion.so/The-Universe-is-Empty-Yet-Ultimately-Real-e9993ede89b140189ef92442571507b1
 ---
 <p>Nāgārjuna was an Indian Mahāyāna Buddhist scholar-saint.</p>
 <p>His most famous work, the <em>Mūlamadhyamakakārikā</em>, systematically shows that one thing after another is empty of <em>svabhāva</em>. Svabhāva is a Sanskrit term translated to “own-being,” “essence,” “inherent existence,” “true identity” or “intrinsic nature.” If something has svabhāva, it’s “independent of anything else, uncaused, and not fabricated from other things.”</p>

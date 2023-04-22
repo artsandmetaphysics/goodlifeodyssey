@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: Language and Math Model Reality
 Type: Essay
+notion_id: cf931af5-826c-4bbb-8c74-daf6a4d8168e
+notion_url: https://www.notion.so/Language-and-Math-Model-Reality-cf931af5826c4bbb8c74daf6a4d8168e
 ---
 <h2>Terms</h2>
 <p>A <em>phrase</em> is one or more words.</p>

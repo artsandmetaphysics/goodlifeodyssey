@@ -1,7 +1,8 @@
 ---
 Created On: '2022-07-31T03:18:00+00:00'
-Description: A dialogue that explores the benefits of watching the news vs. reading
-  it, and whether reading the news is a duty.
+Description: 'A dialogue that explores the benefits of watching the news vs. reading
+
+  it, and whether reading the news is a duty.'
 Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: is-it-better-to-read-or-watch-the-news
@@ -10,6 +11,8 @@ Status: Published
 Tags: []
 Title: Is it Better to Read or Watch the News?
 Type: Dialogue
+notion_id: 4621c347-4cfb-43e4-be3d-316cd08edf80
+notion_url: https://www.notion.so/Is-it-Better-to-Read-or-Watch-the-News-4621c3474cfb43e4be3d316cd08edf80
 ---
 <p><span class="sc">Tes:</span> I am enjoying our visit, and especially meeting our beautiful granddaughter Elanor.</p>
 <p>As I sat here the past several days at your apartment, I have been wondering: do you watch the news? Don’t you want to know what is going on in the world?</p>

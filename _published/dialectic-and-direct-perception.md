@@ -1,7 +1,7 @@
 ---
 Created On: '2022-08-01T02:25:00+00:00'
 Description: "A comparison of two ways of knowing: Plato\u2019s conception of Dialectic\
-  \ and Buddhism\u2019s Direct Perception"
+  \ and\nBuddhism\u2019s Direct Perception"
 Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: '2021-03-26'
 Slug: dialectic-and-direct-perception
@@ -10,6 +10,8 @@ Status: Published
 Tags: []
 Title: Direct Perception and Dialectic
 Type: Meditation
+notion_id: 0a89e40e-aa43-4c92-b12f-52e57b414150
+notion_url: https://www.notion.so/Direct-Perception-and-Dialectic-0a89e40eaa434c92b12f52e57b414150
 ---
 <p>“For every real being, there are three things that are necessary if knowledge of it is to be acquired: first, the name; second, the definition; third, the image; knowledge comes fourth, and in the fifth place we must put the object itself, the knowable and truly real being.” So said Plato in his seventh letter. To know the object itself is difficult. It requires a teacher, months or years, and a disciplined life free from bodily distractions.</p>
 <p>The first four instruments have their limits. Each presents, “in discourse and in examples, what she is not seeking, and thus makes it easy to refute by sense perception anything that may be said or pointed out, and fills everyone, so to speak, with perplexity and confusion.”</p>

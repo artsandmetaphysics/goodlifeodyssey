@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: Inferni Summarium
 Type: Poem
+notion_id: 8befdf0d-c01f-4c71-b011-9125364cde74
+notion_url: https://www.notion.so/Inferni-Summarium-8befdf0dc01f4c71b0119125364cde74
 ---
 <p>Dante, astray in a dark wood, sees light,<br />
 but leopard, lion, and wolf halts his way.<br />

@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: Faith and Reason
 Type: Essay
+notion_id: ad15e2c4-d4a9-4c27-a2b1-b5c997c76012
+notion_url: https://www.notion.so/Faith-and-Reason-ad15e2c4d4a94c27a2b1b5c997c76012
 ---
 <h2>Why Believe</h2>
 <p>Most reasons to practice a religion can be reduced to “it is true” or “it makes me happier.”</p>

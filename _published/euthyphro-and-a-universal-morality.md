@@ -1,7 +1,7 @@
 ---
 Created On: '2022-08-01T02:26:00+00:00'
 Description: "I connect \u201CEuthyphro\u2019s\u201D first two definitions of piety\
-  \ to the belief in a universal moral standard among religions."
+  \ to the belief in\na universal moral standard among religions."
 Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: '2020-06-20'
 Slug: euthyphro-and-a-universal-morality
@@ -10,6 +10,8 @@ Status: Published
 Tags: []
 Title: "\u201CEuthyphro\u201D and a Universal Morality"
 Type: Meditation
+notion_id: d9a824b6-aa78-4ed6-b240-06d4b6abc92b
+notion_url: https://www.notion.so/Euthyphro-and-a-Universal-Morality-d9a824b6aa784ed6b24006d4b6abc92b
 ---
 <p>Euthyphro initially defines <em>piety</em> as “something dear to the gods.” Socrates proceeds to pick at this. He observes that the gods quarrel; Zeus says to help Hercules, while Hera says to hinder him. This definition produces conflicting demands and must be wrong. In response, Euthyphro revises his definition: <em>piety</em> is “what all the gods love.”</p>
 <p>A monotheist would not be convinced by Socrates’ rebuke since a single god could provide a clear definition of piety. With polytheists going extinct, is Socrates’ rebuttal, and Euthyphro’s response, still relevant? I think it is.</p>

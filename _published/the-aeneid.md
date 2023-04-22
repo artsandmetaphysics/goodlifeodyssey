@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: "The \u201CAeneid\u201D"
 Type: Notes
+notion_id: 2a1152de-fb9a-43ec-91f2-1eb2c802c732
+notion_url: https://www.notion.so/The-Aeneid-2a1152defb9a43ec91f21eb2c802c732
 ---
 <h2>Background</h2>
 <p>The <em>Aeneid</em> is a Latin epic poem, written by Virgil between 29 and 19 BCE, that connects the Julio-Claudian dynasty to the heroes of Troy. It presents a founding myth for the Roman empire and explains the Punic Wars.</p>

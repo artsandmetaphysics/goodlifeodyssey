@@ -1,7 +1,7 @@
 ---
 Created On: '2022-08-01T03:05:00+00:00'
 Description: "My thoughts, a summary, and a brief analysis of the theme of belief\
-  \ in the supernatural within the Russian classic \u201CThe Master and Margarita.\u201D"
+  \ in\nthe supernatural within the Russian classic \u201CThe Master and Margarita.\u201D"
 Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: the-master-and-margarita
@@ -10,6 +10,8 @@ Status: Published
 Tags: []
 Title: "\u201CThe Master and Margarita\u201D"
 Type: Notes
+notion_id: 2463a4f7-4b72-4612-824a-70dd22c7c79e
+notion_url: https://www.notion.so/The-Master-and-Margarita-2463a4f74b724612824a70dd22c7c79e
 ---
 <h2>Background</h2>
 <p><em>The Master and Margarita</em> was written by Mikhail Bulgakov (mee-ha-EEL bool-GA-kov).  He finished writing it in 1940 and it was first published in 1966.</p>

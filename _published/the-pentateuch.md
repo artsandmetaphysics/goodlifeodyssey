@@ -10,6 +10,8 @@ Tags:
 - Christianity
 Title: The Pentateuch
 Type: Notes
+notion_id: 06c915fe-975b-4636-9070-cd5dfc061f68
+notion_url: https://www.notion.so/The-Pentateuch-06c915fe975b46369070cd5dfc061f68
 ---
 <h2>My Beliefs</h2>
 <p>The Pentateuch is the first five books of all bibles (Jewish, Catholic, Eastern Orthodox, Oriental Orthodox, and Protestant). Here are some of my beliefs about the Pentateuch, derived from study of the Pentateuch, historical sources, and commentaries:</p>

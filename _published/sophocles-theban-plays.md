@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: "Sophocles\u2019 Theban Plays"
 Type: Notes
+notion_id: 1b5a4ff7-99d0-4ddd-b855-f2423de9a764
+notion_url: https://www.notion.so/Sophocles-Theban-Plays-1b5a4ff799d04dddb855f2423de9a764
 ---
 <h2>Oedipus the King</h2>
 <p>Angered Tiresias implicates Oedipus:</p>

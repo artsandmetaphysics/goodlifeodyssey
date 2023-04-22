@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: Altera
 Type: Notes
+notion_id: eacce0fb-1545-44dd-8ea3-f80725fe7634
+notion_url: https://www.notion.so/Altera-eacce0fb154544dd8ea3f80725fe7634
 ---
 <h2>Motivation</h2>
 <p>I have found it helpful, when asking questions about our universe, to consider how analogous questions could be asked and answered by beings in an alternate, simpler universe.  I call this universe Altera.  Answers to many questions, when asked in our universe, are obscured by its complex nature and our uncertain place within it.  Analogous questions, when asked in Altera, are often plainly answered.  We may then be able to generalize these answers to our universe more clearly than if we had pursued them directly.</p>

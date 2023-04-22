@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: Why Do We Fear Death?
 Type: Essay
+notion_id: cd9038cf-76d0-433d-bdd8-f875878ed26f
+notion_url: https://www.notion.so/Why-Do-We-Fear-Death-cd9038cf76d0433dbdd8f875878ed26f
 ---
 <p>Most people want to live forever. Why?</p>
 <p>If it is simply because we enjoy our life now, or could imagine enjoying it if all our trials were gone, then consider this: perhaps we would get bored of living even the best life? It seems unlikely that it would happen in 100 years, or even in 1000 years, but perhaps, after 10,000 years we would be bored.  Maybe we would actually want to die.</p>

@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: Glossary of Architectural Terms
 Type: Notes
+notion_id: 16c2a18c-9c31-4d7b-9f36-563c7d20c1ce
+notion_url: https://www.notion.so/Glossary-of-Architectural-Terms-16c2a18c9c314d7b9f36563c7d20c1ce
 ---
 <p>One of life’s joys is looking at the wonderful world around us. In New York City, buildings are around us—old and new, big and small, plain and ornate. After the old Penn Station building was destroyed, a Landmarks Preservation Commission was established. The commission provides reports for each designated building that explain historical significance of the building and note important architectural details.</p>
 <p>To understand the reports one must learn some architectural terminology. Why bother, one may ask, learning these unusual words? While one can enjoy looking at the buildings without them, they help me notice and talk about the details. I notice <em>quoining</em> now that I know the term.</p>

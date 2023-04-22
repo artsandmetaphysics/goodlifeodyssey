@@ -1,8 +1,10 @@
 ---
 Created On: '2023-02-16T14:30:00+00:00'
-Description: How to live the good life in the day-to-day, once you know what the good
-  life is.
-Last Edited: '2023-03-26T12:37:00+00:00'
+Description: 'How to live the good life in the day-to-day, once you know what the
+  good
+
+  life is.'
+Last Edited: '2023-04-21T09:33:00+00:00'
 Published On: null
 Slug: practical-ethics
 Slug Override: ''
@@ -11,13 +13,34 @@ Tags:
 - Ethics
 Title: Practical Ethics
 Type: Notes
+notion_id: 66a77952-34ce-41b8-a855-90a542fba6c3
+notion_url: https://www.notion.so/Practical-Ethics-66a7795234ce41b8a85590a542fba6c3
 ---
 <ul>
 <li>Motivation
 <ul>
-<li>If no clear distinction can be drawn between “big” ethical choices and “smaller” everyday choices, then we must optimize the everyday ones too. Practical ethics, for me, is about how to do what’s “good” or what’s “right” once you approximately know  what it is. It’s similar to prudence in Aristotle’s <em>Nicomachean Ethics</em><strong>.</strong></li>
+<li>Proposition: No clear distinction can be drawn between “big” ethical choices and “smaller” everyday choices.
+<ul>
+<li>The standard definition of <em>ethics</em> tends to focus on what we should not do.
+<ul>
+<li>ethics, n.: “moral principles that govern a person's behavior or the conducting of an activity”</li>
+<li>This definition is actually quite in line with how I’d define it.</li>
+<li>I think many Americans, when they hear the “ethics”, focus on the ethics of “an activity,” like medical ethics, or AI ethics, or legal ethics.</li>
+<li>Perhaps the focus on the negative comes from the ten-commandments, which are more on the negative than the positive.</li>
+<li>Perhaps this is in part due to our love of liberty within the US: nobody wants to tell you specific things you should do. Thought: Contrast with more collectivist cultures where there’s more focus on both what we should do and should not.</li>
+</ul></li>
+<li>Many people may not want to feel like they need to be so organized and intentional about how they live. It may feel constraining.</li>
+</ul></li>
+<li>This implies we should optimize our everyday choices too.</li>
+<li>Practical ethics, for me, is about how to do what’s “good” or what’s “right” once you approximately know what it is. It’s similar to prudence in Aristotle’s <em>Nicomachean Ethics</em><strong>.</strong></li>
 <li>We must have a clear understanding about where we’re heading; we need goals.</li>
-<li>Without consciously setting big goals, setting smaller goals (budgeting time), and budgeting money towards goals, you are likely going to waste time and money on things that don’t align with your goals, and you’re less likely to meet your goals.</li>
+<li>Without consciously setting big goals, setting smaller goals, and budgeting our resources (in particular, time and money) towards these goals, you are likely going to waste resources on things that don’t align with your goals, and you’re less likely to meet your goals.</li>
+<li>Proposition: The idea that our ethics should focus on little things hasn’t been written about much.
+<ul>
+<li>(I’m not sure if this is true or not. I should try to find material on this.)</li>
+<li>If it hasn’t, perhaps it’s because people thought there wasn’t much generally applicable content to share.</li>
+<li>Or perhaps most people haven’t had enough resources and freedom to be able to spend time thinking about the plan for their life, and it’s only with our technological progress that many people can think about these things (seems unlikely.)</li>
+</ul></li>
 </ul></li>
 <li>Timescales
 <ul>

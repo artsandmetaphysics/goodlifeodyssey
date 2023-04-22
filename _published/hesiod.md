@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: Hesiod
 Type: Notes
+notion_id: 3eb435b3-e0f8-439d-9cd8-85aa6bf24ad5
+notion_url: https://www.notion.so/Hesiod-3eb435b3e0f8439d9cd885aa6bf24ad5
 ---
 <p>Hesiod was a famous Greek poet—the ancients often mention him in the same sentence with Homer—who wrote the epic hexameter poems <em>Theogony</em> and <em>Works and Days</em>.  He is thought to have lived sometime between 800 and 600 BCE.</p>
 <h2>The Evolution of Myths</h2>

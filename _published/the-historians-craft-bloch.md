@@ -1,10 +1,10 @@
 ---
 Created On: '2022-08-01T03:03:00+00:00'
 Description: "A summary and analysis of Marc Bloch's \u201CThe Historian's Craft,\u201D\
-  \ a justification of history's use through methodological example. My takeaways\
-  \ include a better way to read the news, the need to experience the present to understand\
-  \ the past, the limits of causality as an abstraction, and the use of history to\
-  \ diversify your views."
+  \ a\njustification of history's use through methodological example. My\ntakeaways\
+  \ include a better way to read the news, the need to experience\nthe present to\
+  \ understand the past, the limits of causality as an\nabstraction, and the use of\
+  \ history to diversify your views."
 Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: the-historians-craft-bloch
@@ -13,6 +13,8 @@ Status: Published
 Tags: []
 Title: Marc Bloch on the Use of History
 Type: Notes
+notion_id: e9b5ee6d-8bfd-4860-8b58-a7030e21c897
+notion_url: https://www.notion.so/Marc-Bloch-on-the-Use-of-History-e9b5ee6d8bfd48608b58a7030e21c897
 ---
 <h2>Introduction</h2>
 <p>Marc Bloch begins his book with a question, “What is the use of history?” The question was personal—did I spend my life wisely?—but also central to his understanding of Western civilization. The ancient Greeks and Romans were history writing peoples, and Christianity is a “religion of historians.” Not only are its sacred texts books of history, but also “it is in time and, therefore, in history that the great drama of sin and redemption, the central axis of all Christian thought, is unfolded.”</p>

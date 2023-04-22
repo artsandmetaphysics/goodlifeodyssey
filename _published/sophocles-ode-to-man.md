@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: "Sophocles\u2019 Ode to Man"
 Type: Meditation
+notion_id: 47eed95e-17d2-4e3f-9512-c3bf82b24814
+notion_url: https://www.notion.so/Sophocles-Ode-to-Man-47eed95e17d24e3f9512c3bf82b24814
 ---
 <p>This chorus, my favorite in <em>Antigone</em>, is sung after the Theban king unjustly threatens a messenger with unwelcome news:</p>
 <blockquote><p>

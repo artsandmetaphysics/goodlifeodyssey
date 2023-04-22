@@ -1,7 +1,9 @@
 ---
 Created On: '2022-08-01T02:27:00+00:00'
-Description: A philosophical critique of *As a Driven Leaf*, the story of a 1st century
-  rabbi searching for truth in a Roman world.
+Description: 'A philosophical critique of <em>As a Driven Leaf</em>, the story of
+  a
+
+  1st century rabbi searching for truth in a Roman world.'
 Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: '2018-10-05'
 Slug: as-a-driven-leaf
@@ -10,6 +12,8 @@ Status: Published
 Tags: []
 Title: "Critique of \u201CAs a Driven Leaf\u201D"
 Type: Meditation
+notion_id: d9298504-d763-43af-9838-9e352df3b5c2
+notion_url: https://www.notion.so/Critique-of-As-a-Driven-Leaf-d9298504d76343af98389e352df3b5c2
 ---
 <h2>Introduction</h2>
 <p>Rabbi Milton Steinberg wrote <em>As a Driven Leaf</em> and published it in 1939. It is a novel about Elisha ben Ayubah’s exploration of faith and reason, leading to his excommunication and tragic end as he fails to resolve the questions that haunted him. According to the foreword by Chaim Potok, Elisha’s struggles paralleled Steinberg’s, who was considered a heretic by some.</p>

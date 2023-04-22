@@ -1,6 +1,8 @@
 ---
 Created On: '2022-08-01T02:24:00+00:00'
-Description: A meandering essay about the meaning created by noticing art and individuals.
+Description: 'A meandering essay about the meaning created by noticing art and
+
+  individuals.'
 Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: '2022-02-26'
 Slug: noticing-the-invisible-man
@@ -9,6 +11,8 @@ Status: Published
 Tags: []
 Title: Noticing the Invisible Man
 Type: Meditation
+notion_id: 768cb0a6-47b7-493e-8e53-0f1255c7f5a2
+notion_url: https://www.notion.so/Noticing-the-Invisible-Man-768cb0a647b7493e8e530f1255c7f5a2
 ---
 <p>I don’t recall when I became interested in art. The memories fade into my early childhood: a big boxes of crayons, a step-by-step draw-animals-with-shapes book, a kind old teacher who taught me to paint landscapes and gave me strawberry sodas, a muddy pastel set recovered from the flooded house of a church member, an art class at my first high-school in a room by the street, another art class in my second high school with two girls who gave me snuff.</p>
 <p>In college, I began to looking at others’ art instead of creating my own. That first summer, I drove to New York City with high school friends, and we visited the Metropolitan Museum of Art. I collected my first batch of painting postcards from their gift shop. These, and later additions, have been stuck to the walls of every apartment I’ve lived in since. Now, we live a block away from the Met’s beautiful collection, and we visit often.</p>

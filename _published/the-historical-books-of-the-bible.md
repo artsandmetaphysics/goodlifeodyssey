@@ -10,6 +10,8 @@ Tags:
 - Christianity
 Title: The Historical Books of the Bible
 Type: Notes
+notion_id: 2cf4c8ed-ca2f-4337-9725-36527d3efe4d
+notion_url: https://www.notion.so/The-Historical-Books-of-the-Bible-2cf4c8edca2f4337972536527d3efe4d
 ---
 <h2>Outline</h2>
 <ul>

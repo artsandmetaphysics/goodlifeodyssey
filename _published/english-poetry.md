@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: English Poetry
 Type: Notes
+notion_id: ba5babe5-74d1-4fe4-b2b0-66619d5c5834
+notion_url: https://www.notion.so/English-Poetry-ba5babe574d14fe4b2b066619d5c5834
 ---
 <ul>
 <li><em>Meter</em> is the basic rhythmic structure of a line.</li>

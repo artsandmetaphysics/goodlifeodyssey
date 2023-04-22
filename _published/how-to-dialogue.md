@@ -1,26 +1,74 @@
 ---
 Created On: '2022-08-01T03:03:00+00:00'
-Description: A formalized method of seeking the truth in conversation, inspired by
-  Plato's dialogues.
-Last Edited: '2023-03-25T03:22:00+00:00'
-Published On: null
+Description: 'A formalized method of seeking the truth in conversation, inspired by
+
+  Plato''s dialogues.'
+Last Edited: '2023-04-11T21:50:00+00:00'
+Published On: '2023-04-08'
 Slug: how-to-dialogue
-Slug Override: ''
+Slug Override: how-to-dialogue
 Status: Published
-Tags: []
-Title: How to Dialogue
-Type: Notes
+Tags:
+- Epistemology
+Title: How to Dialogue with Others, Yourself, and AI to Seek the Truth
+Type: Essay
+notion_id: d6b6e208-e114-473c-847f-5532c4d01f27
+notion_url: https://www.notion.so/How-to-Dialogue-with-Others-Yourself-and-AI-to-Seek-the-Truth-d6b6e208e114473c847f5532c4d01f27
 ---
-<p>Many conversations are unproductive because topics change haphazardly or people talk so long that the other person looses interest or the train of thought.</p>
-<p>Here is a method for two conversing truth-seekers to avoid these problems:</p>
+<h2>Unstructured Conversation</h2>
+<p>Most conversations are unstructured. Their topics change at the whims of the participants, and lengthy speeches can become tedious if they cover familiar ground, express common agreement, or are too difficult to follow. This lack of structure is acceptable when the conversation is for leisure or to exchange ideas and information about a broad range of topics. However, when a conversation has a specific end, some structure will help it reach that end.</p>
+<h2>Shared Ends</h2>
+<p>Before engaging in a structured conversation, its members should agree on the ends. For instance, effective meetings have an agreed-upon agenda, and effective political debates have time limits and a moderator to enforce them. Similarly, if the goal of a conversation is to increase confidence in the truth of a belief, then its participants need to care more about finding the truth than being correct.</p>
+<p>Structure won’t help without agreed upon ends, just as procedures and policies are less effective when a company’s members don’t share a culture and mission.</p>
+<h2>The Method Must Match the Ends</h2>
+<p>There are many ways one could add structure a conversation, each suited to different ends. Some approaches work best with two people, while others are better suited for groups. Some methods are better for exploring the validity of an idea, while others are more useful for generating new ideas.</p>
+<h2>A Method of Conversation</h2>
+<p>Here is a structured method of conversation, based on reading Plato and my own practice using it with friends and family, that is suited for two people to explore whether a thesis is consistent with other closely held beliefs:</p>
 <ol type="1">
-<li>Agree on the main question.</li>
-<li>Select the first questioner.</li>
-<li>The questioner asks a question and then is silent.</li>
-<li>The responder succinctly responds <em>or</em> requests to become the questioner.</li>
-<li>Repeat steps 3 and 4 until there is an impasse or the main question is answered.</li>
+<li>Agree on a thesis and who will be the questioner and the respondent.</li>
+<li>The questioner asks a short question.</li>
+<li>The respondent succinctly answers.</li>
+<li>Repeat steps 2 and 3 until there is:
+<ol type="1">
+<li>an impasse,</li>
+<li>sufficient confidence that the thesis is consistent with other beliefs, or</li>
+<li>agreement that the thesis or roles should be changed.</li>
+</ol></li>
 </ol>
-<p>The questioner should keep the questions short and context to a minimum. Questions with a “yes” or “no” response are ideal. The responder should think as long as they need to to respond, but their response should be as short as possible—ideally one word. The responder should avoid providing any information that isn’t needed to answer the question. In particular, they shouldn’t say why they gave their answer.</p>
-<p>If the responder doesn’t understand how a question relates to the main question, you should probably give the questioner the benefit of the doubt. However, if they keep asking questions that seem entirely unrelated, you can request to become the questioner. This request must always be given.</p>
-<p>Both people need to care more about answering the questions correctly, i.e., finding the truth, than about winning the debate.</p>
-<p>Either person can change their responses to previous questions at any time.</p>
+<p>It is helpful to write down the questions and answers during a conversation, especially when clarifying a thesis and the terms used within it. Chat platforms can be better than speaking in person for this reason.</p>
+<p>The questioner should begin by clarifying the thesis and any terms used within it. Typically, a few <a href="/232dc0e44f5e48faa89a85ad81249d32">local definitions</a> emerge. Once the thesis clarified, the questioner tries to find inconsistencies between the thesis and other beliefs held by the respondent. They shouldn’t express their own beliefs, except when it provides context to their questions. Good questions are short, require minimal context, and can be answered succinctly.</p>
+<p>The respondent should think as long as they need to before answering, and the questioner should avoid interrupting with additional thoughts while waiting. Good responses are short—often a “yes” or “no”. In particular, there’s no need to explain your answer, as any uncertainty can be brought out best with questions.</p>
+<p>Conversations following this method may be uncomfortable. There may be long pauses, and it can feel a little silly, especially at first. The structured nature also requires deeper thinking than unstructured conversation, which can be challenging. As a result, there may be a temptation to break out of the structure.</p>
+<p>In addition, there is the issue of control. The respondent selects the thesis, but the questioner controls the direction of the conversation. This can require patience if the respondent doesn't see how a question relates to the thesis. However, in return for giving up control over the conversation's direction, the respondent gets to have their thesis's validity clarified and refined by a mind outside their own.</p>
+<h2>Self Dialogue</h2>
+<p>Critical thinking, in many ways, is a dialogue with yourself. You pose a thesis and you question it. Self dialogue does not require willing participants and is thus more accessible (just as books are more accessible than teachers), but it has disadvantages. It is more difficult to identify inconsistencies in one's own thinking than to have another person point them out. Furthermore, we do not know what we do not know, but another person may know things that we do not, and can bring them to our attention.</p>
+<h2>AI Dialogue</h2>
+<p>AI chatbots can serve as excellent questioners for your beliefs. In many ways, this is an ideal application of these bots, since hallucinations aren't an issue if they're merely asking you questions. Furthermore, the full dialogue can often fit within their context window.</p>
+<p>AI chat bots don’t say “I’m in a hurry now, and it is time for me to go.” And they don’t get frustrated and complain when that you’re making their arguments “go round and not stay in the same place.” They chat bots will be patient while you respond, and won’t leave the structure you provide them. Here is a prompt that’s been useful for structuring conversations with ChatGPT:</p>
+<blockquote><p>
+Act as if you were Socrates and ask me questions about my thesis in an
+attempt to show that I'm being inconsistent with my own beliefs. Be
+sarcastic, make jokes sometimes, and use concrete examples. Begin by
+asking open-ended questions to gather relevant context about my thesis,
+then transition to asking questions that can be answered succinctly and
+with a "yes" or "no" most of the time. Ask me one question at a time.
+Criticize me if I don’t respond to your questions or get off track, and
+don’t back down if you think I’m wrong about something. My thesis is …
+</p></blockquote>
+
+<p>ChatGPT also allows you return to prior points in a dialogue and explore how it may have progressed if you answered differently. This is useful if you realize that you disagree with an earlier response.</p>
+<p>On the other hand, AI Bots have real disadvantages, even beyond their as of yet still inferior ability to “reason”. First, since you’re in control of the conversation, they can’t push back if don’t understand their reasoning or simply want to disengage. Said another way, they won’t pressure you to face the inconsistencies in your strongly held beliefs if you don’t want to. (Although, most people won’t do this with people either.)</p>
+<h2>How to Be a Better Reader of Plato</h2>
+<p>It's understandable that some people get frustrated when they notice inconsistencies in Plato's dialogues. However, if we expect the dialogues to systematically present his views like a treatise does, this frustration is misplaced. I believe that the dialogues were primarily intended to exemplify the ethos and method Socrates used to examine the truth, especially in the earlier ones. Ward Farnsworth nicely highlights this distinction in his book, "The Socratic Method."</p>
+<blockquote><p>
+Questions and answers are the sound of thought happening. An essay or
+lecture is usually the sound of thought <em>having</em> happened, then
+polished up so the result is clear and the process of getting there is
+no longer visible. Ordinarily that’s good. If you know what you think
+and want someone else to know it, explaining it straight out makes
+sense. But if you want to provide a model for getting there—because it
+illustrates the process of figuring that out.
+</p></blockquote>
+
+<p>If Plato's purpose was to teach how to think deeply, then we needn't worry too much if his dialogues are sometimes inconsistent. After all, our views often change when we think deeply about them. Instead, when reading the dialogues, we should focus on how Socrates identified inconsistencies with his questions and the patterns that emerged.</p>
+<p>Since actively practicing the method outlined above, I've become more engaged in Plato's dialogues. I'm now more interested in how his conversations break down and how Socrates moves the discussion forward. If you're reading Plato, I encourage you to practice structured dialogues with a like-minded friend or ChatGPT. It will make you a better reader of Plato, much like <a href="/3fdc984e120244f985761d2233ae0f5c">active reading</a> in general helps one learn more than passive reading.</p>

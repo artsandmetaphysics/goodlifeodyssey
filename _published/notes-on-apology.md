@@ -1,6 +1,6 @@
 ---
 Created On: '2023-03-27T01:57:00+00:00'
-Description: "Outline and commentary on Plato\u2019s *Apology.*"
+Description: "Outline and commentary on Plato\u2019s <em>Apology.</em>"
 Last Edited: '2023-04-02T17:27:00+00:00'
 Published On: '2023-04-02'
 Slug: notes-on-apology
@@ -10,6 +10,8 @@ Tags:
 - Plato
 Title: "Notes on \u201CApology\u201D"
 Type: Notes
+notion_id: 71ef85a5-5624-4ba9-a21d-ad5ef5cd002a
+notion_url: https://www.notion.so/Notes-on-Apology-71ef85a556244ba9a21dad5ef5cd002a
 ---
 <h1>Outline</h1>
 <ol type="1">

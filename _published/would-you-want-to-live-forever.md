@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: Would You Want to Live Forever?
 Type: Dialogue
+notion_id: e3d7b064-ac34-4814-bfe7-1e63fbaacdbe
+notion_url: https://www.notion.so/Would-You-Want-to-Live-Forever-e3d7b064ac344814bfe71e63fbaacdbe
 ---
 <p><span class="sc">Eaden:</span> Eternal life without God would be hell.</p>
 <p><span class="sc">Dijon:</span> Really? You love feasting with friends, wine, and stories—what some say is the best that life can offer. Wouldn’t you want to feast forever?</p>

@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: Mystical Arguments
 Type: Essay
+notion_id: 832a5057-79d5-4ae6-958a-d808a4328be7
+notion_url: https://www.notion.so/Mystical-Arguments-832a505779d54ae6958ad808a4328be7
 ---
 <p>One way Socrates changed people’s minds was to show a person that two of their beliefs contradict. He would tease out these contradictions by asking a sequence of questions, and once the contradiction became apparent the other person would usually abandon or refine one of the beliefs. Anyone who has applied this method knows it doesn’t always end that way. Sometimes, especially when talking about religion or metaphysics, the other person maintains that both contradictory beliefs are true: “I know these two beliefs <em>seem</em> contradictory, but our minds are limited and somehow the two beliefs are both true.” This is one example of what I call a <em>mystical argument,</em> an argument that claims there is a mystery that’s beyond our perception or our ability to reason.</p>
 <p>Consider an example: Many people believe God knows everything and that people have free will. These two beliefs seem contradictory. If God knows someone will murder their father and marry their mother, then how could that person not murder their father and marry their mother? This paradox has been discussed since before Jesus was born. Some Christians argue that God experiences time differently than us and because of this he can know everything while we still have free will.</p>

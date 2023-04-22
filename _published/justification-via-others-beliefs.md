@@ -1,7 +1,7 @@
 ---
 Created On: '2022-07-31T02:22:00+00:00'
 Description: "When is it appropriate to justify our beliefs using other people\u2019\
-  s beliefs?"
+  s\nbeliefs?"
 Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: justification-via-others-beliefs
@@ -10,6 +10,8 @@ Status: Published
 Tags: []
 Title: "Justification via Other People\u2019s Beliefs"
 Type: Essay
+notion_id: a18f9d71-1ade-4cf0-9323-3870a7b7d414
+notion_url: https://www.notion.so/Justification-via-Other-People-s-Beliefs-a18f9d711ade4cf093233870a7b7d414
 ---
 <p>We may justify our beliefs using intuition, reason, emotion, and our senses.</p>
 <p>We may also justify our beliefs using other people’s beliefs. For example, someone may believe sunlight originates from nuclear reactions <em>because their teacher believes it</em>. Alternatively, one could listen to why their teacher believes sunlight originates from nuclear reactions, study the requisite math and physics, and justify the same belief directly.</p>

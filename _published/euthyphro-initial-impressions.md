@@ -1,7 +1,7 @@
 ---
 Created On: '2022-08-01T02:26:00+00:00'
 Description: "What is piety? Is it possible to define? Here are my first thoughts\
-  \ on the first of Plato\u2019s dialogues I have read."
+  \ on\nthe first of Plato\u2019s dialogues I have read."
 Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: '2020-06-18'
 Slug: euthyphro-initial-impressions
@@ -10,6 +10,8 @@ Status: Published
 Tags: []
 Title: "Initial Impression of \u201CEuthyphro\u201D"
 Type: Meditation
+notion_id: 6496e282-72ed-45ba-af1a-69fe4983aae0
+notion_url: https://www.notion.so/Initial-Impression-of-Euthyphro-6496e28272ed45baaf1a69fe4983aae0
 ---
 <p>I just finished reading <em>Euthyphro</em> and would like to collect my first impressions. It is the first of Plato’s dialogues that I have read, besides bits of the <em>Republic</em> in college. It is amazing.</p>
 <p>Socrates runs into Euthyphro, a priest and prophet, at an Athenian court. He is suing his father for murdering someone who in turn murdered their slave. Socrates asks him to define piety. (For surely he must know if he’s willing to sue his own father!) In the remainder of the dialogue they discuss the nature of piety. After attempting several definitions of the word, all of which Socrates dismantles, Euthyphro must leave since he is “in a hurry”.</p>

@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: Meaning and Purpose
 Type: Essay
+notion_id: 1a985d8b-e2d2-44c7-9150-7e93668f2b7f
+notion_url: https://www.notion.so/Meaning-and-Purpose-1a985d8be2d244c791507e93668f2b7f
 ---
 <h2>Meaning as Impact</h2>
 <p>My wedding day was more meaningful than last Tuesday. Is the meaning of an event proportional to its impact?</p>

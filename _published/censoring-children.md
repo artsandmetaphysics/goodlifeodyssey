@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: Censoring Children
 Type: Meditation
+notion_id: eb11a7ec-26a8-45ac-83d1-a4973193e54d
+notion_url: https://www.notion.so/Censoring-Children-eb11a7ec26a845ac83d1a4973193e54d
 ---
 <p>Siddhattha Gotama was prophesied to become either a guru or a conqueror. His ambitious father, hoping his son would follow the latter path, carefully censored him from death, disease, and old-age. This back-fired, for even a king can not hold back the rain. When the Buddha-to-be saw an old man, a diseased man, a corpse, and an ascetic, he left his family to seek enlightenment.</p>
 <p>We live in New York City. Thus, Elanor will grow up seeing beggars, angry men, drunken men, and naked men up on the streets and down in the subways. This concerns my wife and I, since our parents protected us from these things when we were little. Although we have no aspirations for Elanor’s military career, we wonders how an early awareness of poverty and disease, sex and violence, will affect a little soul. Will they traumatize her or make her resilient?</p>

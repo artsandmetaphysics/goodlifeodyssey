@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: Reasoning About Justice from Analogy
 Type: Dialogue
+notion_id: d06bd23b-9f17-489c-b386-eb850c8bdab2
+notion_url: https://www.notion.so/Reasoning-About-Justice-from-Analogy-d06bd23b9f17489cb386eb850c8bdab2
 ---
 <p><span class="sc">Socrates:</span> Is it, then, the part of a just man to harm any human being whatsoever?</p>
 <p><span class="sc">Polemarchus:</span> Certainly, bad men and enemies ought to be harmed.</p>

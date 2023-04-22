@@ -1,6 +1,6 @@
 ---
 Created On: '2022-08-01T03:04:00+00:00'
-Description: "Notes on \u201CThe Homeric Hymns*.\u201D*"
+Description: "Notes on \u201CThe Homeric Hymns<em>.\u201D</em>"
 Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: homeric-hymns
@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: "\u201CThe Homeric Hymns\u201D"
 Type: Notes
+notion_id: 073e3b90-3637-4454-93c1-c58119b26a61
+notion_url: https://www.notion.so/The-Homeric-Hymns-073e3b903637445493c1c58119b26a61
 ---
 <p><em>The Homeric Hymns</em> are a collection of thirty-three hexameter poems which honor the ancient Greek gods.  Modern scholars believe most of them were written between 700 and 500 BCE.  The hymns were traditionally attributed to Homer.</p>
 <p>The Hymns vary from three to over five-hundred lines.  Here are the longest and most interesting hymns:</p>

@@ -1,10 +1,14 @@
 ---
 Created On: '2023-04-01T15:17:00+00:00'
-Description: This dialogue explores the significance of refining one's understanding
-  of ethical terms, such as courage, racism, and inclusion, through Socratic dialogue
-  and other forms of inquiry. They discuss the importance of balancing theory and
-  practice, as well as connecting ethical exploration to the practical concerns and
-  choices.
+Description: 'This dialogue explores the significance of refining one''s understanding
+
+  of ethical terms, such as courage, racism, and inclusion, through
+
+  Socratic dialogue and other forms of inquiry. They discuss the
+
+  importance of balancing theory and practice, as well as connecting
+
+  ethical exploration to the practical concerns and choices.'
 Last Edited: '2023-04-01T18:44:00+00:00'
 Published On: '2023-04-01'
 Slug: socratic-dialogues-and-real-world-choices
@@ -14,6 +18,8 @@ Tags:
 - Ethics
 Title: Socratic Dialogues and Real-World Choices
 Type: Dialogue
+notion_id: 19b001fc-9da9-44b8-a6d5-b11d84022670
+notion_url: https://www.notion.so/Socratic-Dialogues-and-Real-World-Choices-19b001fc9da944b8a6d5b11d84022670
 ---
 <p><span class="sc">Dijon:</span> Even if ethical terms (e.g., piety, justice, courage, free-speech, racism, and inclusion) don’t have simple definitions, it’s still important to clarify their meaning so our ethics and politics are consistent. Furthermore, Socratic style dialogue is an optimal way to do this.</p>
 <p><span class="sc">Chagopan:</span> What do you believe is the purpose of seeking consistency in one's ethics and politics?</p>

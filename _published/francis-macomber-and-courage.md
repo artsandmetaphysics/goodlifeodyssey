@@ -1,7 +1,7 @@
 ---
 Created On: '2022-07-14T04:29:00+00:00'
 Description: "In my life, I haven\u2019t had much need for courage. And so I haven\u2019\
-  t thought much about it, until reading a short Hemmingway story."
+  t\nthought much about it, until reading a short Hemmingway story."
 Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: '2022-07-18'
 Slug: francis-macomber-and-courage
@@ -10,6 +10,8 @@ Status: Published
 Tags: []
 Title: Francis Macomber and Courage
 Type: Meditation
+notion_id: 77a2cec4-7898-4c84-a26d-672ad9363874
+notion_url: https://www.notion.so/Francis-Macomber-and-Courage-77a2cec478984c84a26d672ad9363874
 ---
 <p>In my life, I haven’t had much need for courage. And so I haven’t thought much about it, until reading a short Hemingway story.</p>
 <p>“It was now lunch time and they were all sitting under the double green fly of the dining tent pretending that nothing had happened,” it begins. We learn that the wealthy 35-year-old New Yorker, Francis Macomber, had proved a coward when, on a great game hunt in Africa, he fled from a lion. The next day he flees again, and his scornful wife cuckolds him with their guide.</p>

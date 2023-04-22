@@ -10,6 +10,8 @@ Tags:
 - History
 Title: History of Japan
 Type: Notes
+notion_id: 2f4585f6-d556-4f25-8995-f3135bdee725
+notion_url: https://www.notion.so/History-of-Japan-2f4585f6d5564f258995f3135bdee725
 ---
 <ul>
 <li>Prehistoric and ancient Japan

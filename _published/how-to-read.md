@@ -1,7 +1,7 @@
 ---
 Created On: '2022-08-01T03:03:00+00:00'
-Description: "Suggestions for reading non-fiction books effectively, largely inspired\
-  \ by Mortimer Alder\u2019s \u201CHow to Read a Book.\u201D"
+Description: "Suggestions for reading non-fiction books effectively, largely inspired\n\
+  by Mortimer Alder\u2019s \u201CHow to Read a Book.\u201D"
 Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: how-to-read
@@ -10,6 +10,8 @@ Status: Published
 Tags: []
 Title: How to Read Non-Fiction Books
 Type: Notes
+notion_id: 3fdc984e-1202-44f9-8576-1d2233ae0f5c
+notion_url: https://www.notion.so/How-to-Read-Non-Fiction-Books-3fdc984e120244f985761d2233ae0f5c
 ---
 <p>One may read for entertainment, information, or understanding. Here I consider how to read non-fiction books with the goal of gaining understanding about a topic. These approaches may apply to shorter works, but few will apply to fiction.</p>
 <p>Many non-fiction books are repetitive, disorganized, incorrect, inconsistent, or merely irrelevant. Thus the first step of reading a book is to deduce how worthwhile it is.</p>

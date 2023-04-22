@@ -1,7 +1,9 @@
 ---
 Created On: '2022-08-01T02:24:00+00:00'
-Description: Literature can instill wisdom by sharing with us the experiences of its
-  authors.
+Description: 'Literature can instill wisdom by sharing with us the experiences of
+  its
+
+  authors.'
 Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: '2021-12-23'
 Slug: homer-teaches-us-to-die
@@ -10,6 +12,8 @@ Status: Published
 Tags: []
 Title: Homer Teaches Us to Die
 Type: Meditation
+notion_id: 01804b7d-afbc-43ed-b143-52cc7526e3ad
+notion_url: https://www.notion.so/Homer-Teaches-Us-to-Die-01804b7dafbc43edb14352cc7526e3ad
 ---
 <p>This morning, while Elanor scribbled with her sixteen new crayons, I sifted through my new translation of the <em>Iliad</em>. I read how Teuthras’ son, Tydides, killed a good man from Arisbe and his loyal servant:</p>
 <blockquote><p>

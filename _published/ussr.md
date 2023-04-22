@@ -10,6 +10,8 @@ Tags:
 - History
 Title: USSR
 Type: Notes
+notion_id: f8e3cb8a-9c93-422f-9ffa-a37fe76897f4
+notion_url: https://www.notion.so/USSR-f8e3cb8a9c93422f9ffaa37fe76897f4
 ---
 <h1>Timeline</h1>
 <ul>

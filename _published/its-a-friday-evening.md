@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: "It\u2019s a Friday Evening"
 Type: Poem
+notion_id: cb0d9507-db55-45a8-a461-0fc730e69c82
+notion_url: https://www.notion.so/It-s-a-Friday-Evening-cb0d9507db5545a8a4610fc730e69c82
 ---
 <p>It’s a Friday evening,<br />
 dinner’s not yet started.<br />

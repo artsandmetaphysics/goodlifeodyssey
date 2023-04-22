@@ -1,7 +1,7 @@
 ---
 Created On: '2023-02-26T17:05:00+00:00'
 Description: "Critical questions about \u201CMrs. Dalloway\u201D (from my book club)\
-  \ along with responses."
+  \ along with\nresponses."
 Last Edited: '2023-03-25T19:28:00+00:00'
 Published On: '2023-03-25'
 Slug: mrs-dalloway
@@ -10,6 +10,8 @@ Status: Published
 Tags: []
 Title: Mrs. Dalloway
 Type: Notes
+notion_id: cb3ac9cd-4efb-4df0-8567-0b1c2bacfbad
+notion_url: https://www.notion.so/Mrs-Dalloway-cb3ac9cd4efb4df085670b1c2bacfbad
 ---
 <p><strong>Jenny Offill, in her New Yorker article “A Lifetime of Lessons in ‘Mrs. Dalloway’”, read</strong> <em><strong>Mrs. Dalloway</strong></em> <strong>three times and each time was drawn to new passages. Virginia Woolf herself writes:</strong></p>
 <blockquote><p>

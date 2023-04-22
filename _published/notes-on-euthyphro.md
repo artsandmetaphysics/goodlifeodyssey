@@ -10,6 +10,8 @@ Tags:
 - Plato
 Title: "Notes on \u201CEuthyphro\u201D"
 Type: Notes
+notion_id: 58c8fad1-f68c-487e-ae10-9f845df054c7
+notion_url: https://www.notion.so/Notes-on-Euthyphro-58c8fad1f68c487eae109f845df054c7
 ---
 <h1>Outline</h1>
 <ul>

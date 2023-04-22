@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: "\u201CRavelstein\u201D"
 Type: Meditation
+notion_id: 8332712a-1c1c-4576-85ba-3778b0fd213c
+notion_url: https://www.notion.so/Ravelstein-8332712a1c1c457685ba3778b0fd213c
 ---
 <p><em>Ravelstein</em> is Saul Bellow’s final novel—a memoir of his great-souled friend and co-lecturer Allan Bloom. My wife and I listened to it in the evenings over the course of a few weeks.</p>
 <p>I hadn’t heard of Bellow before. My dad told me later that he’d started <em>The Adventures of Augie March</em> in college and couldn’t get into it, but <em>Ravelstein</em> kept my attention. I wanted to know what Bloom was like. I had just read his famous commentary on America’s universities and his translation of Plato’s <em>Republic</em>. The audiobook format also helped us to the end, propelling us past the unfamiliar foreign phrases and proper nouns and encouraging us to follow Mortimer Adler’s advice to read stories “quickly and with total immersion.” Not that <em>Ravelstein</em> is much of a story. Bellow’s pledge to write a memoir, and his struggle to do so, is the only semblance of a plot. The humor and delightful descriptions also kept us listening. Of the ten chapters, only the last one dragged a bit.</p>

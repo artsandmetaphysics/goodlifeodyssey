@@ -1,8 +1,8 @@
 ---
 Created On: '2022-08-01T02:25:00+00:00'
 Description: "How do we balance our duty to others and our duty to family? Socrates\u2019\
-  \ life, as presented in Plato\u2019s \u201CApology,\u201D provides material for\
-  \ reflection."
+  \nlife, as presented in Plato\u2019s \u201CApology,\u201D provides material for\n\
+  reflection."
 Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: '2020-07-03'
 Slug: duty-to-others-and-platos-apology
@@ -11,6 +11,8 @@ Status: Published
 Tags: []
 Title: "Duty to Others and Plato\u2019s \u201CApology\u201D"
 Type: Meditation
+notion_id: 0ecfa7f0-3b9b-4a7e-a5b2-8436f557d51a
+notion_url: https://www.notion.so/Duty-to-Others-and-Plato-s-Apology-0ecfa7f03b9b4a7ea5b28436f557d51a
 ---
 <p>Can a person be good yet spend all their time and money on themselves, their family, and their friends?</p>
 <p>For example, my children are fed, educated, and even entertained. We own a house. We’ve saved, so we won’t need to work until we are bent. But there is always more—we want to travel, own art, and buy a summer home. Would we be selfish to continue spending mostly on ourselves?</p>

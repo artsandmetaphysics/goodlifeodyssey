@@ -1,7 +1,8 @@
 ---
 Created On: '2022-07-31T03:17:00+00:00'
-Description: An imaginative dialogue with Socrates about the limitations of writing
-  and dialectic.
+Description: 'An imaginative dialogue with Socrates about the limitations of writing
+
+  and dialectic.'
 Last Edited: '2023-03-25T03:22:00+00:00'
 Published On: null
 Slug: socrates-underestimated-writing
@@ -10,6 +11,8 @@ Status: Published
 Tags: []
 Title: Socrates Underestimated Writing
 Type: Dialogue
+notion_id: d5e59a61-f2e7-4859-8d99-9caa86cb4d11
+notion_url: https://www.notion.so/Socrates-Underestimated-Writing-d5e59a61f2e748598d999caa86cb4d11
 ---
 <p><span class="sc">Socrates:</span> Well, this is what I’ve heard. Among the ancient gods of Naucratis in Egypt there was one named Theuth, and it was he who first discovered number and calculation, geometry and astronomy, as well as the games of checkers and dice, and above all else, writing.</p>
 <p>Now the king of all Egypt at that time was the god Ammon. Theuth came to exhibit his arts to him and urged him to disseminate them to all the Egyptians. Ammon asked him about the usefulness of each art, and while Theuth was explaining it, Ammon praised him for whatever he thought was right in his explanations and criticized him for whatever he thought was wrong.</p>

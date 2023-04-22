@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: The End of Coffee
 Type: Meditation
+notion_id: c39bace8-1bde-47c0-a5f4-5a2bfc5ddfe1
+notion_url: https://www.notion.so/The-End-of-Coffee-c39bace81bde47c0a5f45a2bfc5ddfe1
 ---
 <p>I realized, after working with a colleague all week, how much my coffee-drinking disrupts my work. Each morning he’d be ready, but I would need a cup of coffee. An hour later he’d be focused on work, but I would need to urinate. After lunch he’d be ready to continue, but I would need another cup to clear my head. I probably spent fifteen to thirty minutes acquiring and disposing of coffee each day.</p>
 <p>All activities and choices have an end—a purpose. Why do I drink coffee?</p>

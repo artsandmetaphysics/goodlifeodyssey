@@ -9,6 +9,8 @@ Status: Published
 Tags: []
 Title: "The \u201CIliad\u201D"
 Type: Notes
+notion_id: 9a39ca85-b7a7-4f4e-936c-7ba6569f6a10
+notion_url: https://www.notion.so/The-Iliad-9a39ca85b7a74f4e936c7ba6569f6a10
 ---
 <h2>Background</h2>
 <p>The <em>Iliad</em> is the greatest Greek epic poem. The ancients believed that it was composed by the blind poet Homer. Modern scholars debate when it was composed and by whom, but most agree it was written around 700 BCE.</p>

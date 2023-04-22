@@ -1,7 +1,9 @@
 ---
 Created On: '2023-01-24T13:13:00+00:00'
-Description: Pondering difficult moral decision in Lord of the Rings, and thoughts
-  on balancing consequences and intentions.
+Description: 'Pondering difficult moral decision in Lord of the Rings, and thoughts
+  on
+
+  balancing consequences and intentions.'
 Last Edited: '2023-03-25T03:27:00+00:00'
 Published On: '2023-01-24'
 Slug: why-bother-with-boromirs-body
@@ -11,6 +13,8 @@ Tags:
 - Ethics
 Title: "Why Bother with Boromir\u2019s Body?"
 Type: Meditation
+notion_id: e5c5afb4-8287-4627-ac43-e6785f07dd39
+notion_url: https://www.notion.so/Why-Bother-with-Boromir-s-Body-e5c5afb482874627ac43e6785f07dd39
 ---
 <p>Cicero said “once you adopt moral goodness as your guide… it will follow automatically what our practical duties or obligations must be”. He was wrong. Moral obligations are not always clear, even with moral goodness as our guide. In fact, some choices are so unclear that weighing them can be mental torture.</p>
 <p>My wife and I face a few such questions of duty: Should we move back from New York, the city we love, to raise our daughter near family? Should we give our daughter a sibling to accompany her through life, or should we preserve our attention for her (and side step the costs and stresses of a second child)? We have weighed these questions for years, and our freedom to choose has given birth to a nagging uncertainty, which fades at times but is always unsettlingly present.</p>
