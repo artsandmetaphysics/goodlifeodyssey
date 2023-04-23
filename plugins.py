@@ -43,7 +43,7 @@ class LinkPageMention(PageMention):
         page = self.client.get_page(self.notion_page_id)
 
         # assume the slug is the url
-        url = "./" + page.properties['Slug'].to_value()
+        url = "/" + page.properties['Slug'].to_value()
         return [Link(
             ('', [], []),
             [Str(self.plain_text)],
