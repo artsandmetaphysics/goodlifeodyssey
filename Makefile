@@ -10,4 +10,4 @@ notion: n2y.yml
 .PHONY: clean
 
 clean:
-	rm -rf docs
+	rm -rf docs/*.html

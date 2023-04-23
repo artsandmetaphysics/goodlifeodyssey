@@ -13,19 +13,12 @@ export_defaults:
     - '--wrap=none'
   yaml_front_matter: False
 exports:
-  #   - output: './docs/index.html'
-  #     id: 'cab5da116b224f358d418f7ae7c79667'
-  #     plugins:
-  #       - 'n2y.plugins.removecallouts'
-  #       - 'n2y.plugins.rawcodeblocks'
-  #       - 'plugins'
-  #     node_type: 'page'
-  #   - output: './docs/sitemap.txt'
-  #     id: '38ce9ad1b99e4aaab30e2ae99dd0a326'
-  #     node_type: 'page'
-  #     pandoc_format: 'plain'
-  #     pandoc_options:
-  #       - '--wrap=none'
+  #- output: './docs/sitemap.txt'
+  #  id: '38ce9ad1b99e4aaab30e2ae99dd0a326'
+  #  node_type: 'page'
+  #  pandoc_format: 'plain'
+  #  pandoc_options:
+  #    - '--wrap=none'
    - output: './docs'
      id: '94b4804111924eab834fd6f56a7964b9'
      node_type: 'database_as_files'
