@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Notes on “Euthyphro”</title>
+    <meta name="description" content="Notes from my second reading of Plato’s dialgoue, Euthyphro.">
+    <meta name="twitter:card" value="summary">
+    <meta property="og:title" content="Notes on “Euthyphro”">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="/notes-on-euthyphro">
+    <meta property="og:image" content="/favicon.png">
+    <meta property="og:description" content="Notes from my second reading of Plato’s dialgoue, Euthyphro.">
+    <link rel="apple-touch-icon-precomposed" href="/favicon.png">
+    <link rel="alternate" type="application/rss+xml" title="Good Life Odyssey" href="https://goodlifeodyssey.com/rssmain.xml">
+    <style>
+      html {
+        /*
+         * Set a reasonable font-size, such that at 32rem we have ~70 characters on a
+         * line.
+         */
+        line-height: 1.5625;
+        font-size: 20px;
+        font-family: Georgia, Times, 'Times New Roman', serif;
+        color: #222;
+
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+      }
+
+      body {
+        margin: 0;
+        padding: 0 1rem 1rem 1rem;
+
+        /*
+         * Nearly all sizes are based on rems so that we can responsively change the
+         * font sizes.
+         */
+        font-size: 1rem;
+      }
+
+      header, main, footer {
+        max-width: 32rem;
+
+        padding: 0;
+
+        /*
+         * Horizontally center top-level block elements
+         */
+        margin: 0 auto;
+
+        /*
+         * Necessary for IE11.
+         */
+        display: block;
+      }
+
+      header, footer {
+        font-size: 0.9rem;
+        color: #AAA;
+      }
+
+      header a,
+      footer a {
+        color: #2C8F30;
+      }
+
+      h1, h2, h3 {
+        font-family: 'Arial Narrow', Arial, sans-serif;
+      }
+
+      h1 {
+        font-size: 1.5rem;
+      }
+
+      h2 {
+        font-size: 1.25rem;
+      }
+
+      h3 {
+        font-size: 1.1rem;
+      }
+
+      a {
+        background-color: transparent;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      strong {
+        font-weight: bolder;
+      }
+
+      .sc {
+        font-variant: small-caps;
+        margin-right: 0.2rem;
+      }
+
+      blockquote {
+        font-size: 0.9rem;
+        margin-left: 0;
+        margin-right: 0;
+        quotes: none;
+        padding-left: 1.0rem;
+        padding-right: 1.0rem;
+        overflow: auto;  /* for floating citations */
+      }
+
+      /*
+       * Block quotes with poetry have a separate <p> for each line of verse, with a
+       * <br> in between.  We need a separate <p> for each line so that we can
+       * indent long lines that wrap.  We do this by setting the `text-indent` (which
+       * only affects the first line) to -2.5em, and then adding a 2.5em margin-left.
+       * The margin-left will shift over all lines but the first.  Note we use 2.5rem
+       * instead of 2rem, so that it is easier to distinguish a wrap-around indent
+       * from a regular indented line (which is indented to 1rem).
+       */
+      .poetry > p {
+        padding: 0;
+        margin: 0 0 0 2.5em;
+        text-indent: -2.5em;
+      }
+
+      /*
+       * Since we are using a <p> for each line, we need to remove the typical
+       * padding around the <p>.  In order to properly separate paragraphs in the
+       * poetry, we insert a line break.  We set the `content` to a blank string, and
+       * set the margin-top, so that we get the proper spacing which is usually in
+       * between <p> tags.
+       */
+      .poetry > br {
+        display: block;
+        content: "";
+        margin-top: 1rem;
+      }
+
+      /*
+       * The "indent" class is applied to verses which need to be indented.
+       */
+      blockquote > p.indent {
+        text-indent: -1.5em;
+      }
+
+      .prose > p {
+        margin: 0;
+      }
+
+      .prose > p:not(:first-child) {
+        text-indent: 1em;
+      }
+
+      /*
+       * Ensure that inline citations don't word-wrap.
+       */
+      p > cite {
+        white-space: nowrap;
+        float: right;
+      }
+
+      /*
+       * This style ensures that there is the correct spacing between a <cite> and
+       * the previous <p> tag, both in regular blockquotes and in poetry blockquotes.
+       */
+      blockquote > p:last-of-type {
+        margin-bottom: 0.3rem;
+      }
+
+      blockquote > p:first-child {
+        margin-top: 0;
+      }
+
+      ul, ol {
+        padding-left: 2rem;
+      }
+
+      dt {
+        font-weight: bold;
+      }
+
+      dt > p {
+        margin-top: 0.2rem;
+      }
+
+      @media print {
+        html {
+          font-size: 16px;
+        }
+
+        header, main, footer {
+          max-width: 100%;
+        }
+
+        /*
+         * Make sure that URLs are available to people that print the page.
+         */
+        a:after {
+          content: " [" attr(href) "]";
+        }
+
+        .hidden-print {
+          display: none;
+        }
+      }
+
+      /*
+       * 680px = (1rem body padding + 32rem main + 1rem body padding)*20px
+       */
+      @media (max-width: 680px) {
+        html {
+          font-size: 18px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*18px
+       */
+      @media (max-width: 576px) {
+        html {
+          font-size: 16px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*16px
+       */
+      @media (max-width: 544px) {
+        html {
+          font-size: 14px;
+
+          /*
+           * Turn off serifs once the font-size gets too small; serifs are nice at
+           * larger font-sizes since they make letters visually stick together into
+           * words.  At smaller font-sizes they can make the text difficult to read.
+           */
+          font-family: Helvetica, Aria, sans-serif;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*14px
+       */
+      @media (max-width: 476px) {
+        html {
+          font-size: 13px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*13px
+       */
+      @media (max-width: 442px) {
+
+        /*
+         * At very small screen sizes, remove unnecessary padding in block quotes
+         * and instead make the color a bit dimmer to set them off from the main
+         * text.
+         */
+        blockquote {
+          padding-right: 0;
+          padding-left: 0;
+          color: #AAA;
+        }
+
+        p > cite {
+          float: none;
+        }
+
+        .hidden-sm {
+          display: none;
+        }
+
+        button {
+          flex-grow: 1;
+        }
+      }
+
+      form {
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+      input[type="email"],
+      button {
+        margin: 1rem 0 0 0;
+        font-size: 16px;
+        padding: 0.5rem;
+        border-radius: 0;
+      }
+
+      input[type="email"] {
+        border: 1px solid #AAA;
+        flex-grow: 1;
+      }
+
+      button {
+        background-color: #2C8F30;
+        border: 1px solid #2C8F30;
+        color: white;
+        text-align: center;
+        cursor: pointer;
+      }
+
+      .float-right {
+        float: right;
+      }
+    </style>
+  </head>
+  <body>
+        <header>
+      <p class="hidden-print">
+        <a title="home" href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+        <a title="subscribe to the email list" class="float-right" href="#subscribe">subscribe</a>
+      </p>
+    </header>
+        <main>
+      <h1>Notes on “Euthyphro”</h1>
+      <h1>Outline</h1>
+      <ul>
+      <li>Introduction
+      <ul>
+      <li>Socrates is being indicted</li>
+      <li>Euthyphro’s back story</li>
+      <li>Socrates wants Euthyphro to teach him</li>
+      </ul></li>
+      <li>Initial direct attempts at a definition
+      <ul>
+      <li>First definition: “prosecuting wrongdoers”</li>
+      <li>Rebuttal: Two specific</li>
+      <li>Second definition: “what is dear to the gods”</li>
+      <li>Rebuttal: The gods disagree</li>
+      <li>Third definition: “what <em>all</em> the gods love”</li>
+      <li>Rebuttal: Circularity and the Euthyphro Dillema</li>
+      <li>Euthyphro blames Socrates for making the definitions “move”</li>
+      </ul></li>
+      <li>New approach: “Is all that is pious just?”
+      <ul>
+      <li>Discussion about “sets”</li>
+      <li>Fourth definition: “the part of justice that is concerned with the care of the gods”</li>
+      <li>Defining caring</li>
+      <li>Ending in circularity</li>
+      </ul></li>
+      </ul>
+      <h1>Notes</h1>
+      <ul>
+      <li>In Socrates’ opening line, he corrects Euthyphro and (at least in translation) seems to correct his misuse of a term. Euthyphro fails to acknowledge his correction. I wonder if these lines are meant to foreshadow Euthyphro’s failure to define <em>piety</em> and his unwillingness to acknowledge his lack of knowledge. This theory may feel far-fetched, but in other places, Plato carefully inserts meaning into his dialogues’ backstories. Furthermore, Homer summarizes the <em>Iliad</em> with it’s opening word—rage, and the <em>Odyssey</em> with <em>man,</em> and Plato appears to consciously present Socrates and his intellectual virtues as an alternative to Achilles and his physical virtues.</li>
+      <li>It’s not allowable to “make innovations in religious matters”.
+      <ul>
+      <li>We think greek religion is false. Thus, it must have been made up by someone. If innovations in religious matters weren’t allowed, how did the original religious stuff become made up?</li>
+      <li>Politically, it seems that American society lives on top of a civic religion. The issues in Israel right now seem to be a tension between Israel’s democratic civil “religion” and the conservative Jews.</li>
+      <li>Observation about Egyptian hieroglyphs.</li>
+      </ul></li>
+      <li>The education of the youth
+      <ul>
+      <li>As parents, how much control do we have over our children’s education?</li>
+      <li>Allan Bloom: All education systems have some concept of morality that, more or less conciously, defines its curriculum and approach.</li>
+      </ul></li>
+      <li>It’s interesting that Euthyphro “foretells the future” in assembly and that he feels confident doing this. Oracles are used throughout Herodotus and Thucydides.</li>
+      <li>Ethical principal: Extreme acts require extreme confidence.
+      <ul>
+      <li>Here are some examples of this principle:
+      <ul>
+      <li>Innocent until proven guilty; “Beyond a shadow of a doubt”</li>
+      <li>Most religious people don’t do extreme acts unless they have extreme “faith” (whether there faith is well-placed can be thought of as a separate matter).</li>
+      </ul></li>
+      <li></li>
+      </ul></li>
+      <li>Once Socrates talks Euthyphro into becoming his teacher, he asks him a critical question: “Is the pious not the same and alike in every action, and the impious the opposite of all that is pious and like itself, and everything that is to be impious presents us with one form or appearance in so far as it is impious?” More succinctly, Socrates is asking whether Euthyphyro thinks we can define piety, for if what it is to be pious is different in every action, there wouldn’t be a succinct way to define it.</li>
+      <li>Euthyphro’s first definition
+      <ul>
+      <li>It’s very specific in that it focuses on prosecuting wrongdoers. Job made sacrifices to God and was considered pious. So too does Agmmemnon and many other Greeks, thus sacrifices seem to be an important aspect of piety that has nothing to do with prosecuting wrongdoers.</li>
+      </ul></li>
+      <li>Socrates has to keep Euthyphro on track in his discussion.
+      <ul>
+      <li>E.g., “I should not be surprised [if you can tell me other amazing things about the gods], but you will tell me these at leisure some other time.”</li>
+      </ul></li>
+      <li>When Socrates says that we would “proceed to count and soon resolve our differences”, it feels analogous to the scientific method. We could say, if two scientists disagree, we would proceed to design an experiment, run the experiment, and would soon let reality resolve our differences. Thus, the topics that cause difficulty are not topics that can be resolved by the scientific method, e.g., what is just or unjust, beautiful or ugly, good or bad can’t be weighed by science.</li>
+      <li>When Euthyphro has attempted three definitions and has ultimately failed to come up with anything good, he’s about to give up the search for a definition. At this point Socrates says “Since I think you are making unnecessary difficulties, I am as eager as you are to find a way to teach me about piety, and do not give up before you do. See whether you think all that is pious is of necessity just.” This is an interesting tactic. He resets the line of questioning on a new path. This time, instead of letting Euthyphro propose just any definition, he starts by shows that (1) piety is a species of the genus justice, and (2) guides Euthyphro to pick which species it is. (This is also how Aristotle liked to define terms.)</li>
+      <li>Socrates loves the truth
+      <ul>
+      <li>“I am clever without wanting to be, for I would rather have your statements to me remain unmoved than possess the wealth of Tantalus as well as the cleverness of Daedalus.” (11e)</li>
+      <li>“Socrates: Piety would then be a sort of trading skill between gods and men? Euthyphro: Trading yes, if you prefer to call it that. Socrates: I prefer nothing, unless it is true.” (14e)</li>
+      <li>Socrates’ questions may seem like sophistry, but they’re not because he really desires the truth, even if he’s humorous and sarcastic during his pursuit of it.</li>
+      </ul></li>
+      <li>Socrates overgeneralizes his ideas about essential definitions from numbers (and odds and evens) to definitions of words like justice.</li>
+      <li>Socrates sarcasm and feigned humility is off-putting.</li>
+      <li>People are threatened when you question their core beliefs. Euthyphro, despite not accepting the contradictions in his belief and giving up on the conversation, he did engage with Socrates longer than most would.</li>
+      <li>The Socratic method isn’t useful in all situations; it seems especially useful when you need to deeply probe an issue.</li>
+      <li>To what extent is this work an indictment of the difficulty in defining basic values/principles, vs. the difficulty in doing so on derived or emergent concepts?
+      <ul>
+      <li>I think a great deal of the discussions in Plato hinge on this question.</li>
+      <li>I’ve read the first third of of Wittgenstein’s <em>Philosophical</em> <em>Investigations</em>, which is an extended discussion about words and language. He was a careful reader of Plato and he rejected Plato’s attempts to find essential definitions. I tend to agree with Wittgenstein, and I think machine learning models (e.g., Chat GPT) open up new lines of inquiry into this question.</li>
+      <li>It seems to me that words are “models” of reality, and like all models, they’re useful approximations. Socrates seems to expect definitions to have as much precision as mathematics.</li>
+      </ul></li>
+      <li>A monotheist could reasonably hold the third definition: piety is doing what is loved by God, and this God loves what he loves just because and not (leading to circularity) because it is pious. We may feel that what is loved by God is wrong (e.g., heterosexuality) but who are we to question this; there is no external standard to appeal to. This view, while unsatisfying to a non-believer, is at least consistent and solves the Euthyphro dillema.</li>
+      <li>In a sense, Jesus was put to death for suggesting that the Pharisee’s rule-following definition of piety be replaced with a new principle-based definition of piety.</li>
+      </ul>
+    </main>
+    <footer class="hidden-print">
+      <form action="https://formspree.io/xqkyblqg" method="POST">
+        <input id="subscribe" type="email" placeholder="Email" name="email" required>
+        <button type="submit">Subscribe</button>
+      </form>
+      <p class="hidden-print">
+        <a href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+      </p>
+    </footer>
+  </body>
+</html>

@@ -11,3 +11,4 @@ Pipfile.lock
 .env
 src/n2y
 .vscode
+cache.sqlite3

@@ -1,0 +1,716 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The “Odyssey”</title>
+    <meta name="description" content="Notes on the “Odyssey.”">
+    <meta name="twitter:card" value="summary">
+    <meta property="og:title" content="The “Odyssey”">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="/the-odyssey">
+    <meta property="og:image" content="/favicon.png">
+    <meta property="og:description" content="Notes on the “Odyssey.”">
+    <link rel="apple-touch-icon-precomposed" href="/favicon.png">
+    <link rel="alternate" type="application/rss+xml" title="Good Life Odyssey" href="https://goodlifeodyssey.com/rssmain.xml">
+    <style>
+      html {
+        /*
+         * Set a reasonable font-size, such that at 32rem we have ~70 characters on a
+         * line.
+         */
+        line-height: 1.5625;
+        font-size: 20px;
+        font-family: Georgia, Times, 'Times New Roman', serif;
+        color: #222;
+
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+      }
+
+      body {
+        margin: 0;
+        padding: 0 1rem 1rem 1rem;
+
+        /*
+         * Nearly all sizes are based on rems so that we can responsively change the
+         * font sizes.
+         */
+        font-size: 1rem;
+      }
+
+      header, main, footer {
+        max-width: 32rem;
+
+        padding: 0;
+
+        /*
+         * Horizontally center top-level block elements
+         */
+        margin: 0 auto;
+
+        /*
+         * Necessary for IE11.
+         */
+        display: block;
+      }
+
+      header, footer {
+        font-size: 0.9rem;
+        color: #AAA;
+      }
+
+      header a,
+      footer a {
+        color: #2C8F30;
+      }
+
+      h1, h2, h3 {
+        font-family: 'Arial Narrow', Arial, sans-serif;
+      }
+
+      h1 {
+        font-size: 1.5rem;
+      }
+
+      h2 {
+        font-size: 1.25rem;
+      }
+
+      h3 {
+        font-size: 1.1rem;
+      }
+
+      a {
+        background-color: transparent;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      strong {
+        font-weight: bolder;
+      }
+
+      .sc {
+        font-variant: small-caps;
+        margin-right: 0.2rem;
+      }
+
+      blockquote {
+        font-size: 0.9rem;
+        margin-left: 0;
+        margin-right: 0;
+        quotes: none;
+        padding-left: 1.0rem;
+        padding-right: 1.0rem;
+        overflow: auto;  /* for floating citations */
+      }
+
+      /*
+       * Block quotes with poetry have a separate <p> for each line of verse, with a
+       * <br> in between.  We need a separate <p> for each line so that we can
+       * indent long lines that wrap.  We do this by setting the `text-indent` (which
+       * only affects the first line) to -2.5em, and then adding a 2.5em margin-left.
+       * The margin-left will shift over all lines but the first.  Note we use 2.5rem
+       * instead of 2rem, so that it is easier to distinguish a wrap-around indent
+       * from a regular indented line (which is indented to 1rem).
+       */
+      .poetry > p {
+        padding: 0;
+        margin: 0 0 0 2.5em;
+        text-indent: -2.5em;
+      }
+
+      /*
+       * Since we are using a <p> for each line, we need to remove the typical
+       * padding around the <p>.  In order to properly separate paragraphs in the
+       * poetry, we insert a line break.  We set the `content` to a blank string, and
+       * set the margin-top, so that we get the proper spacing which is usually in
+       * between <p> tags.
+       */
+      .poetry > br {
+        display: block;
+        content: "";
+        margin-top: 1rem;
+      }
+
+      /*
+       * The "indent" class is applied to verses which need to be indented.
+       */
+      blockquote > p.indent {
+        text-indent: -1.5em;
+      }
+
+      .prose > p {
+        margin: 0;
+      }
+
+      .prose > p:not(:first-child) {
+        text-indent: 1em;
+      }
+
+      /*
+       * Ensure that inline citations don't word-wrap.
+       */
+      p > cite {
+        white-space: nowrap;
+        float: right;
+      }
+
+      /*
+       * This style ensures that there is the correct spacing between a <cite> and
+       * the previous <p> tag, both in regular blockquotes and in poetry blockquotes.
+       */
+      blockquote > p:last-of-type {
+        margin-bottom: 0.3rem;
+      }
+
+      blockquote > p:first-child {
+        margin-top: 0;
+      }
+
+      ul, ol {
+        padding-left: 2rem;
+      }
+
+      dt {
+        font-weight: bold;
+      }
+
+      dt > p {
+        margin-top: 0.2rem;
+      }
+
+      @media print {
+        html {
+          font-size: 16px;
+        }
+
+        header, main, footer {
+          max-width: 100%;
+        }
+
+        /*
+         * Make sure that URLs are available to people that print the page.
+         */
+        a:after {
+          content: " [" attr(href) "]";
+        }
+
+        .hidden-print {
+          display: none;
+        }
+      }
+
+      /*
+       * 680px = (1rem body padding + 32rem main + 1rem body padding)*20px
+       */
+      @media (max-width: 680px) {
+        html {
+          font-size: 18px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*18px
+       */
+      @media (max-width: 576px) {
+        html {
+          font-size: 16px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*16px
+       */
+      @media (max-width: 544px) {
+        html {
+          font-size: 14px;
+
+          /*
+           * Turn off serifs once the font-size gets too small; serifs are nice at
+           * larger font-sizes since they make letters visually stick together into
+           * words.  At smaller font-sizes they can make the text difficult to read.
+           */
+          font-family: Helvetica, Aria, sans-serif;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*14px
+       */
+      @media (max-width: 476px) {
+        html {
+          font-size: 13px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*13px
+       */
+      @media (max-width: 442px) {
+
+        /*
+         * At very small screen sizes, remove unnecessary padding in block quotes
+         * and instead make the color a bit dimmer to set them off from the main
+         * text.
+         */
+        blockquote {
+          padding-right: 0;
+          padding-left: 0;
+          color: #AAA;
+        }
+
+        p > cite {
+          float: none;
+        }
+
+        .hidden-sm {
+          display: none;
+        }
+
+        button {
+          flex-grow: 1;
+        }
+      }
+
+      form {
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+      input[type="email"],
+      button {
+        margin: 1rem 0 0 0;
+        font-size: 16px;
+        padding: 0.5rem;
+        border-radius: 0;
+      }
+
+      input[type="email"] {
+        border: 1px solid #AAA;
+        flex-grow: 1;
+      }
+
+      button {
+        background-color: #2C8F30;
+        border: 1px solid #2C8F30;
+        color: white;
+        text-align: center;
+        cursor: pointer;
+      }
+
+      .float-right {
+        float: right;
+      }
+    </style>
+  </head>
+  <body>
+        <header>
+      <p class="hidden-print">
+        <a title="home" href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+        <a title="subscribe to the email list" class="float-right" href="#subscribe">subscribe</a>
+      </p>
+    </header>
+        <main>
+      <h1>The “Odyssey”</h1>
+      <h2>Background</h2>
+      <p>The ancients believed that the <em>Odyssey</em> was composed by the blind poet Homer. Modern scholars debate when it was composed and by whom, but most agree it was written between 725 BCE and 675 BCE. It has almost always been held that that the <em>Odyssey</em> was written after the <em>Iliad,</em> because it refers to material in the <em>Iliad</em> frequently, while avoiding any direct duplication.</p>
+      <h2>Structure and Outline</h2>
+      <p>The poem has about 12,000 lines of hexameter verse in the ancient Greek, and is split into 24 books. The opening summarizes the theme of the epic:</p>
+      <blockquote><p>
+      Sing to me of the man, Muse, the man of twists and turns<br />
+      driven time and again off course, once he had plundered<br />
+      the hallowed heights of Troy.<br />
+      Many cities of men he saw and learned their minds,<br />
+      many pains he suffered, heartsick on the open sea,<br />
+      fighting to save his life and bring his comrades home.<br />
+      But he could not save them from disaster, hard as he strove—<br />
+      the recklessness of their own ways destroyed them all,<br />
+      the blind fools, they devoured the cattle of the Sun<br />
+      and the Sungod wiped from sight the day of their return.<br />
+      Launch out on his story Muse, daughter of Zeus,<br />
+      start from where you will—sing for our time too.<br />
+      ~ (1.1–10)
+      </p></blockquote>
+
+      <p>It is interesting that the poet tells the muse to “start from where you will.”</p>
+      <p>Here is an outline:</p>
+      <ol type="1">
+      <li>The gods pity Odysseus; Athena inspires Telemachus</li>
+      <li>The assembly at Ithaca; Telemachus secretly sets sail</li>
+      <li>Nestor recalls his return; sacrifice to Athena; departure for Lacedaemon</li>
+      <li>Menelaus recalls his return; the suitors plot their ambush</li>
+      <li>Hermes visits Calypso; Odysseus’ raft; sails then swims to Phaeacia</li>
+      <li>Athena guides the princess to bring aid to Odysseus</li>
+      <li>King Alcinous promises to bring Odysseus home</li>
+      <li>Athletic games; song of Ares and Aphrodite; songs of Troy</li>
+      <li>Encounter in Polyphemus the Cyclops’ cave; Odysseus is cursed</li>
+      <li>Blown home and back; Laestrygonians destroy the fleet; year with Circe</li>
+      <li>Odysseus talks to ghosts in the kingdom of the dead</li>
+      <li>Return to Circe; the Sirens; Scylla and Charybdis; Helios’ cattle; Calypso</li>
+      <li>Athena greets Odysseus on Ithaca; Poseidon petrifies the Phaeacians</li>
+      <li>Disguised Odysseus talks to the loyal swineherd Eumaeus</li>
+      <li>Telemachus returns with gifts and a seer; Eumaeus’ story</li>
+      <li>Odysseus and Telemachus meet and plan revenge; the suitors conspire</li>
+      <li>Mingling with the suitors</li>
+      <li>Odysseus fights a hobo and chides the disloyal maidens</li>
+      <li>Penelope questions disguised Odysseus; Eurycleia sees the scar</li>
+      <li>Odysseus rests and receives omens; Apollo’s feast</li>
+      <li>The trial of the bow; Odysseus signals the attack</li>
+      <li>Slaughter of the suitors and the disloyal maidens</li>
+      <li>Odysseus and Penelope reunited</li>
+      <li>Achilles and Agamemnon greet the suitor’s ghosts; Odysseus and Laeretes; final battle and peace</li>
+      </ol>
+      <h2>Justice, Morality, and the Gods</h2>
+      <p>Early in book 1, the gods are in full assembly—curiously similar to the assemblies the Greeks held—and Zeus makes an interesting statement:</p>
+      <blockquote><p>
+      “Ah how shameless—the way these mortals blame the gods.<br />
+      From us alone, they say, come all their miseries, yes,<br />
+      but they themselves, with their own reckless ways,<br />
+      compound their pains beyond their proper share.<br />
+      Look at Aegisthus now …<br />
+      above and beyond his share he stole Atrides’ wife,<br />
+      he murdered the warlord coming home from Troy<br />
+      though he knew it meant his own total ruin.”<br />
+      ~ (1.31–37)
+      </p></blockquote>
+
+      <p>From the start of the <em>Odyssey,</em> the gods seem more concerned with morals and justice than in the <em>Iliad.</em></p>
+      <p>Zeus’ implication that men should have a “proper share” of pains is interesting. In the Abrahamic religions, pain and suffering are the result of the fall of man. After the fall, there doesn’t seem to be an expectation that these pains are distributed evenly. In the Greek religion, they had the myth of Pandora’s box, which is in someways similar to the story of Adam and Eve, but even after the fall it appears there is a sense that miseries should be distributed evenly.</p>
+      <p>Shortly after Zeus’ comment, Athena responds:</p>
+      <blockquote><p>
+      “Let them all die so, all who do such things.<br />
+      But my heart breaks for Odysseus …<br />
+      he, straining for no more than a glimpse<br />
+      of hearth-smoke drifting up from his own land,<br />
+      Odysseus longs to die … Olympian Zeus,<br />
+      have you no care for him in your lofty heart?<br />
+      Did he never win your favor with sacrifices<br />
+      burned besides the ships on the broad plain of Troy?”<br />
+      ~ (1.46–63)
+      </p></blockquote>
+
+      <p>Zeus replies that, no, he is happy with Odysseus, but that Poseidon is the one to blame.</p>
+      <p>The Greeks’ explanation for the existence of pain and suffering appears to be three fold:</p>
+      <ul>
+      <li>We all should have a “fair share”</li>
+      <li>Some we bring on ourselves through unjust acts</li>
+      <li>Some is due to other gods</li>
+      </ul>
+      <p>The assembly in book 2 provides some insight into justice in ancient Greece. Telemachus appears to escalate through three authorities. First, is his own strength, second is the people of Ithaca:</p>
+      <blockquote><p>
+      “Now we have no man like Odysseus in command<br />
+      to drive this curse from the house. We ourselves?<br />
+      We’re hardly the ones to fight them off. All we’d do<br />
+      is parade our wretched weakness. A boy inept at battle.<br />
+      Oh I’d swing to attack if I had the power in me.<br />
+      By god, it’s intolerable, what they do—disgrace,<br />
+      my house a shambles! You should be ashamed yourselves,<br />
+      mortified in the face of neighbors living round about!<br />
+      Fear the gods’ wrath—before they wheel in outrage<br />
+      and make these crimes recoil on your heads.”<br />
+      ~ (2.57-67)
+      </p></blockquote>
+
+      <p>And when the towns people refuse to do anything, Telemachus escalates to the third authority—the gods:</p>
+      <blockquote><p>
+      “But if you decide the fare is better, richer here,<br />
+      destroying one man’s goods and going scot-free,<br />
+      all right then, carve away!<br />
+      But I’ll cry out to the everlasting gods in hopes<br />
+      that Zeus will pay you back with a vengeance—all of you<br />
+      destroyed in my house while I go scot-free myself!”<br />
+      ~ (2.141–5)
+      </p></blockquote>
+
+      <p>It seems that fear of the gods was the main source of justice in Greek society. Since there were no contracts or court system to build trust between individuals, people relied on oaths—and the fear of the gods if one broke their oath—to build trust. Similarly, if one could not find justice through strength of your fellow men, you could threaten the wrongdoers with a curse. If they feared the gods, they may respond.</p>
+      <p>In such a society an atheist or godless person could not be trusted. Right after Telemachus threatens the suitors with a curse, Zeus sends a sign down in the form of two eagles. One of the old townsmen, who excelled in reading omens and bird signs, said that the eagles were a sign from Zeus that the suitors would get what is coming to them. And the suitors respond:</p>
+      <blockquote><p>
+      “Stop, old man!”<br />
+      Eurymachus, Polybus’ son, rose up to take him on.<br />
+      “Go home and babble your omens to your children—<br />
+      save them from some catastrophe coming soon.<br />
+      I’m a better hand than you at reading portents.<br />
+      Flocks of birds go fluttering under the sun’s rays,<br />
+      not all are fraught with meaning.”<br />
+      ~ (2.177–83)
+      </p></blockquote>
+
+      <h2>The Gods</h2>
+      <p>Athena rebukes Telemachus for doubting the power of the gods to return his father:</p>
+      <blockquote><p>
+      “Hope, hope as I will,<br />
+      that day will never dawn…<br />
+      not even if the gods should will it so.” “Telemachus!”<br />
+      Pallas Athena broke in sharply, her eyes afire—<br />
+      “What’s this nonsense slipping through your teeth?<br />
+      It’s light work for a willing god to save a mortal<br />
+      even half the world away. Myself, I’d rather<br />
+      sail through years of trouble and labor home<br />
+      and see that blessed day, than hurry home<br />
+      to die at my own hearth like Agamemnon,<br />
+      killed by Aegisthus’ cunning—by his own wife.<br />
+      But the great leveler, Death: not even the gods<br />
+      can defend a man, not even one they love, that day<br />
+      when fate takes hold and lays him out at last.”<br />
+      ~ (3.228–39)
+      </p></blockquote>
+
+      <p>Athena reveals herself to many people at once:</p>
+      <blockquote><p>
+      With that the bright-eyed goddess winged away<br />
+      in an eagle’s form and flight.<br />
+      Amazement fell on all the Achaeans there.<br />
+      The old king, astonished by what he’d seen,<br />
+      grasped Telemachus’ hand and cried out to the prince,<br />
+      “Dear boy—never fear you’ll be a coward or defenseless,<br />
+      not if at your young age the gods will guard you so.”<br />
+      ~ (3.372–7)
+      </p></blockquote>
+
+      <h2>Women</h2>
+      <p>The Greeks did not treat women well.</p>
+      <blockquote><p>
+      “So, mother,<br />
+      go back to your quarters. Tend to your own tasks,<br />
+      the distaff and the loom, and keep the women<br />
+      working hard as well. As for giving orders,<br />
+      men will see to that, but I most of all:<br />
+      I hold the reins of power in this house.” Astonished,<br />
+      she withdrew to her own room. She took to heart<br />
+      the clear good sense in what her son had sad.<br />
+      ~ (1.355–62)
+      </p></blockquote>
+
+      <p>Agamemnon’s ghost’s rant against women:</p>
+      <blockquote><p>
+      “‘But she—<br />
+      the queen hell-bent on outrage—bathes in shame<br />
+      not only herself but the whole breed of womankind,<br />
+      even the honest ones to come, forever down the years!’”<br />
+      So he declared and I cried out, ‘How terrible!<br />
+      Zeus from the very start, the thunder king<br />
+      has hated the race of Atreus with a vengeance—<br />
+      his trustiest weapon women’s twisted wiles.<br />
+      What armies of us died for the sake of Helen…<br />
+      Clytemnestra schemed your death while you were worlds away!’”<br />
+      ~ (11.432–40)
+      </p></blockquote>
+
+      <h2>The Good Life</h2>
+      <blockquote><p>
+      Alcinous, majesty, shining among your island people,<br />
+      what a fine thing it is to listen to such a bard<br />
+      as we have here—the man sings like a god.<br />
+      The crown of life, I’d say. There’s nothing better<br />
+      than when deep joy holds sway throughout the realms<br />
+      and banqueters up and down the palace sit in ranks,<br />
+      enthralled to hear the bard, and before them all, the tables<br />
+      heaped with bread and meats, and drawing wine from a mixing-bowl<br />
+      the steward makes his rounds and keeps the winecups flowing.<br />
+      This, to my mind, is the best that life can offer.<br />
+      ~ (9.2–10)
+      </p></blockquote>
+
+      <p>My wife observed that is perhaps not a coincidence that Homer’s Odysseus believes a talented bard’s story is the best that life has to offer.</p>
+      <h2>The Muses</h2>
+      <p>Homer, like Hesiod, implies that the Muse provides divine inspiration to bards.</p>
+      <blockquote><p>
+      “I respect you, Demodocus, more than any man alive—<br />
+      surely the Muse has taught you, Zeus’s daughter,<br />
+      or god Apollo himself. How true to life,<br />
+      all too true … you sing the Achaeans’ fate,<br />
+      all they did and suffered, all they soldiered through,<br />
+      as if you were there yourself or heard from one who was.”<br />
+      ⋯<br />
+      Stirred now by the Muse, the bard launched out<br />
+      in a fine blaze of song, starting at just the point<br />
+      where the main Achaean force, setting their camps afire,<br />
+      hard boarded the oarswept ships and sailed for home …<br />
+      ~ (8.486–501)
+      </p></blockquote>
+
+      <h2>Other Interesting Quotes</h2>
+      <p>Helen uses a strange drug while feasting with Menelaus, Telemachus, and Pisastratus:</p>
+      <blockquote><p>
+      Then Zeus’s daughter Helen thought of something else.<br />
+      Into the mixing-bowl from which they drank their wine<br />
+      she slipped a drug, heart’s-ease, dissolving anger,<br />
+      magic to make us all forget our pains…<br />
+      No one who drank it deeply, mulled in wine,<br />
+      could let a tear roll down his cheeks that day,<br />
+      not even if his mother should die, his father die,<br />
+      not even if right before his eyes some enemy brought down<br />
+      a brother or darling son with a sharp bronze blade.<br />
+      ~ (4.218–25)
+      </p></blockquote>
+
+      <p>In Odysseus’ speech to the princess Nausicaa, he describes the ideal marriage:</p>
+      <blockquote><p>
+      “And may the good gods give you all your heart desires:<br />
+      husband, and house, and lasting harmony too.<br />
+      No finer, greater gift in the world than that…<br />
+      when man and woman possess their home, two minds,<br />
+      two hearts that work as one. Despair to their enemies,<br />
+      a joy to all their friends. Their own best claim to glory.”<br />
+      ~ (6.180–4)
+      </p></blockquote>
+
+      <p>Odysseus’ description of hunger:</p>
+      <blockquote><p>
+      “But despite my misery, let me finish dinner.<br />
+      The belly’s a shameless dog, there’s nothing worse.<br />
+      Always insisting, pressing, it never lets us forget—<br />
+      destroyed as I am, my heart racked with sadness,<br />
+      sick with anguish, still it keeps demanding,<br />
+      ‘Eat, drink!’ It blots out all the memory<br />
+      of my pain, commanding, ‘Fill me up!’”<br />
+      ~ (7.214-20)
+      </p></blockquote>
+
+      <p>Odysseus is cursed by the Cyclops—causing his journey home to be so long:</p>
+      <blockquote><p>
+      “Hear me—<br />
+      Poseidon, god of the sea-blue mane who rocks the earth!<br />
+      If I really am your son and you claim to be my father—<br />
+      come, grant that Odysseus, raider of cities,<br />
+      Laertes’ son who makes his home in Ithaca,<br />
+      never reaches home. Or if he’s fated to see<br />
+      his people once again and reach his well-built house<br />
+      and his own native country, let him come home late<br />
+      and come a broken man—all shipmates lost,<br />
+      alone in a stranger’s ship—<br />
+      and let him find a world of pain at home!”<br />
+      ~ (9.527–35)
+      </p></blockquote>
+
+      <p>Achilles in the underworld:</p>
+      <blockquote><p>
+      “‘But you, Achilles,<br />
+      there’s not a man in the world more blest than you—<br />
+      there never has been, never will be one.<br />
+      Time was, when you were alive, we Argives<br />
+      honored you as a god, and now down here, I see,<br />
+      you lord it over the dead in all your power.<br />
+      So grieve no more at dying, great Achilles.’<br />
+      I reassured the ghost, but he broke out, protesting,<br />
+      ‘No winning words about death to me, shining Odysseus!<br />
+      By god, I’d rather slave on earth for another man—<br />
+      some dirt-poor tenant farmer who scrapes to keep alive—<br />
+      than rule down here over all the breathless dead.’”<br />
+      ~ (11.482–92)
+      </p></blockquote>
+
+      <p>Sisyphus in the underworld:</p>
+      <blockquote><p>
+      “And I saw Sisyphus too, bound to his own torture,<br />
+      grappling his monstrous boulder with both arms working,<br />
+      heaving, hands struggling, legs driving, he kept on<br />
+      thrusting the rock uphill toward the brink, but just<br />
+      as it teetered, set to topple over—time and again<br />
+      the immense weight of the thing would wheel it back and<br />
+      the ruthless boulder would bound and tumble down to the plain
+      again—<br />
+      so once again he would heave, would struggle to thrust it up,<br />
+      sweat drenching his body, dust swirling above his head.”<br />
+      ~ (11.593–600)
+      </p></blockquote>
+
+      <p>The swineherd Eumaeus and disguised Odysseus trading stories:</p>
+      <blockquote><p>
+      “We two will keep to the shelter here, eat and drink<br />
+      and take some joy in each other’s heartbreaking sorrows,<br />
+      sharing each other’s memories. Over the years, you know,<br />
+      a man finds solace even in old sorrows, true, a man<br />
+      who’s weathered many blows and wandered many miles.”<br />
+      ~ (15.398–402)
+      </p></blockquote>
+
+      <p>The death of Argos:</p>
+      <blockquote><p>
+      Infested with ticks, half-dead with neglect,<br />
+      here lay the hound, old Argos.<br />
+      But the moment he sensed Odysseus standing by<br />
+      he thumbed his tail, nuzzling low, and his ears dropped,<br />
+      though he had no strength to drag himself an inch<br />
+      toward his master. Odysseus glanced to the side<br />
+      and flicked away a tear, hiding it from Eumaeus<br />
+      ⋯<br />
+      With that he entered the well-constructed palace,<br />
+      strode through the halls and joined the proud suitors.<br />
+      But the dark shadow of death closed down on Argos’ eyes<br />
+      the instant he saw Odysseus, twenty years away.<br />
+      ~ (17.300–27)
+      </p></blockquote>
+
+      <p>Odysseus’ advice for the suitor Amphinomus:</p>
+      <blockquote><p>
+      Of all that breathes and crawls across the earth,<br />
+      our mother earth breeds nothing feebler than a man.<br />
+      So long as the gods grant him power, spring in his knees,<br />
+      he thinks he will never suffer affliction down the years.<br />
+      But then, when the happy gods bring on the long hard times,<br />
+      bear them he must, against his will, and steel his heart.<br />
+      Our lives, our mood and mind as we pass across the earth,<br />
+      turn as the days turn…<br />
+      as the father of men and gods makes each day dawn.<br />
+      ~ (18.130–7)
+      </p></blockquote>
+
+      <h2>Similes</h2>
+      <p>When Odysseus reaches Phaeacia after swimming for two days:</p>
+      <blockquote><p>
+      Then when Dawn with her lovely locks brought on<br />
+      the third day, the wind fell in an instant,<br />
+      all glazed to a dead calm, and Odysseus,<br />
+      scanning sharply, raised high by a groundswell,<br />
+      looked up and saw it—landfall, just ahead.<br />
+      Joy … warm as the joy that children feel<br />
+      when they see their father’s life dawn again,<br />
+      one who’s lain on a sickbed racked with torment,<br />
+      wasting away, slowly, under some angry power’s onslaught—<br />
+      So warm, Odysseus’ joy when he saw that shore, those trees,<br />
+      as he swam on, anxious to plant his feet on solid ground again.<br />
+      ~ (5.390–9)
+      </p></blockquote>
+
+      <p>Just as the children worried about death for several days, so did Odysseus as he floated in the sea.</p>
+      <p>Later in the story, when Odysseus has reached his home and is plotting his revenge, Homer gives us this great simile:</p>
+      <blockquote><p>
+      But he himself kept tossing, turning,<br />
+      intent as a cook before some white-hot blazing fire<br />
+      who rolls his sizzling sausage back and forth,<br />
+      packed with fat and blood—keen to broil it quickly,<br />
+      tossing, turning it, this way, that way—so he cast about:<br />
+      how could he get these shameless suitors in his clutches,<br />
+      one man facing a mob?<br />
+      ~ (20.25–30)
+      </p></blockquote>
+
+      <p><em>All quotations are taken from Robert Fagles’ excellent 1996 translation of the</em> Odyssey. <em>Line numbers are approximate.</em></p>
+    </main>
+    <footer class="hidden-print">
+      <form action="https://formspree.io/xqkyblqg" method="POST">
+        <input id="subscribe" type="email" placeholder="Email" name="email" required>
+        <button type="submit">Subscribe</button>
+      </form>
+      <p class="hidden-print">
+        <a href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+      </p>
+    </footer>
+  </body>
+</html>

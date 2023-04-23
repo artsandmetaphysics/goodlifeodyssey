@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Universe is Empty Yet Ultimately Real</title>
+    <meta name="description" content="Why I agree with Nāgārjuna that everything is empty of svabhāva yet still believe in ultimately real things.">
+    <meta name="twitter:card" value="summary">
+    <meta property="og:title" content="The Universe is Empty Yet Ultimately Real">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="/the-universe-is-empty-yet-ultimately-real">
+    <meta property="og:image" content="/favicon.png">
+    <meta property="og:description" content="Why I agree with Nāgārjuna that everything is empty of svabhāva yet still believe in ultimately real things.">
+    <link rel="apple-touch-icon-precomposed" href="/favicon.png">
+    <link rel="alternate" type="application/rss+xml" title="Good Life Odyssey" href="https://goodlifeodyssey.com/rssmain.xml">
+    <style>
+      html {
+        /*
+         * Set a reasonable font-size, such that at 32rem we have ~70 characters on a
+         * line.
+         */
+        line-height: 1.5625;
+        font-size: 20px;
+        font-family: Georgia, Times, 'Times New Roman', serif;
+        color: #222;
+
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+      }
+
+      body {
+        margin: 0;
+        padding: 0 1rem 1rem 1rem;
+
+        /*
+         * Nearly all sizes are based on rems so that we can responsively change the
+         * font sizes.
+         */
+        font-size: 1rem;
+      }
+
+      header, main, footer {
+        max-width: 32rem;
+
+        padding: 0;
+
+        /*
+         * Horizontally center top-level block elements
+         */
+        margin: 0 auto;
+
+        /*
+         * Necessary for IE11.
+         */
+        display: block;
+      }
+
+      header, footer {
+        font-size: 0.9rem;
+        color: #AAA;
+      }
+
+      header a,
+      footer a {
+        color: #2C8F30;
+      }
+
+      h1, h2, h3 {
+        font-family: 'Arial Narrow', Arial, sans-serif;
+      }
+
+      h1 {
+        font-size: 1.5rem;
+      }
+
+      h2 {
+        font-size: 1.25rem;
+      }
+
+      h3 {
+        font-size: 1.1rem;
+      }
+
+      a {
+        background-color: transparent;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      strong {
+        font-weight: bolder;
+      }
+
+      .sc {
+        font-variant: small-caps;
+        margin-right: 0.2rem;
+      }
+
+      blockquote {
+        font-size: 0.9rem;
+        margin-left: 0;
+        margin-right: 0;
+        quotes: none;
+        padding-left: 1.0rem;
+        padding-right: 1.0rem;
+        overflow: auto;  /* for floating citations */
+      }
+
+      /*
+       * Block quotes with poetry have a separate <p> for each line of verse, with a
+       * <br> in between.  We need a separate <p> for each line so that we can
+       * indent long lines that wrap.  We do this by setting the `text-indent` (which
+       * only affects the first line) to -2.5em, and then adding a 2.5em margin-left.
+       * The margin-left will shift over all lines but the first.  Note we use 2.5rem
+       * instead of 2rem, so that it is easier to distinguish a wrap-around indent
+       * from a regular indented line (which is indented to 1rem).
+       */
+      .poetry > p {
+        padding: 0;
+        margin: 0 0 0 2.5em;
+        text-indent: -2.5em;
+      }
+
+      /*
+       * Since we are using a <p> for each line, we need to remove the typical
+       * padding around the <p>.  In order to properly separate paragraphs in the
+       * poetry, we insert a line break.  We set the `content` to a blank string, and
+       * set the margin-top, so that we get the proper spacing which is usually in
+       * between <p> tags.
+       */
+      .poetry > br {
+        display: block;
+        content: "";
+        margin-top: 1rem;
+      }
+
+      /*
+       * The "indent" class is applied to verses which need to be indented.
+       */
+      blockquote > p.indent {
+        text-indent: -1.5em;
+      }
+
+      .prose > p {
+        margin: 0;
+      }
+
+      .prose > p:not(:first-child) {
+        text-indent: 1em;
+      }
+
+      /*
+       * Ensure that inline citations don't word-wrap.
+       */
+      p > cite {
+        white-space: nowrap;
+        float: right;
+      }
+
+      /*
+       * This style ensures that there is the correct spacing between a <cite> and
+       * the previous <p> tag, both in regular blockquotes and in poetry blockquotes.
+       */
+      blockquote > p:last-of-type {
+        margin-bottom: 0.3rem;
+      }
+
+      blockquote > p:first-child {
+        margin-top: 0;
+      }
+
+      ul, ol {
+        padding-left: 2rem;
+      }
+
+      dt {
+        font-weight: bold;
+      }
+
+      dt > p {
+        margin-top: 0.2rem;
+      }
+
+      @media print {
+        html {
+          font-size: 16px;
+        }
+
+        header, main, footer {
+          max-width: 100%;
+        }
+
+        /*
+         * Make sure that URLs are available to people that print the page.
+         */
+        a:after {
+          content: " [" attr(href) "]";
+        }
+
+        .hidden-print {
+          display: none;
+        }
+      }
+
+      /*
+       * 680px = (1rem body padding + 32rem main + 1rem body padding)*20px
+       */
+      @media (max-width: 680px) {
+        html {
+          font-size: 18px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*18px
+       */
+      @media (max-width: 576px) {
+        html {
+          font-size: 16px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*16px
+       */
+      @media (max-width: 544px) {
+        html {
+          font-size: 14px;
+
+          /*
+           * Turn off serifs once the font-size gets too small; serifs are nice at
+           * larger font-sizes since they make letters visually stick together into
+           * words.  At smaller font-sizes they can make the text difficult to read.
+           */
+          font-family: Helvetica, Aria, sans-serif;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*14px
+       */
+      @media (max-width: 476px) {
+        html {
+          font-size: 13px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*13px
+       */
+      @media (max-width: 442px) {
+
+        /*
+         * At very small screen sizes, remove unnecessary padding in block quotes
+         * and instead make the color a bit dimmer to set them off from the main
+         * text.
+         */
+        blockquote {
+          padding-right: 0;
+          padding-left: 0;
+          color: #AAA;
+        }
+
+        p > cite {
+          float: none;
+        }
+
+        .hidden-sm {
+          display: none;
+        }
+
+        button {
+          flex-grow: 1;
+        }
+      }
+
+      form {
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+      input[type="email"],
+      button {
+        margin: 1rem 0 0 0;
+        font-size: 16px;
+        padding: 0.5rem;
+        border-radius: 0;
+      }
+
+      input[type="email"] {
+        border: 1px solid #AAA;
+        flex-grow: 1;
+      }
+
+      button {
+        background-color: #2C8F30;
+        border: 1px solid #2C8F30;
+        color: white;
+        text-align: center;
+        cursor: pointer;
+      }
+
+      .float-right {
+        float: right;
+      }
+    </style>
+  </head>
+  <body>
+        <header>
+      <p class="hidden-print">
+        <a title="home" href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+        <a title="subscribe to the email list" class="float-right" href="#subscribe">subscribe</a>
+      </p>
+    </header>
+        <main>
+      <h1>The Universe is Empty Yet Ultimately Real</h1>
+      <p>Nāgārjuna was an Indian Mahāyāna Buddhist scholar-saint.</p>
+      <p>His most famous work, the <em>Mūlamadhyamakakārikā</em>, systematically shows that one thing after another is empty of <em>svabhāva</em>. Svabhāva is a Sanskrit term translated to “own-being,” “essence,” “inherent existence,” “true identity” or “intrinsic nature.” If something has svabhāva, it’s “independent of anything else, uncaused, and not fabricated from other things.”</p>
+      <p>Nāgārjuna held that if there were ultimately real things, then they must have svabhāva. So when he says nothing has svabhāva he means that nothing is ultimately real. “Really, nothing is real?” No, Nāgārjuna is not a nihilist. He believes we’re real in some sense, only not in the ultimate sense.</p>
+      <p>What does it mean to be <em>ultimately real</em>? Buddhists distinguish the ultimately true from the conventionally true. A statement is <em>conventionally true</em> if action based on its acceptance leads to successful practice. A statement is <em>ultimately true</em> if it corresponds to the nature of reality and neither asserts nor presupposes the existence of any mere conceptual fiction.</p>
+      <p>Mark Siderits, in the introduction to his translation of the <em>Mūlamadhyamakakārikā</em>, has a nice explanation of conceptual fiction:</p>
+      <blockquote><p>
+      A conceptual fiction is something that is thought to exist only because
+      of facts about us concept-users and the concepts that we happen to
+      employ. For instance, a chariot is a conceptual fiction. When a set of
+      parts is assembled in the right way, we only believe there is a chariot
+      in addition to the parts because of our interests and our cognitive
+      limitations.
+      </p></blockquote>
+
+      <p>The chariot is conventionally real, as it’s made of parts. The chariot wheel is conventionally real, as it’s made of wood. The wood is conventionally real, as it’s made of cells. The cells are conventionally real, as they’re made of atoms. The atoms are conventionally real, as they’re made of smaller particles. What about these smaller particles?</p>
+      <p>As best I can tell, modern physics described the universe as a single <em>wave function</em>. This wave function encompasses everything. It evolves according to the fixed laws of nature. These smaller particles, like elements, molecules, things, selves, and all other terms in our language, are ways of talking about this universal wave function. The division between the particle and its surroundings is arbitrary, and a particle can be entangled to other parts of the universe, making its behavior inseparable from everything else. Thus the smaller particles are conventionally real, as they’re a way of talking about the universal wave function.</p>
+      <p>For several months I thought that the universal wave function had svabhāva because it is “independent of anything else, uncaused, and not fabricated from other things.” However, after some consideration, I now agree that nothing has svabhāva. I changed my mind because the term svabhāva is abstract and difficult to translate. I’m not in a position to question what is meant by this term. And so, I think it’s reasonable to concede that the term wasn’t meant to apply to something like the universal wave function. After all, if you lump everything together, what else is there to depend on!</p>
+      <p>Unlike Nāgārjuna, I think things that are empty of svabhāva can still be ultimately real.</p>
+      <p>The nature of my disagreement is best illustrated with an example. In book ten, Nāgārjuna shows that fire and fuel have no svabhāva:</p>
+      <blockquote><p>
+      If fire were different than fuel,<br />
+      Then it would burn even without it.<br />
+      <br />
+      Fire would burn forever,<br />
+      It would not arise from what causes it to burn,<br />
+      Trying to light it would be pointless,<br />
+      And it would not relate to any object.<br />
+      <br />
+      Because it would not depend on anything else,<br />
+      It would not arise from what causes it to burn.<br />
+      Because it would burn eternally,<br />
+      Lighting it would be pointless.
+      </p></blockquote>
+
+      <p>This analysis is correct, for if something has svabhāva, it’s independent of anything else, uncaused, and not fabricated from other things. Since we observe that fire doesn’t exist apart from fuel and it can’t light itself, the fire must not have svabhāva.</p>
+      <p>Fire was once thought to be an element. Now it is known to be a chemical process, converting fuel and oxygen into heat, light, and oxidized fuel. Thus, modern science also agrees with Nāgārjuna that fire has no svabhāva.</p>
+      <p>According to Nāgārjuna’s thinking, this lack of svabhāva implies that fire is a conceptual fiction—it’s merely <em>conventionally</em> real but not ultimately real.</p>
+      <p>To me, a convention is something that could be another way. For example, cars could just as well drive on the right as on the left. By saying that fire conventionally exists, I presume this means fire could be another way. For example, if a tribe never saw fire apart from volcanoes, then they may speak of volcanoes but never of fire. Not only would this tribe not have a word for fire, but they wouldn’t even conceive of fire apart from volcanoes.</p>
+      <p>If this is what it means for fire to be a conceptual fiction, it is a small fiction. Processes like fire emerge from the laws of nature, which I believe are fixed and unchanging. Particles emerge as patterns within the universal wave function. From particles, oxygen, carbon, and hydrogen emerge, and from these, fire emerges. We use language to model reality. Words let us communicate the relevant details to ourselves and others. Our language, like all models, is approximate and may mislead us if misapplied. It also reflects the needs and interests of its creators. Since most peoples on Earth deal with fire most languages have words for fire. Just because a model has a creator doesn’t mean the thing being modeled is a convention. The patterns in the universal wave function could not be another way.</p>
+      <p>It seems to me that to say “nothing has svabhāva” is really to say that “all objects are changing.” This is true, but the processes by which <em>objects</em> change is not changing. Thus, the laws of nature provide a second-order permanence to things. This is why fire always acts like fire. I predict that alien species would describe, or model, fire roughly the same way we do. Likewise, Chinese, English, and Arabic speakers think similarly. Linguists have found differences, but they’re slight.</p>
+      <p>Thus, I agree that nothing has svabhāva, yet I think there exist ultimately real things.</p>
+      <p>A couple of objections can be raised here:</p>
+      <p>“You write about the universal wave function as if it is real, but it seems like more like mathematical machinery. Without metaphysical underpinnings, how could it be real? It’s like a dream or an illusion.” This is, in a sense, restating Nāgārjuna’s position that <em>if</em> there were ultimately real things, <em>then</em> they must have svabhāva—there must be things that are independent, uncaused, and unfabricated. Presumably atoms, as classically understood, would be an allowable metaphysical underpinning. Alas, we’re stuck with the universal wave function or some refinement of it. The universal wave function, extending to everything and evolving according to some fixed equation, doesn’t seem real like atoms do. I doubt this feeling is important. It’s as if we’re requiring reality to fit a notion about how it should be. Since our sense organs are so much larger than the smallest ripples in the universal wave function, it’s unsurprising that science revealed nature to be different than we supposed.</p>
+      <p>“Maybe there are metaphysical underpinnings below the universal wave function, and these can be seen not to be ultimately real?” It seems possible. I don’t think we can know whether the physical universe we observer is correlated with it’s metaphysical underpinnings, if there are any. Perhaps Descartes’ demon is real or we’re living in a simulation.</p>
+      <p>“How do you know the laws of physics are fixed?” I don’t. I’m drawing the best conclusion I can with the evidence I have. We all must do this. We can be <em>certain</em> of very little. However, I would need strong evidence to disregard the permanence of the laws of physics.</p>
+      <p>Direct perception, as I understand it, is the Buddhist explanation as to how we reach the ultimate truth. One of these truths is that everything is empty. Direct perception is a means by which the mind can circumvent the laws of physics and reach down into metaphysical truths beyond the reach of particle accelerators, careful reasoning, or mathematics.</p>
+      <p>What reason do we have to believe direct perception is possible? It begins with one of the great mysteries—the qualitative nature of sight, hearing, and touch, i.e., qualia. Qualia don’t <em>feel</em> like they could be embedded in the laws of physics. The existence of qualia is widely debated, but all the arguments against the specialness of qualia I’ve read are really arguments against our <em>memories of qualia</em>. It’s difficult to explain how they <em>feel</em> to me <em>at this very moment</em>. Whether I remember the taste of last decade’s coffee or yesterday’s coffee is unimportant.</p>
+      <p>Apart from qualia, though, I see no reason to put our direct experiences on an epistemological pedestal. Biological evolution explains where our minds came from, and while I think our minds may be the most beautiful matter in the universe, I don’t see how they could circumvent the laws of physics.</p>
+      <p>If the mind <em>could</em> do this, I’d expect those that have dived into the metaphysical deep would return to the surface with the same story. Yet this doesn’t appear to be the case. I’ll be discussing this further with my friend, but Buddhism seems as bifurcated as Protestantism. That is, there is more agreement than disagreement, but still a lot of disagreement. The simplest explanation, or so it seems to me, is that we’re stuck floating on the surface.</p>
+      <p>“Maybe the directly perceived truths can’t be communicated?” This mystical explanation may be true, but then why do the divers return with specific stories of other realms, divas, exotic places? Why would they be so confident about their ability to communicate their findings to us?</p>
+      <p>Meditating helps me connect with those around me. I also don’t doubt that there exist higher states of consciousness that are well-explored in the East. I’ll try to climb into these mountains so I can see for myself, but from what I can gather here on the ground, it doesn’t seem like they’ll reveal fire to be a conceptual fiction.</p>
+      <p>Why is it so important that nothing has svabhāva? Suffering is overcome, in part, by realizing that nothing has svabhāva. I’m not sure whether it is important that nothing have svabhāva per se or that nothing ultimately exists. If the former, then the <em>Mūlamadhyamakakārikā</em> accomplishes its purpose. If the latter, then I’d like to know how Nāgārjuna would refute the argument presented here.</p>
+      <p>My interpretation of Nāgārjuna has been chaperoned by the two translators I’ve read. Also, I’m somewhat new to Buddhist philosophy. Thus, I may be misinterpreting Nāgārjuna.</p>
+    </main>
+    <footer class="hidden-print">
+      <form action="https://formspree.io/xqkyblqg" method="POST">
+        <input id="subscribe" type="email" placeholder="Email" name="email" required>
+        <button type="submit">Subscribe</button>
+      </form>
+      <p class="hidden-print">
+        <a href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+      </p>
+    </footer>
+  </body>
+</html>

@@ -1,9 +1,0 @@
-#!/bin/bash
-
-set -e
-
-message=${1:-Add content}
-make -j8
-#pipenv run python3 scripts/checks.py
-git commit -am "$message"
-git push

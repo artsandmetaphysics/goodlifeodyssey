@@ -4,13 +4,10 @@ SHELL := /bin/bash -o pipefail -e
 .PHONY: notion
 
 notion: n2y.yml
-	@mkdir -p _published
+	@mkdir -p docs
 	n2y n2y.yml --verbosity=WARNING
 
-.PHONY: clean cleannotion
+.PHONY: clean
 
 clean:
-	rm -rf _site
-
-cleannotion:
-	rm -rf _published index.md about.md  # update if new pages are added
+	rm -rf docs

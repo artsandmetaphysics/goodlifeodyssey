@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Language and Math Model Reality</title>
+    <meta name="description" content="My current beliefs about the nature of language and mathematics.">
+    <meta name="twitter:card" value="summary">
+    <meta property="og:title" content="Language and Math Model Reality">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="/math-and-language">
+    <meta property="og:image" content="/favicon.png">
+    <meta property="og:description" content="My current beliefs about the nature of language and mathematics.">
+    <link rel="apple-touch-icon-precomposed" href="/favicon.png">
+    <link rel="alternate" type="application/rss+xml" title="Good Life Odyssey" href="https://goodlifeodyssey.com/rssmain.xml">
+    <style>
+      html {
+        /*
+         * Set a reasonable font-size, such that at 32rem we have ~70 characters on a
+         * line.
+         */
+        line-height: 1.5625;
+        font-size: 20px;
+        font-family: Georgia, Times, 'Times New Roman', serif;
+        color: #222;
+
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+      }
+
+      body {
+        margin: 0;
+        padding: 0 1rem 1rem 1rem;
+
+        /*
+         * Nearly all sizes are based on rems so that we can responsively change the
+         * font sizes.
+         */
+        font-size: 1rem;
+      }
+
+      header, main, footer {
+        max-width: 32rem;
+
+        padding: 0;
+
+        /*
+         * Horizontally center top-level block elements
+         */
+        margin: 0 auto;
+
+        /*
+         * Necessary for IE11.
+         */
+        display: block;
+      }
+
+      header, footer {
+        font-size: 0.9rem;
+        color: #AAA;
+      }
+
+      header a,
+      footer a {
+        color: #2C8F30;
+      }
+
+      h1, h2, h3 {
+        font-family: 'Arial Narrow', Arial, sans-serif;
+      }
+
+      h1 {
+        font-size: 1.5rem;
+      }
+
+      h2 {
+        font-size: 1.25rem;
+      }
+
+      h3 {
+        font-size: 1.1rem;
+      }
+
+      a {
+        background-color: transparent;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      strong {
+        font-weight: bolder;
+      }
+
+      .sc {
+        font-variant: small-caps;
+        margin-right: 0.2rem;
+      }
+
+      blockquote {
+        font-size: 0.9rem;
+        margin-left: 0;
+        margin-right: 0;
+        quotes: none;
+        padding-left: 1.0rem;
+        padding-right: 1.0rem;
+        overflow: auto;  /* for floating citations */
+      }
+
+      /*
+       * Block quotes with poetry have a separate <p> for each line of verse, with a
+       * <br> in between.  We need a separate <p> for each line so that we can
+       * indent long lines that wrap.  We do this by setting the `text-indent` (which
+       * only affects the first line) to -2.5em, and then adding a 2.5em margin-left.
+       * The margin-left will shift over all lines but the first.  Note we use 2.5rem
+       * instead of 2rem, so that it is easier to distinguish a wrap-around indent
+       * from a regular indented line (which is indented to 1rem).
+       */
+      .poetry > p {
+        padding: 0;
+        margin: 0 0 0 2.5em;
+        text-indent: -2.5em;
+      }
+
+      /*
+       * Since we are using a <p> for each line, we need to remove the typical
+       * padding around the <p>.  In order to properly separate paragraphs in the
+       * poetry, we insert a line break.  We set the `content` to a blank string, and
+       * set the margin-top, so that we get the proper spacing which is usually in
+       * between <p> tags.
+       */
+      .poetry > br {
+        display: block;
+        content: "";
+        margin-top: 1rem;
+      }
+
+      /*
+       * The "indent" class is applied to verses which need to be indented.
+       */
+      blockquote > p.indent {
+        text-indent: -1.5em;
+      }
+
+      .prose > p {
+        margin: 0;
+      }
+
+      .prose > p:not(:first-child) {
+        text-indent: 1em;
+      }
+
+      /*
+       * Ensure that inline citations don't word-wrap.
+       */
+      p > cite {
+        white-space: nowrap;
+        float: right;
+      }
+
+      /*
+       * This style ensures that there is the correct spacing between a <cite> and
+       * the previous <p> tag, both in regular blockquotes and in poetry blockquotes.
+       */
+      blockquote > p:last-of-type {
+        margin-bottom: 0.3rem;
+      }
+
+      blockquote > p:first-child {
+        margin-top: 0;
+      }
+
+      ul, ol {
+        padding-left: 2rem;
+      }
+
+      dt {
+        font-weight: bold;
+      }
+
+      dt > p {
+        margin-top: 0.2rem;
+      }
+
+      @media print {
+        html {
+          font-size: 16px;
+        }
+
+        header, main, footer {
+          max-width: 100%;
+        }
+
+        /*
+         * Make sure that URLs are available to people that print the page.
+         */
+        a:after {
+          content: " [" attr(href) "]";
+        }
+
+        .hidden-print {
+          display: none;
+        }
+      }
+
+      /*
+       * 680px = (1rem body padding + 32rem main + 1rem body padding)*20px
+       */
+      @media (max-width: 680px) {
+        html {
+          font-size: 18px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*18px
+       */
+      @media (max-width: 576px) {
+        html {
+          font-size: 16px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*16px
+       */
+      @media (max-width: 544px) {
+        html {
+          font-size: 14px;
+
+          /*
+           * Turn off serifs once the font-size gets too small; serifs are nice at
+           * larger font-sizes since they make letters visually stick together into
+           * words.  At smaller font-sizes they can make the text difficult to read.
+           */
+          font-family: Helvetica, Aria, sans-serif;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*14px
+       */
+      @media (max-width: 476px) {
+        html {
+          font-size: 13px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*13px
+       */
+      @media (max-width: 442px) {
+
+        /*
+         * At very small screen sizes, remove unnecessary padding in block quotes
+         * and instead make the color a bit dimmer to set them off from the main
+         * text.
+         */
+        blockquote {
+          padding-right: 0;
+          padding-left: 0;
+          color: #AAA;
+        }
+
+        p > cite {
+          float: none;
+        }
+
+        .hidden-sm {
+          display: none;
+        }
+
+        button {
+          flex-grow: 1;
+        }
+      }
+
+      form {
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+      input[type="email"],
+      button {
+        margin: 1rem 0 0 0;
+        font-size: 16px;
+        padding: 0.5rem;
+        border-radius: 0;
+      }
+
+      input[type="email"] {
+        border: 1px solid #AAA;
+        flex-grow: 1;
+      }
+
+      button {
+        background-color: #2C8F30;
+        border: 1px solid #2C8F30;
+        color: white;
+        text-align: center;
+        cursor: pointer;
+      }
+
+      .float-right {
+        float: right;
+      }
+    </style>
+  </head>
+  <body>
+        <header>
+      <p class="hidden-print">
+        <a title="home" href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+        <a title="subscribe to the email list" class="float-right" href="#subscribe">subscribe</a>
+      </p>
+    </header>
+        <main>
+      <h1>Language and Math Model Reality</h1>
+      <h2>Terms</h2>
+      <p>A <em>phrase</em> is one or more words.</p>
+      <p>A <em>term</em> is a distinct concept, represented by a phrase.</p>
+      <p>A phrase may be used to refer to more than one term. Which term is intended in a particular case must be inferred.</p>
+      <p>A <em>standard definition</em> is a description of the terms a phrase conventionally refers to.</p>
+      <p>A <em>local definition</em> is a description of the term a phrase refers to within a well-defined context. E.g., legal contracts and technical standards use local definitions that only apply within themselves.</p>
+      <p>Usually there are alternate descriptions which could be used to define a term.</p>
+      <p>To aid memory, local definitions are often assigned to phrases with related standard definitions. E.g., my local definition of the words “local definition” and “standard definition” are related to definitions more broadly and to the software programmer’s use of locally defined entities as well as standard entities provided and used by a larger group.</p>
+      <p>Such documents often stylize the words that refer to these locally defined terms. E.g., they bold or italicize them. This practice prevents ambiguity if words may refer to either local and standard definitions, but I think it also muddles the documents. Thus, I only italicize locally defined terms sparingly after their first use. When I want to refer to words, as opposed to terms, I place the words in quotes.</p>
+      <p>Standard definitions change, usually slowly.</p>
+      <p>Local definitions, if provided as a precaution due to this change, may even be identical to standard definition used at a point in time.</p>
+      <p>Several standard definitions may be attached to a term simultaneously, by different groups of people. The groups can be separated geographically. E.g., American English differs subtly from British English. They can also be separated in time. E.g., a younger generation using a term differently than their parents.</p>
+      <p>While a standard definition can be thought of as a local definition whose context is a particular group of people, I will not use the term in this way.</p>
+      <p>An individual may be aware of multiple standard definitions, and may use them appropriately within context.</p>
+      <p>A local definition can not be wrong. It can only be useless.</p>
+      <p>A standard definition can be wrong if it is not what is conventionally meant by a group when they use a term.</p>
+      <p>Authors don’t always make their local definitions explicit.</p>
+      <p>Sometimes authors want their local definition to become the standard definition.</p>
+      <p>Since standard definitions change, reading older documents can be difficult. E.g., Shakespeare’s plays are difficult to read because they use old unknown words and because they use words whose meaning has changed.</p>
+      <p>To interpret documents like their original readers we must share their standard definitions. This can be a legal concern. E.g., when interpreting the original intent of the U.S. Constitution. It can also be a religious concern. E.g., when interpreting the original intent of the words of inspired religious figures.</p>
+      <h2>Models</h2>
+      <p>Language and mathematics let us describe things.</p>
+      <p>Any mathematical proposition <em>could</em> be restated with words.</p>
+      <p>A <em>model</em> is a simplified description of what exists.</p>
+      <p>Most models are incomplete in the sense that there exist verifiable questions that could be asked of the thing described that can’t be answered by the model.</p>
+      <p>Most models are also approximate; there exist verifiable questions that could be asked of the thing described that would be answered incorrectly by the model.</p>
+      <p>There is a tradeoff between how easy a description is to use and how complex it is.</p>
+      <p>Two models are equivalent if they allow one to answer the same set of questions about the thing and they give the same answers.</p>
+      <p>A model is more detailed than another if it can answer everything the other model can answer, as well as additional questions.</p>
+      <p>There can be many models of the same thing, each answering questions about a different facet of the thing.</p>
+      <p>There can conceivably be complete models. A complete model is sufficient to answer any verifiable question about the thing.</p>
+      <p>There may be non-verifiable metaphysical questions about a thing. Such questions aren’t necessarily invalid. E.g., why are the laws of physics the way they are?</p>
+      <p>What do we mean by a thing? Even the demarcation of the thing is a model, and often an approximate one. A simple solution to this is to say the entire universe is one thing—one big quantum wave function. I believe this is one interpretation of quantum physics.</p>
+      <p>How would we know if a model is complete? Typically, you don’t.</p>
+      <p>The laws of physics aim to be a complete model of how the universe’s state changes. It is not a complete model of the universe, which would require knowledge of its initial state too.</p>
+      <p>There isn’t enough space in the universe to create a complete model of itself.</p>
+      <p>We don’t know if the laws of physics completely describe how the universe’s state changes. The laws could be different in other parts of the universe, at different times, or even in different local or global states. E.g., the gravitational constant could shift over time. If matter is arranged a certain way, say into a brain-like structure, the laws of physics could change within the brain. More fantastical examples are also possible; it could be the case that if a golden box with a particular shape were created then the laws of physics would change throughout the universe.</p>
+      <p>A complete model of a thing is not the thing.</p>
+      <h2>Terms are Models</h2>
+      <p>Terms are models.</p>
+      <p>The statement, “there are two yellow pillows on my couch,” is a model.</p>
+      <p>Most of our terms are only good enough for their standard ways it is used in our language. Most standard uses of language don’t require particularly complex models.</p>
+      <p>Specialists tend to need more granular models. Thus, they produce local definitions within their fields to supplement the library of standard terms. E.g., lawyers, doctors, engineers, and philosophers have their own lingo.</p>
+      <p>Children learn their first terms using examples. Adults often learn new terms using other terms they are already familiar with, but not always. E.g., your friend may hold up a new fruit at the grocery and tell you it’s name.</p>
+      <p>Many abstract terms must be learned using existing terms. E.g., could <em>democracy</em> be taught using sensory examples?</p>
+      <p>Since terms are defined with other terms, their definitions tend to be circular.</p>
+      <p>A term can be more or less understood. This can break problems with circularity.</p>
+    </main>
+    <footer class="hidden-print">
+      <form action="https://formspree.io/xqkyblqg" method="POST">
+        <input id="subscribe" type="email" placeholder="Email" name="email" required>
+        <button type="submit">Subscribe</button>
+      </form>
+      <p class="hidden-print">
+        <a href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+      </p>
+    </footer>
+  </body>
+</html>

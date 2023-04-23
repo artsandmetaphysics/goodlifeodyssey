@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Universal Historical Laws</title>
+    <meta name="description" content="Is history philosophically uninteresting because it can not provide universal laws?">
+    <meta name="twitter:card" value="summary">
+    <meta property="og:title" content="Universal Historical Laws">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="/universal-historical-laws">
+    <meta property="og:image" content="/favicon.png">
+    <meta property="og:description" content="Is history philosophically uninteresting because it can not provide universal laws?">
+    <link rel="apple-touch-icon-precomposed" href="/favicon.png">
+    <link rel="alternate" type="application/rss+xml" title="Good Life Odyssey" href="https://goodlifeodyssey.com/rssmain.xml">
+    <style>
+      html {
+        /*
+         * Set a reasonable font-size, such that at 32rem we have ~70 characters on a
+         * line.
+         */
+        line-height: 1.5625;
+        font-size: 20px;
+        font-family: Georgia, Times, 'Times New Roman', serif;
+        color: #222;
+
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+      }
+
+      body {
+        margin: 0;
+        padding: 0 1rem 1rem 1rem;
+
+        /*
+         * Nearly all sizes are based on rems so that we can responsively change the
+         * font sizes.
+         */
+        font-size: 1rem;
+      }
+
+      header, main, footer {
+        max-width: 32rem;
+
+        padding: 0;
+
+        /*
+         * Horizontally center top-level block elements
+         */
+        margin: 0 auto;
+
+        /*
+         * Necessary for IE11.
+         */
+        display: block;
+      }
+
+      header, footer {
+        font-size: 0.9rem;
+        color: #AAA;
+      }
+
+      header a,
+      footer a {
+        color: #2C8F30;
+      }
+
+      h1, h2, h3 {
+        font-family: 'Arial Narrow', Arial, sans-serif;
+      }
+
+      h1 {
+        font-size: 1.5rem;
+      }
+
+      h2 {
+        font-size: 1.25rem;
+      }
+
+      h3 {
+        font-size: 1.1rem;
+      }
+
+      a {
+        background-color: transparent;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      strong {
+        font-weight: bolder;
+      }
+
+      .sc {
+        font-variant: small-caps;
+        margin-right: 0.2rem;
+      }
+
+      blockquote {
+        font-size: 0.9rem;
+        margin-left: 0;
+        margin-right: 0;
+        quotes: none;
+        padding-left: 1.0rem;
+        padding-right: 1.0rem;
+        overflow: auto;  /* for floating citations */
+      }
+
+      /*
+       * Block quotes with poetry have a separate <p> for each line of verse, with a
+       * <br> in between.  We need a separate <p> for each line so that we can
+       * indent long lines that wrap.  We do this by setting the `text-indent` (which
+       * only affects the first line) to -2.5em, and then adding a 2.5em margin-left.
+       * The margin-left will shift over all lines but the first.  Note we use 2.5rem
+       * instead of 2rem, so that it is easier to distinguish a wrap-around indent
+       * from a regular indented line (which is indented to 1rem).
+       */
+      .poetry > p {
+        padding: 0;
+        margin: 0 0 0 2.5em;
+        text-indent: -2.5em;
+      }
+
+      /*
+       * Since we are using a <p> for each line, we need to remove the typical
+       * padding around the <p>.  In order to properly separate paragraphs in the
+       * poetry, we insert a line break.  We set the `content` to a blank string, and
+       * set the margin-top, so that we get the proper spacing which is usually in
+       * between <p> tags.
+       */
+      .poetry > br {
+        display: block;
+        content: "";
+        margin-top: 1rem;
+      }
+
+      /*
+       * The "indent" class is applied to verses which need to be indented.
+       */
+      blockquote > p.indent {
+        text-indent: -1.5em;
+      }
+
+      .prose > p {
+        margin: 0;
+      }
+
+      .prose > p:not(:first-child) {
+        text-indent: 1em;
+      }
+
+      /*
+       * Ensure that inline citations don't word-wrap.
+       */
+      p > cite {
+        white-space: nowrap;
+        float: right;
+      }
+
+      /*
+       * This style ensures that there is the correct spacing between a <cite> and
+       * the previous <p> tag, both in regular blockquotes and in poetry blockquotes.
+       */
+      blockquote > p:last-of-type {
+        margin-bottom: 0.3rem;
+      }
+
+      blockquote > p:first-child {
+        margin-top: 0;
+      }
+
+      ul, ol {
+        padding-left: 2rem;
+      }
+
+      dt {
+        font-weight: bold;
+      }
+
+      dt > p {
+        margin-top: 0.2rem;
+      }
+
+      @media print {
+        html {
+          font-size: 16px;
+        }
+
+        header, main, footer {
+          max-width: 100%;
+        }
+
+        /*
+         * Make sure that URLs are available to people that print the page.
+         */
+        a:after {
+          content: " [" attr(href) "]";
+        }
+
+        .hidden-print {
+          display: none;
+        }
+      }
+
+      /*
+       * 680px = (1rem body padding + 32rem main + 1rem body padding)*20px
+       */
+      @media (max-width: 680px) {
+        html {
+          font-size: 18px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*18px
+       */
+      @media (max-width: 576px) {
+        html {
+          font-size: 16px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*16px
+       */
+      @media (max-width: 544px) {
+        html {
+          font-size: 14px;
+
+          /*
+           * Turn off serifs once the font-size gets too small; serifs are nice at
+           * larger font-sizes since they make letters visually stick together into
+           * words.  At smaller font-sizes they can make the text difficult to read.
+           */
+          font-family: Helvetica, Aria, sans-serif;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*14px
+       */
+      @media (max-width: 476px) {
+        html {
+          font-size: 13px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*13px
+       */
+      @media (max-width: 442px) {
+
+        /*
+         * At very small screen sizes, remove unnecessary padding in block quotes
+         * and instead make the color a bit dimmer to set them off from the main
+         * text.
+         */
+        blockquote {
+          padding-right: 0;
+          padding-left: 0;
+          color: #AAA;
+        }
+
+        p > cite {
+          float: none;
+        }
+
+        .hidden-sm {
+          display: none;
+        }
+
+        button {
+          flex-grow: 1;
+        }
+      }
+
+      form {
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+      input[type="email"],
+      button {
+        margin: 1rem 0 0 0;
+        font-size: 16px;
+        padding: 0.5rem;
+        border-radius: 0;
+      }
+
+      input[type="email"] {
+        border: 1px solid #AAA;
+        flex-grow: 1;
+      }
+
+      button {
+        background-color: #2C8F30;
+        border: 1px solid #2C8F30;
+        color: white;
+        text-align: center;
+        cursor: pointer;
+      }
+
+      .float-right {
+        float: right;
+      }
+    </style>
+  </head>
+  <body>
+        <header>
+      <p class="hidden-print">
+        <a title="home" href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+        <a title="subscribe to the email list" class="float-right" href="#subscribe">subscribe</a>
+      </p>
+    </header>
+        <main>
+      <h1>Universal Historical Laws</h1>
+      <p>Some philosophers think history is uninteresting because it can not provide laws, or law-like explanations, and thus its inferences can’t be rationally evaluated.</p>
+      <p>I agree that the historian, like the social scientist, can’t produce laws. By law I mean a universally true, conditional statement about reality. (Defining a law to be a <em>conditional</em> statement distinguishes it from particular statements like “Julius Caesar was murdered on the 15th of March, 44 BC.”) The objects of historical study—people, nations, wars, governments, etc.—are too complex to define, let alone deduce universally true conditional statements about.</p>
+      <p>Even if one agrees that the historian can’t discover universal laws, one may believe they exist. I hope to demonstrate that historical laws—laws pertaining to historical subjects—as distinct from scientific laws, can’t exist. Furthermore I will show that, despite this epistemic limitation, history remains useful and open to rational evaluation.</p>
+      <p>Consider this statement: When a ruling power’s dominance is threatened by a growing neighbor, the two will go to war. This simple historical statement isn’t universally true and is thus not a law; there are instances of nations peacefully eclipsing their once-dominant neighbors. It may be made into a law by amending conditions. For example, one may add “when the existing nation isn’t distracted by other wars” to account for certain exceptions. It may be possible, after adding three or four such conditions, to make the law fit all available historical examples. Yet there is no reason to believe it is now universally true.</p>
+      <p>Historical events may be driven by individuals, thus historical laws must predict the individual’s behavior. To see why this is true, consider the following examples. A nation may war with a smaller neighbor as the result of a few neurotransmitters in their supreme leader’s brain. Or two nuclear powers may avoid war only because of the calm reasoning of a missile operator. These examples are extreme, but to be universally true, a historical law must account for them.</p>
+      <p>One may understand Words of languages, are complex patterns formed by particles in time and space. Water molecules are well-defined pattern. A cup is less well-defined, yet more so than a person. The concept of a nation, or a war, are patterns built on patterns, layered recursively like the definitions in a dictionary. Words compress the overwhelming detail needed for complete descriptions, allowing our minds to operate in reality at a higher level of abstraction.</p>
+      <p>The compressive and lossy nature of words precludes the existence of historical laws. Said another way, any law whose objects are imprecise patterns of particles will fail to be true in every instance; since the words used to state the law have already blurred out the details necessary to make conclusive predictions.</p>
+      <p>To avoid this conclusion one must identify larger objects whose behavior could be predicted with certainty without knowledge of their constituent particles. We refer to such a system as a <em>black box</em>. The laws of physics preclude the existence of black boxes.</p>
+      <p>There are, however, systems that can be described as statistical black boxes. For example, we may explain and predict the some behavior of a glass of water using a few of numbers—e.g., its temperature and volume. Humans, however, certainly can not be reduced to such simple system! Without being pulled into questions of freewill and determinism, we can conclude that to predict human behavior with the precision required by a universally true law, we would need detailed knowledge of the particles constituting that human.</p>
+      <p>Consider again our example, “when a ruling power’s dominance is threatened by a growing neighbor, they will go to war.” Now imagine that God were to try and make it true by reviewing all possible wars and amending the statement with conditionals as needed. After considering every possible war, the amended law would be enormous and would account for neurotransmitters and other physical details. Such a law could not be understood by the human mind. In fact, I believe such a law would need to contain even the physical laws of nature to be universally true!</p>
+      <p>Thus, we must abandon any belief in the existence of historical laws, and can consider whether laws, or law-like explanations, are necessary for something to be rationally evaluated.</p>
+      <p>I don’t believe laws are necessary for historical analysis to be rationally evaluated. I will demonstrate this indirectly, by showing that if such a statement were true, rationality and philosophy would need to relegated to the realms of science.</p>
+      <p>Business books are a practical, and widely used, form of historical knowledge. The conclusions of such books are not universally true (and many are simply incorrect), yet collectively they are not useless. Otherwise, business people would not continue making decisions based on them. Likewise, governments and militaries rely heavily on historical analysis.</p>
+      <p>If one defines “rationally evaluable” so as to preclude these uses of historical knowledge in business, government, and the military, it would seem that the realm of philosophy is inappropriately reduced. The desire for the level of precision found in mathematics and the hard sciences is understandable, but by relegating oneself to these tidier fields of inquiry the philosopher avoids the big questions—of people, values, governments, and war—which are most interesting.</p>
+      <p>(In addition to producing generalized knowledge, the particulars of history form the identity of nations and peoples. Thus, some historical knowledge is necessary to understand human behavior and to appreciate the beauty of our literature and art.)</p>
+      <p>The claim investigated in this essay is not unlike the one, made by some philosophers, that only statements verifiable through direct observation or logical proof are meaningful. It is tempting to make such claims when confronting the messy nature of reality and language, but doing so erodes credibility when our everyday reality continually provides evidence of the utility and interest of history.</p>
+      <p>The philosopher must settle with sketches, observations, heuristics, and other weaker epistemological devices that history provides, while continuing to apply them to the large questions of human existence.</p>
+    </main>
+    <footer class="hidden-print">
+      <form action="https://formspree.io/xqkyblqg" method="POST">
+        <input id="subscribe" type="email" placeholder="Email" name="email" required>
+        <button type="submit">Subscribe</button>
+      </form>
+      <p class="hidden-print">
+        <a href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+      </p>
+    </footer>
+  </body>
+</html>

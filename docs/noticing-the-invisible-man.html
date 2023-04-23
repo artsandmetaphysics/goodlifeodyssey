@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Noticing the Invisible Man</title>
+    <meta name="description" content="A meandering essay about the meaning created by noticing art and individuals.">
+    <meta name="twitter:card" value="summary">
+    <meta property="og:title" content="Noticing the Invisible Man">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="/noticing-the-invisible-man">
+    <meta property="og:image" content="/favicon.png">
+    <meta property="og:description" content="A meandering essay about the meaning created by noticing art and individuals.">
+    <link rel="apple-touch-icon-precomposed" href="/favicon.png">
+    <link rel="alternate" type="application/rss+xml" title="Good Life Odyssey" href="https://goodlifeodyssey.com/rssmain.xml">
+    <style>
+      html {
+        /*
+         * Set a reasonable font-size, such that at 32rem we have ~70 characters on a
+         * line.
+         */
+        line-height: 1.5625;
+        font-size: 20px;
+        font-family: Georgia, Times, 'Times New Roman', serif;
+        color: #222;
+
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+      }
+
+      body {
+        margin: 0;
+        padding: 0 1rem 1rem 1rem;
+
+        /*
+         * Nearly all sizes are based on rems so that we can responsively change the
+         * font sizes.
+         */
+        font-size: 1rem;
+      }
+
+      header, main, footer {
+        max-width: 32rem;
+
+        padding: 0;
+
+        /*
+         * Horizontally center top-level block elements
+         */
+        margin: 0 auto;
+
+        /*
+         * Necessary for IE11.
+         */
+        display: block;
+      }
+
+      header, footer {
+        font-size: 0.9rem;
+        color: #AAA;
+      }
+
+      header a,
+      footer a {
+        color: #2C8F30;
+      }
+
+      h1, h2, h3 {
+        font-family: 'Arial Narrow', Arial, sans-serif;
+      }
+
+      h1 {
+        font-size: 1.5rem;
+      }
+
+      h2 {
+        font-size: 1.25rem;
+      }
+
+      h3 {
+        font-size: 1.1rem;
+      }
+
+      a {
+        background-color: transparent;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      strong {
+        font-weight: bolder;
+      }
+
+      .sc {
+        font-variant: small-caps;
+        margin-right: 0.2rem;
+      }
+
+      blockquote {
+        font-size: 0.9rem;
+        margin-left: 0;
+        margin-right: 0;
+        quotes: none;
+        padding-left: 1.0rem;
+        padding-right: 1.0rem;
+        overflow: auto;  /* for floating citations */
+      }
+
+      /*
+       * Block quotes with poetry have a separate <p> for each line of verse, with a
+       * <br> in between.  We need a separate <p> for each line so that we can
+       * indent long lines that wrap.  We do this by setting the `text-indent` (which
+       * only affects the first line) to -2.5em, and then adding a 2.5em margin-left.
+       * The margin-left will shift over all lines but the first.  Note we use 2.5rem
+       * instead of 2rem, so that it is easier to distinguish a wrap-around indent
+       * from a regular indented line (which is indented to 1rem).
+       */
+      .poetry > p {
+        padding: 0;
+        margin: 0 0 0 2.5em;
+        text-indent: -2.5em;
+      }
+
+      /*
+       * Since we are using a <p> for each line, we need to remove the typical
+       * padding around the <p>.  In order to properly separate paragraphs in the
+       * poetry, we insert a line break.  We set the `content` to a blank string, and
+       * set the margin-top, so that we get the proper spacing which is usually in
+       * between <p> tags.
+       */
+      .poetry > br {
+        display: block;
+        content: "";
+        margin-top: 1rem;
+      }
+
+      /*
+       * The "indent" class is applied to verses which need to be indented.
+       */
+      blockquote > p.indent {
+        text-indent: -1.5em;
+      }
+
+      .prose > p {
+        margin: 0;
+      }
+
+      .prose > p:not(:first-child) {
+        text-indent: 1em;
+      }
+
+      /*
+       * Ensure that inline citations don't word-wrap.
+       */
+      p > cite {
+        white-space: nowrap;
+        float: right;
+      }
+
+      /*
+       * This style ensures that there is the correct spacing between a <cite> and
+       * the previous <p> tag, both in regular blockquotes and in poetry blockquotes.
+       */
+      blockquote > p:last-of-type {
+        margin-bottom: 0.3rem;
+      }
+
+      blockquote > p:first-child {
+        margin-top: 0;
+      }
+
+      ul, ol {
+        padding-left: 2rem;
+      }
+
+      dt {
+        font-weight: bold;
+      }
+
+      dt > p {
+        margin-top: 0.2rem;
+      }
+
+      @media print {
+        html {
+          font-size: 16px;
+        }
+
+        header, main, footer {
+          max-width: 100%;
+        }
+
+        /*
+         * Make sure that URLs are available to people that print the page.
+         */
+        a:after {
+          content: " [" attr(href) "]";
+        }
+
+        .hidden-print {
+          display: none;
+        }
+      }
+
+      /*
+       * 680px = (1rem body padding + 32rem main + 1rem body padding)*20px
+       */
+      @media (max-width: 680px) {
+        html {
+          font-size: 18px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*18px
+       */
+      @media (max-width: 576px) {
+        html {
+          font-size: 16px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*16px
+       */
+      @media (max-width: 544px) {
+        html {
+          font-size: 14px;
+
+          /*
+           * Turn off serifs once the font-size gets too small; serifs are nice at
+           * larger font-sizes since they make letters visually stick together into
+           * words.  At smaller font-sizes they can make the text difficult to read.
+           */
+          font-family: Helvetica, Aria, sans-serif;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*14px
+       */
+      @media (max-width: 476px) {
+        html {
+          font-size: 13px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*13px
+       */
+      @media (max-width: 442px) {
+
+        /*
+         * At very small screen sizes, remove unnecessary padding in block quotes
+         * and instead make the color a bit dimmer to set them off from the main
+         * text.
+         */
+        blockquote {
+          padding-right: 0;
+          padding-left: 0;
+          color: #AAA;
+        }
+
+        p > cite {
+          float: none;
+        }
+
+        .hidden-sm {
+          display: none;
+        }
+
+        button {
+          flex-grow: 1;
+        }
+      }
+
+      form {
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+      input[type="email"],
+      button {
+        margin: 1rem 0 0 0;
+        font-size: 16px;
+        padding: 0.5rem;
+        border-radius: 0;
+      }
+
+      input[type="email"] {
+        border: 1px solid #AAA;
+        flex-grow: 1;
+      }
+
+      button {
+        background-color: #2C8F30;
+        border: 1px solid #2C8F30;
+        color: white;
+        text-align: center;
+        cursor: pointer;
+      }
+
+      .float-right {
+        float: right;
+      }
+    </style>
+  </head>
+  <body>
+        <header>
+      <p class="hidden-print">
+        <a title="home" href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+        <a title="subscribe to the email list" class="float-right" href="#subscribe">subscribe</a>
+      </p>
+    </header>
+        <main>
+      <h1>Noticing the Invisible Man</h1>
+      <p>I don’t recall when I became interested in art. The memories fade into my early childhood: a big boxes of crayons, a step-by-step draw-animals-with-shapes book, a kind old teacher who taught me to paint landscapes and gave me strawberry sodas, a muddy pastel set recovered from the flooded house of a church member, an art class at my first high-school in a room by the street, another art class in my second high school with two girls who gave me snuff.</p>
+      <p>In college, I began to looking at others’ art instead of creating my own. That first summer, I drove to New York City with high school friends, and we visited the Metropolitan Museum of Art. I collected my first batch of painting postcards from their gift shop. These, and later additions, have been stuck to the walls of every apartment I’ve lived in since. Now, we live a block away from the Met’s beautiful collection, and we visit often.</p>
+      <p>Last Christmas, I bought Elanor a box of sixteen crayons, and I’m once again creating art! Drawing an object makes you notice its visual details. You become conscious of its lines, proportions, shadows, and colors. Until I tried drawing a pizza from memory, I didn’t realize how little I’d noticed about pizza’s appearance. Questions were forced out of me: Is the cheese white or orange? How smooth is a typical crust? How large are the pepperonis compared to a slice? After our next delivery, I looked for answers before taking a bite. My next pizza looked more realistic, but subtler questions emerged.</p>
+      <p>Drawing a piece of art at the Met is a similar experience. Despite years of intently looking at art, each time I draw a new object, I realize how little I’ve noticed about it—I’ve still only sipped from its great draught of visual details. Our frequent visits had built a connection, but each drawing pulls me that much closer, much like brief hellos on the hallway with the neighbor may build a friendship, but a long personal conversation over wine and dinner will do much more.</p>
+      <p>Our world is beautiful and filled with so much to notice. We try to notice New York’s buildings, bird species, flower species, and tree species. Buddhist meditation, like drawing, helps one notice better—pay attention better. I imagine playing an instrument helps one notice the motifs and forms of music.</p>
+      <p>If this is so with art, how much more so should it be with people. How can we better notice a person? A grumpy liberal arts teacher once lamented that his students, not having read Dickens and Anna Karina, were less able to notice the subtle differences in personalities. These students, he mused, were aware of fewer types of people, and their flattened categories limited their possibilities. Great writers must be great noticers of people—their attitudes, mores, moods, and motivations—if they are to create compelling characters. If this grumpy teacher is right, and I suspect he is, then reading great literature can help us become more aware of people. And if drawing art helps one notice visual detail more than looking at art, I suspect writing about people helps one notice them even more than reading about them.</p>
+      <p>Reading <em>Invisible Man</em> by Ralph Ellison has helped me notice ways being in a minority group can make you invisible. Two passages in particular struck me:</p>
+      <p>In the first, the narrator has burst onto the wintered streets of Harlem to escape his inner turmoil. He smells baked yams, which he remembers eating secretly at grammar school. He orders one for a dime from the man at the crude street cart. Eating it as he walks, he muses how shocked his sophisticated classmates would be to see him eating a yam in public. “Why, you could cause us the greatest humiliation simply by confronting us with something we liked.” He muses of how he’d like to shove chitterlings in Dr. Bledsoe’s face, the schoolmaster who unjustly expelled him, and how a liking of such things would shame him more than being accused of raping a ninety-year-old woman! Why? Insecurity of liking something so non-white—for following the stereotypes. I can imagine a black person today feeling similar insecurity when eating watermelon and fried chicken—how it could cloud your enjoyment of these pleasures.</p>
+      <p>In the second passage, the narrator is meeting at a political gathering turned party—many of the people are white. One drunk man asks him to sing a spiritual, but brother Jack interrupts, saying, “The brother <em>does not sing!</em>” and drags the man away. It all ends in large nervous laughter, but after the narrator is nagged by this thought: “Shouldn’t there be some way for us to be asked to sing? Shouldn’t the short man have the right to make a mistake without his motives being considered consciously or unconsciously malicious?” The short man, in demanding that “<em>all</em> colored people sing,” didn’t see the narrator. But brother Jack, by insisting without asking that the narrator doesn’t sing, also wasn’t seeing him.</p>
+      <p>In incidents throughout the book, Ellison’s narrator is invisible. “I am invisible, understand, simply because people refuse to see me.” The rich white men from his hometown don’t listen to his speech. The wealthy college donor treats him like a “mark on his scorecard.” The codger in the paint-factory basement only sees him as a poorly paid threat to his job security. The union sees him as a member—an entire scene unfolds without him being allowed to speak. The doctors who treat him see him as a science experiment and a fold in the social fabric to be straightened. When he returns to the lodging house in Harlem wearing working pants, the intellectuals see him as a low-class southerner. Kind-hearted Mary, who takes him in off the streets, only sees him as the “future of the race.” The brotherhood sees him as a tool. The petite woman in red silk never asks about who he is, and her husband seems not to see him even as he’s in bed with his wife. Sibyl didn’t see anything but a large black man to fulfill her sexual desires. Ras didn’t see him as anything but a race traitor. He’s an invisible man.</p>
+      <p>Although many forms of invisibility—or lack of noticing—are uniquely felt by those in the minority, many are shared by everyone. Thus, Ellison’s book is bigger than black and white. It is also about loneliness, finding oneself in society, about the man and the city. New York is a transient place. I’d like to have more friends; I joined the book club I’m reading <em>Invisible Man</em> for, in part, to find friends. But friendship is for individuals. If you search for friends who fit a particular mold, who have certain abilities or connections or assets, you’re not really looking for <em>friends</em>. If you don’t connect to someone as an individual, they are replaceable somehow.</p>
+      <p>What is the end of all this noticing? Is it merely a matter of pleasure, or is there something ethical about it? I feel that noticing, also known as <em>paying attention</em>, somehow creates <em>meaning</em>. Relationships are built on time and attention, gifts given and dinners made. Well-adjusted children are raised with time and attention. Being selfish is paying attention to just one thing. The objects at the Met become more meaningful when they’re drawn. The faint connections to their human creators appear in the mind, and their significance to the millions who’ve looked at them over the centuries.</p>
+    </main>
+    <footer class="hidden-print">
+      <form action="https://formspree.io/xqkyblqg" method="POST">
+        <input id="subscribe" type="email" placeholder="Email" name="email" required>
+        <button type="submit">Subscribe</button>
+      </form>
+      <p class="hidden-print">
+        <a href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+      </p>
+    </footer>
+  </body>
+</html>

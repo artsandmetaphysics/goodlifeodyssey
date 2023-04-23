@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Faith and Reason</title>
+    <meta name="description" content="An exploration of the relationship between faith and reason.">
+    <meta name="twitter:card" value="summary">
+    <meta property="og:title" content="Faith and Reason">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="/faith-and-reason">
+    <meta property="og:image" content="/favicon.png">
+    <meta property="og:description" content="An exploration of the relationship between faith and reason.">
+    <link rel="apple-touch-icon-precomposed" href="/favicon.png">
+    <link rel="alternate" type="application/rss+xml" title="Good Life Odyssey" href="https://goodlifeodyssey.com/rssmain.xml">
+    <style>
+      html {
+        /*
+         * Set a reasonable font-size, such that at 32rem we have ~70 characters on a
+         * line.
+         */
+        line-height: 1.5625;
+        font-size: 20px;
+        font-family: Georgia, Times, 'Times New Roman', serif;
+        color: #222;
+
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+      }
+
+      body {
+        margin: 0;
+        padding: 0 1rem 1rem 1rem;
+
+        /*
+         * Nearly all sizes are based on rems so that we can responsively change the
+         * font sizes.
+         */
+        font-size: 1rem;
+      }
+
+      header, main, footer {
+        max-width: 32rem;
+
+        padding: 0;
+
+        /*
+         * Horizontally center top-level block elements
+         */
+        margin: 0 auto;
+
+        /*
+         * Necessary for IE11.
+         */
+        display: block;
+      }
+
+      header, footer {
+        font-size: 0.9rem;
+        color: #AAA;
+      }
+
+      header a,
+      footer a {
+        color: #2C8F30;
+      }
+
+      h1, h2, h3 {
+        font-family: 'Arial Narrow', Arial, sans-serif;
+      }
+
+      h1 {
+        font-size: 1.5rem;
+      }
+
+      h2 {
+        font-size: 1.25rem;
+      }
+
+      h3 {
+        font-size: 1.1rem;
+      }
+
+      a {
+        background-color: transparent;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      strong {
+        font-weight: bolder;
+      }
+
+      .sc {
+        font-variant: small-caps;
+        margin-right: 0.2rem;
+      }
+
+      blockquote {
+        font-size: 0.9rem;
+        margin-left: 0;
+        margin-right: 0;
+        quotes: none;
+        padding-left: 1.0rem;
+        padding-right: 1.0rem;
+        overflow: auto;  /* for floating citations */
+      }
+
+      /*
+       * Block quotes with poetry have a separate <p> for each line of verse, with a
+       * <br> in between.  We need a separate <p> for each line so that we can
+       * indent long lines that wrap.  We do this by setting the `text-indent` (which
+       * only affects the first line) to -2.5em, and then adding a 2.5em margin-left.
+       * The margin-left will shift over all lines but the first.  Note we use 2.5rem
+       * instead of 2rem, so that it is easier to distinguish a wrap-around indent
+       * from a regular indented line (which is indented to 1rem).
+       */
+      .poetry > p {
+        padding: 0;
+        margin: 0 0 0 2.5em;
+        text-indent: -2.5em;
+      }
+
+      /*
+       * Since we are using a <p> for each line, we need to remove the typical
+       * padding around the <p>.  In order to properly separate paragraphs in the
+       * poetry, we insert a line break.  We set the `content` to a blank string, and
+       * set the margin-top, so that we get the proper spacing which is usually in
+       * between <p> tags.
+       */
+      .poetry > br {
+        display: block;
+        content: "";
+        margin-top: 1rem;
+      }
+
+      /*
+       * The "indent" class is applied to verses which need to be indented.
+       */
+      blockquote > p.indent {
+        text-indent: -1.5em;
+      }
+
+      .prose > p {
+        margin: 0;
+      }
+
+      .prose > p:not(:first-child) {
+        text-indent: 1em;
+      }
+
+      /*
+       * Ensure that inline citations don't word-wrap.
+       */
+      p > cite {
+        white-space: nowrap;
+        float: right;
+      }
+
+      /*
+       * This style ensures that there is the correct spacing between a <cite> and
+       * the previous <p> tag, both in regular blockquotes and in poetry blockquotes.
+       */
+      blockquote > p:last-of-type {
+        margin-bottom: 0.3rem;
+      }
+
+      blockquote > p:first-child {
+        margin-top: 0;
+      }
+
+      ul, ol {
+        padding-left: 2rem;
+      }
+
+      dt {
+        font-weight: bold;
+      }
+
+      dt > p {
+        margin-top: 0.2rem;
+      }
+
+      @media print {
+        html {
+          font-size: 16px;
+        }
+
+        header, main, footer {
+          max-width: 100%;
+        }
+
+        /*
+         * Make sure that URLs are available to people that print the page.
+         */
+        a:after {
+          content: " [" attr(href) "]";
+        }
+
+        .hidden-print {
+          display: none;
+        }
+      }
+
+      /*
+       * 680px = (1rem body padding + 32rem main + 1rem body padding)*20px
+       */
+      @media (max-width: 680px) {
+        html {
+          font-size: 18px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*18px
+       */
+      @media (max-width: 576px) {
+        html {
+          font-size: 16px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*16px
+       */
+      @media (max-width: 544px) {
+        html {
+          font-size: 14px;
+
+          /*
+           * Turn off serifs once the font-size gets too small; serifs are nice at
+           * larger font-sizes since they make letters visually stick together into
+           * words.  At smaller font-sizes they can make the text difficult to read.
+           */
+          font-family: Helvetica, Aria, sans-serif;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*14px
+       */
+      @media (max-width: 476px) {
+        html {
+          font-size: 13px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*13px
+       */
+      @media (max-width: 442px) {
+
+        /*
+         * At very small screen sizes, remove unnecessary padding in block quotes
+         * and instead make the color a bit dimmer to set them off from the main
+         * text.
+         */
+        blockquote {
+          padding-right: 0;
+          padding-left: 0;
+          color: #AAA;
+        }
+
+        p > cite {
+          float: none;
+        }
+
+        .hidden-sm {
+          display: none;
+        }
+
+        button {
+          flex-grow: 1;
+        }
+      }
+
+      form {
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+      input[type="email"],
+      button {
+        margin: 1rem 0 0 0;
+        font-size: 16px;
+        padding: 0.5rem;
+        border-radius: 0;
+      }
+
+      input[type="email"] {
+        border: 1px solid #AAA;
+        flex-grow: 1;
+      }
+
+      button {
+        background-color: #2C8F30;
+        border: 1px solid #2C8F30;
+        color: white;
+        text-align: center;
+        cursor: pointer;
+      }
+
+      .float-right {
+        float: right;
+      }
+    </style>
+  </head>
+  <body>
+        <header>
+      <p class="hidden-print">
+        <a title="home" href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+        <a title="subscribe to the email list" class="float-right" href="#subscribe">subscribe</a>
+      </p>
+    </header>
+        <main>
+      <h1>Faith and Reason</h1>
+      <h2>Why Believe</h2>
+      <p>Most reasons to practice a religion can be reduced to “it is true” or “it makes me happier.”</p>
+      <p>What does it mean for a religion to be true?</p>
+      <p>Most religions make metaphysical claims, for example:</p>
+      <ul>
+      <li>The pharaoh is a god</li>
+      <li>Trees have spirits</li>
+      <li>The universe was created</li>
+      <li>The laws of physics have never changed</li>
+      <li>Humans have souls</li>
+      <li>All “living” creatures have souls</li>
+      <li>The universe will end</li>
+      <li>Heaven exists</li>
+      <li>Heaven and purgatory exist</li>
+      <li>Your actions (or beliefs) determine your fate after you die</li>
+      <li>Humans can be reincarnated.</li>
+      </ul>
+      <p>I want to believe a religion that makes true metaphysical claims.</p>
+      <p>How can we know whether a metaphysical claim is true? It depends on the claim. Some claims can be verified using the scientific method, however, the scientific method itself assumes a metaphysical claim—that the laws of physics have never changed. If the laws of physics do change, then we can not use our scientific knowledge to draw conclusions about the after or before the laws of physics changed.</p>
+      <p>Even if we assume that the laws of physics have never changed, science still could not answer many metaphysical claims. Science can not verify or refute the metaphysical claim that, when humans die their soul becomes a ghost that can not interact with world of the living. Even if this metaphysical claim correctly describes reality, the scientific method could neither confirm or deny its validity.</p>
+      <p>There are other metaphysical claims that can be confirmed or denied using reason. If god is all-knowing, he must exist outside of time—if he did not, he would not know the future.</p>
+      <p>Many religions make many metaphysical claims. If they do, these claims must be consistent with one another.</p>
+      <h2>Faith and Reason in Christianity</h2>
+      <p>The apostle Paul, in his letter to the Romans, writes:</p>
+      <blockquote><p>
+      For the wrath of God is revealed from heaven against all ungodliness and
+      unrighteousness of men, who by their unrighteousness suppress the truth.
+      For what can be known about God is plain to them, because God has shown
+      it to them. For his invisible attributes, namely, his eternal power and
+      divine nature, have been clearly perceived, ever since the creation of
+      the world, in the things that have been made. So they are without
+      excuse. For although they knew God, they did not honor him as God or
+      give thanks to him, but they became futile in their thinking, and their
+      foolish hearts were darkened. Claiming to be wise, they became fools,
+      and exchanged the glory of the immortal God for images resembling mortal
+      man and birds and animals and creeping things. (Romans 1:18–23)
+      </p></blockquote>
+
+      <p>The universe is awesome and beautiful. For non-believers, surely the existence of the universe is the supreme mystery. Was it created, or did it always exist? Does it have any unity or purpose? If a being created it, why?</p>
+      <p>I wish that the answers to these questions were apparent. But they are not to me, and I wonder how they could have been to the people of Paul’s time without revelation. If a god created the universe, then it is apparent from the creation that this god would be very powerful. But how can the non-believer be expected to know that a god exists and that it created the universe? I will expound on why I do not believe the existence of God is obvious in a later chapter.</p>
+      <p>Even if we accept that a god exists—how can we be expected to know its will? If God is to justly condemn men as being “ungodly” and “unrighteousness” then these same men, devoid of revelation, must be able to deduce his will. Paul explains how they can later in the same letter:</p>
+      <blockquote><p>
+      For when Gentiles [people who are not Jewish], who do not have the law
+      [God’s instructions for how humans should act, recorded in the sacred
+      Jewish texts], by nature do what the law requires, they are a law to
+      themselves, even though they do not have the law. They show that the
+      work of the law is written on their hearts, while their conscience also
+      bears witness, and their conflicting thoughts accuse or even excuse them
+      on that day when, according to my gospel, God judges the secrets of men
+      by Christ Jesus. (Romans 2:14–16)
+      </p></blockquote>
+
+      <p>These two passages justify God’s judgement of non-believers who have not received God’s revelation. The presence of this justification, regardless of its cogency, implies that it would be unjust if God’s existence and will could not be deduced from the universe. This conclusion is echoed in Paul’s careful distinction between what “can be known” and what must be revealed. He does not want to imply that non-believers could know many of the truths that he, with his revelations, may know.</p>
+      <p>Other passages in the New Testament place less emphasis on reason. Jesus says:</p>
+      <blockquote><p>
+      Now Thomas, one of the Twelve, called the Twin, was not with them when
+      Jesus came. So the other disciples told him, “We have seen the Lord.”
+      But he said to them, “Unless I see in his hands the marks of the nails,
+      and place my finger into the mark of the nails, and place my hand into
+      his side, I will never believe.”
+      </p></blockquote>
+
+      <p>Jesus’s last statement praises belief without direct evidence. Note that Thomas doubted, despite having witnessed many of Jesus’s miracles and having the testimony of other apostles. Modern Christians, barring personal revelation, are expected to believe the ancient testimonies passed down by the church.</p>
+      <p>Paul’s first letter to the Corinthians also emphasizes faith over reason:</p>
+      <blockquote><p>
+      For Christ did not send me to baptize but to preach the gospel, and not
+      with words of eloquent wisdom, lest the cross of Christ be emptied of
+      its power.
+      </p></blockquote>
+
+      <p>Paul was writing about divisions in the Corinthians church. Some of his comments may not apply to us, still, his comment that “it pleased God through the folly of what we preach to save those who believe” seems to abandon reason entirely.</p>
+      <p>These two passages illustrate the tension between faith and reason in the New Testament.</p>
+      <h2>Justifying Beliefs</h2>
+      <p>The tension between faith and reason is critical for seekers of the truth. Faith and reason are two means of justifying belief. Seekers of the truth must decide whether they are willing to justify their beliefs with reason, faith, or a combination of the two. If they decide that faith is a permissible justification of belief, then they must decide <em>what</em> to have faith in. For example, they must decide between the large variety of religions that exist in the world, many of which claim to be the one true religion, and many of which require their adherents to have faith in their tenants.</p>
+      <p>Usually people answer these questions without considering them explicitly. The typical answer to the first question is that beliefs may be justified with a combination of faith and reason. The typical answer to the second question is to have faith in their parent’s religion, without seriously considering other religions. Of course these are not the only answers that may be offered.</p>
+      <p>Before discussing the various answers that may be offered to these questions, I think it is important to consider what is meant by “faith” and “reason.”</p>
+      <p>Reason is a means of justifying belief using evidence. “Evidence” and “justifying” are vague words. There are many types of evidence, and there are many forms of justification. Some are stronger than others. We can justify mathematical and logical beliefs using by reason alone. We can justify beliefs about the world using the scientific method. The scientific method itself is grounded in a belief that “things today will continue as they had in the past.” For example, we believe that gravity will continue to act as it has in the past. Without this implicit belief in “induction,” science can not provide any certain knowledge about the world. We have no reason to believe that “things today will continue as they have in the past.” There is no justification for this belief, but we all act as if it where true.</p>
+      <p>Actions reveal belief. E.g., most of us have faith, often unrecognized, that the law of gravity is fixed. We therefore act like tomorrow will be like today.</p>
+      <p>In our every day life we make decisions about how we will act, based on more mundane beliefs. We may believe that the political system underlying our country is stable. Perhaps we don’t consciously consider this belief, however, if we believed otherwise we would buy guns and stock provisions and move to a rural warm area. Unlike our belief in induction, if we believed differently, we could act differently to reflect this belief. We believe that we are likely to live past 65 years old, so we save for retirement. If we did not believe act differently.o</p>
+      <p>Imagine a person who didn’t believe in induction. How would they act? They would probably act the same way you or I do. In fact, I don’t believe in the laws of induction. I think we live in a simulation, and that the creators of the simulation can change the rules of our universe at their whim, but that they seem like they probably won’t any time soon.</p>
+      <p><em>All of my Bible references are taken from the English Standard Version.</em></p>
+    </main>
+    <footer class="hidden-print">
+      <form action="https://formspree.io/xqkyblqg" method="POST">
+        <input id="subscribe" type="email" placeholder="Email" name="email" required>
+        <button type="submit">Subscribe</button>
+      </form>
+      <p class="hidden-print">
+        <a href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+      </p>
+    </footer>
+  </body>
+</html>

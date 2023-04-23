@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Can We Understand “Antigone” in Context?</title>
+    <meta name="description" content="We know the political and military context in which Sophocles wrote. Is this enough to interpret his plays as his audience would?">
+    <meta name="twitter:card" value="summary">
+    <meta property="og:title" content="Can We Understand “Antigone” in Context?">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="/antigone-historical-context">
+    <meta property="og:image" content="/favicon.png">
+    <meta property="og:description" content="We know the political and military context in which Sophocles wrote. Is this enough to interpret his plays as his audience would?">
+    <link rel="apple-touch-icon-precomposed" href="/favicon.png">
+    <link rel="alternate" type="application/rss+xml" title="Good Life Odyssey" href="https://goodlifeodyssey.com/rssmain.xml">
+    <style>
+      html {
+        /*
+         * Set a reasonable font-size, such that at 32rem we have ~70 characters on a
+         * line.
+         */
+        line-height: 1.5625;
+        font-size: 20px;
+        font-family: Georgia, Times, 'Times New Roman', serif;
+        color: #222;
+
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+      }
+
+      body {
+        margin: 0;
+        padding: 0 1rem 1rem 1rem;
+
+        /*
+         * Nearly all sizes are based on rems so that we can responsively change the
+         * font sizes.
+         */
+        font-size: 1rem;
+      }
+
+      header, main, footer {
+        max-width: 32rem;
+
+        padding: 0;
+
+        /*
+         * Horizontally center top-level block elements
+         */
+        margin: 0 auto;
+
+        /*
+         * Necessary for IE11.
+         */
+        display: block;
+      }
+
+      header, footer {
+        font-size: 0.9rem;
+        color: #AAA;
+      }
+
+      header a,
+      footer a {
+        color: #2C8F30;
+      }
+
+      h1, h2, h3 {
+        font-family: 'Arial Narrow', Arial, sans-serif;
+      }
+
+      h1 {
+        font-size: 1.5rem;
+      }
+
+      h2 {
+        font-size: 1.25rem;
+      }
+
+      h3 {
+        font-size: 1.1rem;
+      }
+
+      a {
+        background-color: transparent;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      strong {
+        font-weight: bolder;
+      }
+
+      .sc {
+        font-variant: small-caps;
+        margin-right: 0.2rem;
+      }
+
+      blockquote {
+        font-size: 0.9rem;
+        margin-left: 0;
+        margin-right: 0;
+        quotes: none;
+        padding-left: 1.0rem;
+        padding-right: 1.0rem;
+        overflow: auto;  /* for floating citations */
+      }
+
+      /*
+       * Block quotes with poetry have a separate <p> for each line of verse, with a
+       * <br> in between.  We need a separate <p> for each line so that we can
+       * indent long lines that wrap.  We do this by setting the `text-indent` (which
+       * only affects the first line) to -2.5em, and then adding a 2.5em margin-left.
+       * The margin-left will shift over all lines but the first.  Note we use 2.5rem
+       * instead of 2rem, so that it is easier to distinguish a wrap-around indent
+       * from a regular indented line (which is indented to 1rem).
+       */
+      .poetry > p {
+        padding: 0;
+        margin: 0 0 0 2.5em;
+        text-indent: -2.5em;
+      }
+
+      /*
+       * Since we are using a <p> for each line, we need to remove the typical
+       * padding around the <p>.  In order to properly separate paragraphs in the
+       * poetry, we insert a line break.  We set the `content` to a blank string, and
+       * set the margin-top, so that we get the proper spacing which is usually in
+       * between <p> tags.
+       */
+      .poetry > br {
+        display: block;
+        content: "";
+        margin-top: 1rem;
+      }
+
+      /*
+       * The "indent" class is applied to verses which need to be indented.
+       */
+      blockquote > p.indent {
+        text-indent: -1.5em;
+      }
+
+      .prose > p {
+        margin: 0;
+      }
+
+      .prose > p:not(:first-child) {
+        text-indent: 1em;
+      }
+
+      /*
+       * Ensure that inline citations don't word-wrap.
+       */
+      p > cite {
+        white-space: nowrap;
+        float: right;
+      }
+
+      /*
+       * This style ensures that there is the correct spacing between a <cite> and
+       * the previous <p> tag, both in regular blockquotes and in poetry blockquotes.
+       */
+      blockquote > p:last-of-type {
+        margin-bottom: 0.3rem;
+      }
+
+      blockquote > p:first-child {
+        margin-top: 0;
+      }
+
+      ul, ol {
+        padding-left: 2rem;
+      }
+
+      dt {
+        font-weight: bold;
+      }
+
+      dt > p {
+        margin-top: 0.2rem;
+      }
+
+      @media print {
+        html {
+          font-size: 16px;
+        }
+
+        header, main, footer {
+          max-width: 100%;
+        }
+
+        /*
+         * Make sure that URLs are available to people that print the page.
+         */
+        a:after {
+          content: " [" attr(href) "]";
+        }
+
+        .hidden-print {
+          display: none;
+        }
+      }
+
+      /*
+       * 680px = (1rem body padding + 32rem main + 1rem body padding)*20px
+       */
+      @media (max-width: 680px) {
+        html {
+          font-size: 18px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*18px
+       */
+      @media (max-width: 576px) {
+        html {
+          font-size: 16px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*16px
+       */
+      @media (max-width: 544px) {
+        html {
+          font-size: 14px;
+
+          /*
+           * Turn off serifs once the font-size gets too small; serifs are nice at
+           * larger font-sizes since they make letters visually stick together into
+           * words.  At smaller font-sizes they can make the text difficult to read.
+           */
+          font-family: Helvetica, Aria, sans-serif;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*14px
+       */
+      @media (max-width: 476px) {
+        html {
+          font-size: 13px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*13px
+       */
+      @media (max-width: 442px) {
+
+        /*
+         * At very small screen sizes, remove unnecessary padding in block quotes
+         * and instead make the color a bit dimmer to set them off from the main
+         * text.
+         */
+        blockquote {
+          padding-right: 0;
+          padding-left: 0;
+          color: #AAA;
+        }
+
+        p > cite {
+          float: none;
+        }
+
+        .hidden-sm {
+          display: none;
+        }
+
+        button {
+          flex-grow: 1;
+        }
+      }
+
+      form {
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+      input[type="email"],
+      button {
+        margin: 1rem 0 0 0;
+        font-size: 16px;
+        padding: 0.5rem;
+        border-radius: 0;
+      }
+
+      input[type="email"] {
+        border: 1px solid #AAA;
+        flex-grow: 1;
+      }
+
+      button {
+        background-color: #2C8F30;
+        border: 1px solid #2C8F30;
+        color: white;
+        text-align: center;
+        cursor: pointer;
+      }
+
+      .float-right {
+        float: right;
+      }
+    </style>
+  </head>
+  <body>
+        <header>
+      <p class="hidden-print">
+        <a title="home" href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+        <a title="subscribe to the email list" class="float-right" href="#subscribe">subscribe</a>
+      </p>
+    </header>
+        <main>
+      <h1>Can We Understand “Antigone” in Context?</h1>
+      <p>We know the political and military context in which Sophocles wrote. Is this enough to interpret his plays as his audience would? Since they are long dead, we can’t know for sure. Some say we can’t know at all, but I think this is too pessimistic. The past was different, but not so different we can’t reason about it. For example, imagine how our ancestors, with similarly limited context, would understand our art. What barriers would time raise for their understanding?</p>
+      <p>The most immediate source of confusion would be unknown contemporary references. A comedy show, joking about the absurdities in our politics and every day, would become difficult to follow. An epic historical drama, filled with universal themes of war, justice, love, and duty, would remain relatable.</p>
+      <p>I think <em>Antigone</em> has few contemporary references that would impact the play’s meaning; it is more like the historical epic than the comedy. There are a few; the choral ode after Antigone departs to her death compares her to Danaë, recounts Lycurgus’ death, and then tells a story about a Thracian queen who killed her two sons. The connection between the latter two and <em>Antigone</em> is unclear to us but would have been understood by the Athenian audience.</p>
+      <p>Implicit cultural norms and values are a second confounding factor. Both the comedy and the epic would assume their audience shares certain values and outlook. For example, a movie may expect its audience to understand and emotionally connect with Christianity in a certain way. Unlike missing references, it would be difficult to detect whether cultural norms had shifted significantly.</p>
+      <p>For example, how would exposing a traitor’s corpse be understood by Sophocles’ audience? Newly kinged Creon dictates:</p>
+      <blockquote><p>
+      But as for his blood brother, Polynices,<br />
+      who returned from exile, home to his father-city<br />
+      and the gods of his race, consumed with one desire—<br />
+      to burn them roof to roots—who thirsted to drink<br />
+      his kinsmen’s blood and sell the rest to slavery:<br />
+      that man—a proclamation has forbidden the city<br />
+      to dignify him with burial, mourn him at all.<br />
+      No, he must be left unburied, his corpse<br />
+      carrion for the birds and dogs to tear,<br />
+      an obscenity for the citizens to behold!
+      </p></blockquote>
+
+      <p>Letting an enemy’s corpse rot is still repulsive, but so is attempting to sack one’s country with the hopes of plundering it and selling your old comrades to slavery.</p>
+      <p>Antigone and Creon justify their actions with divine authority, but both have secondary motives. Antigone says:</p>
+      <blockquote><p>
+      And even if I die in the act, that death will be a glory.<br />
+      I will lie with the one I love and loved by him—<br />
+      an outrage sacred to the gods! I have longer<br />
+      to please the dead than please the living here:<br />
+      in the kingdom down below I’ll lie forever.<br />
+      Do as you like, dishonor the laws<br />
+      the gods hold in honor.
+      </p></blockquote>
+
+      <p>In addition to pleasing the gods, she is motived by her love for her brother and by glory.</p>
+      <p>Creon says his first concern is the state. He doesn’t discount the gods, but believes they would side with him:</p>
+      <blockquote><p>
+      Stop—before you make me choke with anger—the gods!<br />
+      You, you’re senile, must you be insane?<br />
+      You say—why it’s intolerable—say the gods<br />
+      could have the slightest concern for that corpse?<br />
+      Tell me, was it for meritorious service<br />
+      they proceeded to bury him, prized him so? The hero<br />
+      who came to burn their temples ringed with pillars,<br />
+      their golden treasures—scorch their hallowed earth<br />
+      and fling their laws to the winds.<br />
+      Exactly when did you last see the gods<br />
+      celebrating traitors? Inconceivable!
+      </p></blockquote>
+
+      <p>But, as is made clear throughout the play, his deeper motive is his insecurity and pride.</p>
+      <p>Who is justified? Tiresias, the blind prophet, sides with Antigone and berates Creon:</p>
+      <blockquote><p>
+      You’ve robbed the gods below the earth,<br />
+      keeping a dead body here in the bright air,<br />
+      unburied, unsung, unhallowed by the rites.<br />
+      You, you have no business with the dead,<br />
+      nor do the gods above—this is violence<br />
+      you have forced upon the heavens
+      </p></blockquote>
+
+      <p>It seems unclear whether the Athenians would have expected the gods to be on Creon’s side or Antigone’s.</p>
+      <p>The role of prophecy is another cultural norm which, if misunderstood, could alter our understanding of <em>Antigone</em>. Since we no longer believe in the Greek gods, we may view Tiresias as a story device and his prophecies as certain. But the ancient Greeks <em>believed</em> in oracles and augury. They were a part of their worldview. Ironically, this means they understood that prophets were political. They could lie and cheat, as is apparent throughout Herodotus and even in the first book of the <em>Iliad</em>. It also explains why Creon’s reaction to Tiresias’ prophecy is to call him a “fortuneteller” and dismiss him (although soon he follows his advice). We know how the Greek’s viewed prophecy, so in this case we can envision how Sophocles’ audience understood Tiresias, but what if there are other norms we are not aware of?</p>
+      <p>Is it a foregone conclusion that the gods side with Antigone, or is Sophocles making a religious or political statement? Could some Athenian audience members have sided with Creon? I think it is difficult for us to be sure.</p>
+      <p>How much should we care? If <em>Antigone</em> is beautiful and prompts one to meditate on duty and justice, does it matter if I am layering it with new meanings?</p>
+    </main>
+    <footer class="hidden-print">
+      <form action="https://formspree.io/xqkyblqg" method="POST">
+        <input id="subscribe" type="email" placeholder="Email" name="email" required>
+        <button type="submit">Subscribe</button>
+      </form>
+      <p class="hidden-print">
+        <a href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+      </p>
+    </footer>
+  </body>
+</html>

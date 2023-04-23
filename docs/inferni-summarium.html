@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Inferni Summarium</title>
+    <meta name="description" content="A poetic summary of the first part of Dante's “Divine Comedy.”">
+    <meta name="twitter:card" value="summary">
+    <meta property="og:title" content="Inferni Summarium">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="/inferni-summarium">
+    <meta property="og:image" content="/favicon.png">
+    <meta property="og:description" content="A poetic summary of the first part of Dante's “Divine Comedy.”">
+    <link rel="apple-touch-icon-precomposed" href="/favicon.png">
+    <link rel="alternate" type="application/rss+xml" title="Good Life Odyssey" href="https://goodlifeodyssey.com/rssmain.xml">
+    <style>
+      html {
+        /*
+         * Set a reasonable font-size, such that at 32rem we have ~70 characters on a
+         * line.
+         */
+        line-height: 1.5625;
+        font-size: 20px;
+        font-family: Georgia, Times, 'Times New Roman', serif;
+        color: #222;
+
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+      }
+
+      body {
+        margin: 0;
+        padding: 0 1rem 1rem 1rem;
+
+        /*
+         * Nearly all sizes are based on rems so that we can responsively change the
+         * font sizes.
+         */
+        font-size: 1rem;
+      }
+
+      header, main, footer {
+        max-width: 32rem;
+
+        padding: 0;
+
+        /*
+         * Horizontally center top-level block elements
+         */
+        margin: 0 auto;
+
+        /*
+         * Necessary for IE11.
+         */
+        display: block;
+      }
+
+      header, footer {
+        font-size: 0.9rem;
+        color: #AAA;
+      }
+
+      header a,
+      footer a {
+        color: #2C8F30;
+      }
+
+      h1, h2, h3 {
+        font-family: 'Arial Narrow', Arial, sans-serif;
+      }
+
+      h1 {
+        font-size: 1.5rem;
+      }
+
+      h2 {
+        font-size: 1.25rem;
+      }
+
+      h3 {
+        font-size: 1.1rem;
+      }
+
+      a {
+        background-color: transparent;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      strong {
+        font-weight: bolder;
+      }
+
+      .sc {
+        font-variant: small-caps;
+        margin-right: 0.2rem;
+      }
+
+      blockquote {
+        font-size: 0.9rem;
+        margin-left: 0;
+        margin-right: 0;
+        quotes: none;
+        padding-left: 1.0rem;
+        padding-right: 1.0rem;
+        overflow: auto;  /* for floating citations */
+      }
+
+      /*
+       * Block quotes with poetry have a separate <p> for each line of verse, with a
+       * <br> in between.  We need a separate <p> for each line so that we can
+       * indent long lines that wrap.  We do this by setting the `text-indent` (which
+       * only affects the first line) to -2.5em, and then adding a 2.5em margin-left.
+       * The margin-left will shift over all lines but the first.  Note we use 2.5rem
+       * instead of 2rem, so that it is easier to distinguish a wrap-around indent
+       * from a regular indented line (which is indented to 1rem).
+       */
+      .poetry > p {
+        padding: 0;
+        margin: 0 0 0 2.5em;
+        text-indent: -2.5em;
+      }
+
+      /*
+       * Since we are using a <p> for each line, we need to remove the typical
+       * padding around the <p>.  In order to properly separate paragraphs in the
+       * poetry, we insert a line break.  We set the `content` to a blank string, and
+       * set the margin-top, so that we get the proper spacing which is usually in
+       * between <p> tags.
+       */
+      .poetry > br {
+        display: block;
+        content: "";
+        margin-top: 1rem;
+      }
+
+      /*
+       * The "indent" class is applied to verses which need to be indented.
+       */
+      blockquote > p.indent {
+        text-indent: -1.5em;
+      }
+
+      .prose > p {
+        margin: 0;
+      }
+
+      .prose > p:not(:first-child) {
+        text-indent: 1em;
+      }
+
+      /*
+       * Ensure that inline citations don't word-wrap.
+       */
+      p > cite {
+        white-space: nowrap;
+        float: right;
+      }
+
+      /*
+       * This style ensures that there is the correct spacing between a <cite> and
+       * the previous <p> tag, both in regular blockquotes and in poetry blockquotes.
+       */
+      blockquote > p:last-of-type {
+        margin-bottom: 0.3rem;
+      }
+
+      blockquote > p:first-child {
+        margin-top: 0;
+      }
+
+      ul, ol {
+        padding-left: 2rem;
+      }
+
+      dt {
+        font-weight: bold;
+      }
+
+      dt > p {
+        margin-top: 0.2rem;
+      }
+
+      @media print {
+        html {
+          font-size: 16px;
+        }
+
+        header, main, footer {
+          max-width: 100%;
+        }
+
+        /*
+         * Make sure that URLs are available to people that print the page.
+         */
+        a:after {
+          content: " [" attr(href) "]";
+        }
+
+        .hidden-print {
+          display: none;
+        }
+      }
+
+      /*
+       * 680px = (1rem body padding + 32rem main + 1rem body padding)*20px
+       */
+      @media (max-width: 680px) {
+        html {
+          font-size: 18px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*18px
+       */
+      @media (max-width: 576px) {
+        html {
+          font-size: 16px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*16px
+       */
+      @media (max-width: 544px) {
+        html {
+          font-size: 14px;
+
+          /*
+           * Turn off serifs once the font-size gets too small; serifs are nice at
+           * larger font-sizes since they make letters visually stick together into
+           * words.  At smaller font-sizes they can make the text difficult to read.
+           */
+          font-family: Helvetica, Aria, sans-serif;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*14px
+       */
+      @media (max-width: 476px) {
+        html {
+          font-size: 13px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*13px
+       */
+      @media (max-width: 442px) {
+
+        /*
+         * At very small screen sizes, remove unnecessary padding in block quotes
+         * and instead make the color a bit dimmer to set them off from the main
+         * text.
+         */
+        blockquote {
+          padding-right: 0;
+          padding-left: 0;
+          color: #AAA;
+        }
+
+        p > cite {
+          float: none;
+        }
+
+        .hidden-sm {
+          display: none;
+        }
+
+        button {
+          flex-grow: 1;
+        }
+      }
+
+      form {
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+      input[type="email"],
+      button {
+        margin: 1rem 0 0 0;
+        font-size: 16px;
+        padding: 0.5rem;
+        border-radius: 0;
+      }
+
+      input[type="email"] {
+        border: 1px solid #AAA;
+        flex-grow: 1;
+      }
+
+      button {
+        background-color: #2C8F30;
+        border: 1px solid #2C8F30;
+        color: white;
+        text-align: center;
+        cursor: pointer;
+      }
+
+      .float-right {
+        float: right;
+      }
+    </style>
+  </head>
+  <body>
+        <header>
+      <p class="hidden-print">
+        <a title="home" href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+        <a title="subscribe to the email list" class="float-right" href="#subscribe">subscribe</a>
+      </p>
+    </header>
+        <main>
+      <h1>Inferni Summarium</h1>
+      <p>Dante, astray in a dark wood, sees light,<br />
+      but leopard, lion, and wolf halts his way.<br />
+      Wise Virgil comes to guide him past his plight.<br />
+      <br />
+      The pilgrim, no Aeneas or Paul, stays.<br />
+      “Your Beatrice sent me, so have no fear—<br />
+      our path is sure, though through hell’s dark maze.”<br />
+      <br />
+      “Abandon every hope, who enter here,”<br />
+      declares the gate. Agnostics chase a flag,<br />
+      while unrepentant throng Acheron’s pier.<br />
+      <br />
+      Sorrow without torments for those who lag<br />
+      the saving cross—Homer, Plato, and so—<br />
+      though castle and greens uplift, their spirits sag.<br />
+      <br />
+      Shades confess, then Minos’ tail casts below.<br />
+      Tempests endlessly buffet the lusting.<br />
+      Our pilgrim faints for false Fransesca’s show.<br />
+      <br />
+      Overeaters bark in the cold, falling,<br />
+      foul, filth with the three-headed demon dog.<br />
+      A man foretells the white Guelphs ending.<br />
+      <br />
+      Hoarders and spendthrifts, in a circular slog,<br />
+      roll weights to and fro. The wrathful damned fight<br />
+      while the slothful’s bubbles cover the bog.<br />
+      <br />
+      Furies, halting our nervous pair, incite<br />
+      an angel to descend and clear the way,<br />
+      where heretics, crowded in tombs, alight.<br />
+      <br />
+      Proud Farinata rises to waylay<br />
+      the two, as they pass buried Epicures.<br />
+      Sad news, with dark prophecy, he repays.<br />
+      <br />
+      Adjusting to the stench, Virgil confers<br />
+      hell’s order: incontinence, violence,<br />
+      then fraud—with ever increasing tortures.<br />
+      <br />
+      Half-bull dismissed, they see a turbulent<br />
+      stream of boiling blood immersing tyrants<br />
+      and killers, watch’d by centaurs with bows bent.<br />
+      <br />
+      Self-killers turn into trees, who spout grunts<br />
+      and blood when snapped and someday will hang bodies.<br />
+      Nude squanderers flee, the prey of dog-hunts.<br />
+      <br />
+      A rain of fire justly rewards blasphemers<br />
+      in this sandy circle, crossed only via tears<br />
+      flowing from the Old Man’s diverse crevices.<br />
+      <br />
+      Dantes’ mentor, Ser Brunetto, appears—<br />
+      seeking fame though blackened. He foretells his<br />
+      pupils’ exile, who says he’ll persevere.<br />
+      <br />
+      Three Florentines encircle Dante: “‘tis<br />
+      true, courtesy and valor flew our state?”<br />
+      They left despondent. Then Geryon meets his summonses.<br />
+      <br />
+      A serpent, scorpion, man—instantiate<br />
+      fraud—carried them down to the eighth dark ring,<br />
+      passing lenders who’d used an unfair rate.<br />
+      <br />
+      The first of ten dikes is filled with marching<br />
+      pimps and seducers, whipped red. Jason’s there.<br />
+      Next, dipped in shit, are those damned for flatt’ring,<br />
+      <br />
+      then buried priests, flaming feet in the air,<br />
+      who pimped dear Jesus’ bride for gold.<br />
+      Indignant Dante calls the pope’s pain fair.<br />
+      <br />
+      The mages contort their necks, and behold<br />
+      there buttocks fore’er. Rejecting pity,<br />
+      our guide utters a story that’s scrambled.<br />
+      <br />
+      Corrupt officials boil in tar and flee<br />
+      from poking demons, who’d sooner harm than<br />
+      guide the two, if not for heaven holy.<br />
+      <br />
+      The escorts hook a tardy denizen<br />
+      of the pit, who’s questioned ‘between torment,<br />
+      escapes, leaving tarred captors. We’re free again.<br />
+      <br />
+      A sliding escape. The hypocrites, bent<br />
+      by painted lead cloaks, trudge o’re Pharisees.<br />
+      Two false fat friars direct their ascent.<br />
+      <br />
+      After the climb, and breathing break, armies<br />
+      of snakes emerge below—who bite, hand-cuff,<br />
+      and somehow ignite frantic naked thieves.<br />
+      <br />
+      One rebel’s neck is squeezed shut—“enough!”<br />
+      Two other’s flesh and bones are stolen when,<br />
+      wax-like, they meld with serpents, coiled rough.<br />
+      <br />
+      Hot flames entomb false counselors within.<br />
+      Ulysses’s friends, won by his words, end in<br />
+      a God-sent wave, having seen the mountain.<br />
+      <br />
+      The next flame asked how Italy has been—<br />
+      a soldier turned friar turned fraud who led<br />
+      pope Boni’s scheme to conquer Christian kin.<br />
+      <br />
+      Next, those who’ve pimped mistrust and schism bred<br />
+      are split and closed repeatedly. There lies<br />
+      Mohamed and a man holding his own head!<br />
+      <br />
+      An unavenged cousin’s curses occupies<br />
+      our pair’s descent into the final ditch,<br />
+      where plagued alchemists itch and smells paralyze,<br />
+      <br />
+      impersonators bite, and one who did switch<br />
+      real gold for dross bickers with a Greek liar.<br />
+      There, Myrrah and Potiphar’s wife do twitch.<br />
+      <br />
+      Nearing the ninth circle, where chains inter<br />
+      the giants, dumb Nimrod blasts his horn.<br />
+      Anteus trades fame for gentle transfer.<br />
+      <br />
+      In Caïna, killers of kin adorn<br />
+      the ice and brothers ram heads endlessly.<br />
+      Betrayers of party face Dante’s scorn.<br />
+      <br />
+      Now Ugolino, stops gnawing Ruggieri<br />
+      to tell how his kids starved before his eyes.<br />
+      Betrayers of guests freeze with living bodies.<br />
+      <br />
+      Past Cassius, Brutus, Judas—who satisfies<br />
+      Satan’s three mouths—trudge our pair through hell’s core<br />
+      and up to see the stars and open skies.</p>
+    </main>
+    <footer class="hidden-print">
+      <form action="https://formspree.io/xqkyblqg" method="POST">
+        <input id="subscribe" type="email" placeholder="Email" name="email" required>
+        <button type="submit">Subscribe</button>
+      </form>
+      <p class="hidden-print">
+        <a href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+      </p>
+    </footer>
+  </body>
+</html>

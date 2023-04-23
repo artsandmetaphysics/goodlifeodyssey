@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>“The Epic of Gilgamesh”</title>
+    <meta name="description" content="A commentary on “The Epic of Gilgamesh.”">
+    <meta name="twitter:card" value="summary">
+    <meta property="og:title" content="“The Epic of Gilgamesh”">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="/the-epic-of-gilgamesh">
+    <meta property="og:image" content="/favicon.png">
+    <meta property="og:description" content="A commentary on “The Epic of Gilgamesh.”">
+    <link rel="apple-touch-icon-precomposed" href="/favicon.png">
+    <link rel="alternate" type="application/rss+xml" title="Good Life Odyssey" href="https://goodlifeodyssey.com/rssmain.xml">
+    <style>
+      html {
+        /*
+         * Set a reasonable font-size, such that at 32rem we have ~70 characters on a
+         * line.
+         */
+        line-height: 1.5625;
+        font-size: 20px;
+        font-family: Georgia, Times, 'Times New Roman', serif;
+        color: #222;
+
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+      }
+
+      body {
+        margin: 0;
+        padding: 0 1rem 1rem 1rem;
+
+        /*
+         * Nearly all sizes are based on rems so that we can responsively change the
+         * font sizes.
+         */
+        font-size: 1rem;
+      }
+
+      header, main, footer {
+        max-width: 32rem;
+
+        padding: 0;
+
+        /*
+         * Horizontally center top-level block elements
+         */
+        margin: 0 auto;
+
+        /*
+         * Necessary for IE11.
+         */
+        display: block;
+      }
+
+      header, footer {
+        font-size: 0.9rem;
+        color: #AAA;
+      }
+
+      header a,
+      footer a {
+        color: #2C8F30;
+      }
+
+      h1, h2, h3 {
+        font-family: 'Arial Narrow', Arial, sans-serif;
+      }
+
+      h1 {
+        font-size: 1.5rem;
+      }
+
+      h2 {
+        font-size: 1.25rem;
+      }
+
+      h3 {
+        font-size: 1.1rem;
+      }
+
+      a {
+        background-color: transparent;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      strong {
+        font-weight: bolder;
+      }
+
+      .sc {
+        font-variant: small-caps;
+        margin-right: 0.2rem;
+      }
+
+      blockquote {
+        font-size: 0.9rem;
+        margin-left: 0;
+        margin-right: 0;
+        quotes: none;
+        padding-left: 1.0rem;
+        padding-right: 1.0rem;
+        overflow: auto;  /* for floating citations */
+      }
+
+      /*
+       * Block quotes with poetry have a separate <p> for each line of verse, with a
+       * <br> in between.  We need a separate <p> for each line so that we can
+       * indent long lines that wrap.  We do this by setting the `text-indent` (which
+       * only affects the first line) to -2.5em, and then adding a 2.5em margin-left.
+       * The margin-left will shift over all lines but the first.  Note we use 2.5rem
+       * instead of 2rem, so that it is easier to distinguish a wrap-around indent
+       * from a regular indented line (which is indented to 1rem).
+       */
+      .poetry > p {
+        padding: 0;
+        margin: 0 0 0 2.5em;
+        text-indent: -2.5em;
+      }
+
+      /*
+       * Since we are using a <p> for each line, we need to remove the typical
+       * padding around the <p>.  In order to properly separate paragraphs in the
+       * poetry, we insert a line break.  We set the `content` to a blank string, and
+       * set the margin-top, so that we get the proper spacing which is usually in
+       * between <p> tags.
+       */
+      .poetry > br {
+        display: block;
+        content: "";
+        margin-top: 1rem;
+      }
+
+      /*
+       * The "indent" class is applied to verses which need to be indented.
+       */
+      blockquote > p.indent {
+        text-indent: -1.5em;
+      }
+
+      .prose > p {
+        margin: 0;
+      }
+
+      .prose > p:not(:first-child) {
+        text-indent: 1em;
+      }
+
+      /*
+       * Ensure that inline citations don't word-wrap.
+       */
+      p > cite {
+        white-space: nowrap;
+        float: right;
+      }
+
+      /*
+       * This style ensures that there is the correct spacing between a <cite> and
+       * the previous <p> tag, both in regular blockquotes and in poetry blockquotes.
+       */
+      blockquote > p:last-of-type {
+        margin-bottom: 0.3rem;
+      }
+
+      blockquote > p:first-child {
+        margin-top: 0;
+      }
+
+      ul, ol {
+        padding-left: 2rem;
+      }
+
+      dt {
+        font-weight: bold;
+      }
+
+      dt > p {
+        margin-top: 0.2rem;
+      }
+
+      @media print {
+        html {
+          font-size: 16px;
+        }
+
+        header, main, footer {
+          max-width: 100%;
+        }
+
+        /*
+         * Make sure that URLs are available to people that print the page.
+         */
+        a:after {
+          content: " [" attr(href) "]";
+        }
+
+        .hidden-print {
+          display: none;
+        }
+      }
+
+      /*
+       * 680px = (1rem body padding + 32rem main + 1rem body padding)*20px
+       */
+      @media (max-width: 680px) {
+        html {
+          font-size: 18px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*18px
+       */
+      @media (max-width: 576px) {
+        html {
+          font-size: 16px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*16px
+       */
+      @media (max-width: 544px) {
+        html {
+          font-size: 14px;
+
+          /*
+           * Turn off serifs once the font-size gets too small; serifs are nice at
+           * larger font-sizes since they make letters visually stick together into
+           * words.  At smaller font-sizes they can make the text difficult to read.
+           */
+          font-family: Helvetica, Aria, sans-serif;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*14px
+       */
+      @media (max-width: 476px) {
+        html {
+          font-size: 13px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*13px
+       */
+      @media (max-width: 442px) {
+
+        /*
+         * At very small screen sizes, remove unnecessary padding in block quotes
+         * and instead make the color a bit dimmer to set them off from the main
+         * text.
+         */
+        blockquote {
+          padding-right: 0;
+          padding-left: 0;
+          color: #AAA;
+        }
+
+        p > cite {
+          float: none;
+        }
+
+        .hidden-sm {
+          display: none;
+        }
+
+        button {
+          flex-grow: 1;
+        }
+      }
+
+      form {
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+      input[type="email"],
+      button {
+        margin: 1rem 0 0 0;
+        font-size: 16px;
+        padding: 0.5rem;
+        border-radius: 0;
+      }
+
+      input[type="email"] {
+        border: 1px solid #AAA;
+        flex-grow: 1;
+      }
+
+      button {
+        background-color: #2C8F30;
+        border: 1px solid #2C8F30;
+        color: white;
+        text-align: center;
+        cursor: pointer;
+      }
+
+      .float-right {
+        float: right;
+      }
+    </style>
+  </head>
+  <body>
+        <header>
+      <p class="hidden-print">
+        <a title="home" href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+        <a title="subscribe to the email list" class="float-right" href="#subscribe">subscribe</a>
+      </p>
+    </header>
+        <main>
+      <h1>“The Epic of Gilgamesh”</h1>
+      <p>Ancient and beautiful, <em>The Epic of Gilgamesh</em> is the story of the king of Uruk.</p>
+      <p>Gilgamesh was a powerful and handsome king, but he oppressed his people. He forced new brides to have sex with him on their wedding night. The young women of Uruk cried out, and the gods heard them. The gods decided to create the wildman Enkidu to vie with Gilgamesh and to relieve Uruk’s citizens:</p>
+      <blockquote><p>
+      The goddess Aruru, she washed her hands,<br />
+      took a pinch of clay, threw it down in the wild.<br />
+      In the wild she created Enkidu, the hero,<br />
+      offspring of silence, knit strong by Ninurta.
+      </p></blockquote>
+
+      <p>A game trapper finds Enkidu at a watering hole, and is concerned because he fills in his pits and pulls up his snares. The trapper’s father advises his son to bring Shamhat, a harlot from Uruk, to the watering hole to tempt Enkidu with her charms. Here is the scene where Shamhat tempts Enkidu, and tells him to leave the wilderness and his animals:</p>
+      <blockquote><p>
+      One day and a second they waited by the water-hole,<br />
+      then the herd came down to drink the water.<br />
+      The game arrived, their hearts delighted in water,<br />
+      and Enkidu also, born in the uplands.<br />
+      <br />
+      With the gazelles he grazed on grasses,<br />
+      <em>joining the throng</em> with the game at the water-hole,<br />
+      his heart <em>delighting</em> with the beasts in the water:<br />
+      then Shamhat saw him, the child of nature,<br />
+      the savage man from the midst of the wild.<br />
+      <br />
+      …<br />
+      <br />
+      Shamhat unfastened the cloth of her loins,<br />
+      she bared her sex and he took in her charms.<br />
+      She did not recoil, she took in his scent:<br />
+      she spread her clothing and he lay upon her.<br />
+      <br />
+      She did for the man the work of a woman,<br />
+      his passion caressed and embraced her.<br />
+      For six days and seven nights<br />
+      Enkidu was erect, as he coupled with Shamhat.<br />
+      <br />
+      When with her delights he was fully sated,<br />
+      he turned his gaze to his herd.<br />
+      The gazelles saw Enkidu, they started to run,<br />
+      the beasts of the field shied away from his presence.<br />
+      <br />
+      Enkidu had defiled his body so pure,<br />
+      his legs stood still, though his herd was in motion.<br />
+      Enkidu was weakened, could not run as before,<br />
+      but now he had <em>reason</em>, and wide understanding.<br />
+      <br />
+      He came back and sat at the feet of the harlot,<br />
+      watching the harlot, observing her features.<br />
+      Then to the harlot’s words he listened intently,<br />
+      <em>as Shamhat</em> talked to him, to Enkidu:<br />
+      <br />
+      "You are handsome, Enkidu, you are just like a god!<br />
+      Why with the beasts do you wander the wild?<br />
+      Come, I will take you to Uruk-the-Sheepfold,<br />
+      to the sacred temple, home of Anu and Ishtar”
+      </p></blockquote>
+
+      <p>I am quoting from the Andrew George translation; words in italics were difficult to decipher or were filled in from context.</p>
+      <p>This passage has similarities to the Adam and Eve story in the Book of Genesis. In both a man is created from the ground, tempted by a woman, succumbs, gains knowledge or understanding, and must leave their innocent way of life.</p>
+      <p>There are more differences between the stories than there are similarities. Eve was the innocent partner of Adam; Shamhat was a prostitute from the city. Adam and Eve tended a garden and named the animals, while Enkidu would run with the animals and free them from traps. Enkidu was “defiled" and gained “wide understanding,” while Adam gained “knowledge of good and evil.” Eve was tempted with knowledge by a snake, and then Eve tempted Adam; Enkidu was tempted with sex by Shamhat.</p>
+      <p>There is, however, a snake in the <em>Epic of Gilgamesh.</em> Gilgamesh is returning from a journey with a plant that will make him young again. This plant is similar to the tree of life in Genesis. Here is the passage:</p>
+      <blockquote><p>
+      “This plant, Ur-shanabi, is the ‘Plant of Heartbeat,’<br />
+      with it a man can regain his vigor.<br />
+      To Uruk-the-Sheepfold I will take it,<br />
+      to an ancient I will feed some and put the plant to the test!<br />
+      <br />
+      ”Its name shall be 'Old Man Grown Young,’<br />
+      I will eat it myself, and be again as I was in my youth!”<br />
+      At twenty leagues they broke bread,<br />
+      at thirty leagues they stopped for the night.<br />
+      <br />
+      Gilgamesh found a pool whose water was cool,<br />
+      down he went into it, to bathe in the water.<br />
+      Of the plant's fragrance a snake caught scent,<br />
+      came up <em>in silence</em>, and bore the plant off.<br />
+      <br />
+      As it turned away it sloughed its skin.<br />
+      Then Gilgamesh sat down and wept,<br />
+      down his cheeks the tears were coursing.
+      </p></blockquote>
+
+      <p>In both stories a snake causes a man to lose access to a plant which provides eternal life. However, there are many differences. In Genesis, the plant is given to Adam by God; Gilgamesh is told about the plant by the Babylonian Noah and he must find it himself. In Genesis, the plant is a tree in the garden of Eden; in the <em>Epic of Gilgamesh,</em> it is a prickly plant at the bottom of the "Ocean Below."</p>
+      <p>The similarities between the story of Noah and the Babylonian texts are manifold. The creation story in Genesis, Job, the Psalms, and Ecclesiastes have traces of concepts from Babylonian texts.</p>
+      <p>For example, the Hebrew Bible, like Babylonian mythology, has the idea of the waters above and the waters below:</p>
+      <blockquote><p>
+      And God said, “Let there be a dome in the midst of the waters, and let
+      it separate the waters from the waters.” So God made the dome and
+      separated the waters that were under the dome from the waters that were
+      above the dome. And it was so. God called the dome Sky. And there was
+      evening and there was morning, the second day.
+      </p></blockquote>
+
+      <blockquote><p>
+      In the six hundredth year of Noah's life, in the second month, on the
+      seventeenth day of the month, on that day all the fountains of the great
+      deep burst forth, and the windows of the heavens were opened.
+      </p></blockquote>
+
+      <blockquote><p>
+      And God made a wind blow over the earth, and the waters subsided; the
+      fountains of the deep and the windows of the heavens were closed, the
+      rain from the heavens was restrained, and the waters gradually receded
+      from the earth.
+      </p></blockquote>
+
+      <blockquote><p>
+      Praise him, you highest heavens, and you waters above the heavens!
+      </p></blockquote>
+
+      <p>The most common explanation for the Hebrew's and Babylonian's belief in the waters above is that the sky is blue and water is blue.</p>
+      <p>In Babylonian mythology, Marduk was the supreme god. Marduk rose to power by killing Tiamat, who was often represented as a great sea dragon, when all the other Babylonian gods were too afraid to confront it. It seems that the Hebrew god references fought a similar battle:</p>
+      <blockquote><p>
+      “Can you draw out Leviathan with a fishhook,<br />
+      or press down its tongue with a cord?<br />
+      Can you put a rope in its nose,<br />
+      or pierce its jaw with a hook?<br />
+      ...<br />
+      Any hope of capturing it will be disappointed;<br />
+      were not even the gods overwhelmed at the sight of it?”
+      </p></blockquote>
+
+      <blockquote><p>
+      You divided the sea by your might;<br />
+      you broke the heads of the dragons in the waters.<br />
+      You crushed the heads of Leviathan;<br />
+      you gave him as food for the creatures of the wilderness.
+      </p></blockquote>
+
+      <p>Finally, parts of Ecclesiastes are very similar to the <em>Epic of Gilgamesh</em>. Here is a quote, from a tavern-keeper at the edge of the world, advising Gilgamesh:</p>
+      <blockquote><p>
+      “The life that you seek you never will find:<br />
+      When the gods created mankind,<br />
+      Death they dispensed to mankind,<br />
+      Life they kept for themselves.
+      </p></blockquote>
+
+      <p>And here is a similar saying in Ecclesiastes:</p>
+      <blockquote><p>
+      The living know that they will die, but the dead know nothing; they have
+      no more reward, and even the memory of them is lost. Their love and
+      their hate and their envy have already perished; never again will they
+      have any share in all that happens under the sun.
+      </p></blockquote>
+
+      <p>Finally, the Hebrew and Babylonian flood stories are exceedingly similar. Instead of providing a long list of quotes, I will instead list the similarities:</p>
+      <ul>
+      <li>Before the flood, men live many hundreds of years</li>
+      <li>Pre-flood individuals are taken directly to heaven (Enoch in the Hebrew Bible; Emmeduranki and others in the Babylonian tradition)</li>
+      <li>The human lifespan is limited</li>
+      <li>A single man to build a boat with specific dimensions</li>
+      <li>The flood wipes out all living creatures that are not on the boat</li>
+      <li>The man makes sacrifices which are pleasing to the gods or God</li>
+      <li>Three birds are sent to find land</li>
+      <li>A covenant established between the man and gods or God.</li>
+      </ul>
+      <p>Thus, one can see that there are many similarities between the Babylonian texts and the Hebrew Bible. For any particular similarity one of the following must be true:</p>
+      <ol type="1">
+      <li>It is a coincidence</li>
+      <li>The Hebrew Bible was influenced by Babylonian texts</li>
+      <li>Babylonian texts were influenced by the Hebrew Bible</li>
+      <li>Both texts were influenced by a third, older, source.</li>
+      </ol>
+      <p>Some of these similarities may be deemed coincidental, but it seems implausible to believe that all of them are.</p>
+      <p>Each similarity requires separate analysis. Sometimes we can rely on the dates of the texts to rule out certain possibilities. For example, Solomon is thought to have lived between 1000 and 900 BCE, and thus Ecclesiastes could not have been written earlier than this. The similar quote from <em>The Epic of Gilgamesh</em> if from a tablet that is from 1800–1700 BCE. Thus, explanation (3) is implausible.</p>
+      <p>Most of the Babylonian clay tablets we have recovered were copied around the time of Babylonian captivity, and thus a simplistic archaeological analysis is not possible because we do not know when the age of the original material.</p>
+    </main>
+    <footer class="hidden-print">
+      <form action="https://formspree.io/xqkyblqg" method="POST">
+        <input id="subscribe" type="email" placeholder="Email" name="email" required>
+        <button type="submit">Subscribe</button>
+      </form>
+      <p class="hidden-print">
+        <a href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+      </p>
+    </footer>
+  </body>
+</html>

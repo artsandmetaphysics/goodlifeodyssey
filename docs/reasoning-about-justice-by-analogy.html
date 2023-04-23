@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Reasoning About Justice from Analogy</title>
+    <meta name="description" content="A short investigation of a part of book I of Plato's Republic.">
+    <meta name="twitter:card" value="summary">
+    <meta property="og:title" content="Reasoning About Justice from Analogy">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="/reasoning-about-justice-by-analogy">
+    <meta property="og:image" content="/favicon.png">
+    <meta property="og:description" content="A short investigation of a part of book I of Plato's Republic.">
+    <link rel="apple-touch-icon-precomposed" href="/favicon.png">
+    <link rel="alternate" type="application/rss+xml" title="Good Life Odyssey" href="https://goodlifeodyssey.com/rssmain.xml">
+    <style>
+      html {
+        /*
+         * Set a reasonable font-size, such that at 32rem we have ~70 characters on a
+         * line.
+         */
+        line-height: 1.5625;
+        font-size: 20px;
+        font-family: Georgia, Times, 'Times New Roman', serif;
+        color: #222;
+
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+      }
+
+      body {
+        margin: 0;
+        padding: 0 1rem 1rem 1rem;
+
+        /*
+         * Nearly all sizes are based on rems so that we can responsively change the
+         * font sizes.
+         */
+        font-size: 1rem;
+      }
+
+      header, main, footer {
+        max-width: 32rem;
+
+        padding: 0;
+
+        /*
+         * Horizontally center top-level block elements
+         */
+        margin: 0 auto;
+
+        /*
+         * Necessary for IE11.
+         */
+        display: block;
+      }
+
+      header, footer {
+        font-size: 0.9rem;
+        color: #AAA;
+      }
+
+      header a,
+      footer a {
+        color: #2C8F30;
+      }
+
+      h1, h2, h3 {
+        font-family: 'Arial Narrow', Arial, sans-serif;
+      }
+
+      h1 {
+        font-size: 1.5rem;
+      }
+
+      h2 {
+        font-size: 1.25rem;
+      }
+
+      h3 {
+        font-size: 1.1rem;
+      }
+
+      a {
+        background-color: transparent;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      strong {
+        font-weight: bolder;
+      }
+
+      .sc {
+        font-variant: small-caps;
+        margin-right: 0.2rem;
+      }
+
+      blockquote {
+        font-size: 0.9rem;
+        margin-left: 0;
+        margin-right: 0;
+        quotes: none;
+        padding-left: 1.0rem;
+        padding-right: 1.0rem;
+        overflow: auto;  /* for floating citations */
+      }
+
+      /*
+       * Block quotes with poetry have a separate <p> for each line of verse, with a
+       * <br> in between.  We need a separate <p> for each line so that we can
+       * indent long lines that wrap.  We do this by setting the `text-indent` (which
+       * only affects the first line) to -2.5em, and then adding a 2.5em margin-left.
+       * The margin-left will shift over all lines but the first.  Note we use 2.5rem
+       * instead of 2rem, so that it is easier to distinguish a wrap-around indent
+       * from a regular indented line (which is indented to 1rem).
+       */
+      .poetry > p {
+        padding: 0;
+        margin: 0 0 0 2.5em;
+        text-indent: -2.5em;
+      }
+
+      /*
+       * Since we are using a <p> for each line, we need to remove the typical
+       * padding around the <p>.  In order to properly separate paragraphs in the
+       * poetry, we insert a line break.  We set the `content` to a blank string, and
+       * set the margin-top, so that we get the proper spacing which is usually in
+       * between <p> tags.
+       */
+      .poetry > br {
+        display: block;
+        content: "";
+        margin-top: 1rem;
+      }
+
+      /*
+       * The "indent" class is applied to verses which need to be indented.
+       */
+      blockquote > p.indent {
+        text-indent: -1.5em;
+      }
+
+      .prose > p {
+        margin: 0;
+      }
+
+      .prose > p:not(:first-child) {
+        text-indent: 1em;
+      }
+
+      /*
+       * Ensure that inline citations don't word-wrap.
+       */
+      p > cite {
+        white-space: nowrap;
+        float: right;
+      }
+
+      /*
+       * This style ensures that there is the correct spacing between a <cite> and
+       * the previous <p> tag, both in regular blockquotes and in poetry blockquotes.
+       */
+      blockquote > p:last-of-type {
+        margin-bottom: 0.3rem;
+      }
+
+      blockquote > p:first-child {
+        margin-top: 0;
+      }
+
+      ul, ol {
+        padding-left: 2rem;
+      }
+
+      dt {
+        font-weight: bold;
+      }
+
+      dt > p {
+        margin-top: 0.2rem;
+      }
+
+      @media print {
+        html {
+          font-size: 16px;
+        }
+
+        header, main, footer {
+          max-width: 100%;
+        }
+
+        /*
+         * Make sure that URLs are available to people that print the page.
+         */
+        a:after {
+          content: " [" attr(href) "]";
+        }
+
+        .hidden-print {
+          display: none;
+        }
+      }
+
+      /*
+       * 680px = (1rem body padding + 32rem main + 1rem body padding)*20px
+       */
+      @media (max-width: 680px) {
+        html {
+          font-size: 18px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*18px
+       */
+      @media (max-width: 576px) {
+        html {
+          font-size: 16px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*16px
+       */
+      @media (max-width: 544px) {
+        html {
+          font-size: 14px;
+
+          /*
+           * Turn off serifs once the font-size gets too small; serifs are nice at
+           * larger font-sizes since they make letters visually stick together into
+           * words.  At smaller font-sizes they can make the text difficult to read.
+           */
+          font-family: Helvetica, Aria, sans-serif;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*14px
+       */
+      @media (max-width: 476px) {
+        html {
+          font-size: 13px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*13px
+       */
+      @media (max-width: 442px) {
+
+        /*
+         * At very small screen sizes, remove unnecessary padding in block quotes
+         * and instead make the color a bit dimmer to set them off from the main
+         * text.
+         */
+        blockquote {
+          padding-right: 0;
+          padding-left: 0;
+          color: #AAA;
+        }
+
+        p > cite {
+          float: none;
+        }
+
+        .hidden-sm {
+          display: none;
+        }
+
+        button {
+          flex-grow: 1;
+        }
+      }
+
+      form {
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+      input[type="email"],
+      button {
+        margin: 1rem 0 0 0;
+        font-size: 16px;
+        padding: 0.5rem;
+        border-radius: 0;
+      }
+
+      input[type="email"] {
+        border: 1px solid #AAA;
+        flex-grow: 1;
+      }
+
+      button {
+        background-color: #2C8F30;
+        border: 1px solid #2C8F30;
+        color: white;
+        text-align: center;
+        cursor: pointer;
+      }
+
+      .float-right {
+        float: right;
+      }
+    </style>
+  </head>
+  <body>
+        <header>
+      <p class="hidden-print">
+        <a title="home" href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+        <a title="subscribe to the email list" class="float-right" href="#subscribe">subscribe</a>
+      </p>
+    </header>
+        <main>
+      <h1>Reasoning About Justice from Analogy</h1>
+      <p><span class="sc">Socrates:</span> Is it, then, the part of a just man to harm any human being whatsoever?</p>
+      <p><span class="sc">Polemarchus:</span> Certainly, bad men and enemies ought to be harmed.</p>
+      <p><span class="sc">Socrates:</span> Do horses that have been harmed become better or worse?</p>
+      <p><span class="sc">Polemarchus:</span> Worse.</p>
+      <p><span class="sc">Socrates:</span> With respect to the <em>aretē</em> of dogs or to that of horses?</p>
+      <p><span class="sc">Polemarchus:</span> With respect to that of horses.</p>
+      <p><span class="sc">Socrates:</span> And when dogs are harmed, do they become worse with respect to the <em>aretē</em> of dogs and not to that of horses?</p>
+      <p><span class="sc">Polemarchus:</span> Necessarily.</p>
+      <p><span class="sc">Socrates:</span> Should we not assert the same of human beings, my comrade—that when they are harmed, they become worse with respect to human <em>aretē</em>?</p>
+      <p><span class="sc">Polemarchus:</span> Most certainly.</p>
+      <p><span class="sc">Socrates:</span> But isn’t justice human <em>aretē</em>.</p>
+      <p><span class="sc">Polemarchus:</span> That’s also necessary.</p>
+      <p><span class="sc">Socrates:</span> Then, my friend, human beings who have been harmed necessarily become more unjust.</p>
+      <p><span class="sc">Polemarchus:</span> It seems so.</p>
+      <p><span class="sc">Socrates:</span> Well, are musicians able to make men unmusical by music?</p>
+      <p><span class="sc">Polemarchus:</span> Impossible.</p>
+      <p><span class="sc">Socrates:</span> Are men skilled in horsemanship able to make men incompetent riders by horsemanship?</p>
+      <p><span class="sc">Polemarchus:</span> That can’t be.</p>
+      <p><span class="sc">Socrates:</span> But are just men to make others unjust by justice, of all things? Or, in sum, are good men able to make other men bad by <em>aretē</em>?</p>
+      <p><span class="sc">Polemarchus:</span> Impossible.</p>
+      <p><span class="sc">Socrates:</span> For I suppose that cooling is not the work of heat, but of its opposite.</p>
+      <p><span class="sc">Polemarchus:</span> Yes.</p>
+      <p><span class="sc">Socrates:</span> Nor wetting the work of dryness but of its opposite.</p>
+      <p><span class="sc">Polemarchus:</span> Certainly.</p>
+      <p><span class="sc">Socrates:</span> Nor is harming, in fact, the work of the good but of its opposite.</p>
+      <p><span class="sc">Polemarchus:</span> It looks like it.</p>
+      <p><span class="sc">Socrates:</span> And it’s the just man who is good?</p>
+      <p><span class="sc">Polemarchus:</span> Certainly.</p>
+      <p><span class="sc">Socrates:</span> Then it is not the work of the just man to harm either a friend or anyone else, Polemarchus, but of his opposite, the unjust man.</p>
+      <p><span class="sc">Polemarchus:</span> In my opinion, Socrates, what you say is entirely true.</p>
+      <p><span class="sc">Dijon:</span> My opinion, Socrates, is not yet formed. Would you be willing to help me complete it by answering a few questions?</p>
+      <p><span class="sc">Socrates:</span> I will try.</p>
+      <p><span class="sc">Dijon:</span> Why do you think music and horsemanship can teach us about justice?</p>
+      <p><span class="sc">Socrates:</span> Music is the <em>aretē</em> of musicians, horsemanship the <em>aretē</em> of men skilled in horsemanship, and justice the <em>aretē</em> of humans. Thus, if we know a property of music and horsemanship, we may reason that justice will have the same property, for all three share the same essential nature as types of <em>aretē</em>.</p>
+      <p><span class="sc">Dijon:</span> Do you agree that music and horsemanship are unique arts?</p>
+      <p><span class="sc">Socrates:</span> Certainly.</p>
+      <p><span class="sc">Dijon:</span> Couldn’t this property, for example that musicians can’t make men unmusical by music, be due to music’s unique nature and not its nature as a type of <em>aretē</em>?</p>
+      <p><span class="sc">Socrates:</span> No, because each art follows the same pattern: Can a poet make men less poetic with poetry?</p>
+      <p><span class="sc">Dijon:</span> A masterful poet may make an ambitious young person stop pursuing their art, fleeing for an easier mountain to climb.</p>
+      <p><span class="sc">Socrates:</span> This isn’t entirely implausible, but wouldn’t this ambitious young person still love poetry more for having observed the master’s greatness?</p>
+      <p><span class="sc">Dijon:</span> Maybe, but is the <em>aretē</em> of poets to listen to poetry or to write it?</p>
+      <p>Also, what is the <em>aretē</em> of a warrior? Wouldn’t it be to harm their enemies?</p>
+      <p>And I have a different question. When you harm a horse, how is its horse <em>aretē</em> decreased?</p>
+      <p><span class="sc">Socrates:</span> I do not know the <em>aretē</em> of horses well, but they must be able to take their rider long distances quickly—now still, now galloping like lightning—like the great breed of Tros’ team, whom Diomedes wrested from Aeneas and who won him a slave woman in the great funeral games of Patroclus. Would even one of these excellent horses, given by Zeus for Ganymede, have been as excellent if Diomedes’ spear had pierced its leg instead of splitting through Pandarus’ jaw?</p>
+      <p><span class="sc">Dijon:</span> Indeed not, and so when you speak of human <em>aretē</em> being decreased by harm, do you mean the same type of harm?</p>
+      <p><span class="sc">Socrates:</span> The <em>aretē</em> of men is different than the <em>aretē</em> of horses, and so men can be harmed by more than spears, swords, and boulders.</p>
+      <p><span class="sc">Dijon:</span> Yet physical harm will make a man worse with respect to human<em>aretē</em>?</p>
+      <p><span class="sc">Socrates:</span> Yes.</p>
+      <p><span class="sc">Dijon:</span> And since justice is human <em>aretē</em>, if a man is caught abusing widows and orphans and is beaten with a plank and whipped, does this beating with a plank and whipping make the man less just?</p>
+      <p><span class="sc">Socrates:</span> It looks like it.</p>
+      <p><span class="sc">Dijon:</span> It seems that you are using the word “just” in a different sense than I usually use the word. Perhaps I am only confused about this.</p>
+      <p>Isn’t it possible that the man’s punishment would lead him to consider his error, thus making him better with respect to human <em>aretē</em>? While physical harm may not make horses better, it doesn’t seem to follow that physical harm can’t make humans better. Wouldn’t you agree that not <em>all</em> harm is bad?</p>
+      <p><span class="sc">Socrates:</span> I do not. Can a punishment, intended to improve the person, be properly called a harm? When Simonedes says to help your friends and harm your enemies, he must have meant killing your enemies, stealing their cattle, and making their wives your slaves.</p>
+      <p><span class="sc">Dijon:</span> Consider, then, that the widow and orphan abuser is stoned to death. Couldn’t the stoning, while unable to make the abuser more just, serve to make others more just by example?</p>
+      <p><em>The first portion of the dialogue is adapted from Allan Bloom’s translation of</em> The Republic of Plato.</p>
+    </main>
+    <footer class="hidden-print">
+      <form action="https://formspree.io/xqkyblqg" method="POST">
+        <input id="subscribe" type="email" placeholder="Email" name="email" required>
+        <button type="submit">Subscribe</button>
+      </form>
+      <p class="hidden-print">
+        <a href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+      </p>
+    </footer>
+  </body>
+</html>

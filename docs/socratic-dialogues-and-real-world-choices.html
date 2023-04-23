@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Socratic Dialogues and Real-World Choices</title>
+    <meta name="description" content="This dialogue explores the significance of refining one's understanding of ethical terms, such as courage, racism, and inclusion, through Socratic dialogue and other forms of inquiry. They discuss the importance of balancing theory and practice, as well as connecting ethical exploration to the practical concerns and choices.">
+    <meta name="twitter:card" value="summary">
+    <meta property="og:title" content="Socratic Dialogues and Real-World Choices">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="/socratic-dialogues-and-real-world-choices">
+    <meta property="og:image" content="/favicon.png">
+    <meta property="og:description" content="This dialogue explores the significance of refining one's understanding of ethical terms, such as courage, racism, and inclusion, through Socratic dialogue and other forms of inquiry. They discuss the importance of balancing theory and practice, as well as connecting ethical exploration to the practical concerns and choices.">
+    <link rel="apple-touch-icon-precomposed" href="/favicon.png">
+    <link rel="alternate" type="application/rss+xml" title="Good Life Odyssey" href="https://goodlifeodyssey.com/rssmain.xml">
+    <style>
+      html {
+        /*
+         * Set a reasonable font-size, such that at 32rem we have ~70 characters on a
+         * line.
+         */
+        line-height: 1.5625;
+        font-size: 20px;
+        font-family: Georgia, Times, 'Times New Roman', serif;
+        color: #222;
+
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+      }
+
+      body {
+        margin: 0;
+        padding: 0 1rem 1rem 1rem;
+
+        /*
+         * Nearly all sizes are based on rems so that we can responsively change the
+         * font sizes.
+         */
+        font-size: 1rem;
+      }
+
+      header, main, footer {
+        max-width: 32rem;
+
+        padding: 0;
+
+        /*
+         * Horizontally center top-level block elements
+         */
+        margin: 0 auto;
+
+        /*
+         * Necessary for IE11.
+         */
+        display: block;
+      }
+
+      header, footer {
+        font-size: 0.9rem;
+        color: #AAA;
+      }
+
+      header a,
+      footer a {
+        color: #2C8F30;
+      }
+
+      h1, h2, h3 {
+        font-family: 'Arial Narrow', Arial, sans-serif;
+      }
+
+      h1 {
+        font-size: 1.5rem;
+      }
+
+      h2 {
+        font-size: 1.25rem;
+      }
+
+      h3 {
+        font-size: 1.1rem;
+      }
+
+      a {
+        background-color: transparent;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      strong {
+        font-weight: bolder;
+      }
+
+      .sc {
+        font-variant: small-caps;
+        margin-right: 0.2rem;
+      }
+
+      blockquote {
+        font-size: 0.9rem;
+        margin-left: 0;
+        margin-right: 0;
+        quotes: none;
+        padding-left: 1.0rem;
+        padding-right: 1.0rem;
+        overflow: auto;  /* for floating citations */
+      }
+
+      /*
+       * Block quotes with poetry have a separate <p> for each line of verse, with a
+       * <br> in between.  We need a separate <p> for each line so that we can
+       * indent long lines that wrap.  We do this by setting the `text-indent` (which
+       * only affects the first line) to -2.5em, and then adding a 2.5em margin-left.
+       * The margin-left will shift over all lines but the first.  Note we use 2.5rem
+       * instead of 2rem, so that it is easier to distinguish a wrap-around indent
+       * from a regular indented line (which is indented to 1rem).
+       */
+      .poetry > p {
+        padding: 0;
+        margin: 0 0 0 2.5em;
+        text-indent: -2.5em;
+      }
+
+      /*
+       * Since we are using a <p> for each line, we need to remove the typical
+       * padding around the <p>.  In order to properly separate paragraphs in the
+       * poetry, we insert a line break.  We set the `content` to a blank string, and
+       * set the margin-top, so that we get the proper spacing which is usually in
+       * between <p> tags.
+       */
+      .poetry > br {
+        display: block;
+        content: "";
+        margin-top: 1rem;
+      }
+
+      /*
+       * The "indent" class is applied to verses which need to be indented.
+       */
+      blockquote > p.indent {
+        text-indent: -1.5em;
+      }
+
+      .prose > p {
+        margin: 0;
+      }
+
+      .prose > p:not(:first-child) {
+        text-indent: 1em;
+      }
+
+      /*
+       * Ensure that inline citations don't word-wrap.
+       */
+      p > cite {
+        white-space: nowrap;
+        float: right;
+      }
+
+      /*
+       * This style ensures that there is the correct spacing between a <cite> and
+       * the previous <p> tag, both in regular blockquotes and in poetry blockquotes.
+       */
+      blockquote > p:last-of-type {
+        margin-bottom: 0.3rem;
+      }
+
+      blockquote > p:first-child {
+        margin-top: 0;
+      }
+
+      ul, ol {
+        padding-left: 2rem;
+      }
+
+      dt {
+        font-weight: bold;
+      }
+
+      dt > p {
+        margin-top: 0.2rem;
+      }
+
+      @media print {
+        html {
+          font-size: 16px;
+        }
+
+        header, main, footer {
+          max-width: 100%;
+        }
+
+        /*
+         * Make sure that URLs are available to people that print the page.
+         */
+        a:after {
+          content: " [" attr(href) "]";
+        }
+
+        .hidden-print {
+          display: none;
+        }
+      }
+
+      /*
+       * 680px = (1rem body padding + 32rem main + 1rem body padding)*20px
+       */
+      @media (max-width: 680px) {
+        html {
+          font-size: 18px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*18px
+       */
+      @media (max-width: 576px) {
+        html {
+          font-size: 16px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*16px
+       */
+      @media (max-width: 544px) {
+        html {
+          font-size: 14px;
+
+          /*
+           * Turn off serifs once the font-size gets too small; serifs are nice at
+           * larger font-sizes since they make letters visually stick together into
+           * words.  At smaller font-sizes they can make the text difficult to read.
+           */
+          font-family: Helvetica, Aria, sans-serif;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*14px
+       */
+      @media (max-width: 476px) {
+        html {
+          font-size: 13px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*13px
+       */
+      @media (max-width: 442px) {
+
+        /*
+         * At very small screen sizes, remove unnecessary padding in block quotes
+         * and instead make the color a bit dimmer to set them off from the main
+         * text.
+         */
+        blockquote {
+          padding-right: 0;
+          padding-left: 0;
+          color: #AAA;
+        }
+
+        p > cite {
+          float: none;
+        }
+
+        .hidden-sm {
+          display: none;
+        }
+
+        button {
+          flex-grow: 1;
+        }
+      }
+
+      form {
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+      input[type="email"],
+      button {
+        margin: 1rem 0 0 0;
+        font-size: 16px;
+        padding: 0.5rem;
+        border-radius: 0;
+      }
+
+      input[type="email"] {
+        border: 1px solid #AAA;
+        flex-grow: 1;
+      }
+
+      button {
+        background-color: #2C8F30;
+        border: 1px solid #2C8F30;
+        color: white;
+        text-align: center;
+        cursor: pointer;
+      }
+
+      .float-right {
+        float: right;
+      }
+    </style>
+  </head>
+  <body>
+        <header>
+      <p class="hidden-print">
+        <a title="home" href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+        <a title="subscribe to the email list" class="float-right" href="#subscribe">subscribe</a>
+      </p>
+    </header>
+        <main>
+      <h1>Socratic Dialogues and Real-World Choices</h1>
+      <p><span class="sc">Dijon:</span> Even if ethical terms (e.g., piety, justice, courage, free-speech, racism, and inclusion) don’t have simple definitions, it’s still important to clarify their meaning so our ethics and politics are consistent. Furthermore, Socratic style dialogue is an optimal way to do this.</p>
+      <p><span class="sc">Chagopan:</span> What do you believe is the purpose of seeking consistency in one's ethics and politics?</p>
+      <p><span class="sc">Dijon:</span> The purpose of seeking consistency in one's ethics and politics is to ensure one acts in a way that's consistent with their beliefs. If we're not consistent, we may belief we're living a way we're not. For example, a religious person may believe they need to follow the Ten Commandments, but they may not be following the Ten Commandments.</p>
+      <p><span class="sc">Chagopan:</span> Do you believe that there are absolute moral truths, or are ethics and morality relative to the individual or culture?</p>
+      <p><span class="sc">Dijon:</span> I do believe there are absolute moral truths.</p>
+      <p><span class="sc">Chagopan:</span> If there are absolute moral truths, why do you think it is necessary to engage in Socratic dialogue to clarify the meaning of ethical terms? Shouldn't these truths be universally understood?</p>
+      <p><span class="sc">Dijon:</span> These truths are not universally understood.</p>
+      <p><span class="sc">Chagopan:</span> If these truths are not universally understood, how can we be certain that the conclusions we reach through Socratic dialogue are truly aligned with the absolute moral truths?</p>
+      <p><span class="sc">Dijon:</span> There may be universal moral truths, yet these truths may be difficult to find, as they are mixed in with a great deal that is relative. We may never be absolutely certain that our beliefs are aligned with the tru absolute moral truths, however, we can often rule out sets of beliefs if they are not consistent with each other.</p>
+      <p><span class="sc">Chagopan:</span> Considering the potential difficulty in distinguishing absolute moral truths from relative beliefs, do you think that Socratic dialogue alone is sufficient to clarify ethical terms and ensure consistency in one's ethics and politics, or should it be complemented by other methods of inquiry?</p>
+      <p><span class="sc">Dijon:</span> It should be complemented with other methods of inquiry.</p>
+      <p><span class="sc">Chagopan:</span> Can you provide examples of other methods of inquiry that you think would complement Socratic dialogue in the pursuit of clarifying ethical terms and achieving consistency in one's ethics and politics?</p>
+      <p><span class="sc">Dijon:</span> Reading classic works of literature and philosophy and "asking questions" of the authors of these works, to see why they wrote what they wrote and to help one identify hidden assumptions in ones own beliefs.</p>
+      <p><span class="sc">Chagopan:</span> Do you believe that engaging in Socratic dialogue and studying classic works of literature and philosophy will always lead to increased clarity and consistency in one's ethics and politics, or is it possible that these methods might sometimes generate further confusion or complexity in understanding ethical terms?</p>
+      <p><span class="sc">Dijon:</span> Initially, I believe pursuing these methods will create increased confusion and complexity in both understanding ethical terms, but more importantly in deciding how one should live ones life. However, this confusion is just being brought to the surface and it was always there. At least we would now know where the uncertainty lies and can face it head on. Furthermore, I believe with time we may reduce the initial confusion that is produced and make progress towards a more consistent (and better) set of beliefs, and as a result live a better life than we would have otherwise.</p>
+      <p><span class="sc">Chagopan:</span> Given that the process of seeking clarity and consistency in one's ethics and politics can be confusing and complex, how should individuals approach this journey to ensure that they are making progress and moving closer to understanding the absolute moral truths, rather than becoming lost or overwhelmed by the challenges involved?</p>
+      <p><span class="sc">Dijon:</span> I can provide a few bits of concrete advice for individuals on their good life journey.</p>
+      <p>First, write as often as you read. Reading is easier than writing, because writing is thinking on paper and thinking is difficult. If you don't, the cacophony of authors with their varied views (all sounding correct until criticized by thought) can overwhelm one, but by writing one's thoughts you can begin to structure and understand the author's thoughts, where they contradict, and how they align with your own beliefs.</p>
+      <p>Second, read books from other ages and cultures. Diverse opinions can help you find your hidden assumptions. Escaping modern biases is more difficult than it seems, and old books help. Old books have also been filtered by time (review sites are poor substitutes—driven more by present prejudice and politic than the good, true, or beautiful).</p>
+      <p><span class="sc">Chagopan:</span> While engaging in this journey of seeking clarity and consistency in one's ethics and politics, how can individuals ensure that they remain open to new perspectives and ideas, rather than becoming rigid or dogmatic in their beliefs?</p>
+      <p><span class="sc">Dijon:</span> There's nothing wrong with being rigid in one's beliefs if you believe they are true. We must be modest about the limitations of our minds and our knowledge, and (like Socrates) be open to questioning, but unless we throw out all scales of goodness, beauty and truth, we must reject ideas we think are bad, ugly, or false.</p>
+      <p><span class="sc">Chagopan:</span> In light of the importance of maintaining a balance between openness to new ideas and the confidence in one's own beliefs, how can individuals determine when it is appropriate to be receptive to alternative perspectives and when to stand firm in their convictions, especially when engaging in Socratic dialogue or studying classic works of literature and philosophy?</p>
+      <p><span class="sc">Dijon:</span> First, one must agree that the purpose of spending time engaging with new ideas is to find the true, good, and beautiful. It's not to prove that one is intelligent or further one's own ends. Our egos can often make us want to "win an argument" and act outside this pursuit.</p>
+      <p>Second, there is a limited amount of time to spend engaging with certain ideas. E.g., once you have kids and a family, there's only so many books you can read. Thus, sometimes you can't spend time exploring some ideas. Even this is a choice. You can't be open to everything in that sense. The degree to which you spend time on new ideas should be proportionate to the importance of the issue, your confidence that you're correct (keeping in mind that your confidence is never certain), and the likelihood that this new source will present new information or perspectives.</p>
+      <p><span class="sc">Chagopan:</span> You mentioned that ethical terms don't have simple definitions. Is it possible that the complexity of these terms arises from the fact that they are inherently relative and context-dependent, rather than reflecting absolute moral truths?</p>
+      <p><span class="sc">Dijon:</span> It is certainly possible. For example, in Plato's dialogue, "Euthyphro", Socrates searches for a simple definition of piety that applies to all situations. Yet the term piety is used in conversation to model a complicated, context-dependent set of behaviors. There's' so much complexity that it is impossible to boil it down into a clear definition of "piety" that can be used to guide one's actions in every situation. (Socrates himself admits this implicitly, when, throughout his dialogues he prefers the use of simple concrete examples rather than bigger abstract terms---perhaps he too didn't believe these terms have essential definitions.) All of that being said, specific choices often have good and bad options, specific facts may be true or false, and (less commonly) specific art is more or less beautiful. Not all choices, facts, and art is clearly defined on this absolute scale, but there is and must be an absolute scale below it all.</p>
+      <p><span class="sc">Chagopan:</span> If there is an absolute scale underlying ethical terms, but the terms themselves are complex and context-dependent, how can we effectively engage in Socratic dialogue to clarify their meaning and achieve consistency in our ethics and politics? Would it not be more fruitful to focus on specific choices, facts, and instances of art in our dialogues, rather than attempting to refine our understanding of abstract terms?</p>
+      <p><span class="sc">Dijon:</span> We all must balance strategy and tactics, theory and application. Some of us, e.g., in business or politics, tend to spend more time in the tactics and application while others, e.g., in consulting and academia, ebb more towards strategy and theory. I like to summarize the "big-picture stuff" with the term "model". A model is an approximation that's useful for some purpose. Models are everywhere. Definitions are models, mathematical models are used in physics, relational database schemas are models, and so on. Thus, ethical terms are models---they are approximations that are useful for the purpose of deciding how to live our lives. They give us models that let us think clearly and communicate. We can't focus only on the specific choices, facts, and art all of the time---there isn't time for that, the ethical terms let us save time and apply knowledge across multiple situations. These models mean we make mistakes sometimes and apply them in situations where they don't apply, yet we can't abandon them completely.</p>
+      <p><span class="sc">Chagopan:</span> Given that ethical terms serve as models that help us think clearly and communicate about how to live our lives, do you believe that the process of refining our understanding of these terms through Socratic dialogue is a never-ending process? Or is there a point at which we can achieve sufficient clarity and consistency in our ethics and politics, allowing us to focus more on the application of these principles in our daily lives?</p>
+      <p><span class="sc">Dijon:</span> I do think there is a point where we achieve sufficient clarity and consistency that we can focus more on the application. (People who love the contemplative life can err in that they spend too much time thinking and not enough time applying.) I can illustrate this with a concrete example:</p>
+      <p>Business planning is a model. We have a mission or vision, then a handful of annual goals that are aligned with this vision, then we break it down into quarterly goals, and then for the next month we may break it down further into the next three months, and then the next week, and then even the daily tasks. Goals at each level should trace up to a goal above it. This process can be useful to ensure our actions today are consistent with our longer term goals. Too much planning can be a waste of time, since events outside of our control may change making our plans useless. There is a balance to be had between planning out these goals and completing them. I think the balance is found when we know with as high confidence as we are able, what tasks we need to do in the next day or week. Then once enough planning is done to achieve this, we can focus on completing our concrete daily or weekly tasks.</p>
+      <p>Similarly, the big ethical terms are like our big-picture goals, and we need to refine them until we get to the point where we are confident we can make choices, find the truth, and identify the beautiful (beauty is a bit odd, in most ways it's really a subset of the good and truth is also subservient to the good, in my opinion).</p>
+      <p>In both ethical terms, as in planning, theory and application recursively help one another. The concrete reality of our choices often bubble up to refine our goals. (How do you know if you want to be a software engineer until you start studying coding.) Thus the two are endless in some sense, in that you do need to periodically correct your thinking.</p>
+      <p><span class="sc">Chagopan:</span> Since refining our understanding of ethical terms and applying them in our daily lives are interconnected and recursive processes, how do you suggest individuals strike a balance between engaging in Socratic dialogue and other forms of inquiry, and living out their ethics and politics in the real world? Are there any particular habits or practices that you think would help individuals maintain this balance effectively?</p>
+      <p><span class="sc">Dijon:</span> Well, like I already said, focus on the specific tasks in front of you and if you are going to think about theory and philosophy and big terms, trace this pursuit to the specific choices you need to make.</p>
+      <p><span class="sc">Chagopan:</span> In light of your emphasis on focusing on specific tasks and connecting them to the pursuit of understanding ethical terms, do you believe that the process of refining one's ethics and politics through Socratic dialogue and other forms of inquiry should be guided by the practical concerns and choices individuals face in their daily lives? Would you consider this approach to be more effective in achieving consistency and clarity in one's ethics and politics than a purely theoretical exploration of ethical terms?</p>
+      <p><span class="sc">Dijon:</span> I have to go.</p>
+    </main>
+    <footer class="hidden-print">
+      <form action="https://formspree.io/xqkyblqg" method="POST">
+        <input id="subscribe" type="email" placeholder="Email" name="email" required>
+        <button type="submit">Subscribe</button>
+      </form>
+      <p class="hidden-print">
+        <a href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+      </p>
+    </footer>
+  </body>
+</html>

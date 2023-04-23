@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Mrs. Dalloway</title>
+    <meta name="description" content="Critical questions about “Mrs. Dalloway” (from my book club) along with responses.">
+    <meta name="twitter:card" value="summary">
+    <meta property="og:title" content="Mrs. Dalloway">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="/mrs-dalloway">
+    <meta property="og:image" content="/favicon.png">
+    <meta property="og:description" content="Critical questions about “Mrs. Dalloway” (from my book club) along with responses.">
+    <link rel="apple-touch-icon-precomposed" href="/favicon.png">
+    <link rel="alternate" type="application/rss+xml" title="Good Life Odyssey" href="https://goodlifeodyssey.com/rssmain.xml">
+    <style>
+      html {
+        /*
+         * Set a reasonable font-size, such that at 32rem we have ~70 characters on a
+         * line.
+         */
+        line-height: 1.5625;
+        font-size: 20px;
+        font-family: Georgia, Times, 'Times New Roman', serif;
+        color: #222;
+
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+      }
+
+      body {
+        margin: 0;
+        padding: 0 1rem 1rem 1rem;
+
+        /*
+         * Nearly all sizes are based on rems so that we can responsively change the
+         * font sizes.
+         */
+        font-size: 1rem;
+      }
+
+      header, main, footer {
+        max-width: 32rem;
+
+        padding: 0;
+
+        /*
+         * Horizontally center top-level block elements
+         */
+        margin: 0 auto;
+
+        /*
+         * Necessary for IE11.
+         */
+        display: block;
+      }
+
+      header, footer {
+        font-size: 0.9rem;
+        color: #AAA;
+      }
+
+      header a,
+      footer a {
+        color: #2C8F30;
+      }
+
+      h1, h2, h3 {
+        font-family: 'Arial Narrow', Arial, sans-serif;
+      }
+
+      h1 {
+        font-size: 1.5rem;
+      }
+
+      h2 {
+        font-size: 1.25rem;
+      }
+
+      h3 {
+        font-size: 1.1rem;
+      }
+
+      a {
+        background-color: transparent;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      strong {
+        font-weight: bolder;
+      }
+
+      .sc {
+        font-variant: small-caps;
+        margin-right: 0.2rem;
+      }
+
+      blockquote {
+        font-size: 0.9rem;
+        margin-left: 0;
+        margin-right: 0;
+        quotes: none;
+        padding-left: 1.0rem;
+        padding-right: 1.0rem;
+        overflow: auto;  /* for floating citations */
+      }
+
+      /*
+       * Block quotes with poetry have a separate <p> for each line of verse, with a
+       * <br> in between.  We need a separate <p> for each line so that we can
+       * indent long lines that wrap.  We do this by setting the `text-indent` (which
+       * only affects the first line) to -2.5em, and then adding a 2.5em margin-left.
+       * The margin-left will shift over all lines but the first.  Note we use 2.5rem
+       * instead of 2rem, so that it is easier to distinguish a wrap-around indent
+       * from a regular indented line (which is indented to 1rem).
+       */
+      .poetry > p {
+        padding: 0;
+        margin: 0 0 0 2.5em;
+        text-indent: -2.5em;
+      }
+
+      /*
+       * Since we are using a <p> for each line, we need to remove the typical
+       * padding around the <p>.  In order to properly separate paragraphs in the
+       * poetry, we insert a line break.  We set the `content` to a blank string, and
+       * set the margin-top, so that we get the proper spacing which is usually in
+       * between <p> tags.
+       */
+      .poetry > br {
+        display: block;
+        content: "";
+        margin-top: 1rem;
+      }
+
+      /*
+       * The "indent" class is applied to verses which need to be indented.
+       */
+      blockquote > p.indent {
+        text-indent: -1.5em;
+      }
+
+      .prose > p {
+        margin: 0;
+      }
+
+      .prose > p:not(:first-child) {
+        text-indent: 1em;
+      }
+
+      /*
+       * Ensure that inline citations don't word-wrap.
+       */
+      p > cite {
+        white-space: nowrap;
+        float: right;
+      }
+
+      /*
+       * This style ensures that there is the correct spacing between a <cite> and
+       * the previous <p> tag, both in regular blockquotes and in poetry blockquotes.
+       */
+      blockquote > p:last-of-type {
+        margin-bottom: 0.3rem;
+      }
+
+      blockquote > p:first-child {
+        margin-top: 0;
+      }
+
+      ul, ol {
+        padding-left: 2rem;
+      }
+
+      dt {
+        font-weight: bold;
+      }
+
+      dt > p {
+        margin-top: 0.2rem;
+      }
+
+      @media print {
+        html {
+          font-size: 16px;
+        }
+
+        header, main, footer {
+          max-width: 100%;
+        }
+
+        /*
+         * Make sure that URLs are available to people that print the page.
+         */
+        a:after {
+          content: " [" attr(href) "]";
+        }
+
+        .hidden-print {
+          display: none;
+        }
+      }
+
+      /*
+       * 680px = (1rem body padding + 32rem main + 1rem body padding)*20px
+       */
+      @media (max-width: 680px) {
+        html {
+          font-size: 18px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*18px
+       */
+      @media (max-width: 576px) {
+        html {
+          font-size: 16px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*16px
+       */
+      @media (max-width: 544px) {
+        html {
+          font-size: 14px;
+
+          /*
+           * Turn off serifs once the font-size gets too small; serifs are nice at
+           * larger font-sizes since they make letters visually stick together into
+           * words.  At smaller font-sizes they can make the text difficult to read.
+           */
+          font-family: Helvetica, Aria, sans-serif;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*14px
+       */
+      @media (max-width: 476px) {
+        html {
+          font-size: 13px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*13px
+       */
+      @media (max-width: 442px) {
+
+        /*
+         * At very small screen sizes, remove unnecessary padding in block quotes
+         * and instead make the color a bit dimmer to set them off from the main
+         * text.
+         */
+        blockquote {
+          padding-right: 0;
+          padding-left: 0;
+          color: #AAA;
+        }
+
+        p > cite {
+          float: none;
+        }
+
+        .hidden-sm {
+          display: none;
+        }
+
+        button {
+          flex-grow: 1;
+        }
+      }
+
+      form {
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+      input[type="email"],
+      button {
+        margin: 1rem 0 0 0;
+        font-size: 16px;
+        padding: 0.5rem;
+        border-radius: 0;
+      }
+
+      input[type="email"] {
+        border: 1px solid #AAA;
+        flex-grow: 1;
+      }
+
+      button {
+        background-color: #2C8F30;
+        border: 1px solid #2C8F30;
+        color: white;
+        text-align: center;
+        cursor: pointer;
+      }
+
+      .float-right {
+        float: right;
+      }
+    </style>
+  </head>
+  <body>
+        <header>
+      <p class="hidden-print">
+        <a title="home" href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+        <a title="subscribe to the email list" class="float-right" href="#subscribe">subscribe</a>
+      </p>
+    </header>
+        <main>
+      <h1>Mrs. Dalloway</h1>
+      <p><strong>Jenny Offill, in her New Yorker article “A Lifetime of Lessons in ‘Mrs. Dalloway’”, read</strong> <em><strong>Mrs. Dalloway</strong></em> <strong>three times and each time was drawn to new passages. Virginia Woolf herself writes:</strong></p>
+      <blockquote><p>
+      <strong>At each fresh reading [of all real works of art] one notices
+      some change in them, as if the sap of life ran in their leaves, and with
+      skies and plants they had the power to alter their shape and colour from
+      season to season. To write down one’s impressions of</strong>
+      <em><strong>Hamlet</strong></em> <strong>as one reads it year after
+      year, would be virtually to record one’s own autobiography, for as we
+      know more of life, so Shakespeare comments upon what we know.</strong>
+      </p></blockquote>
+
+      <p><strong>Was there a particular passage that especially impressed you on this reading, and why?</strong></p>
+      <p>There were several passages: One, about internal and external motivation resonated with what I’m reading in Seneca and Epictetus. Virginia Woolf, who must have read those Romans too, couldn’t let go of her desire to be famous, and I think this externally-motivated desire is imbued into Mrs. Dalloway’s too:</p>
+      <blockquote><p>
+      How much she wanted it—that people should look pleased as she came in,
+      Clarissa thought and turned and walked back towards Bond Street,
+      annoyed, because it was silly to have other reasons for doing things.
+      Much rather would she have been one of those people like Richard who did
+      things for themselves, whereas, she thought, waiting to cross, half the
+      time she did things not simply, but for themselves,; but to make people
+      think this or that; perfect idiocy she knew (and now the policeman held
+      up his hand) for no one was ever for a second taken in. Oh if she could
+      have had her life over again! she thought, stepping on the pavement,
+      could have looked even differently!
+      </p></blockquote>
+
+      <p>She wanted to be stoic, and to not be motivated by eating or sex, fame or approval, but she is. And it’s fitting too, since she sees her role as connecting others, and the Stoic focus on the internal may protect one from harm but it also seems (to me) to disconnect us.</p>
+      <p>Another passage that impressed me was from the sequence of jumps between characters watching the aeroplan:</p>
+      <blockquote><p>
+      Then, while a seedy-looking nondescript man carrying a leather bag stood
+      on the steps of St. Paul’s Cathedral, and hesitated, for within was what
+      balm, how great a welcome, how many tombs with banners waving over them,
+      tokens of victories not over armies, but over, he thought, that plaguy
+      spirit of truth seeking which leaves me at present without a situation,
+      and more than that, the cathedral offers company, he thought, invites
+      you to membership of a society; great men belong to it; martyrs have
+      died for it; why not enter in, he thought, put this leather bag stuffed
+      with pamphlets before and altar, a cross, the symbol of something which
+      has soared beyond seeking and questing and knocking of words together
+      and has become all spirit, disembodied, ghostly—why not enter in?
+      </p></blockquote>
+
+      <p>I believe Christianity was made up, but it’s community and comfort remains alluring. I’d like to live forever, having time to grow as close to my fellow citizens of Earth as I am to my wife. I’d like to have my sins forgiven. And, how could so many “great men” be wrong? But always that “plaguy spirit of truth seeking” prevents me from accepting. </p>
+      <p><strong>Did you like the style of Mrs. Dalloway?</strong></p>
+      <p>Yes, Virginia’s sentences sing to me. For example, this passage:</p>
+      <blockquote><p>
+      Quiet descended on her, calm, content, as her needle, drawing the silk
+      smoothly to its gentle pause, collected the green folds together and
+      attached them, very lightly, to the belt. So on a summer’s day waves
+      collect, overbalance, and fall; collect and fall; and the whole worlds
+      seems to be saying “that is all” more and more ponderously, until even
+      the heart in the body which lies in the sun on the beach says too, That
+      is all. Fear no more, says the heart. Fear no more, says the heart,
+      committing its burden to some sea, which sighs collectively for all
+      sorrows, and renews, begins, collects, lets fall. And the body alone
+      listens to the passing bee; the wave breaking; the dog barking, far away
+      barking and barking.
+      </p></blockquote>
+
+      <p>I also love her similes, and <em>Mrs. Dalloway</em> bubbles over with them, some small and some large, bursting with multiple meanings. A good simile resonates with multiple subtler overtones, as hers often do. For Her similes often connect to womanly subjects:</p>
+      <blockquote><p>
+      Now it was time to move, and, as a woman gathers her things together,
+      her cloak, her gloves, her opera-glasses, and gets up to go out of the
+      theatre into the street, she rose from the sofa and went to Peter.
+      </p></blockquote>
+
+      <blockquote><p>
+      As a person who has dropped some grain of pearl or diamond into the
+      grass and parts the tall blades very carefully, this way and that, and
+      searches here and there vainly, and at last spies it there at the roots,
+      so she went through one thing and another …
+      </p></blockquote>
+
+      <blockquote><p>
+      Quiet descended on her, calm, content, as her needle, drawing the silk
+      smoothly to its gentle pause, collected the green folds together and
+      attached them, very lightly, to the belt. So on a summer’s day waves
+      collect, overbalance, and fall; collect and fall; and the whole world
+      seems to be saying “that is all” more and more ponderously, until even
+      the heart in the body which lies in the sun on the beach says too, That
+      is all. Fear no more, says the heart. Fear no more, says the heart,
+      committing its burden to some sea, which sighs collectively for all
+      sorrows, and renews, begins, collects, lets fall. And the body alone
+      listens to the passing bee; the wave breaking; the dog barking, far away
+      barking and barking.
+      </p></blockquote>
+
+      <p>There are other fun similes too:</p>
+      <blockquote><p>
+      The sound of Big Ben striking the half-hour stuck out between them with
+      extraordinary vigour, as if a young man, strong, indifferent,
+      inconsiderate, were swinging dumb-bells this way and that.
+      </p></blockquote>
+
+      <p>And great quotes too:</p>
+      <blockquote><p>
+      Rigid, the skeleton of human habit alone holds up the human frame.
+      </p></blockquote>
+
+      <p><strong>In Woolf’s essay “Modern Novels” she says:</strong></p>
+      <blockquote><p>
+      <strong>Let us record the atoms as they fall upon the mind in the order
+      in which they fall, let us trace the pattern, however disconnected and
+      incoherent in appearance, which each sight or incident scores upon the
+      consciousness. Let us not take it for granted that life exists more
+      fully in what is commonly thought big than in what is commonly thought
+      small.</strong>
+      </p></blockquote>
+
+      <p><em><strong>Mrs. Dalloway</strong></em> <strong>expresses this approach to writing. Do you think it’s strong because of it’s small scope or in spite of it?</strong></p>
+      <p>If it’s scope is a day planning a party, it’s small, but if we add the big thoughts of of death, purpose, and the life well-lived, it is not small.</p>
+      <p>It’s wise to question the common wisdom. Perhaps what is “commonly thought big” is not so big, but even so, I tend to trust the crowd. </p>
+      <p>I think this question is also related to the question: What is the purpose of art? Is it to let the individual artist “express themselves.” If so, this is a very relative end. What “self” is each artist expressing? <em>Mrs. Dalloway</em> is beautiful and interesting, and in so much seems to express something about Virginia Woolf.</p>
+      <p>Is art meant to fight injustice? If so, maybe the passages about mental health accomplish this.</p>
+      <p>If, as it used to be thought, art should inspire virtue, then I’m not sure whether the narrow scope is good or not. It really just depends on who best one can inspire virtue. The epic inspires while the mundane is relatable. Both seem to have a place.</p>
+      <p><strong>Clarissa reads lines from Shakespeare’s</strong> <em><strong>Cymbeline</strong></em> <strong>from an open book in a window show:</strong></p>
+      <blockquote><p>
+      <strong>Fear no more the heat o’ the sun<br />
+      Nor the furious winter’s rages.</strong>
+      </p></blockquote>
+
+      <p><strong>These lines are alluded to many times. What importance do they have for the main characters?</strong></p>
+      <p>Heat is associated with life, passion, connection, sex, throughout the book, and cold with death, calm, isolation, and Clarissa moves back and forth throughout the novel.</p>
+      <p>In the end, Clarissa and Septimus, accept death and their place in the collective sea of humanity. “Giving up the burden of their separate egos to the whole of life, they ‘fear no more’ either life or death.”</p>
+      <p>See Jean M. Wyatt’s 1973 paper, “Mrs. Dalloway: Literary Allusion as Structural Metaphor” for much more in-depth discussion of this idea, backed by sufficient quotations.</p>
+      <p><strong>Has the book affected (even in some small way) how you plan to life your life, and if so, how?</strong></p>
+      <p>The passage about the goddess Conversion, the “less smiling” sister of “divine Proportion”, stood out to me. I enjoy certain paintings and reading classics and I push (gently) these onto my wife and that I believe she acquiesces too on her on free will (I too acquiesce to her tendencies), but the thought of water-logging my wife’s will horrifies me:</p>
+      <blockquote><p>
+      But conversion, fastidious Goddess, loves blood better than brick, and
+      feasts most subtly on the human will. For example, Lady Bradshaw.
+      Fifteen years ago she had gone under. It was nothing you could put your
+      finger on; there had been no scene, no snap; only the slow sinking,
+      water-logged, of her will into his… Once, long ago, she had caught
+      salmon freely: now, quick to minister to the craving which lit her
+      husband’s eye so oilily for dominion, for power, she cramped, squeezed,
+      pared, pruned, drew back, peeped through.
+      </p></blockquote>
+
+      <p>Earlier, the discussion of Conversion seemed focused on religion and “dashing down shrines, smashing idols”. Yet Mr. Bradshaw’s conversion isn’t about religion. What did Mr. Bradshaw convert Mrs. Bradshaw too? Was it his political views about secluding lunatics and penalizing despair, and serving dinners of Salmon to help convert others?</p>
+    </main>
+    <footer class="hidden-print">
+      <form action="https://formspree.io/xqkyblqg" method="POST">
+        <input id="subscribe" type="email" placeholder="Email" name="email" required>
+        <button type="submit">Subscribe</button>
+      </form>
+      <p class="hidden-print">
+        <a href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+      </p>
+    </footer>
+  </body>
+</html>

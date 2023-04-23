@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Dante on the Problem of Hell</title>
+    <meta name="description" content="If God is supremely good then why does hell exist? Wouldn’t a supremely good God make unrepentant sinners, upon death, cease to exist instead of being eternally tormented? Maybe hell exists because God respects our free will.">
+    <meta name="twitter:card" value="summary">
+    <meta property="og:title" content="Dante on the Problem of Hell">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="/dante-on-the-problem-of-hell">
+    <meta property="og:image" content="/favicon.png">
+    <meta property="og:description" content="If God is supremely good then why does hell exist? Wouldn’t a supremely good God make unrepentant sinners, upon death, cease to exist instead of being eternally tormented? Maybe hell exists because God respects our free will.">
+    <link rel="apple-touch-icon-precomposed" href="/favicon.png">
+    <link rel="alternate" type="application/rss+xml" title="Good Life Odyssey" href="https://goodlifeodyssey.com/rssmain.xml">
+    <style>
+      html {
+        /*
+         * Set a reasonable font-size, such that at 32rem we have ~70 characters on a
+         * line.
+         */
+        line-height: 1.5625;
+        font-size: 20px;
+        font-family: Georgia, Times, 'Times New Roman', serif;
+        color: #222;
+
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+      }
+
+      body {
+        margin: 0;
+        padding: 0 1rem 1rem 1rem;
+
+        /*
+         * Nearly all sizes are based on rems so that we can responsively change the
+         * font sizes.
+         */
+        font-size: 1rem;
+      }
+
+      header, main, footer {
+        max-width: 32rem;
+
+        padding: 0;
+
+        /*
+         * Horizontally center top-level block elements
+         */
+        margin: 0 auto;
+
+        /*
+         * Necessary for IE11.
+         */
+        display: block;
+      }
+
+      header, footer {
+        font-size: 0.9rem;
+        color: #AAA;
+      }
+
+      header a,
+      footer a {
+        color: #2C8F30;
+      }
+
+      h1, h2, h3 {
+        font-family: 'Arial Narrow', Arial, sans-serif;
+      }
+
+      h1 {
+        font-size: 1.5rem;
+      }
+
+      h2 {
+        font-size: 1.25rem;
+      }
+
+      h3 {
+        font-size: 1.1rem;
+      }
+
+      a {
+        background-color: transparent;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      strong {
+        font-weight: bolder;
+      }
+
+      .sc {
+        font-variant: small-caps;
+        margin-right: 0.2rem;
+      }
+
+      blockquote {
+        font-size: 0.9rem;
+        margin-left: 0;
+        margin-right: 0;
+        quotes: none;
+        padding-left: 1.0rem;
+        padding-right: 1.0rem;
+        overflow: auto;  /* for floating citations */
+      }
+
+      /*
+       * Block quotes with poetry have a separate <p> for each line of verse, with a
+       * <br> in between.  We need a separate <p> for each line so that we can
+       * indent long lines that wrap.  We do this by setting the `text-indent` (which
+       * only affects the first line) to -2.5em, and then adding a 2.5em margin-left.
+       * The margin-left will shift over all lines but the first.  Note we use 2.5rem
+       * instead of 2rem, so that it is easier to distinguish a wrap-around indent
+       * from a regular indented line (which is indented to 1rem).
+       */
+      .poetry > p {
+        padding: 0;
+        margin: 0 0 0 2.5em;
+        text-indent: -2.5em;
+      }
+
+      /*
+       * Since we are using a <p> for each line, we need to remove the typical
+       * padding around the <p>.  In order to properly separate paragraphs in the
+       * poetry, we insert a line break.  We set the `content` to a blank string, and
+       * set the margin-top, so that we get the proper spacing which is usually in
+       * between <p> tags.
+       */
+      .poetry > br {
+        display: block;
+        content: "";
+        margin-top: 1rem;
+      }
+
+      /*
+       * The "indent" class is applied to verses which need to be indented.
+       */
+      blockquote > p.indent {
+        text-indent: -1.5em;
+      }
+
+      .prose > p {
+        margin: 0;
+      }
+
+      .prose > p:not(:first-child) {
+        text-indent: 1em;
+      }
+
+      /*
+       * Ensure that inline citations don't word-wrap.
+       */
+      p > cite {
+        white-space: nowrap;
+        float: right;
+      }
+
+      /*
+       * This style ensures that there is the correct spacing between a <cite> and
+       * the previous <p> tag, both in regular blockquotes and in poetry blockquotes.
+       */
+      blockquote > p:last-of-type {
+        margin-bottom: 0.3rem;
+      }
+
+      blockquote > p:first-child {
+        margin-top: 0;
+      }
+
+      ul, ol {
+        padding-left: 2rem;
+      }
+
+      dt {
+        font-weight: bold;
+      }
+
+      dt > p {
+        margin-top: 0.2rem;
+      }
+
+      @media print {
+        html {
+          font-size: 16px;
+        }
+
+        header, main, footer {
+          max-width: 100%;
+        }
+
+        /*
+         * Make sure that URLs are available to people that print the page.
+         */
+        a:after {
+          content: " [" attr(href) "]";
+        }
+
+        .hidden-print {
+          display: none;
+        }
+      }
+
+      /*
+       * 680px = (1rem body padding + 32rem main + 1rem body padding)*20px
+       */
+      @media (max-width: 680px) {
+        html {
+          font-size: 18px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*18px
+       */
+      @media (max-width: 576px) {
+        html {
+          font-size: 16px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*16px
+       */
+      @media (max-width: 544px) {
+        html {
+          font-size: 14px;
+
+          /*
+           * Turn off serifs once the font-size gets too small; serifs are nice at
+           * larger font-sizes since they make letters visually stick together into
+           * words.  At smaller font-sizes they can make the text difficult to read.
+           */
+          font-family: Helvetica, Aria, sans-serif;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*14px
+       */
+      @media (max-width: 476px) {
+        html {
+          font-size: 13px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*13px
+       */
+      @media (max-width: 442px) {
+
+        /*
+         * At very small screen sizes, remove unnecessary padding in block quotes
+         * and instead make the color a bit dimmer to set them off from the main
+         * text.
+         */
+        blockquote {
+          padding-right: 0;
+          padding-left: 0;
+          color: #AAA;
+        }
+
+        p > cite {
+          float: none;
+        }
+
+        .hidden-sm {
+          display: none;
+        }
+
+        button {
+          flex-grow: 1;
+        }
+      }
+
+      form {
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+      input[type="email"],
+      button {
+        margin: 1rem 0 0 0;
+        font-size: 16px;
+        padding: 0.5rem;
+        border-radius: 0;
+      }
+
+      input[type="email"] {
+        border: 1px solid #AAA;
+        flex-grow: 1;
+      }
+
+      button {
+        background-color: #2C8F30;
+        border: 1px solid #2C8F30;
+        color: white;
+        text-align: center;
+        cursor: pointer;
+      }
+
+      .float-right {
+        float: right;
+      }
+    </style>
+  </head>
+  <body>
+        <header>
+      <p class="hidden-print">
+        <a title="home" href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+        <a title="subscribe to the email list" class="float-right" href="#subscribe">subscribe</a>
+      </p>
+    </header>
+        <main>
+      <h1>Dante on the Problem of Hell</h1>
+      <p>If God is supremely good then why does hell exist? Wouldn’t a supremely good God make unrepentant sinners, upon death, cease to exist instead of being eternally tormented? And if hell must exist to punish the guilty, then why does the torment last forever? What sin found in a finite life could justly lead to infinite pain?</p>
+      <p>Here’s an answer—a solution to the problem of hell: There are no flames, lakes of ice, or armed demons—all the torment is self-inflicted. Furthermore, everyone in hell <em>chooses</em> to be there and could, at any point, decide to leave. They could go to heaven, or they could choose to cease their existence.</p>
+      <p>Setting aside whether this solution is consistent with what we read in the Bible, does it satisfactorily explain why hell exists? A utilitarian may not think so: “Even though the sinners continually choose to be in hell, God knows they’d be better off not existing, so he should erase them.” But I think God may care more about preserving our autonomy than minimizing some metric. Thus, hell exists because God respects our free will.</p>
+      <p>Let’s consider a couple of variations on this view. Some theologians believe we can choose to be in the presence of God, or we can choose not to be—non-existence is off the table. If this were the case, there would be souls in hell who would rather not exist. These souls, then, would be tormented against their own will. If they could choose anything, they’d choose to stop existing. Imagine an angry atheist who jumps under a train. They’re disappointed to discover they were wrong and that they must live forever in hell. Since an all-powerful God <em>could</em> allow souls to cease existing, then God would be the cause of their torment. Thus, if we don’t allow the souls in hell to cease their existence, we return to the original questions.</p>
+      <p>Others agree that people choose to go to hell but that the choice, once made, is permanent. This belief also takes us back to the original question. It seems to me that the problem of hell is only solved if sinners <em>continually</em> choose to exist in hell. One may argue that everybody will have made their final choice while on Earth. This is a silly idea though. It implies that seeing Satan and God, heaven and hell, couldn’t alter your choice; it would make Dante’s tour a pointless exercise.</p>
+      <p>I, for one, would choose to go to heaven if I died and found out Christianity was true all along. I’ve always <em>wanted</em> to believe that it is true. I don’t believe because the evidence—the structure of the physical universe, biological evolution, the Bible’s inconsistencies, and the history of religions—doesn’t support it. Or so I believe. I have a finite, limited mind and could be wrong.</p>
+      <p>If I die and find out I’m wrong, I’d be ecstatic. It would mean that I could be in the presence of an all-loving God forever. It would mean all relationships could be as deep as the relationship between a couple who’s been married sixty years. It would mean I could continue enjoying my existence. Finally, it would mean God doesn’t arbitrarily require people to have faith in something that appears to be false to get into heaven.</p>
+      <p>Did Dante think that all of hell’s denizens choose to be there? I’ve asked myself this during the past few months as I’ve studied his masterpiece. It seems unlikely; some punishments appear to be self-inflicted, but most are not. Consider the sowers of scandal in the ninth ditch of the eighth circle, repeatedly healing and being cut open by a demon with a sword:</p>
+      <blockquote><p>
+      No barrel, even though it’s lost a hoop<br />
+      or end-piece, ever gaps as one whom I<br />
+      saw ripped right from his chin to where we fart:<br />
+      how bowels hung between his legs, one saw<br />
+      his vitals and the miserable sack<br />
+      that makes of what we swallow excrement.
+      </p></blockquote>
+
+      <p>This sinner looks up at Dante and asks why he is dawdling here. Virgil interjects and says “Death has not reached him yet, nor is it guilt that summons him to torment.” This isn’t a hell that someone would continually choose over non-existence. Rather, Dante’s hell is one filled with retributive justice—as its gate states: “justice urged on my high artificer.” Sinners confess to King Minos, who sends them to the appropriate circle where their punishment fits their characteristic sins.</p>
+      <p>The proposition that hell exists because God respects our free will solves a theological problem; it explains why an all-loving God could allow people to be tormented forever. Maybe it’s true, but it’s not clear the Bible supports this idea, and it contradicts Dante’s conception of hell.</p>
+    </main>
+    <footer class="hidden-print">
+      <form action="https://formspree.io/xqkyblqg" method="POST">
+        <input id="subscribe" type="email" placeholder="Email" name="email" required>
+        <button type="submit">Subscribe</button>
+      </form>
+      <p class="hidden-print">
+        <a href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+      </p>
+    </footer>
+  </body>
+</html>

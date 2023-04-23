@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Altera</title>
+    <meta name="description" content="An extended thought experiment about a simpler, two-dimensional world.">
+    <meta name="twitter:card" value="summary">
+    <meta property="og:title" content="Altera">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="/altera">
+    <meta property="og:image" content="/favicon.png">
+    <meta property="og:description" content="An extended thought experiment about a simpler, two-dimensional world.">
+    <link rel="apple-touch-icon-precomposed" href="/favicon.png">
+    <link rel="alternate" type="application/rss+xml" title="Good Life Odyssey" href="https://goodlifeodyssey.com/rssmain.xml">
+    <style>
+      html {
+        /*
+         * Set a reasonable font-size, such that at 32rem we have ~70 characters on a
+         * line.
+         */
+        line-height: 1.5625;
+        font-size: 20px;
+        font-family: Georgia, Times, 'Times New Roman', serif;
+        color: #222;
+
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+      }
+
+      body {
+        margin: 0;
+        padding: 0 1rem 1rem 1rem;
+
+        /*
+         * Nearly all sizes are based on rems so that we can responsively change the
+         * font sizes.
+         */
+        font-size: 1rem;
+      }
+
+      header, main, footer {
+        max-width: 32rem;
+
+        padding: 0;
+
+        /*
+         * Horizontally center top-level block elements
+         */
+        margin: 0 auto;
+
+        /*
+         * Necessary for IE11.
+         */
+        display: block;
+      }
+
+      header, footer {
+        font-size: 0.9rem;
+        color: #AAA;
+      }
+
+      header a,
+      footer a {
+        color: #2C8F30;
+      }
+
+      h1, h2, h3 {
+        font-family: 'Arial Narrow', Arial, sans-serif;
+      }
+
+      h1 {
+        font-size: 1.5rem;
+      }
+
+      h2 {
+        font-size: 1.25rem;
+      }
+
+      h3 {
+        font-size: 1.1rem;
+      }
+
+      a {
+        background-color: transparent;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      strong {
+        font-weight: bolder;
+      }
+
+      .sc {
+        font-variant: small-caps;
+        margin-right: 0.2rem;
+      }
+
+      blockquote {
+        font-size: 0.9rem;
+        margin-left: 0;
+        margin-right: 0;
+        quotes: none;
+        padding-left: 1.0rem;
+        padding-right: 1.0rem;
+        overflow: auto;  /* for floating citations */
+      }
+
+      /*
+       * Block quotes with poetry have a separate <p> for each line of verse, with a
+       * <br> in between.  We need a separate <p> for each line so that we can
+       * indent long lines that wrap.  We do this by setting the `text-indent` (which
+       * only affects the first line) to -2.5em, and then adding a 2.5em margin-left.
+       * The margin-left will shift over all lines but the first.  Note we use 2.5rem
+       * instead of 2rem, so that it is easier to distinguish a wrap-around indent
+       * from a regular indented line (which is indented to 1rem).
+       */
+      .poetry > p {
+        padding: 0;
+        margin: 0 0 0 2.5em;
+        text-indent: -2.5em;
+      }
+
+      /*
+       * Since we are using a <p> for each line, we need to remove the typical
+       * padding around the <p>.  In order to properly separate paragraphs in the
+       * poetry, we insert a line break.  We set the `content` to a blank string, and
+       * set the margin-top, so that we get the proper spacing which is usually in
+       * between <p> tags.
+       */
+      .poetry > br {
+        display: block;
+        content: "";
+        margin-top: 1rem;
+      }
+
+      /*
+       * The "indent" class is applied to verses which need to be indented.
+       */
+      blockquote > p.indent {
+        text-indent: -1.5em;
+      }
+
+      .prose > p {
+        margin: 0;
+      }
+
+      .prose > p:not(:first-child) {
+        text-indent: 1em;
+      }
+
+      /*
+       * Ensure that inline citations don't word-wrap.
+       */
+      p > cite {
+        white-space: nowrap;
+        float: right;
+      }
+
+      /*
+       * This style ensures that there is the correct spacing between a <cite> and
+       * the previous <p> tag, both in regular blockquotes and in poetry blockquotes.
+       */
+      blockquote > p:last-of-type {
+        margin-bottom: 0.3rem;
+      }
+
+      blockquote > p:first-child {
+        margin-top: 0;
+      }
+
+      ul, ol {
+        padding-left: 2rem;
+      }
+
+      dt {
+        font-weight: bold;
+      }
+
+      dt > p {
+        margin-top: 0.2rem;
+      }
+
+      @media print {
+        html {
+          font-size: 16px;
+        }
+
+        header, main, footer {
+          max-width: 100%;
+        }
+
+        /*
+         * Make sure that URLs are available to people that print the page.
+         */
+        a:after {
+          content: " [" attr(href) "]";
+        }
+
+        .hidden-print {
+          display: none;
+        }
+      }
+
+      /*
+       * 680px = (1rem body padding + 32rem main + 1rem body padding)*20px
+       */
+      @media (max-width: 680px) {
+        html {
+          font-size: 18px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*18px
+       */
+      @media (max-width: 576px) {
+        html {
+          font-size: 16px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*16px
+       */
+      @media (max-width: 544px) {
+        html {
+          font-size: 14px;
+
+          /*
+           * Turn off serifs once the font-size gets too small; serifs are nice at
+           * larger font-sizes since they make letters visually stick together into
+           * words.  At smaller font-sizes they can make the text difficult to read.
+           */
+          font-family: Helvetica, Aria, sans-serif;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*14px
+       */
+      @media (max-width: 476px) {
+        html {
+          font-size: 13px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*13px
+       */
+      @media (max-width: 442px) {
+
+        /*
+         * At very small screen sizes, remove unnecessary padding in block quotes
+         * and instead make the color a bit dimmer to set them off from the main
+         * text.
+         */
+        blockquote {
+          padding-right: 0;
+          padding-left: 0;
+          color: #AAA;
+        }
+
+        p > cite {
+          float: none;
+        }
+
+        .hidden-sm {
+          display: none;
+        }
+
+        button {
+          flex-grow: 1;
+        }
+      }
+
+      form {
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+      input[type="email"],
+      button {
+        margin: 1rem 0 0 0;
+        font-size: 16px;
+        padding: 0.5rem;
+        border-radius: 0;
+      }
+
+      input[type="email"] {
+        border: 1px solid #AAA;
+        flex-grow: 1;
+      }
+
+      button {
+        background-color: #2C8F30;
+        border: 1px solid #2C8F30;
+        color: white;
+        text-align: center;
+        cursor: pointer;
+      }
+
+      .float-right {
+        float: right;
+      }
+    </style>
+  </head>
+  <body>
+        <header>
+      <p class="hidden-print">
+        <a title="home" href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+        <a title="subscribe to the email list" class="float-right" href="#subscribe">subscribe</a>
+      </p>
+    </header>
+        <main>
+      <h1>Altera</h1>
+      <h2>Motivation</h2>
+      <p>I have found it helpful, when asking questions about our universe, to consider how analogous questions could be asked and answered by beings in an alternate, simpler universe. I call this universe Altera. Answers to many questions, when asked in our universe, are obscured by its complex nature and our uncertain place within it. Analogous questions, when asked in Altera, are often plainly answered. We may then be able to generalize these answers to our universe more clearly than if we had pursued them directly.</p>
+      <p>Imagining an alternate universe such as Altera is difficult because our minds are rooted in our own. We must remember that to the beings within it Altera is real. Our sense of normality is biased by our familiarity with, and existence in, our universe. But we have no firm reason to believe that our universe couldn't have been different, or that alternate universes couldn't exist.</p>
+      <p>Our ability to imagine alternate universes is obstructed because we must describe them using familiar language. This difficulty could have been helped somewhat by using made-up words. However, it was burdensome to keep track of them so I repurposed words from our universe. I indicate when I am repurposing a word by placing it in quotes the first time it is used as such.</p>
+      <p>Despite these difficulties, I have been able to clarify my thoughts using this approach, and I hope that others find similar success. In the least, it may be a clear exposition of many questions previously asked and answered by philosophers. At most, it may lead to new insights.</p>
+      <p>This sort of thought experiment has been performed before. The book <em>Flat Land</em>, written by Edwin Abbott Abbott, is the earliest example of which I am aware. In <em>Flat Land</em>, Abbott investigates the limitations of two-dimensional beings understanding a third dimension. With this regard, the book was successful, however, the extent of his investigation was limited. There are more questions to explore---especially questions about knowledge, metaphysics, and ethics.</p>
+      <h2>Physical Laws</h2>
+      <p>Unlike our universe, where we do not have definite knowledge of its physical laws, we <em>do</em> have definite knowledge of Altera's physical laws because we have contrived them. In fact, Altera's physical laws are designed so that we could easily simulate them on a computer in our universe.</p>
+      <p>Altera has two finite spatial dimensions that wrap around on themselves. If an entity moves beyond the edge of Altera, it reappears at the opposing end. Because each dimension is finite, Altera has a definite and fixed size. There exist two types of entities in Altera. Entities exist at particular discrete locations along each dimension. The first type of entity is a "creature," which we shall call a Nook. The second type of entity we shall call "food."</p>
+      <p>Nooks can sense their surroundings and can move. Time progresses in discrete steps. During each time step, Nooks may decide to move onto any of the four immediately adjacent locations, do nothing, or perform one of a small number of other actions which we will introduce shortly.</p>
+      <p>Nooks have a single externally observable property, which we refer to as its "weight." We may represent a weight as a number between 1 and 255. Food has a weight of 1. Nooks may decide to "eat" the contents of any one of the four squares immediately adjacent to its current location. If that square contains food, the Nook's weight increases by 1, up until it reaches a maximum weight of 255. We call a Nook whose weight is 255 a "fat" Nook. If on the other hand, that square contains another Nook, it will eat it so long as its weight is less its own. Finally, if the square is empty, nothing will occur. When a Nook eats another Nook, its weight becomes the sum of its previous weight and the weight of the Nook that it ate, unless the resulting weight would be greater than 255, in which case the Nook's weight would simply be 255.</p>
+      <p>If a Nook moves into a location containing food or another Nook that weights less than itself that other Nook is "pushed" into the opposing square. If the opposing square also contains an object, the Nook is still able to push it, so long as the sum of the weights is less than itself, and so on.</p>
+      <p>Nooks have one sense which we shall call "vision." Their vision is discrete, and they can see in all directions simultaneously. At any given moment, their vision allows them to "see" a 9x9 grid centered on their location. At each location, they can sense the weight of the being at that location, including themselves at the central square. Thus, food and Nooks with a weight of 1 will appear the same.</p>
+      <p>Nooks may decide to "reproduce"---to split themselves into two Nooks. If a Nook decides to reproduce, they must choose which of the adjacent four squares the new Nook will emerge onto. The weight of the parent Nook is split in two; if its original weight was an even number, the parent and child will both have half the original weight; if the original weight was an odd number, the parent will keep the indivisible extra portion. The child Nook will be a nearly identical replica of the parent Nook, but it may undergo a "mutation" during the reproductive process. We will discuss this more in the next section.</p>
+      <p>Every 65,536 moments in time each Nook's weight drops by 1. This event is called a "starvation." If a Nook's weight is 1 when this occurs, they will "die" and the grid location that it had occupied will become empty.</p>
+      <p>Altera has a single "conservation law"---the sum of the weights of all Nooks and food is always equal to the number of spatial locations in the universe. Food appears on squares throughout Altera so as to ensure this is true. The locations are pseudo-random, but new food is always placed on empty squares. Food never moves or decays. Once it has appeared, it occupies its location indefinitely until a Nook eats it or nudges it into another square. There are two events that occur new food to be "grown" in Altera. The first is during a starvation. The second occurs when a Nook eats something such that its weight exceeds 255.</p>
+      <p>There are several details of Altera's physical laws that we have omitted. In particular, the order in which Nook actions occurs, which can be important in certain situations. For example, if two Nooks of similar weight move into a square at the same time or if a Nook attempts to reproduce but is surrounded by other Nooks.</p>
+      <h2>Mind</h2>
+      <p>There is an essential aspect of Altera that we have not discussed---the means by which Nooks "decide" how to act. At each moment in time Nooks decide between doing nothing, moving in any of four directions, eating in any of four directions, or reproducing in any of four directions. Hence a Nook must decide between thirteen alternatives at each moment. If a Nook decides to take an action that it is physically incapable of making (for example reproducing when its weight is 1), it will instead do nothing.</p>
+      <p>When making these decisions, Nooks will have available their immediate sensory data---their view of the surroundings and their knowledge of their weight. They also will have some "memory" and "knowledge" derived from their past interactions with their surroundings. These memory and knowledge is encoded in the Nook's "mind."</p>
+      <p>The Nook mind changes over time in two different manners. It changes over the course of a particular Nook's existence, which we refer to as "acclimatization," and it changes each time a Nook reproduces, which we refer to as "evolution." The "evolution" process is pseudo-random.</p>
+      <p>We will avoid discussing the structure of the Nook mind, because it is not clear what it would be, and because it would be complicated and likely irrelevant to the purposes of this thought experiment. It is worth noting that the state of the mind may be very large. For example, it may have as much information content as the human brain is in our universe. It is likely that evolutionary change would involve altering the structure of the mind---how much data must be retained and what the data means, while acclimatization would involve changing the particular data without altering its structure or meaning.</p>
+      <p>It is important to note that the Nook mind would be finite, i.e. it could be represented as a (perhaps very long) series of numbers.</p>
+      <h2>Comments on Physical Laws</h2>
+      <p>Let's compare our current understanding of our physical laws to Altera's.</p>
+      <p>Our universe has one time and three spatial dimensions. All of these dimensions appear continuous to us, however, they may be discrete at a small enough scale. Space, time, matter, and energy are intertwined according to general relativity. Altera has time and two spatial dimensions. All are discrete. Matter occupies space and time, but does not affect it; time passes consistently for all Nooks.</p>
+      <p>In our universe, motion is an interaction between particles that can be described with mathematical equations. In Altera, movement is an algorithmic phenomena governed by the minds of the Nooks. It is natural, given the nomenclature we are using, to conceive of the Nooks as having a "will" that motivates their movements. It is also possible to conceive of the Nooks as "particles."</p>
+      <p>Our universe has a variety of particles that interact to form atoms, molecules, and organic beings of substantial complexity. Our particles have several properties---a mass and spin, and sometimes a color, flavor, or charge. Their interactions with each other can be described using mathematical equations. Altera has two types of particles---food and Nook. They both have a single property---their weight. They interact with each other in a direct algorithmic manner via the Nook's ability to eat and see other particles. Unlike our universe, where complexity only arises through the composition of simple particles, in Altera, complexity can arise in the individual Nook as well as through composition of many Nooks.</p>
+      <p>In our universe, beings sense their surroundings using complex organs built from many particles. These organs have evolved over time, and transmit and amplify the interactions of the constituent particles. Humans have since constructed even more complex sensing tools. Nooks have a sense of vision "built" into them directly, or, this is seen as their. If we conceptualize the Nook as a being with a will, then this feels oddly specific. If we conceptualize the Nook as a particle, it seems less odd.</p>
+      <h2>Evolution</h2>
+      <p>Altera's physical laws were designed so that the Nook's minds could evolve. The Nook's are competing for scare Food to avoid starving to death. Nooks that reproduce more frequently are better adapted for their environment. They will propagate their Mind more then less adapted Nooks. Beneficial random mutations will accumulate.</p>
+      <h2>Consciousness</h2>
+      <p>Imagine that, after a long period of time, the Nooks became conscious. They developed language, which could be transmitted from one Nook to another via a series of pauses and movements. The developed civilization, wherein different Nooks played different roles. Some Nooks were responsible for gathering food and stockpiling it. Other Nooks were responsible for defense and protection of the food. Some Nooks were kings or priests. Others were dancers and poets. A wealthy civilization could encode knowledge using food, placed at regular intervals corresponding to their "spoken" language. In order to transmit information more quickly across their world, they could form communication chains, perhaps by having heavy Nooks push long chains of food.</p>
+      <p>It is also quite possible, even likely, that consciousness would never develop. Just because the elements necessary for evolution to occur are present, does not necessitate the development of consciousness. Perhaps the laws of physics that have been contrived are too simplistic to support consciousness. Or perhaps they lead evolution inevitably to a local maximum, or a dead world state wherein all of the Nooks perish.</p>
+      <h2>Science</h2>
+      <p>The Nooks could perform scientific experiments to better understand the physical laws of Altera. Some laws would be easier to understand than others. They could learn when certain actions would be "allowed." Perhaps, if all of the Nooks in the universe collaborated together, they could somehow deduce the equation for the pseudo random number generator that governs food placement.</p>
+      <p>Well before they developed consciousness, their minds would evolve to account for the physical laws of their universe. Thus in a sense they would "know" the physical laws without consciously knowing them. In the same way that insects have evolved to account for gravity despite not being aware of knowing the physical laws of gravity.</p>
+      <p>Perhaps the early conscious Nooks would form some sort of religion to explain their existence. It seems likely that food, and its random placement, would be central to their early religions.</p>
+      <h2>Appearance and Reality</h2>
+      <p>Is there any knowledge in Altera that is so certain that no reasonable Nook could deny it?</p>
+      <p>Lets begin with Nook's sense of sight. They see the weights of the discrete objects surrounding them. Can they be certain of their sensory knowledge?</p>
+      <p>In our world, we describe the appearance of objects using vague language. We say an object is red, but what we mean is the object is red under usual lighting conditions. Apart from describing our personal sensory experiences, it is difficult to state much about the "color" of the physical object. Precisely describing the object's color and appearance would require knowledge of our current scientific theory.</p>
+      <p>We sense particles in our universe slowly and in aggregate. This may be because our minds and sense organs are constructed out of particles too. Perhaps, to achieve the complex structure required for conscious sensing, our minds and senses must operate above the dimension of particles.</p>
+      <p>The Nook's sense of sight is simpler than ours, and it is embedded in the Alteran physical laws. The complexity of Nook minds can increase without requiring them to increase in space or using more resources. For this reason, it is possible that highly evolved, conscious Nooks would still be aware of their bare sensory input.</p>
+      <p>It is also possible that they would not be aware of their immediate sensory input. Perhaps, like is likely in our universe, it is not evolutionarily beneficial to be aware of small details like this, and their minds abstract and condense their sensory input for their minds to consider and react to.</p>
+      <p>Since Nook's physical size is fixed, I suspect that even highly evolved Nooks will continue to be aware of the discrete locations in Altera, but I can imagine their minds blending many individual sets of 9x9 weights sensed at each timestep, into larger views. This would be similar to how our eyes, visual cortex, abstract objects. Optical illusions occur when these abstractions occur at a low level in our sensory chain, causing us to perceive things that are not there.</p>
+      <p>If this sort of abstraction were to evolve inside a Nook's mind, the</p>
+      <ul>
+      <li>senses abstracting low-level inputs; we are unaware of the individual neural inputs; we are also unaware of individual quantum events. Not necessarily because we <em>couldn't</em> be (our eyes may be able to detect single photons), but because our relatively vast size makes individual particles less interesting or relevant to our survival. We require a lot of food to keep the apparatus going, if we thought and operated on the level of individual particles, we would never aggregate enough food to sustain ourselves at the timescales we need to.</li>
+      <li>the fundamentally discrete nature of our universe, and Altera, both anchor the size of things (although differently bc Nooks prob stay at the bottom while we are just far enough up to support the correct level of complexity); imagine a universe where the laws of physics did not provide any size-anchoring (i.e. they are scale invariant); you could got infinitely smaller or infinitely larger. You could shrink humans to 1/10th of their current size.</li>
+      </ul>
+      <h2>Determinism</h2>
+      <p>Altera is a completely deterministic world. If a given world state were re "played" it would always evolve in an identical manner.</p>
+      <p>The Nooks would likely not be aware of this, and it is not even clear that they <em>could ever</em> prove whether the world was deterministic.</p>
+      <h2>Thoughts on Nook Reproduction</h2>
+      <p>Nooks reproduce "asexually" in the sense that each time a Nook reproduces, the younger Nook that splits off can be considered the "child" of the older "parent". Note that the child and parent are nearly indistinguishable, so it is more similar to an amoeba reproducing than a human.</p>
+      <p>A given Nook could have many "descendants" if its children all manage to eat a lot of food, and in turn reproduce.</p>
+      <p>During the course of time, one can imagine several different "species" of Nooks being produced, each with different survival strategies and levels of sophistication.</p>
+      <p>More advanced Nooks could "breed" less sophisticated Nooks to perform certain functions for them. They could do this by controlling the less sophisticated Nook's food supply, and selectively eating their children if they do not act according to the traits they are breeding for.</p>
+      <p>Note that a more advanced Nook could not determine which specifies another Nook is from, except by their movement patterns. I.e., when sitting still, all Nooks of a particular weight appear identically. This could present opportunities for one species to hide themselves as if they were another.</p>
+      <p>In this way, advanced Nooks could breed Nooks to perform various duties for them.</p>
+      <h2>Walls</h2>
+      <p>Nooks of weight 255 could form walls. These walls would protect the inner contents of the wall, since no other Nooks could circumvent them. Such walls would require a lot of food to construct, and would thus be very valuable. Walls could also be multiple layers thick.</p>
+      <h2>Communication Chains</h2>
+      <p>Because nooks can only see within a 9x9 grid, if a group of Nooks wanted to communicate information more quickly than is possible by an individual moving across the world, they could set up a chain of Nooks spaced 9 squares apart, and they could send signals back and forth at a rate of 9x the speed it would be possible otherwise.</p>
+      <h2>Decay</h2>
+      <p>Because each Nook looses one-weight during each starvation event, "structures" and individuals would need to be replenished occasionally. One strategy to break through a wall would be to lay "siege" to it, and starve out the Nooks forming the wall, or the inner contents of the Nooks within the wall.</p>
+      <h2>Language</h2>
+      <p>Nooks could "speak" with one another by moving in certain patterns know by other Nooks to mean certain things.</p>
+      <p>Nooks could "write" by spatially arranging food according to a pattern.</p>
+      <p>The patterns involved in Writing may be related to the patterns involved in speech, like they are in our world.</p>
+      <h2>Art</h2>
+      <p>Writing could be used to communicate information, but also could be a form of "art". Perhaps a sequence of food arranged a certain way would be a form of "literature".</p>
+      <p>Nooks could also move in certain patterns that don't communicate information. This could be seen to be "dance," although the distinction between dance and speech perhaps is unclear.</p>
+      <p>Likewise, one can imagine less advanced Nooks being trained or bred to act and dance in certain patterns, which are beautiful to Nooks.</p>
+      <p>E.g., imagine a species of Nook that always reproduced to the right if there is another Nook of the same weight above it. Further, imagine other species of Nooks that act in precisely specified ways. Advanced Nooks could combine these various specifies of Nooks such that, upon being triggered, the collection of Nooks evolves in some beautifully arranged (possibly cyclical) pattern. Maybe one of the advanced Nooks could guide along the evolution of these lesser Nooks---acting like a "composer" in some sense.</p>
+      <h2>Free Will</h2>
+      <p>Nookian minds are deterministic, but the Nooks wouldn't know this. They couldn't perfectly predict how their own mind, let alone other Nook's minds, would react to a situation. Furthermore, there is no experiment they could devise to this, since they, like us, would be unable to establish the same "situation" twice. By "situation," we mean the complete state relevant to a Nook making a "choice." In other words, the Nook's mind would have to have identical state, and the sensory input that they are deciding on would need to be the same. Establishing identical sensory input would not be too difficult, but it would be impossible for them to establish that a Nook's mind's state has the same state twice in a row. The state of a Nook's mind is complex and would likely have a long history. The Nook being experimented on would remember earlier renditions of the experiment. A Nook's child's mind would be very similar to the parent, but not exactly the same due to the mutation---thus experimenting on a parent-child pair would also be unfeasible.</p>
+      <p>Thus, the Nooks are in a similar situation to ourselves with regards to free will and determinism. They may suspect that their world is perfectly deterministic, but they would be unable to prove it. As a result, they may wonder, like we do, whether they have "free will."</p>
+      <p>What do we mean by "free will?" A standard definition is: the ability to choose between different possible courses of action. This definition begs the question---what does it mean for a being to choose? At each time-step, the Nook mind is presented with sensory input and outputs an "action" that determines what the Nook will do (nothing, move, eat, or reproduce). If this process is what we mean by choosing, then the Nooks have free will despite being deterministic.</p>
+      <p>Some would say that, for the Nooks to truly make a "choice"---and, by extension, to have "free will"---a different outcome must be possible, given the same situation.</p>
+      <p>In the case of Altera, one way to accomplish this would be to add randomness into the algorithm that "runs" a Nook's decision making process.</p>
+      <p>The simplest way we could do this is to alter our program so that each Nook's mind's state has a slight random perturbation applied to its state just before it makes a choice. This introduces another issue, how we will arrive at this "randomness"? Computers in our world are deterministic. The only way to introduce true randomness into a computer is using randomness from outside the computer (e.g. from mouse movements, or network traffic delays). By introducing true randomness from our universe into the computer so that we can truly randomly perturb the Nook's mind, we are coupling our universes state to the Nooks state. If our own universe is deterministic, it is entirely possible that the Nook's choices are still deterministic (in the sense that no other outcome was possible). Of course, the Nook's can't tell the difference in either case.</p>
+      <p>Lets assume that our universe is not deterministic, and that we can randomly perturb the Nook's mind's state before they make choices. Now, alternate outcomes would be possible, given the same situation. Do the Nooks now have free will? One may object for a few different reasons, which we will consider in turn.</p>
+      <p>One may object because this randomness is added to the Nook's mind from the "outside." Imagine that we are running each Nook's mind on a separate computer, and that each computer has its own randomness which it injects into each mind. Clearly where there randomness comes from is not relevant.</p>
+      <p>Another objection is that we are adding randomness that is outside of the "control" of the Nook, so it is not possible that this randomness could give the Nook free will. Well, what do we mean by "control"? Do we mean that the Nook has the "will" to make it act one way or another? Clearly this is begging the question, for we are debating what free will means in the first place. "No, but really, I don't know how the mechanism would work, but surely there is some way that the Nook could have control over the outcome while not being deterministic!" When considered in our universe, with its huge complexity and its unknowns, some of us may find this argument convincing. However, when considered in the context of Altera it is clearly silly. There is no mechanism within Altera that would circumvent this problem. To this one may argue that Altera is too simple a world to have free will! In fact, one may argue that, for the same reason, our assumption that consciousness could develop in Altera is also not possible. I will call this the mystical metaphysical argument, because it is arguing that free will is beyond our ability to understand. It is impossible to argue against the mystic---because they can always throw up their hands and say "it just is---it's impossible for us to understand, its beyond reason, its outside space and time, but it just is. I believe it."</p>
+      <p>We can not argue against the mystic, but it is worth noting that, from the outside, a being that has free will via this mystical metaphysical substance would be externally indistinguishable from a being that has the random perturbations. In both cases, we would be unable to predict their choices.</p>
+      <p>Thus, if your mother has free-will, but your father does not, you would not be able to tell the difference.</p>
+      <p>In conclusion, either:</p>
+      <ol type="1">
+      <li>our actions are deterministic</li>
+      <li>our actions are not deterministic, because randomness is injected from an internal or external source</li>
+      <li>our actions are not deterministic, because of some mystical metaphysical "stuff" that we can not understand, however, this situation would be impossible to distinguish from the previous possibility.</li>
+      </ol>
+      <p>The meaning of free-will in any case feels different from what we intuitively feel it should mean, but ultimately we must recognize that our intuition is wrong. Nooks (and ourselves) do make choices, so in this sense they have free will. These choices are deterministic, but they are so complicated that no Nook can predict them.</p>
+      <p>There is no reason why this result can not be extended to our universe. We also make choices in that no one (not even ourselves) can predict what we will do. If our world is deterministic, than clearly our choices are also deterministic. If our world is not deterministic, then but our choices are not, yet this does not make it likely that we have free will.</p>
+    </main>
+    <footer class="hidden-print">
+      <form action="https://formspree.io/xqkyblqg" method="POST">
+        <input id="subscribe" type="email" placeholder="Email" name="email" required>
+        <button type="submit">Subscribe</button>
+      </form>
+      <p class="hidden-print">
+        <a href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+      </p>
+    </footer>
+  </body>
+</html>

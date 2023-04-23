@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Two Gentleman of Verona</title>
+    <meta name="description" content="Musings on friendship, inspired by “The Two Gentleman of Verona” and Montaigne’s essay, “On Friendship”">
+    <meta name="twitter:card" value="summary">
+    <meta property="og:title" content="The Two Gentleman of Verona">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="/the-two-gentleman-of-verona">
+    <meta property="og:image" content="/favicon.png">
+    <meta property="og:description" content="Musings on friendship, inspired by “The Two Gentleman of Verona” and Montaigne’s essay, “On Friendship”">
+    <link rel="apple-touch-icon-precomposed" href="/favicon.png">
+    <link rel="alternate" type="application/rss+xml" title="Good Life Odyssey" href="https://goodlifeodyssey.com/rssmain.xml">
+    <style>
+      html {
+        /*
+         * Set a reasonable font-size, such that at 32rem we have ~70 characters on a
+         * line.
+         */
+        line-height: 1.5625;
+        font-size: 20px;
+        font-family: Georgia, Times, 'Times New Roman', serif;
+        color: #222;
+
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+      }
+
+      body {
+        margin: 0;
+        padding: 0 1rem 1rem 1rem;
+
+        /*
+         * Nearly all sizes are based on rems so that we can responsively change the
+         * font sizes.
+         */
+        font-size: 1rem;
+      }
+
+      header, main, footer {
+        max-width: 32rem;
+
+        padding: 0;
+
+        /*
+         * Horizontally center top-level block elements
+         */
+        margin: 0 auto;
+
+        /*
+         * Necessary for IE11.
+         */
+        display: block;
+      }
+
+      header, footer {
+        font-size: 0.9rem;
+        color: #AAA;
+      }
+
+      header a,
+      footer a {
+        color: #2C8F30;
+      }
+
+      h1, h2, h3 {
+        font-family: 'Arial Narrow', Arial, sans-serif;
+      }
+
+      h1 {
+        font-size: 1.5rem;
+      }
+
+      h2 {
+        font-size: 1.25rem;
+      }
+
+      h3 {
+        font-size: 1.1rem;
+      }
+
+      a {
+        background-color: transparent;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      strong {
+        font-weight: bolder;
+      }
+
+      .sc {
+        font-variant: small-caps;
+        margin-right: 0.2rem;
+      }
+
+      blockquote {
+        font-size: 0.9rem;
+        margin-left: 0;
+        margin-right: 0;
+        quotes: none;
+        padding-left: 1.0rem;
+        padding-right: 1.0rem;
+        overflow: auto;  /* for floating citations */
+      }
+
+      /*
+       * Block quotes with poetry have a separate <p> for each line of verse, with a
+       * <br> in between.  We need a separate <p> for each line so that we can
+       * indent long lines that wrap.  We do this by setting the `text-indent` (which
+       * only affects the first line) to -2.5em, and then adding a 2.5em margin-left.
+       * The margin-left will shift over all lines but the first.  Note we use 2.5rem
+       * instead of 2rem, so that it is easier to distinguish a wrap-around indent
+       * from a regular indented line (which is indented to 1rem).
+       */
+      .poetry > p {
+        padding: 0;
+        margin: 0 0 0 2.5em;
+        text-indent: -2.5em;
+      }
+
+      /*
+       * Since we are using a <p> for each line, we need to remove the typical
+       * padding around the <p>.  In order to properly separate paragraphs in the
+       * poetry, we insert a line break.  We set the `content` to a blank string, and
+       * set the margin-top, so that we get the proper spacing which is usually in
+       * between <p> tags.
+       */
+      .poetry > br {
+        display: block;
+        content: "";
+        margin-top: 1rem;
+      }
+
+      /*
+       * The "indent" class is applied to verses which need to be indented.
+       */
+      blockquote > p.indent {
+        text-indent: -1.5em;
+      }
+
+      .prose > p {
+        margin: 0;
+      }
+
+      .prose > p:not(:first-child) {
+        text-indent: 1em;
+      }
+
+      /*
+       * Ensure that inline citations don't word-wrap.
+       */
+      p > cite {
+        white-space: nowrap;
+        float: right;
+      }
+
+      /*
+       * This style ensures that there is the correct spacing between a <cite> and
+       * the previous <p> tag, both in regular blockquotes and in poetry blockquotes.
+       */
+      blockquote > p:last-of-type {
+        margin-bottom: 0.3rem;
+      }
+
+      blockquote > p:first-child {
+        margin-top: 0;
+      }
+
+      ul, ol {
+        padding-left: 2rem;
+      }
+
+      dt {
+        font-weight: bold;
+      }
+
+      dt > p {
+        margin-top: 0.2rem;
+      }
+
+      @media print {
+        html {
+          font-size: 16px;
+        }
+
+        header, main, footer {
+          max-width: 100%;
+        }
+
+        /*
+         * Make sure that URLs are available to people that print the page.
+         */
+        a:after {
+          content: " [" attr(href) "]";
+        }
+
+        .hidden-print {
+          display: none;
+        }
+      }
+
+      /*
+       * 680px = (1rem body padding + 32rem main + 1rem body padding)*20px
+       */
+      @media (max-width: 680px) {
+        html {
+          font-size: 18px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*18px
+       */
+      @media (max-width: 576px) {
+        html {
+          font-size: 16px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*16px
+       */
+      @media (max-width: 544px) {
+        html {
+          font-size: 14px;
+
+          /*
+           * Turn off serifs once the font-size gets too small; serifs are nice at
+           * larger font-sizes since they make letters visually stick together into
+           * words.  At smaller font-sizes they can make the text difficult to read.
+           */
+          font-family: Helvetica, Aria, sans-serif;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*14px
+       */
+      @media (max-width: 476px) {
+        html {
+          font-size: 13px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*13px
+       */
+      @media (max-width: 442px) {
+
+        /*
+         * At very small screen sizes, remove unnecessary padding in block quotes
+         * and instead make the color a bit dimmer to set them off from the main
+         * text.
+         */
+        blockquote {
+          padding-right: 0;
+          padding-left: 0;
+          color: #AAA;
+        }
+
+        p > cite {
+          float: none;
+        }
+
+        .hidden-sm {
+          display: none;
+        }
+
+        button {
+          flex-grow: 1;
+        }
+      }
+
+      form {
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+      input[type="email"],
+      button {
+        margin: 1rem 0 0 0;
+        font-size: 16px;
+        padding: 0.5rem;
+        border-radius: 0;
+      }
+
+      input[type="email"] {
+        border: 1px solid #AAA;
+        flex-grow: 1;
+      }
+
+      button {
+        background-color: #2C8F30;
+        border: 1px solid #2C8F30;
+        color: white;
+        text-align: center;
+        cursor: pointer;
+      }
+
+      .float-right {
+        float: right;
+      }
+    </style>
+  </head>
+  <body>
+        <header>
+      <p class="hidden-print">
+        <a title="home" href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+        <a title="subscribe to the email list" class="float-right" href="#subscribe">subscribe</a>
+      </p>
+    </header>
+        <main>
+      <h1>The Two Gentleman of Verona</h1>
+      <p>I chose “The Two Gentleman of Verona” for my book club’s reading because it was the first play in my volume of his comedies. It was placed there because it was his first, and some believe worst, comedy. If it was his worst, it was still great, although I do think the characters were flatter than usual. Proteus, named for the shape-shifting prophet-god Menelaus wrestles in the Odyssey, is buffeted about like a balloon in a hurricane to the very end. Valentine’s friendship with Proteus remains strong throughout. Sylvia remains devoted to Valentine. Julia is the most interesting, as she is girlish and sensitive in the opening scenes, but she proves to be brave and restrained throughout the rest of the play.</p>
+      <p>The plot is fun but predictable. I especially liked the scene where the Duke tricks Valentine into revealing his plot and also the one where Julia is tasked with giving her competitor, Sylvia, the ring she had given Proteus.</p>
+      <p>The dialogue is quick and sometimes beautiful. When Valentine asks his page, Speed, how knew he was in love, he replies:</p>
+      <blockquote><p>
+      Marry, by these special marks: first, you have learned like Sir Proteus,
+      to wreathe your arms, like a malcontent; to relish love-song, like a
+      robin-redbreast; to walk alone like one that had the pestilence; to
+      sigh, like a schoolboy that had lost his ABC; to weep, like a young
+      wench that had buried her grandam; to fast, like one that takes diet; to
+      watch, like one that fears robbing; to speak puling, like a beggar at
+      Hallowmas. You were wont, when you laughed, to crow like a cock; when
+      you walked, to walk like one of the lions; when you fasted, it was
+      presently after dinner; when you looked sadly, it was for want of money.
+      And now you are metamorphosed with a mistress, that when I look on you I
+      can hardly think you my master.
+      </p></blockquote>
+
+      <p>The play compares love of women with love of friend, culminating with Valentine’s offers to hand over Silvia to Proteus, whom he just prevented from raping her and whom he just realized had betrayed him into exile This jarring scene, perhaps, is one reason the play is not so popular. It’s so difficult to deal with, some directors have played off the offer as a joke, but apparent absurdities like this are usually hidden opportunities to unveil the assumptions of our world view. Much as the more a software bug surprises a programmer, the more likely it’s root cause will reveal an error in the programmer’s mental model of the machine. Thus, instead of staging out the surprising scene, let’s consider why would Shakespeare include it.</p>
+      <p>There are some hints in the play. Not too long before, Proteus asks Sylvia, “In love who respects friend?” She responds: “All men but Proteus.” I read this to mean, gentleman were expected to place male-male bonds above male-female bonds, but perhaps I read too much.</p>
+      <p>It is clear that Valentine and Proteus were more than “common friends.” Valentine says “naught but mine eye could have persuaded me” of your betrayal. “Who should be trusted when one’s right hand \ Is perjured to the bosom?” Early in the play they speak of sharing each other’s happiness and grievances. Montaigne, in his essay, “On Friendship,” speaks similarly of his relationship with Etienne de La Boétie. I think his essay can help explain why Valentine offered Sylvia to Proteus. Let’s begin here:</p>
+      <blockquote><p>
+      For in general, all associations that are forged and nourished by
+      pleasure or profit, by public or private needs, are the less beautiful
+      and noble, and the less friendships, in so far as they mix into
+      friendship another cause and object and reward than friendship itself.
+      </p></blockquote>
+
+      <p>This rings true. He continues to explore types of relationships, including romance between a man and woman:</p>
+      <blockquote><p>
+      To compare this brotherly affection with affection for women it cannot
+      be done; nor can we put the love of women in the same category. Its
+      ardor, I confess, is more active, more scorching, and more intense. But
+      it is an impetuous and fickle flame, undulating and variable, a fever
+      flame, subject to fits and lulls, that holds us only by one corner.
+      </p></blockquote>
+
+      <p>This describes Proteus completely. Who says, after seeing Silvia for the first time:</p>
+      <blockquote><p>
+      Even as one heat another heat expels,
+      </p></blockquote>
+
+      <p>The speed with which he abandons, and ultimately returns to, Julia is absurd. Certainly I cringe to label it with the word “love.” Montaigne continues contrast it with friendship:</p>
+      <blockquote><p>
+      In friendship it is a general and universal warmth, moderate and even,
+      besides, a constant and settled warmth, all gentleness and smoothness,
+      with nothing bitter and stinging about it. What is more, in love there
+      is nothing but a frantic desire for what flees from us.
+      </p></blockquote>
+
+      <p>Then he explains how romantic love can thaw:</p>
+      <blockquote><p>
+      As soon as [romantic love] enters the boundaries of friendship, that is
+      to say harmony of wills, it grows faint and languid. Enjoyment destroys
+      it, as having a fleshy end, subject to satiety. Friendship, on the
+      contrary, is enjoyed according as it is desired; it is bred, nourished,
+      and increased only in enjoyment, since it is spiritual, and the soul
+      grows refined by practice.
+      </p></blockquote>
+
+      <p>Montaigne even mentions that he and his friend both fell in love during their friendship:</p>
+      <blockquote><p>
+      During the reign of this perfect friendship those fleeting affections
+      once found a place in me, not to speak of my friend, who confesses only
+      too many of them in these verses. Thus these two passions within me came
+      to be known to each other, but to be compared, never; the first keeping
+      its course in proud and lofty flight, and disdainfully watching the
+      other making its way far, far beneath it.
+      </p></blockquote>
+
+      <p>It seems this is the attitude that Sylvia confirmed to Proteus, but that Proteus abandoned, against his reason.</p>
+      <p>Montaigne then discusses marriage, a passage I’ve analyzed with my wife. We’re very close, yet I don’t want to casually dismiss Montaigne:</p>
+      <blockquote><p>
+      As for marriage, for one thing it is a bargain to which only the
+      entrance is free—its continuance being constrained and forced, depending
+      otherwise than on our will—and a bargain ordinarily made for other ends.
+      </p></blockquote>
+
+      <p>In the land of liberty, marriage is less constrained then medieval Christendom, and, I suspect, less often motivated by anything but mutual affection.</p>
+      <blockquote><p>
+      For another, there supervene a thousand foreign tangles to unravel,
+      enough to break the thread and trouble the course of a lively affection;
+      whereas in friendship there are no dealings or business except with
+      itself.
+      </p></blockquote>
+
+      <p>The “tangles” are real, although we feel fortunate to have cut loose of most of them.</p>
+      <blockquote><p>
+      Besides, to tell the truth, the ordinary capacity of women is inadequate
+      for that communion and fellowship which is the nurse of this sacred
+      bond; nor does their soul seem firm enough to endure the stain of so
+      tight and durable a knot.
+      </p></blockquote>
+
+      <p>I can understand why Montaigne, and most of the “ancient schools,” doubted women’s capacities, since women did not have the opportunities to educate themselves, thus most women may have seemed and been less capable. Fortunately, technology has brought balance to the sexes, save in war or sport, and so we know better.</p>
+      <blockquote><p>
+      And indeed, but for that, if such a relationship, free and voluntary,
+      could be built up, in which not only would the souls have this complete
+      enjoyment, but the bodies would also share in the alliance, so that the
+      entire man would be engaged, it is certain that the resulting friendship
+      would be fuller and more complete.
+      </p></blockquote>
+
+      <p>I feel fortunate to have such a relationship with my wife. Also, these comments direct one to consider homosexual relationships, which Montaigne does next. I feel that a healthy, modern homosexual relationship acts very much as he describes here.</p>
+      <p>So, it seems that Shakespeare and Montaigne had valid reasons to think male-male friendship superior to male-female love, but as we discussed in brief, it’s also understandable why their reasons lack their weight when applied to our 21st century America.</p>
+    </main>
+    <footer class="hidden-print">
+      <form action="https://formspree.io/xqkyblqg" method="POST">
+        <input id="subscribe" type="email" placeholder="Email" name="email" required>
+        <button type="submit">Subscribe</button>
+      </form>
+      <p class="hidden-print">
+        <a href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a href="/#poems">poems</a> &middot;
+        <a title="about the author" href="/about">about</a>
+      </p>
+    </footer>
+  </body>
+</html>
