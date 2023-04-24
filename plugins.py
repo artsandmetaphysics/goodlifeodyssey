@@ -6,6 +6,8 @@ import logging
 from n2y.mentions import PageMention
 from n2y.blocks import ParagraphBlock, QuoteBlock
 from n2y.errors import UseNextClass
+from n2y.rich_text import TextRichText
+from n2y.utils import id_from_share_link
 
 
 logger = logging.getLogger(__name__)
@@ -50,6 +52,19 @@ class LinkPageMention(PageMention):
             (url, '')
         )]
 
+class CustomTextRichText(TextRichText):
+    def __init__(self, client, notion_data, block=None):
+        super().__init__(client, notion_data, block)
+        if not self.href:
+            raise UseNextClass()
+        notion_page_id = self.href[1:]  # may not work in every case
+        page = self.client.get_page(notion_page_id)
+
+        # assume the slug is the url
+        new_href = "/" + page.properties['Slug'].to_value()
+        self.href = new_href
+
+
 
 class CustomQuoteBlock(QuoteBlock):
     def to_pandoc(self):
@@ -71,5 +86,8 @@ notion_classes = {
     "blocks": {
         "quote": CustomQuoteBlock,
         "paragraph": DialogueBlock,
+    },
+    "rich_texts": {
+        "text": CustomTextRichText,
     },
 }
