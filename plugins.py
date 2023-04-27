@@ -7,7 +7,7 @@ from n2y.mentions import PageMention
 from n2y.blocks import ParagraphBlock, QuoteBlock
 from n2y.errors import UseNextClass
 from n2y.rich_text import TextRichText
-from n2y.utils import id_from_share_link
+from n2y.config import valid_notion_id
 
 
 logger = logging.getLogger(__name__)
@@ -52,12 +52,17 @@ class LinkPageMention(PageMention):
             (url, '')
         )]
 
+
 class CustomTextRichText(TextRichText):
     def __init__(self, client, notion_data, block=None):
         super().__init__(client, notion_data, block)
         if not self.href:
             raise UseNextClass()
-        notion_page_id = self.href[1:]  # may not work in every case
+        notion_page_id = self.href[1:]
+        if not valid_notion_id(notion_page_id):
+            raise UseNextClass()
+
+        # TODO: handle bad pages
         page = self.client.get_page(notion_page_id)
 
         # assume the slug is the url
