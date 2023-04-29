@@ -13,27 +13,21 @@ export_defaults:
     - '--wrap=none'
   yaml_front_matter: False
 exports:
-  #- output: './docs/sitemap.txt'
-  #  id: '38ce9ad1b99e4aaab30e2ae99dd0a326'
-  #  node_type: 'page'
-  #  pandoc_format: 'plain'
-  #  pandoc_options:
-  #    - '--wrap=none'
-   - output: './docs'
-     id: '94b4804111924eab834fd6f56a7964b9'
-     node_type: 'database_as_files'
-     filename_template: '{Slug}.html'
-     notion_filter:
-       and:
-         - or:
-           - {"property": "Type", "select": {"equals": "Page"}}
-           - {"property": "Type", "select": {"equals": "Essay"}}
-           - {"property": "Type", "select": {"equals": "Meditation"}}
-           - {"property": "Type", "select": {"equals": "Dialogue"}}
-           - {"property": "Type", "select": {"equals": "Poem"}}
-           - {"property": "Type", "select": {"equals": "Notes"}}
-         - {"property": "Status", "select": {"equals": "Published"}}
-    #- output: './docs/letter.tex'
+    - output: './docs'
+      id: '94b4804111924eab834fd6f56a7964b9'
+      node_type: 'database_as_files'
+      filename_template: '{Slug}.{Extension}'
+      notion_filter:
+        and:
+          - or:
+            - {"property": "Type", "select": {"equals": "Page"}}
+            - {"property": "Type", "select": {"equals": "Essay"}}
+            - {"property": "Type", "select": {"equals": "Meditation"}}
+            - {"property": "Type", "select": {"equals": "Dialogue"}}
+            - {"property": "Type", "select": {"equals": "Poem"}}
+            - {"property": "Type", "select": {"equals": "Notes"}}
+          - {"property": "Status", "select": {"equals": "Published"}}
+    #- otput: './docs/letter.tex'
     #  id: '245699a2a7f941689e8a21b2022913b3'
     #  node_type: 'page'
     #  pandoc_format: 'latex+smart'
