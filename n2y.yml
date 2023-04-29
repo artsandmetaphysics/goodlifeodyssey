@@ -27,6 +27,7 @@ exports:
             - {"property": "Type", "select": {"equals": "Poem"}}
             - {"property": "Type", "select": {"equals": "Notes"}}
           - {"property": "Status", "select": {"equals": "Published"}}
+          - {"property": "Last Edited", "date": {"after": "2023-04-28"}}  # crude cacheing
     #- otput: './docs/letter.tex'
     #  id: '245699a2a7f941689e8a21b2022913b3'
     #  node_type: 'page'
