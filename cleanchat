@@ -1,0 +1,38 @@
+#!/usr/bin/sed -f
+
+# add the name 'David:: ' before the initial prompt
+1s/^/David:: /g
+
+# add 'User:: ' before user input text
+/^User$/ {
+    N
+    s/^User\n/David:: /
+}
+
+# add 'ChatGPT:: ' before ChatGPT input text
+/^ChatGPT$/ {
+    N
+    s/^ChatGPT\n/ChatGPT:: /
+}
+
+# remove chat GPT lines for multiple alternative responses
+/^[0-9]* \/ [0-9]*$/d
+
+# collapse consecutive empty lines into a single empty line
+/./,/^$/!d
+
+# em-dashes and en-dashes, except for YAML delimiters and horizontal rules
+s/---/—/g
+s/--/–/g
+
+# vertically center ellipses on their own line; nice for long quotes
+s/^> \.\.\.$/> ⋯/g
+
+# ellipses
+s/\.\.\./…/g
+
+# fancy quotes
+s/\([^.!?,;:\">)\n]\)'\([^<]\)/\1‘\2/g
+s/\([^a-zA-Z]\)'\([^a-zA-Z]\)/\1’\2/g
+s/\([^.!?,;:\">)\n]\)"/\1“/g
+s/\([^a-zA-Z]\)"\([^a-zA-Z]\)/\1”\2/g
