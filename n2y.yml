@@ -16,7 +16,7 @@ exports:
     - output: './docs'
       id: '94b4804111924eab834fd6f56a7964b9'
       node_type: 'database_as_files'
-      filename_template: '{Slug}.{Extension}'
+      filename_template: '{Slug}.html'
       notion_filter:
         and:
           - or:
