@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Is “Faith” More Than Our Degree of Confidence?</title>
+    <meta name="description" content="An example dialogue showing how ChatGPT can be used to clarify your thinking about definitions of terms such as faith.">
+    <meta name="twitter:card" value="summary">
+    <meta property="og:title" content="Is “Faith” More Than Our Degree of Confidence?">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="/is-faith-more-than-our-degree-of-confidence">
+    <meta property="og:image" content="/favicon.png">
+    <meta property="og:description" content="An example dialogue showing how ChatGPT can be used to clarify your thinking about definitions of terms such as faith.">
+    <link rel="apple-touch-icon-precomposed" href="/favicon.png">
+    <link rel="alternate" type="application/rss+xml" title="Good Life Odyssey" href="https://goodlifeodyssey.com/rssmain.xml">
+    <style>
+      html {
+        /*
+         * Set a reasonable font-size, such that at 32rem we have ~70 characters on a
+         * line.
+         */
+        line-height: 1.5625;
+        font-size: 20px;
+        font-family: Georgia, Times, 'Times New Roman', serif;
+        color: #222;
+
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+      }
+
+      body {
+        margin: 0;
+        padding: 0 1rem 1rem 1rem;
+
+        /*
+         * Nearly all sizes are based on rems so that we can responsively change the
+         * font sizes.
+         */
+        font-size: 1rem;
+      }
+
+      header, main, footer {
+        max-width: 32rem;
+
+        padding: 0;
+
+        /*
+         * Horizontally center top-level block elements
+         */
+        margin: 0 auto;
+
+        /*
+         * Necessary for IE11.
+         */
+        display: block;
+      }
+
+      header, footer {
+        font-size: 0.9rem;
+        color: #AAA;
+      }
+
+      header a,
+      footer a {
+        color: #2C8F30;
+      }
+
+      h1, h2, h3 {
+        font-family: 'Arial Narrow', Arial, sans-serif;
+      }
+
+      h1 {
+        font-size: 1.5rem;
+      }
+
+      h2 {
+        font-size: 1.25rem;
+      }
+
+      h3 {
+        font-size: 1.1rem;
+      }
+
+      a {
+        background-color: transparent;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      strong {
+        font-weight: bolder;
+      }
+
+      .sc {
+        font-variant: small-caps;
+        margin-right: 0.2rem;
+      }
+
+      blockquote {
+        font-size: 0.9rem;
+        margin-left: 0;
+        margin-right: 0;
+        quotes: none;
+        padding-left: 1.0rem;
+        padding-right: 1.0rem;
+        overflow: auto;  /* for floating citations */
+      }
+
+      /*
+       * Block quotes with poetry have a separate <p> for each line of verse, with a
+       * <br> in between.  We need a separate <p> for each line so that we can
+       * indent long lines that wrap.  We do this by setting the `text-indent` (which
+       * only affects the first line) to -2.5em, and then adding a 2.5em margin-left.
+       * The margin-left will shift over all lines but the first.  Note we use 2.5rem
+       * instead of 2rem, so that it is easier to distinguish a wrap-around indent
+       * from a regular indented line (which is indented to 1rem).
+       */
+      .poetry > p {
+        padding: 0;
+        margin: 0 0 0 2.5em;
+        text-indent: -2.5em;
+      }
+
+      /*
+       * Since we are using a <p> for each line, we need to remove the typical
+       * padding around the <p>.  In order to properly separate paragraphs in the
+       * poetry, we insert a line break.  We set the `content` to a blank string, and
+       * set the margin-top, so that we get the proper spacing which is usually in
+       * between <p> tags.
+       */
+      .poetry > br {
+        display: block;
+        content: "";
+        margin-top: 1rem;
+      }
+
+      /*
+       * The "indent" class is applied to verses which need to be indented.
+       */
+      blockquote > p.indent {
+        text-indent: -1.5em;
+      }
+
+      .prose > p {
+        margin: 0;
+      }
+
+      .prose > p:not(:first-child) {
+        text-indent: 1em;
+      }
+
+      /*
+       * Ensure that inline citations don't word-wrap.
+       */
+      p > cite {
+        white-space: nowrap;
+        float: right;
+      }
+
+      /*
+       * This style ensures that there is the correct spacing between a <cite> and
+       * the previous <p> tag, both in regular blockquotes and in poetry blockquotes.
+       */
+      blockquote > p:last-of-type {
+        margin-bottom: 0.3rem;
+      }
+
+      blockquote > p:first-child {
+        margin-top: 0;
+      }
+
+      ul, ol {
+        padding-left: 2rem;
+      }
+
+      dt {
+        font-weight: bold;
+      }
+
+      dt > p {
+        margin-top: 0.2rem;
+      }
+
+      @media print {
+        html {
+          font-size: 16px;
+        }
+
+        header, main, footer {
+          max-width: 100%;
+        }
+
+        /*
+         * Make sure that URLs are available to people that print the page.
+         */
+        a:after {
+          content: " [" attr(href) "]";
+        }
+
+        .hidden-print {
+          display: none;
+        }
+      }
+
+      /*
+       * 680px = (1rem body padding + 32rem main + 1rem body padding)*20px
+       */
+      @media (max-width: 680px) {
+        html {
+          font-size: 18px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*18px
+       */
+      @media (max-width: 576px) {
+        html {
+          font-size: 16px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*16px
+       */
+      @media (max-width: 544px) {
+        html {
+          font-size: 14px;
+
+          /*
+           * Turn off serifs once the font-size gets too small; serifs are nice at
+           * larger font-sizes since they make letters visually stick together into
+           * words.  At smaller font-sizes they can make the text difficult to read.
+           */
+          font-family: Helvetica, Aria, sans-serif;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*14px
+       */
+      @media (max-width: 476px) {
+        html {
+          font-size: 13px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*13px
+       */
+      @media (max-width: 442px) {
+
+        /*
+         * At very small screen sizes, remove unnecessary padding in block quotes
+         * and instead make the color a bit dimmer to set them off from the main
+         * text.
+         */
+        blockquote {
+          padding-right: 0;
+          padding-left: 0;
+          color: #AAA;
+        }
+
+        p > cite {
+          float: none;
+        }
+
+        .hidden-sm {
+          display: none;
+        }
+
+        button {
+          flex-grow: 1;
+        }
+      }
+
+      form {
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+      input[type="email"],
+      button {
+        margin: 1rem 0 0 0;
+        font-size: 16px;
+        padding: 0.5rem;
+        border-radius: 0;
+      }
+
+      input[type="email"] {
+        border: 1px solid #AAA;
+        flex-grow: 1;
+      }
+
+      button {
+        background-color: #2C8F30;
+        border: 1px solid #2C8F30;
+        color: white;
+        text-align: center;
+        cursor: pointer;
+      }
+
+      .float-right {
+        float: right;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <p class="hidden-print">
+        <a title="home" href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a title="about the author" href="/about">about</a>
+        <a title="subscribe to the email list" class="float-right" href="#subscribe">subscribe</a>
+      </p>
+    </header>
+    <main>
+      <h1>Is “Faith” More Than Our Degree of Confidence?</h1>
+      <p><span class="sc">David:</span> Act as if you were Socrates and ask me questions about my thesis in an attempt to show that I’m being inconsistent with my own beliefs. Be sarcastic, make jokes sometimes, and use concrete examples. Begin by asking open-ended questions to gather relevant context about my thesis, then transition to asking questions that can be answered succinctly and with a “yes” or “no” most of the time. Ask me one question at a time. Criticize me if I don’t respond to your questions or get off track, and don’t back down if you think I’m wrong about something.</p>
+      <p>I used to define “faith” as the degree of confidence in a belief. According to this definition, faith guides all our decisions. For example, I’m going to work today because I have “faith” that I will be alive tomorrow. If I didn’t have “faith”, I’d stay home with my wife and daughter.</p>
+      <p>I’m reconsidering this definition of faith. I think faith may be more than merely one’s confidence in a belief. Consider the March Madness basketball tournament: Sports networks and gamblers carefully analyze the 68 team’s odds of winning, using statistics and historical data. A player could look up their odds of winning and know, more or less, how confident they should believe that they’ll win. Yet even so, players on a team with a 0.3% chance of winning seem to have something else that motivates them, allowing them to perceive a future where they win. This “additional mechanism” lets them see a possible future, believe it’s possible, and work toward it. I’ll call this “faith”. My thesis is that “faith” is more than your confidence that a belief is true, unlike what I’d thought earlier.</p>
+      <p><span class="sc">ChatGPT:</span> Ah, my dear interlocutor, you have presented me with a most intriguing puzzle! I shall do my best to channel my inner Socratic spirit. So, tell me, what exactly is the purpose of your thesis?</p>
+      <p><span class="sc">David:</span> My purpose is to understand the relationship between faith and reason.</p>
+      <p><span class="sc">ChatGPT:</span> Ah, a noble pursuit indeed! I have always been fond of exploring the depths of human understanding. Now, let us proceed. In your earlier definition of faith, you equated it to the degree of confidence in a belief. Can you please share the reasoning behind this definition?</p>
+      <p><span class="sc">David:</span> I don’t follow what you mean.</p>
+      <p><span class="sc">ChatGPT:</span> Apologies, my dear friend, if I was unclear. Let me rephrase: What led you to initially define faith as the degree of confidence in a belief? What was your thought process or rationale behind this definition?</p>
+      <p><span class="sc">David:</span> Faith is an important term for Christians and especially protestants. Pauls says “for by grace you have been saved through faith” and that we’re “justified by faith.” Of course, other places say “faith without works is dead” or that we’re “justified by works,” and thus there is a lot of tension between the importance of faith and works—acting a particular way due to that belief. Regardless of where one falls on the faith vs. works debate, clearly faith is important. It determines, in whole or in part, if we go to heaven or hell.</p>
+      <p>My earlier definition of faith originates in several other beliefs.</p>
+      <p>First, given the limits of our bodies and minds, we can should never be absolutely certain of any belief. Second, our confidence in a belief should be proportional to the evidence for it. Third, we should act in a way that’s consistent with our confidence in the belief.</p>
+      <p>For example, God asked Abraham to kill his only son. Abraham loved his son and would certainly have required a high confidence in any belief that would require him to kill him. Thus, it seems clear that Abraham had a high degree of confidence in the beliefs that God is good, the voice he heard was in fact God, and so on. If he didn’t, he would have been willing to kill his son. The New Testament talks about Abraham’s “faith” in that he acted the way he did. It seems to me, thus, that faith is related to how confident you are in a belief.</p>
+      <p><span class="sc">ChatGPT:</span> Ah, I see! Your initial definition of faith was based on the concept of confidence and its relationship to beliefs and actions, particularly within a religious context. Now, as you mentioned, you are reconsidering this definition. You proposed that faith may be more than merely one’s confidence in a belief. What led you to question your previous definition of faith?</p>
+      <p><span class="sc">David:</span> It seemed that, in the March Madness example, there’s some other mechanism besides “confidence in a belief” that’s motivating the players.</p>
+      <p><span class="sc">ChatGPT:</span> Ah, the mysterious workings of the human spirit! Now, regarding this March Madness example, you mentioned that the players possess an “additional mechanism” that allows them to see a possible future and believe in it. Do you think this “additional mechanism” is specific to sports, or is it a general human trait that can be applied to various aspects of life?</p>
+      <p><span class="sc">David:</span> I don’t think it’s specific to sports or religion, but must be more general.</p>
+      <p><span class="sc">ChatGPT:</span> A fascinating notion, indeed! If this “additional mechanism” is not specific to sports or religion, would you agree that it might be present in other areas of human life, such as art, politics, or even everyday decision-making?</p>
+      <p><span class="sc">David:</span> Yes.</p>
+      <p><span class="sc">ChatGPT:</span> Excellent, we’re making progress! So, if this “additional mechanism” is present in various aspects of life, how would you differentiate it from mere confidence in a belief? What makes this mechanism unique or distinct?</p>
+      <p><span class="sc">David:</span> Going back to the March Madness example, the player’s aren’t disagreeing with the sports’ network’s probabilities. Rather, they’re going on the court and trying as hard as they can to win, despite knowing the probability. It seems they have “faith” that they can still, in fact win.</p>
+      <p><span class="sc">ChatGPT:</span> Ah, a compelling example! So, it seems that this “additional mechanism” you call “faith” allows people to maintain motivation and strive for a goal, even when the odds are against them. Would you say that faith, in this sense, is more about embracing possibilities and maintaining hope despite the probabilities?</p>
+      <p><span class="sc">David:</span> Yes. Note, please keep questioning me and looking for inconsistencies for a while. Don’t go easy on me.</p>
+      <p><span class="sc">ChatGPT:</span> Of course, my dear interlocutor, I shall not relent! Now, let us delve deeper into this fascinating topic. You mentioned that faith, in your new definition, is about embracing possibilities and maintaining hope despite probabilities. However, some might argue that this kind of faith could be seen as irrational or even delusional. How would you address such concerns?</p>
+      <p><span class="sc">David:</span> Well, it’s not irrational or delusional for a player to think that they could win, even if the chances are low.</p>
+      <p><span class="sc">ChatGPT:</span> Ah, I see! But allow me to play the role of a mischievous gadfly for a moment: If a person has faith in a highly unlikely outcome, wouldn’t that indicate a certain level of detachment from the reality of the situation? Or is there a point where faith becomes irrational, and if so, how would you determine that threshold?</p>
+      <p><span class="sc">David:</span> In the case of a sports game, it seems that a player should try their hardest no matter how unlikely the outcome. Thus, let’s consider another example. Imagine you’re a business owner trying to set an ambitious revenue goal for the year. How does one set a number that’s appropriate? Not only is there less data than in the March Madness example, and so “faith” seems more important, but also your revenue goal will affect people’s behavior. In particular, your team may need to work longer hours, sacrificing time with their families, to help you achieve your goals. You could hire people too quickly, putting yourself in a situation where you need to let them go. You may take on more sales than you can deliver on, requiring you to do poor quality work or not fulfill your client obligations.</p>
+      <p><span class="sc">ChatGPT:</span> Ah, an intriguing scenario indeed! This business example highlights the potential consequences of faith and its impact on decision-making. Now, let me ask you: In such a situation, how would you propose one should balance faith with reason? What guiding principles should be employed to ensure that faith does not lead to negative outcomes or irrational decisions?</p>
+      <p><span class="sc">David:</span> Well, it seems that we should act in a way that’s consistent with our confidence in the belief.</p>
+      <p><span class="sc">ChatGPT:</span> Ah, but now we seem to have come full circle, my dear friend! Earlier, you expressed that faith may be more than merely one’s confidence in a belief. However, in this business example, you suggest that we should act in a way that’s consistent with our confidence in the belief. So, how do you reconcile this apparent contradiction? Is faith truly separate from confidence in a belief, or are they intertwined in a more subtle way?</p>
+    </main>
+    <footer class="hidden-print">
+      <form action="https://formspree.io/xqkyblqg" method="POST">
+        <input id="subscribe" type="email" placeholder="Email" name="email" required>
+        <button type="submit">Subscribe</button>
+      </form>
+      <p class="hidden-print">
+        <a href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a title="about the author" href="/about">about</a>
+      </p>
+    </footer>
+  </body>
+</html>

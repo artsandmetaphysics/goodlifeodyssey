@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Should We Pursue This Big Sales Lead?</title>
+    <meta name="description" content="An example dialogue showing how ChatGPT can be used to clarify your thinking about an important business question.">
+    <meta name="twitter:card" value="summary">
+    <meta property="og:title" content="Should We Pursue This Big Sales Lead?">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="/should-we-pursue-this-big-sales-lead">
+    <meta property="og:image" content="/favicon.png">
+    <meta property="og:description" content="An example dialogue showing how ChatGPT can be used to clarify your thinking about an important business question.">
+    <link rel="apple-touch-icon-precomposed" href="/favicon.png">
+    <link rel="alternate" type="application/rss+xml" title="Good Life Odyssey" href="https://goodlifeodyssey.com/rssmain.xml">
+    <style>
+      html {
+        /*
+         * Set a reasonable font-size, such that at 32rem we have ~70 characters on a
+         * line.
+         */
+        line-height: 1.5625;
+        font-size: 20px;
+        font-family: Georgia, Times, 'Times New Roman', serif;
+        color: #222;
+
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%;
+      }
+
+      body {
+        margin: 0;
+        padding: 0 1rem 1rem 1rem;
+
+        /*
+         * Nearly all sizes are based on rems so that we can responsively change the
+         * font sizes.
+         */
+        font-size: 1rem;
+      }
+
+      header, main, footer {
+        max-width: 32rem;
+
+        padding: 0;
+
+        /*
+         * Horizontally center top-level block elements
+         */
+        margin: 0 auto;
+
+        /*
+         * Necessary for IE11.
+         */
+        display: block;
+      }
+
+      header, footer {
+        font-size: 0.9rem;
+        color: #AAA;
+      }
+
+      header a,
+      footer a {
+        color: #2C8F30;
+      }
+
+      h1, h2, h3 {
+        font-family: 'Arial Narrow', Arial, sans-serif;
+      }
+
+      h1 {
+        font-size: 1.5rem;
+      }
+
+      h2 {
+        font-size: 1.25rem;
+      }
+
+      h3 {
+        font-size: 1.1rem;
+      }
+
+      a {
+        background-color: transparent;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      strong {
+        font-weight: bolder;
+      }
+
+      .sc {
+        font-variant: small-caps;
+        margin-right: 0.2rem;
+      }
+
+      blockquote {
+        font-size: 0.9rem;
+        margin-left: 0;
+        margin-right: 0;
+        quotes: none;
+        padding-left: 1.0rem;
+        padding-right: 1.0rem;
+        overflow: auto;  /* for floating citations */
+      }
+
+      /*
+       * Block quotes with poetry have a separate <p> for each line of verse, with a
+       * <br> in between.  We need a separate <p> for each line so that we can
+       * indent long lines that wrap.  We do this by setting the `text-indent` (which
+       * only affects the first line) to -2.5em, and then adding a 2.5em margin-left.
+       * The margin-left will shift over all lines but the first.  Note we use 2.5rem
+       * instead of 2rem, so that it is easier to distinguish a wrap-around indent
+       * from a regular indented line (which is indented to 1rem).
+       */
+      .poetry > p {
+        padding: 0;
+        margin: 0 0 0 2.5em;
+        text-indent: -2.5em;
+      }
+
+      /*
+       * Since we are using a <p> for each line, we need to remove the typical
+       * padding around the <p>.  In order to properly separate paragraphs in the
+       * poetry, we insert a line break.  We set the `content` to a blank string, and
+       * set the margin-top, so that we get the proper spacing which is usually in
+       * between <p> tags.
+       */
+      .poetry > br {
+        display: block;
+        content: "";
+        margin-top: 1rem;
+      }
+
+      /*
+       * The "indent" class is applied to verses which need to be indented.
+       */
+      blockquote > p.indent {
+        text-indent: -1.5em;
+      }
+
+      .prose > p {
+        margin: 0;
+      }
+
+      .prose > p:not(:first-child) {
+        text-indent: 1em;
+      }
+
+      /*
+       * Ensure that inline citations don't word-wrap.
+       */
+      p > cite {
+        white-space: nowrap;
+        float: right;
+      }
+
+      /*
+       * This style ensures that there is the correct spacing between a <cite> and
+       * the previous <p> tag, both in regular blockquotes and in poetry blockquotes.
+       */
+      blockquote > p:last-of-type {
+        margin-bottom: 0.3rem;
+      }
+
+      blockquote > p:first-child {
+        margin-top: 0;
+      }
+
+      ul, ol {
+        padding-left: 2rem;
+      }
+
+      dt {
+        font-weight: bold;
+      }
+
+      dt > p {
+        margin-top: 0.2rem;
+      }
+
+      @media print {
+        html {
+          font-size: 16px;
+        }
+
+        header, main, footer {
+          max-width: 100%;
+        }
+
+        /*
+         * Make sure that URLs are available to people that print the page.
+         */
+        a:after {
+          content: " [" attr(href) "]";
+        }
+
+        .hidden-print {
+          display: none;
+        }
+      }
+
+      /*
+       * 680px = (1rem body padding + 32rem main + 1rem body padding)*20px
+       */
+      @media (max-width: 680px) {
+        html {
+          font-size: 18px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*18px
+       */
+      @media (max-width: 576px) {
+        html {
+          font-size: 16px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*16px
+       */
+      @media (max-width: 544px) {
+        html {
+          font-size: 14px;
+
+          /*
+           * Turn off serifs once the font-size gets too small; serifs are nice at
+           * larger font-sizes since they make letters visually stick together into
+           * words.  At smaller font-sizes they can make the text difficult to read.
+           */
+          font-family: Helvetica, Aria, sans-serif;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*14px
+       */
+      @media (max-width: 476px) {
+        html {
+          font-size: 13px;
+        }
+      }
+
+      /*
+       * (1rem body padding + 32rem main + 1rem body padding)*13px
+       */
+      @media (max-width: 442px) {
+
+        /*
+         * At very small screen sizes, remove unnecessary padding in block quotes
+         * and instead make the color a bit dimmer to set them off from the main
+         * text.
+         */
+        blockquote {
+          padding-right: 0;
+          padding-left: 0;
+          color: #AAA;
+        }
+
+        p > cite {
+          float: none;
+        }
+
+        .hidden-sm {
+          display: none;
+        }
+
+        button {
+          flex-grow: 1;
+        }
+      }
+
+      form {
+        display: flex;
+        flex-wrap: wrap;
+      }
+
+      input[type="email"],
+      button {
+        margin: 1rem 0 0 0;
+        font-size: 16px;
+        padding: 0.5rem;
+        border-radius: 0;
+      }
+
+      input[type="email"] {
+        border: 1px solid #AAA;
+        flex-grow: 1;
+      }
+
+      button {
+        background-color: #2C8F30;
+        border: 1px solid #2C8F30;
+        color: white;
+        text-align: center;
+        cursor: pointer;
+      }
+
+      .float-right {
+        float: right;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <p class="hidden-print">
+        <a title="home" href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a title="about the author" href="/about">about</a>
+        <a title="subscribe to the email list" class="float-right" href="#subscribe">subscribe</a>
+      </p>
+    </header>
+    <main>
+      <h1>Should We Pursue This Big Sales Lead?</h1>
+      <p><span class="sc">David:</span> Act as if you were Socrates and ask me questions about my thesis in an attempt to show that I’m being inconsistent with my own beliefs. Be sarcastic, make jokes sometimes, and use concrete examples. Begin by asking open-ended questions to efficiently learn relevant context about the situation, and then, once you’re satisfied you know the relevant facts, transition to shorter questions that can be answered succinctly and with a “yes” or “no” most of the time. Ask me one question at a time. Occasionally break out of our questions and provide a longer example or discussion when it makes sense. Criticize me if I don’t respond to your questions or get off track.</p>
+      <p>My thesis is that we should take a project for a large new client delivering a service that we haven’t quite delivered before, mainly to put them on our portfolio.</p>
+      <p><span class="sc">ChatGPT:</span> Ah, my dear friend! I see you’ve embarked on a grand journey towards expanding your portfolio by taking on a project for a large new client, providing a service you haven’t quite delivered before. Enlighten me, if you will, about the nature of the service you’re planning to deliver and the goals you hope to achieve by adding this client to your portfolio.</p>
+      <p><span class="sc">David:</span> The new service is to develop the regulatory strategy used to bring a new SaMD product onto the market in the US, EU, China, and Japan. We have a lot of experience with the US and some with the EU, but none with China and Japan. The main goal we’re hoping to achieve by adding this client to our portfolio is to help us get more clients for our core “End-to-End” service wherein we help manufacturers, with or without software teams, introduce their SaMD product onto the market in the US, help them establish a QMS, and then train their team to handle subsequent regulatory submissions (all handled using our Medtech OS platform).</p>
+      <p><span class="sc">ChatGPT:</span> Ah, the ambitious pursuit of expanding your reach into the realms of China and Japan – a worthy endeavor, indeed! Now, if I may inquire, what preparations have you made or planned to overcome the barriers of language, culture, and regulatory differences in these new territories, especially given your limited experience in these regions?</p>
+      <p><span class="sc">David:</span> We don’t have any plans to handle this, and we’re not really interested in getting more work like this in the future. We may try to outsource this to other companies, but we haven’t identified what companies to use.</p>
+      <p><span class="sc">ChatGPT:</span> Ah, I see! Outsourcing the challenges to others while reaping the rewards for your portfolio – truly a remarkable approach [I laughed out loud when I read this]! So, let me confirm: you are taking on a project that you don’t plan to specialize in or repeat, in regions where you have little experience, with no concrete plans on how to accomplish the task at hand. Is this a fair summary of the situation?</p>
+      <p><span class="sc">David:</span> It’s fair, but incomplete, because we definitely do want more regulatory strategy work within the US, and likely in the near future would want it for the EU too.</p>
+      <p><span class="sc">ChatGPT:</span> Ah, of course! So, you desire to showcase this grand endeavor in your portfolio to attract more clients for regulatory strategy work within the US and EU, but not for China and Japan. To clarify, you’re willing to take on a project that entails complexities beyond your usual scope, without a plan for addressing those complexities, for the sake of enhancing your portfolio. Is this an accurate understanding of your intentions?</p>
+      <p><span class="sc">David:</span> Yes.</p>
+      <p><span class="sc">ChatGPT:</span> Well, it is certainly bold to take on such a challenge in pursuit of a more illustrious portfolio! But tell me, do you believe that the potential risks, such as not delivering the expected results or even damaging your reputation, outweigh the benefits of adding this project to your portfolio?</p>
+      <p><span class="sc">David:</span> We’re not sure.</p>
+      <p><span class="sc">ChatGPT:</span> Ah, uncertainty, the great companion of many a venture! Let us explore further, then. Can you list the potential benefits and drawbacks of taking on this project, in the hope that we might find clarity in our quest for knowledge?</p>
+      <p><span class="sc">David:</span> The main benefit of taking the project are that it possibly will add a large company to our portfolio. We will also learn more about working with larger companies, which may help us refine the scope and intended market of our core service offering. Finally, our regulatory people say they have some time they could be billing to clients.</p>
+      <p><span class="sc">ChatGPT:</span> Ah, I see! The allure of a large company in your portfolio, the wisdom gained from working with such clients, and the efficient use of your regulatory team’s time – these are indeed tempting benefits. Now, my dear friend, would you be so kind as to enlighten me about the potential drawbacks of embarking on this ambitious journey?</p>
+      <p><span class="sc">David:</span> There are a few possible drawbacks. First, I’ll consider the drawbacks assuming we will handle the regulatory strategy for Japan and China, as well as the US and EU. First, we’d have to invest a lot of time learning the local regulations and guidance to provide value for our clients here, which would likely result in them being less happy with our work, even if we succeed. (And we may not succeed, which would be damaging to our reputation.) Furthermore, unless we plan to start handling international regulatory issues as part of our core service offering, we won’t be able to use the knowledge gained from Japan or China on future projects.</p>
+      <p><span class="sc">ChatGPT:</span> A related disadvantage is that our regulatory affairs people likely won’t enjoy the work, because it is stressful and uncertain and will pull them into too many different directions simultaneously.</p>
+      <p>Finally, if we take the project, we’ll have less bandwidth for other clients who are a better fit for our core services.</p>
+      <p>Ah, the complexities of the decision at hand! So, we have on one side the potential benefits of a prestigious client, gaining experience with larger companies, and utilizing your regulatory team’s time. On the other, the drawbacks of investing time in unfamiliar territories, the possible dissatisfaction of your client and damage to your reputation, your team’s potential displeasure with the work, and limited bandwidth for better-suited clients.</p>
+      <p>Now, in the spirit of our dear friend, the scale, allow me to ask: Do you believe the potential benefits of undertaking this project outweigh the numerous drawbacks you have so eloquently described?</p>
+      <p><span class="sc">David:</span> I’m leaning towards no, but I’d like to hear your thoughts. What do you think?</p>
+      <p><span class="sc">ChatGPT:</span> Ah, my friend, as the wise Socrates, it is not my place to dictate the correct course of action, but rather to help you find the truth within yourself. So, let us examine a hypothetical situation.</p>
+      <p>Imagine you have taken on this project, and it turns out to be more demanding than anticipated. Your team is overworked and unhappy, your reputation takes a hit, and you miss out on other clients better suited for your core services. Looking back, would you still consider it a wise decision to have pursued this project for the sake of having a large company in your portfolio?</p>
+      <p>Contemplate this scenario and let your inner wisdom guide you to your answer.</p>
+      <p><span class="sc">David:</span> Well of course if the project fails we’ll regret it, but we need to also consider the positive outcome.</p>
+      <p><span class="sc">ChatGPT:</span> Ah, yes, my apologies! We must indeed consider both outcomes. Let us now ponder the alternative scenario.</p>
+      <p>Imagine you take on this project, and despite the challenges, your team manages to deliver the service successfully, pleasing your client and adding a large company to your portfolio. You gain experience working with bigger clients and make efficient use of your team’s time. However, this success has come at the cost of stress, reduced bandwidth for better-suited clients, and the potential that your team may not have enjoyed the work.</p>
+      <p>In this case, would you feel that the benefits gained were worth the sacrifices made in pursuit of this project? Consider this outcome and let your own insight guide your answer.</p>
+      <p><span class="sc">David:</span> It’s true, even in the positive case, its still likely not worth it… there would have to be some other upside not included in the scenario… maybe we grow our service offering with the company in some unforeseen way… or we’d need to be able to charge a lot more than we usually do, although given our lack of experience in China and Japan, it seems unlikely we could do that with those service offerings.</p>
+      <p><span class="sc">ChatGPT:</span> Ah, the unpredictable nature of business! It is true that there may be unforeseen upsides or opportunities that could arise from taking on this project. However, as you have pointed out, the likelihood of being able to charge significantly more for a service you lack experience in seems rather low.</p>
+      <p>So, in light of this consideration, do you feel that relying on uncertain future benefits is a strong enough reason to undertake a project with numerous potential drawbacks and risks, as we have discussed?</p>
+      <p><span class="sc">David:</span> No, that is, unless the client is okay with our team working at an hourly rate and our scope remaining limited to the US and EU.</p>
+      <p><span class="sc">ChatGPT:</span> Ah, a clever solution indeed, limiting your scope to your areas of expertise while still potentially gaining the benefits of working with a large client! So, if the client were to agree to these terms, would you feel more confident in taking on this project, knowing that you have reduced the risks and drawbacks previously identified?</p>
+      <p><span class="sc">David:</span> Yes.</p>
+      <p><span class="sc">ChatGPT:</span> Marvelous! It appears we have reached a deeper understanding through our dialectic journey. By refining the terms of engagement to better align with your expertise and reducing the risks, you have found a way to make the project more appealing and in line with your core services.</p>
+      <p>Remember, my friend, the importance of self-examination and questioning, for “the unexamined life is not worth living.” May your decision-making continue to be guided by wisdom and reflection. Best of luck on your future endeavors!</p>
+    </main>
+    <footer class="hidden-print">
+      <form action="https://formspree.io/xqkyblqg" method="POST">
+        <input id="subscribe" type="email" placeholder="Email" name="email" required>
+        <button type="submit">Subscribe</button>
+      </form>
+      <p class="hidden-print">
+        <a href="/">■</a> &middot;
+        <a href="/#essays">essays</a> &middot;
+        <a href="/#dialogues">dialogues</a> &middot;
+        <a href="/#meditations">meditations</a> &middot;
+        <a title="about the author" href="/about">about</a>
+      </p>
+    </footer>
+  </body>
+</html>
