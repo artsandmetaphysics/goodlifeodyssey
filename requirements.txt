@@ -1,10 +1,10 @@
-certifi==2023.7.22
+certifi==2024.7.4
 charset-normalizer==2.1.0
-idna==3.3
+idna==3.7
 -e git+https://github.com/innolitics/n2y.git#egg=n2y
 pandoc==2.3
 plumbum==1.7.2
 ply==3.11
 PyYAML==6.0
-requests==2.31.0
 urllib3==1.26.19
+requests==2.32.2
